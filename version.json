@@ -33,6 +33,26 @@
       "verifiedAt": "2026-09-14",
       "status": "up-to-date",
       "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "death-knight/frost": {
+      "status": "up-to-date",
+      "verifiedAt": "2026-09-14",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "death-knight/blood": {
+      "status": "up-to-date",
+      "verifiedAt": "2026-09-14",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "paladin/protection": {
+      "status": "up-to-date",
+      "verifiedAt": "2026-09-14",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "paladin/holy": {
+      "status": "up-to-date",
+      "verifiedAt": "2026-09-14",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
     }
   }
 }

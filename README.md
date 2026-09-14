@@ -30,12 +30,36 @@
   - 配装与饰品排行：`classes/death-knight/unholy/gear.md`
   - 输出手法与循环：`classes/death-knight/unholy/rotation.md`
   - WCL 高分日志复盘：`classes/death-knight/unholy/logs.md`
+- 冰霜死亡骑士指南：`classes/death-knight/frost/`
+  - 专精总览与属性：`classes/death-knight/frost/README.md`
+  - 天赋与英雄天赋：`classes/death-knight/frost/talents.md`
+  - 配装与饰品排行：`classes/death-knight/frost/gear.md`
+  - 输出手法与循环：`classes/death-knight/frost/rotation.md`
+  - WCL 高分日志复盘：`classes/death-knight/frost/logs.md`
+- 鲜血死亡骑士指南：`classes/death-knight/blood/`
+  - 专精总览与属性：`classes/death-knight/blood/README.md`
+  - 天赋与英雄天赋：`classes/death-knight/blood/talents.md`
+  - 配装与饰品排行：`classes/death-knight/blood/gear.md`
+  - 输出手法与循环：`classes/death-knight/blood/rotation.md`
+  - WCL 高分日志复盘：`classes/death-knight/blood/logs.md`
 - 惩戒圣骑士指南：`classes/paladin/retribution/`
   - 专精总览与属性：`classes/paladin/retribution/README.md`
   - 天赋与英雄天赋：`classes/paladin/retribution/talents.md`
   - 配装与饰品排行：`classes/paladin/retribution/gear.md`
   - 输出手法与循环：`classes/paladin/retribution/rotation.md`
   - WCL 高分日志复盘：`classes/paladin/retribution/logs.md`
+- 防护圣骑士指南：`classes/paladin/protection/`
+  - 专精总览与属性：`classes/paladin/protection/README.md`
+  - 天赋与英雄天赋：`classes/paladin/protection/talents.md`
+  - 配装与饰品排行：`classes/paladin/protection/gear.md`
+  - 输出手法与循环：`classes/paladin/protection/rotation.md`
+  - WCL 高分日志复盘：`classes/paladin/protection/logs.md`
+- 神圣圣骑士指南：`classes/paladin/holy/`
+  - 专精总览与属性：`classes/paladin/holy/README.md`
+  - 天赋与英雄天赋：`classes/paladin/holy/talents.md`
+  - 配装与饰品排行：`classes/paladin/holy/gear.md`
+  - 输出手法与循环：`classes/paladin/holy/rotation.md`
+  - WCL 高分日志复盘：`classes/paladin/holy/logs.md`
 - 今日大秘境天梯榜：`rankings/mythic-plus/2026-09-14.md`
 - 今日团本天梯榜：`rankings/raid/2026-09-14.md`
 - 补丁调整分析：`patches/12.1/2026-09-14-tuning.md`

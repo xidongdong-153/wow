@@ -4,7 +4,7 @@
 
 本仓库是魔兽世界（World of Warcraft）高阶数据分析、WCL 榜单复盘、职业指南与每日情报知识库，配套基于 `ego-browser` 的 AI Agent 自动化采集脚本。
 
-当前主力维护职业为死亡骑士（Death Knight，尤其是邪恶专精）与圣骑士（Paladin，尤其是惩戒专精），目录结构设计支持未来扩展全职业。
+当前主力维护职业为死亡骑士（Death Knight，涵盖邪恶、冰霜、鲜血全专精）与圣骑士（Paladin，涵盖惩戒、防护、神圣全专精），目录结构设计支持未来扩展全职业。
 
 ## Repository Structure
 
