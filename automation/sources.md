@@ -30,7 +30,13 @@
   - 大秘境配装：`https://www.archon.gg/wow/builds/{spec}/{class}/mythic-plus/gear-and-tier-set/10/all-dungeons/this-week`
   - 大秘境施法时间线：`https://www.archon.gg/wow/builds/{spec}/{class}/mythic-plus/rotation/10/all-dungeons/this-week`
   - 团本史诗概览：`https://www.archon.gg/wow/builds/{spec}/{class}/raid/overview/mythic/all-bosses`
-  - 专精强度天梯榜：`https://www.archon.gg/wow/tier-list/dps-rankings/mythic-plus/10/all-dungeons/this-week`
+  - 专精强度天梯榜：
+    - 大秘境 DPS 榜：`https://www.archon.gg/wow/tier-list/dps-rankings/mythic-plus/10/all-dungeons/this-week`
+    - 大秘境 坦克 榜：`https://www.archon.gg/wow/tier-list/tank-rankings/mythic-plus/10/all-dungeons/this-week`
+    - 大秘境 治疗 榜：`https://www.archon.gg/wow/tier-list/healer-rankings/mythic-plus/10/all-dungeons/this-week`
+    - 团本 DPS 榜：`https://www.archon.gg/wow/tier-list/dps-rankings/raid/mythic/all-bosses`
+    - 团本 坦克 榜：`https://www.archon.gg/wow/tier-list/tank-rankings/raid/mythic/all-bosses`
+    - 团本 治疗 榜：`https://www.archon.gg/wow/tier-list/healer-rankings/raid/mythic/all-bosses`
 - **参数命名规范**：
   - `{class}`：用连字符小写，如 `death-knight`, `demon-hunter`
   - `{spec}`：用小写，如 `unholy`, `frost`, `blood`

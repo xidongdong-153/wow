@@ -1,0 +1,1335 @@
+{
+  "fetchedAt": "2026-09-14T02:54:31.725Z",
+  "season": "The War Within Season 2 / 12.1",
+  "mythicPlus": {
+    "dps": [
+      {
+        "tier": "S Tier",
+        "specs": [
+          {
+            "specSlug": "arms",
+            "classSlug": "warrior",
+            "key": "arms-warrior",
+            "altName": "Warrior Arms",
+            "rawText": "3526 SCORE",
+            "score": 3526,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/arms/warrior/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "elemental",
+            "classSlug": "shaman",
+            "key": "elemental-shaman",
+            "altName": "Shaman Elemental",
+            "rawText": "3512 SCORE",
+            "score": 3512,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/elemental/shaman/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "arcane",
+            "classSlug": "mage",
+            "key": "arcane-mage",
+            "altName": "Mage Arcane",
+            "rawText": "3483 SCORE",
+            "score": 3483,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/arcane/mage/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "assassination",
+            "classSlug": "rogue",
+            "key": "assassination-rogue",
+            "altName": "Rogue Assassination",
+            "rawText": "3482 SCORE",
+            "score": 3482,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/assassination/rogue/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      },
+      {
+        "tier": "A Tier",
+        "specs": [
+          {
+            "specSlug": "outlaw",
+            "classSlug": "rogue",
+            "key": "outlaw-rogue",
+            "altName": "Rogue Outlaw",
+            "rawText": "3428 SCORE",
+            "score": 3428,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/outlaw/rogue/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "feral",
+            "classSlug": "druid",
+            "key": "feral-druid",
+            "altName": "Druid Feral",
+            "rawText": "3426 SCORE",
+            "score": 3426,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/feral/druid/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "windwalker",
+            "classSlug": "monk",
+            "key": "windwalker-monk",
+            "altName": "Monk Windwalker",
+            "rawText": "3420 SCORE",
+            "score": 3420,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/windwalker/monk/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "devourer",
+            "classSlug": "demon-hunter",
+            "key": "devourer-demon-hunter",
+            "altName": "DemonHunter Devourer",
+            "rawText": "3411 SCORE",
+            "score": 3411,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/devourer/demon-hunter/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "retribution",
+            "classSlug": "paladin",
+            "key": "retribution-paladin",
+            "altName": "Paladin Retribution",
+            "rawText": "3389 SCORE",
+            "score": 3389,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/retribution/paladin/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "demonology",
+            "classSlug": "warlock",
+            "key": "demonology-warlock",
+            "altName": "Warlock Demonology",
+            "rawText": "3384 SCORE",
+            "score": 3384,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/demonology/warlock/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "subtlety",
+            "classSlug": "rogue",
+            "key": "subtlety-rogue",
+            "altName": "Rogue Subtlety",
+            "rawText": "3383 SCORE",
+            "score": 3383,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/subtlety/rogue/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "balance",
+            "classSlug": "druid",
+            "key": "balance-druid",
+            "altName": "Druid Balance",
+            "rawText": "3366 SCORE",
+            "score": 3366,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/balance/druid/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "frost",
+            "classSlug": "death-knight",
+            "key": "frost-death-knight",
+            "altName": "DeathKnight Frost",
+            "rawText": "3362 SCORE",
+            "score": 3362,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/frost/death-knight/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "havoc",
+            "classSlug": "demon-hunter",
+            "key": "havoc-demon-hunter",
+            "altName": "DemonHunter Havoc",
+            "rawText": "3357 SCORE",
+            "score": 3357,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/havoc/demon-hunter/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "unholy",
+            "classSlug": "death-knight",
+            "key": "unholy-death-knight",
+            "altName": "DeathKnight Unholy",
+            "rawText": "3354 SCORE",
+            "score": 3354,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/unholy/death-knight/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      },
+      {
+        "tier": "B Tier",
+        "specs": [
+          {
+            "specSlug": "enhancement",
+            "classSlug": "shaman",
+            "key": "enhancement-shaman",
+            "altName": "Shaman Enhancement",
+            "rawText": "3338 SCORE",
+            "score": 3338,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/enhancement/shaman/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "fury",
+            "classSlug": "warrior",
+            "key": "fury-warrior",
+            "altName": "Warrior Fury",
+            "rawText": "3324 SCORE",
+            "score": 3324,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/fury/warrior/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "beast-mastery",
+            "classSlug": "hunter",
+            "key": "beast-mastery-hunter",
+            "altName": "Hunter BeastMastery",
+            "rawText": "3308 SCORE",
+            "score": 3308,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/beast-mastery/hunter/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "shadow",
+            "classSlug": "priest",
+            "key": "shadow-priest",
+            "altName": "Priest Shadow",
+            "rawText": "3306 SCORE",
+            "score": 3306,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/shadow/priest/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "survival",
+            "classSlug": "hunter",
+            "key": "survival-hunter",
+            "altName": "Hunter Survival",
+            "rawText": "3276 SCORE",
+            "score": 3276,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/survival/hunter/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "affliction",
+            "classSlug": "warlock",
+            "key": "affliction-warlock",
+            "altName": "",
+            "rawText": "3265 SCORE",
+            "score": 3265,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/affliction/warlock/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      },
+      {
+        "tier": "C Tier",
+        "specs": [
+          {
+            "specSlug": "fire",
+            "classSlug": "mage",
+            "key": "fire-mage",
+            "altName": "",
+            "rawText": "3235 SCORE",
+            "score": 3235,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/fire/mage/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "devastation",
+            "classSlug": "evoker",
+            "key": "devastation-evoker",
+            "altName": "",
+            "rawText": "3204 SCORE",
+            "score": 3204,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/devastation/evoker/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "marksmanship",
+            "classSlug": "hunter",
+            "key": "marksmanship-hunter",
+            "altName": "",
+            "rawText": "3200 SCORE",
+            "score": 3200,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/marksmanship/hunter/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "augmentation",
+            "classSlug": "evoker",
+            "key": "augmentation-evoker",
+            "altName": "",
+            "rawText": "3193 SCORE",
+            "score": 3193,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/augmentation/evoker/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "destruction",
+            "classSlug": "warlock",
+            "key": "destruction-warlock",
+            "altName": "",
+            "rawText": "3184 SCORE",
+            "score": 3184,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/destruction/warlock/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "frost",
+            "classSlug": "mage",
+            "key": "frost-mage",
+            "altName": "",
+            "rawText": "3091 SCORE",
+            "score": 3091,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/frost/mage/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      }
+    ],
+    "tank": [
+      {
+        "tier": "S Tier",
+        "specs": [
+          {
+            "specSlug": "blood",
+            "classSlug": "death-knight",
+            "key": "blood-death-knight",
+            "altName": "DeathKnight Blood",
+            "rawText": "3523 SCORE",
+            "score": 3523,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/blood/death-knight/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      },
+      {
+        "tier": "A Tier",
+        "specs": [
+          {
+            "specSlug": "guardian",
+            "classSlug": "druid",
+            "key": "guardian-druid",
+            "altName": "Druid Guardian",
+            "rawText": "3382 SCORE",
+            "score": 3382,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/guardian/druid/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      },
+      {
+        "tier": "B Tier",
+        "specs": [
+          {
+            "specSlug": "protection",
+            "classSlug": "paladin",
+            "key": "protection-paladin",
+            "altName": "Paladin Protection",
+            "rawText": "3331 SCORE",
+            "score": 3331,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/protection/paladin/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "brewmaster",
+            "classSlug": "monk",
+            "key": "brewmaster-monk",
+            "altName": "Monk Brewmaster",
+            "rawText": "3308 SCORE",
+            "score": 3308,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/brewmaster/monk/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "vengeance",
+            "classSlug": "demon-hunter",
+            "key": "vengeance-demon-hunter",
+            "altName": "DemonHunter Vengeance",
+            "rawText": "3306 SCORE",
+            "score": 3306,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/vengeance/demon-hunter/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "protection",
+            "classSlug": "warrior",
+            "key": "protection-warrior",
+            "altName": "Warrior Protection",
+            "rawText": "3282 SCORE",
+            "score": 3282,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/protection/warrior/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      },
+      {
+        "tier": "C Tier",
+        "specs": []
+      }
+    ],
+    "healer": [
+      {
+        "tier": "S Tier",
+        "specs": [
+          {
+            "specSlug": "holy",
+            "classSlug": "paladin",
+            "key": "holy-paladin",
+            "altName": "Paladin Holy",
+            "rawText": "3534 SCORE",
+            "score": 3534,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/holy/paladin/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      },
+      {
+        "tier": "A Tier",
+        "specs": [
+          {
+            "specSlug": "restoration",
+            "classSlug": "shaman",
+            "key": "restoration-shaman",
+            "altName": "Shaman Restoration",
+            "rawText": "3418 SCORE",
+            "score": 3418,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/restoration/shaman/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      },
+      {
+        "tier": "B Tier",
+        "specs": [
+          {
+            "specSlug": "holy",
+            "classSlug": "priest",
+            "key": "holy-priest",
+            "altName": "Priest Holy",
+            "rawText": "3331 SCORE",
+            "score": 3331,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/holy/priest/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "preservation",
+            "classSlug": "evoker",
+            "key": "preservation-evoker",
+            "altName": "Evoker Preservation",
+            "rawText": "3314 SCORE",
+            "score": 3314,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/preservation/evoker/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "mistweaver",
+            "classSlug": "monk",
+            "key": "mistweaver-monk",
+            "altName": "Monk Mistweaver",
+            "rawText": "3312 SCORE",
+            "score": 3312,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/mistweaver/monk/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      },
+      {
+        "tier": "C Tier",
+        "specs": [
+          {
+            "specSlug": "restoration",
+            "classSlug": "druid",
+            "key": "restoration-druid",
+            "altName": "Druid Restoration",
+            "rawText": "3203 SCORE",
+            "score": 3203,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/restoration/druid/mythic-plus/overview/10/all-dungeons/this-week"
+          },
+          {
+            "specSlug": "discipline",
+            "classSlug": "priest",
+            "key": "discipline-priest",
+            "altName": "Priest Discipline",
+            "rawText": "3164 SCORE",
+            "score": 3164,
+            "dps": null,
+            "hps": null,
+            "href": "/wow/builds/discipline/priest/mythic-plus/overview/10/all-dungeons/this-week"
+          }
+        ]
+      }
+    ]
+  },
+  "raid": {
+    "dpsThroughput": [
+      {
+        "tier": "S Tier",
+        "specs": [
+          {
+            "specSlug": "demonology",
+            "classSlug": "warlock",
+            "key": "demonology-warlock",
+            "altName": "Warlock Demonology",
+            "rawText": "251.4K DPS",
+            "score": null,
+            "dps": 251.4,
+            "hps": null,
+            "href": "/wow/builds/demonology/warlock/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "retribution",
+            "classSlug": "paladin",
+            "key": "retribution-paladin",
+            "altName": "Paladin Retribution",
+            "rawText": "244.6K DPS",
+            "score": null,
+            "dps": 244.6,
+            "hps": null,
+            "href": "/wow/builds/retribution/paladin/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "arms",
+            "classSlug": "warrior",
+            "key": "arms-warrior",
+            "altName": "Warrior Arms",
+            "rawText": "243.1K DPS",
+            "score": null,
+            "dps": 243.1,
+            "hps": null,
+            "href": "/wow/builds/arms/warrior/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "marksmanship",
+            "classSlug": "hunter",
+            "key": "marksmanship-hunter",
+            "altName": "Hunter Marksmanship",
+            "rawText": "243.1K DPS",
+            "score": null,
+            "dps": 243.1,
+            "hps": null,
+            "href": "/wow/builds/marksmanship/hunter/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "arcane",
+            "classSlug": "mage",
+            "key": "arcane-mage",
+            "altName": "Mage Arcane",
+            "rawText": "241.7K DPS",
+            "score": null,
+            "dps": 241.7,
+            "hps": null,
+            "href": "/wow/builds/arcane/mage/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "balance",
+            "classSlug": "druid",
+            "key": "balance-druid",
+            "altName": "Druid Balance",
+            "rawText": "240.0K DPS",
+            "score": null,
+            "dps": 240,
+            "hps": null,
+            "href": "/wow/builds/balance/druid/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "frost",
+            "classSlug": "mage",
+            "key": "frost-mage",
+            "altName": "Mage Frost",
+            "rawText": "239.9K DPS",
+            "score": null,
+            "dps": 239.9,
+            "hps": null,
+            "href": "/wow/builds/frost/mage/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "devastation",
+            "classSlug": "evoker",
+            "key": "devastation-evoker",
+            "altName": "Evoker Devastation",
+            "rawText": "238.7K DPS",
+            "score": null,
+            "dps": 238.7,
+            "hps": null,
+            "href": "/wow/builds/devastation/evoker/raid/overview/mythic/all-bosses"
+          }
+        ]
+      },
+      {
+        "tier": "A Tier",
+        "specs": [
+          {
+            "specSlug": "destruction",
+            "classSlug": "warlock",
+            "key": "destruction-warlock",
+            "altName": "Warlock Destruction",
+            "rawText": "237.4K DPS",
+            "score": null,
+            "dps": 237.4,
+            "hps": null,
+            "href": "/wow/builds/destruction/warlock/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "subtlety",
+            "classSlug": "rogue",
+            "key": "subtlety-rogue",
+            "altName": "Rogue Subtlety",
+            "rawText": "233.7K DPS",
+            "score": null,
+            "dps": 233.7,
+            "hps": null,
+            "href": "/wow/builds/subtlety/rogue/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "windwalker",
+            "classSlug": "monk",
+            "key": "windwalker-monk",
+            "altName": "Monk Windwalker",
+            "rawText": "233.5K DPS",
+            "score": null,
+            "dps": 233.5,
+            "hps": null,
+            "href": "/wow/builds/windwalker/monk/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "frost",
+            "classSlug": "death-knight",
+            "key": "frost-death-knight",
+            "altName": "DeathKnight Frost",
+            "rawText": "233.5K DPS",
+            "score": null,
+            "dps": 233.5,
+            "hps": null,
+            "href": "/wow/builds/frost/death-knight/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "elemental",
+            "classSlug": "shaman",
+            "key": "elemental-shaman",
+            "altName": "Shaman Elemental",
+            "rawText": "231.5K DPS",
+            "score": null,
+            "dps": 231.5,
+            "hps": null,
+            "href": "/wow/builds/elemental/shaman/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "enhancement",
+            "classSlug": "shaman",
+            "key": "enhancement-shaman",
+            "altName": "Shaman Enhancement",
+            "rawText": "230.5K DPS",
+            "score": null,
+            "dps": 230.5,
+            "hps": null,
+            "href": "/wow/builds/enhancement/shaman/raid/overview/mythic/all-bosses"
+          }
+        ]
+      },
+      {
+        "tier": "B Tier",
+        "specs": [
+          {
+            "specSlug": "assassination",
+            "classSlug": "rogue",
+            "key": "assassination-rogue",
+            "altName": "",
+            "rawText": "229.6K DPS",
+            "score": null,
+            "dps": 229.6,
+            "hps": null,
+            "href": "/wow/builds/assassination/rogue/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "survival",
+            "classSlug": "hunter",
+            "key": "survival-hunter",
+            "altName": "",
+            "rawText": "229.0K DPS",
+            "score": null,
+            "dps": 229,
+            "hps": null,
+            "href": "/wow/builds/survival/hunter/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "augmentation",
+            "classSlug": "evoker",
+            "key": "augmentation-evoker",
+            "altName": "",
+            "rawText": "228.3K DPS",
+            "score": null,
+            "dps": 228.3,
+            "hps": null,
+            "href": "/wow/builds/augmentation/evoker/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "havoc",
+            "classSlug": "demon-hunter",
+            "key": "havoc-demon-hunter",
+            "altName": "DemonHunter Havoc",
+            "rawText": "227.6K DPS",
+            "score": null,
+            "dps": 227.6,
+            "hps": null,
+            "href": "/wow/builds/havoc/demon-hunter/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "outlaw",
+            "classSlug": "rogue",
+            "key": "outlaw-rogue",
+            "altName": "",
+            "rawText": "227.1K DPS",
+            "score": null,
+            "dps": 227.1,
+            "hps": null,
+            "href": "/wow/builds/outlaw/rogue/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "shadow",
+            "classSlug": "priest",
+            "key": "shadow-priest",
+            "altName": "Priest Shadow",
+            "rawText": "226.7K DPS",
+            "score": null,
+            "dps": 226.7,
+            "hps": null,
+            "href": "/wow/builds/shadow/priest/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "unholy",
+            "classSlug": "death-knight",
+            "key": "unholy-death-knight",
+            "altName": "DeathKnight Unholy",
+            "rawText": "226.3K DPS",
+            "score": null,
+            "dps": 226.3,
+            "hps": null,
+            "href": "/wow/builds/unholy/death-knight/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "devourer",
+            "classSlug": "demon-hunter",
+            "key": "devourer-demon-hunter",
+            "altName": "DemonHunter Devourer",
+            "rawText": "224.3K DPS",
+            "score": null,
+            "dps": 224.3,
+            "hps": null,
+            "href": "/wow/builds/devourer/demon-hunter/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "beast-mastery",
+            "classSlug": "hunter",
+            "key": "beast-mastery-hunter",
+            "altName": "Hunter BeastMastery",
+            "rawText": "224.2K DPS",
+            "score": null,
+            "dps": 224.2,
+            "hps": null,
+            "href": "/wow/builds/beast-mastery/hunter/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "affliction",
+            "classSlug": "warlock",
+            "key": "affliction-warlock",
+            "altName": "",
+            "rawText": "224.0K DPS",
+            "score": null,
+            "dps": 224,
+            "hps": null,
+            "href": "/wow/builds/affliction/warlock/raid/overview/mythic/all-bosses"
+          }
+        ]
+      },
+      {
+        "tier": "C Tier",
+        "specs": [
+          {
+            "specSlug": "fire",
+            "classSlug": "mage",
+            "key": "fire-mage",
+            "altName": "",
+            "rawText": "220.2K DPS",
+            "score": null,
+            "dps": 220.2,
+            "hps": null,
+            "href": "/wow/builds/fire/mage/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "fury",
+            "classSlug": "warrior",
+            "key": "fury-warrior",
+            "altName": "",
+            "rawText": "218.5K DPS",
+            "score": null,
+            "dps": 218.5,
+            "hps": null,
+            "href": "/wow/builds/fury/warrior/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "feral",
+            "classSlug": "druid",
+            "key": "feral-druid",
+            "altName": "",
+            "rawText": "214.9K DPS",
+            "score": null,
+            "dps": 214.9,
+            "hps": null,
+            "href": "/wow/builds/feral/druid/raid/overview/mythic/all-bosses"
+          }
+        ]
+      }
+    ],
+    "dpsPopularity": [
+      {
+        "tier": "S Tier",
+        "specs": [
+          {
+            "specSlug": "arcane",
+            "classSlug": "mage",
+            "key": "arcane-mage",
+            "altName": "Mage Arcane",
+            "rawText": "241.7K DPS",
+            "score": null,
+            "dps": 241.7,
+            "hps": null,
+            "href": "/wow/builds/arcane/mage/raid/overview/mythic/all-bosses"
+          }
+        ]
+      },
+      {
+        "tier": "A Tier",
+        "specs": [
+          {
+            "specSlug": "arms",
+            "classSlug": "warrior",
+            "key": "arms-warrior",
+            "altName": "Warrior Arms",
+            "rawText": "243.1K DPS",
+            "score": null,
+            "dps": 243.1,
+            "hps": null,
+            "href": "/wow/builds/arms/warrior/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "demonology",
+            "classSlug": "warlock",
+            "key": "demonology-warlock",
+            "altName": "Warlock Demonology",
+            "rawText": "251.4K DPS",
+            "score": null,
+            "dps": 251.4,
+            "hps": null,
+            "href": "/wow/builds/demonology/warlock/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "balance",
+            "classSlug": "druid",
+            "key": "balance-druid",
+            "altName": "Druid Balance",
+            "rawText": "240.0K DPS",
+            "score": null,
+            "dps": 240,
+            "hps": null,
+            "href": "/wow/builds/balance/druid/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "marksmanship",
+            "classSlug": "hunter",
+            "key": "marksmanship-hunter",
+            "altName": "Hunter Marksmanship",
+            "rawText": "243.1K DPS",
+            "score": null,
+            "dps": 243.1,
+            "hps": null,
+            "href": "/wow/builds/marksmanship/hunter/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "elemental",
+            "classSlug": "shaman",
+            "key": "elemental-shaman",
+            "altName": "Shaman Elemental",
+            "rawText": "231.5K DPS",
+            "score": null,
+            "dps": 231.5,
+            "hps": null,
+            "href": "/wow/builds/elemental/shaman/raid/overview/mythic/all-bosses"
+          }
+        ]
+      },
+      {
+        "tier": "B Tier",
+        "specs": [
+          {
+            "specSlug": "retribution",
+            "classSlug": "paladin",
+            "key": "retribution-paladin",
+            "altName": "Paladin Retribution",
+            "rawText": "244.6K DPS",
+            "score": null,
+            "dps": 244.6,
+            "hps": null,
+            "href": "/wow/builds/retribution/paladin/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "beast-mastery",
+            "classSlug": "hunter",
+            "key": "beast-mastery-hunter",
+            "altName": "Hunter BeastMastery",
+            "rawText": "224.2K DPS",
+            "score": null,
+            "dps": 224.2,
+            "hps": null,
+            "href": "/wow/builds/beast-mastery/hunter/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "devourer",
+            "classSlug": "demon-hunter",
+            "key": "devourer-demon-hunter",
+            "altName": "DemonHunter Devourer",
+            "rawText": "224.3K DPS",
+            "score": null,
+            "dps": 224.3,
+            "hps": null,
+            "href": "/wow/builds/devourer/demon-hunter/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "shadow",
+            "classSlug": "priest",
+            "key": "shadow-priest",
+            "altName": "Priest Shadow",
+            "rawText": "226.7K DPS",
+            "score": null,
+            "dps": 226.7,
+            "hps": null,
+            "href": "/wow/builds/shadow/priest/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "havoc",
+            "classSlug": "demon-hunter",
+            "key": "havoc-demon-hunter",
+            "altName": "DemonHunter Havoc",
+            "rawText": "227.6K DPS",
+            "score": null,
+            "dps": 227.6,
+            "hps": null,
+            "href": "/wow/builds/havoc/demon-hunter/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "subtlety",
+            "classSlug": "rogue",
+            "key": "subtlety-rogue",
+            "altName": "Rogue Subtlety",
+            "rawText": "233.7K DPS",
+            "score": null,
+            "dps": 233.7,
+            "hps": null,
+            "href": "/wow/builds/subtlety/rogue/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "windwalker",
+            "classSlug": "monk",
+            "key": "windwalker-monk",
+            "altName": "Monk Windwalker",
+            "rawText": "233.5K DPS",
+            "score": null,
+            "dps": 233.5,
+            "hps": null,
+            "href": "/wow/builds/windwalker/monk/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "destruction",
+            "classSlug": "warlock",
+            "key": "destruction-warlock",
+            "altName": "Warlock Destruction",
+            "rawText": "237.4K DPS",
+            "score": null,
+            "dps": 237.4,
+            "hps": null,
+            "href": "/wow/builds/destruction/warlock/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "unholy",
+            "classSlug": "death-knight",
+            "key": "unholy-death-knight",
+            "altName": "DeathKnight Unholy",
+            "rawText": "226.3K DPS",
+            "score": null,
+            "dps": 226.3,
+            "hps": null,
+            "href": "/wow/builds/unholy/death-knight/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "devastation",
+            "classSlug": "evoker",
+            "key": "devastation-evoker",
+            "altName": "Evoker Devastation",
+            "rawText": "238.7K DPS",
+            "score": null,
+            "dps": 238.7,
+            "hps": null,
+            "href": "/wow/builds/devastation/evoker/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "frost",
+            "classSlug": "death-knight",
+            "key": "frost-death-knight",
+            "altName": "",
+            "rawText": "233.5K DPS",
+            "score": null,
+            "dps": 233.5,
+            "hps": null,
+            "href": "/wow/builds/frost/death-knight/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "assassination",
+            "classSlug": "rogue",
+            "key": "assassination-rogue",
+            "altName": "",
+            "rawText": "229.6K DPS",
+            "score": null,
+            "dps": 229.6,
+            "hps": null,
+            "href": "/wow/builds/assassination/rogue/raid/overview/mythic/all-bosses"
+          }
+        ]
+      },
+      {
+        "tier": "C Tier",
+        "specs": [
+          {
+            "specSlug": "augmentation",
+            "classSlug": "evoker",
+            "key": "augmentation-evoker",
+            "altName": "",
+            "rawText": "228.3K DPS",
+            "score": null,
+            "dps": 228.3,
+            "hps": null,
+            "href": "/wow/builds/augmentation/evoker/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "enhancement",
+            "classSlug": "shaman",
+            "key": "enhancement-shaman",
+            "altName": "",
+            "rawText": "230.5K DPS",
+            "score": null,
+            "dps": 230.5,
+            "hps": null,
+            "href": "/wow/builds/enhancement/shaman/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "frost",
+            "classSlug": "mage",
+            "key": "frost-mage",
+            "altName": "",
+            "rawText": "239.9K DPS",
+            "score": null,
+            "dps": 239.9,
+            "hps": null,
+            "href": "/wow/builds/frost/mage/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "outlaw",
+            "classSlug": "rogue",
+            "key": "outlaw-rogue",
+            "altName": "",
+            "rawText": "227.1K DPS",
+            "score": null,
+            "dps": 227.1,
+            "hps": null,
+            "href": "/wow/builds/outlaw/rogue/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "feral",
+            "classSlug": "druid",
+            "key": "feral-druid",
+            "altName": "",
+            "rawText": "214.9K DPS",
+            "score": null,
+            "dps": 214.9,
+            "hps": null,
+            "href": "/wow/builds/feral/druid/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "fury",
+            "classSlug": "warrior",
+            "key": "fury-warrior",
+            "altName": "",
+            "rawText": "218.5K DPS",
+            "score": null,
+            "dps": 218.5,
+            "hps": null,
+            "href": "/wow/builds/fury/warrior/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "affliction",
+            "classSlug": "warlock",
+            "key": "affliction-warlock",
+            "altName": "",
+            "rawText": "224.0K DPS",
+            "score": null,
+            "dps": 224,
+            "hps": null,
+            "href": "/wow/builds/affliction/warlock/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "survival",
+            "classSlug": "hunter",
+            "key": "survival-hunter",
+            "altName": "",
+            "rawText": "229.0K DPS",
+            "score": null,
+            "dps": 229,
+            "hps": null,
+            "href": "/wow/builds/survival/hunter/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "fire",
+            "classSlug": "mage",
+            "key": "fire-mage",
+            "altName": "",
+            "rawText": "220.2K DPS",
+            "score": null,
+            "dps": 220.2,
+            "hps": null,
+            "href": "/wow/builds/fire/mage/raid/overview/mythic/all-bosses"
+          }
+        ]
+      }
+    ],
+    "tank": [
+      {
+        "tier": "S Tier",
+        "specs": [
+          {
+            "specSlug": "blood",
+            "classSlug": "death-knight",
+            "key": "blood-death-knight",
+            "altName": "DeathKnight Blood",
+            "rawText": "120.9K DPS",
+            "score": null,
+            "dps": 120.9,
+            "hps": null,
+            "href": "/wow/builds/blood/death-knight/raid/overview/mythic/all-bosses"
+          }
+        ]
+      },
+      {
+        "tier": "A Tier",
+        "specs": []
+      },
+      {
+        "tier": "B Tier",
+        "specs": [
+          {
+            "specSlug": "protection",
+            "classSlug": "paladin",
+            "key": "protection-paladin",
+            "altName": "Paladin Protection",
+            "rawText": "119.6K DPS",
+            "score": null,
+            "dps": 119.6,
+            "hps": null,
+            "href": "/wow/builds/protection/paladin/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "brewmaster",
+            "classSlug": "monk",
+            "key": "brewmaster-monk",
+            "altName": "Monk Brewmaster",
+            "rawText": "113.7K DPS",
+            "score": null,
+            "dps": 113.7,
+            "hps": null,
+            "href": "/wow/builds/brewmaster/monk/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "protection",
+            "classSlug": "warrior",
+            "key": "protection-warrior",
+            "altName": "Warrior Protection",
+            "rawText": "122.4K DPS",
+            "score": null,
+            "dps": 122.4,
+            "hps": null,
+            "href": "/wow/builds/protection/warrior/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "guardian",
+            "classSlug": "druid",
+            "key": "guardian-druid",
+            "altName": "Druid Guardian",
+            "rawText": "123.2K DPS",
+            "score": null,
+            "dps": 123.2,
+            "hps": null,
+            "href": "/wow/builds/guardian/druid/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "vengeance",
+            "classSlug": "demon-hunter",
+            "key": "vengeance-demon-hunter",
+            "altName": "DemonHunter Vengeance",
+            "rawText": "130.5K DPS",
+            "score": null,
+            "dps": 130.5,
+            "hps": null,
+            "href": "/wow/builds/vengeance/demon-hunter/raid/overview/mythic/all-bosses"
+          }
+        ]
+      },
+      {
+        "tier": "C Tier",
+        "specs": []
+      }
+    ],
+    "healer": [
+      {
+        "tier": "S Tier",
+        "specs": [
+          {
+            "specSlug": "holy",
+            "classSlug": "priest",
+            "key": "holy-priest",
+            "altName": "Priest Holy",
+            "rawText": "391.5K HPS",
+            "score": null,
+            "dps": null,
+            "hps": 391.5,
+            "href": "/wow/builds/holy/priest/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "holy",
+            "classSlug": "paladin",
+            "key": "holy-paladin",
+            "altName": "Paladin Holy",
+            "rawText": "339.9K HPS",
+            "score": null,
+            "dps": null,
+            "hps": 339.9,
+            "href": "/wow/builds/holy/paladin/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "restoration",
+            "classSlug": "shaman",
+            "key": "restoration-shaman",
+            "altName": "Shaman Restoration",
+            "rawText": "340.9K HPS",
+            "score": null,
+            "dps": null,
+            "hps": 340.9,
+            "href": "/wow/builds/restoration/shaman/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "preservation",
+            "classSlug": "evoker",
+            "key": "preservation-evoker",
+            "altName": "Evoker Preservation",
+            "rawText": "388.7K HPS",
+            "score": null,
+            "dps": null,
+            "hps": 388.7,
+            "href": "/wow/builds/preservation/evoker/raid/overview/mythic/all-bosses"
+          }
+        ]
+      },
+      {
+        "tier": "A Tier",
+        "specs": []
+      },
+      {
+        "tier": "B Tier",
+        "specs": [
+          {
+            "specSlug": "restoration",
+            "classSlug": "druid",
+            "key": "restoration-druid",
+            "altName": "Druid Restoration",
+            "rawText": "372.7K HPS",
+            "score": null,
+            "dps": null,
+            "hps": 372.7,
+            "href": "/wow/builds/restoration/druid/raid/overview/mythic/all-bosses"
+          },
+          {
+            "specSlug": "mistweaver",
+            "classSlug": "monk",
+            "key": "mistweaver-monk",
+            "altName": "Monk Mistweaver",
+            "rawText": "327.5K HPS",
+            "score": null,
+            "dps": null,
+            "hps": 327.5,
+            "href": "/wow/builds/mistweaver/monk/raid/overview/mythic/all-bosses"
+          }
+        ]
+      },
+      {
+        "tier": "C Tier",
+        "specs": [
+          {
+            "specSlug": "discipline",
+            "classSlug": "priest",
+            "key": "discipline-priest",
+            "altName": "Priest Discipline",
+            "rawText": "352.0K HPS",
+            "score": null,
+            "dps": null,
+            "hps": 352,
+            "href": "/wow/builds/discipline/priest/raid/overview/mythic/all-bosses"
+          }
+        ]
+      }
+    ]
+  }
+}

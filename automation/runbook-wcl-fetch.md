@@ -48,8 +48,12 @@ EOF
   - 天赋：`https://www.archon.gg/wow/builds/{spec}/{class}/raid/talents/mythic/all-bosses`
   - 饰品：`https://www.archon.gg/wow/builds/{spec}/{class}/raid/trinkets/mythic/all-bosses`
 - **天梯强度榜单（Tier List）**：
-  - 大秘境强度榜：`https://www.archon.gg/wow/tier-list/dps-rankings/mythic-plus/10/all-dungeons/this-week`
-  - 团本强度榜：`https://www.archon.gg/wow/tier-list/dps-rankings/raid/mythic/all-bosses`
+  - 大秘境 DPS 榜：`https://www.archon.gg/wow/tier-list/dps-rankings/mythic-plus/10/all-dungeons/this-week`
+  - 大秘境 坦克 榜：`https://www.archon.gg/wow/tier-list/tank-rankings/mythic-plus/10/all-dungeons/this-week`
+  - 大秘境 治疗 榜：`https://www.archon.gg/wow/tier-list/healer-rankings/mythic-plus/10/all-dungeons/this-week`
+  - 团本 DPS 纯输出榜 (Throughput)：`https://www.archon.gg/wow/tier-list/dps-rankings/raid/mythic/all-bosses`
+  - 团本 坦克 榜：`https://www.archon.gg/wow/tier-list/tank-rankings/raid/mythic/all-bosses`
+  - 团本 治疗 榜：`https://www.archon.gg/wow/tier-list/healer-rankings/raid/mythic/all-bosses`
 
 ---
 
@@ -99,9 +103,24 @@ if (title.includes("Human Verification") || title.includes("One Quick Check")) {
 - 目标：Gear 页面中的 `Unholy Death Knight Tier Set Slots` 及 `Embellishments` 区域。
 - 提取字段：各部位穿戴率、双美化组合名称与占比。
 
+### 5. 天梯榜单自动化采集与生成标准
+
+用于一键更新大秘境与团本全职业天梯，杜绝手工造假：
+
+1. **执行抓取脚本**：
+   ```bash
+   ego-browser nodejs < automation/scripts/fetch-rankings.mjs
+   ```
+   抓取器会遍历 M+（DPS、Tank、Healer）与团本（Throughput、Popularity、Tank、Healer）全部 7 组官方页面，保存结构化 JSON 至 `automation/data/rankings-latest.json`。
+2. **生成 Markdown 报告**：
+   ```bash
+   node automation/scripts/generate-rankings-md.mjs
+   ```
+   自动读取 JSON 数据与机制点评库，渲染出无 emoji、全专精覆盖、带真实分位数值与机制剖析的 `rankings/mythic-plus/YYYY-MM-DD.md` 和 `rankings/raid/YYYY-MM-DD.md`。
+
 ---
 
-## 5. 数据与截图落盘规范
+## 6. 数据与截图落盘规范
 
 Agent 采集到新数据后，严格按以下路径更新：
 1. 职业专精数据：覆盖或增量写入 `classes/{class}/{spec}/` 下对应 `.md` 文件。
@@ -113,7 +132,7 @@ Agent 采集到新数据后，严格按以下路径更新：
 
 ---
 
-## 6. 清理规范
+## 7. 清理规范
 
 无论采集成功与否，脚本结束时必须执行：
 ```javascript
