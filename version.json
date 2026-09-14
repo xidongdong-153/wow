@@ -1,0 +1,32 @@
+{
+  "gameVersion": "12.1.0",
+  "expansion": "Midnight",
+  "season": "Midnight Season 1",
+  "activeHotfix": {
+    "date": "2026-09-14",
+    "title": "2026-09-14 在线热修与职业调整深度分析",
+    "path": "patches/12.1/2026-09-14-tuning.md",
+    "affectedSpecs": [
+      "death-knight/unholy",
+      "death-knight/frost"
+    ]
+  },
+  "dataSync": {
+    "lastSyncAt": "2026-09-14T02:54:31.725Z",
+    "rankingsDate": "2026-09-14",
+    "status": "synchronized"
+  },
+  "gitTag": "v12.1.0-hotfix-20260914",
+  "specStatus": {
+    "death-knight/unholy": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "2026-09-14"
+    },
+    "paladin/retribution": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "2026-09-14"
+    }
+  }
+}

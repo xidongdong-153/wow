@@ -2,6 +2,15 @@
 
 本项目用于归档与维护魔兽世界各职业的高阶玩法数据、WCL 榜单复盘、每日资讯、职业强度天梯排行以及暴雪补丁更新分析。同时提供专供 AI Agent（基于 ego-browser / ego-lite）自动化采集与更新数据的操作手册与脚本。
 
+## 当前版本与时效状态
+
+- 游戏基准版本：**12.1.0**（至暗之夜 Midnight Season 1）
+- 生效在线修正：`patches/12.1/2026-09-14-tuning.md`
+- 数据同步状态：已同步（对齐 2026-09-14 天梯数据）
+- 归档标签推荐：`v12.1.0-hotfix-20260914`
+- 版本规范说明：`VERSION.md`
+- 版本状态自检：`node automation/scripts/version-manager.mjs check`
+
 ## 目录索引
 
 - `classes/`：各职业专精深度库（配装、天赋、属性、手法、日志精读）。当前主维护：死亡骑士（DK）、圣骑士（Paladin）；新增专精标准模板位于 `classes/_template/`。
@@ -29,3 +38,5 @@
 - 今日大秘境天梯榜：`rankings/mythic-plus/2026-09-14.md`
 - 今日团本天梯榜：`rankings/raid/2026-09-14.md`
 - 补丁调整分析：`patches/12.1/2026-09-14-tuning.md`
+- 版本规范与蓝贴时效：`VERSION.md`
+- 版本与时效管理脚本：`automation/scripts/version-manager.mjs`
