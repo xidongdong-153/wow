@@ -70,13 +70,15 @@
   - **手法时序/决策流程**：强制采用内联 Mermaid 代码块（首行统一加 `%%{init: {"theme": "dark"}}%%` 暗色主题），避免纯文本列表堆叠。
 - **数据维护原则**：
   - 每日资讯（`news/`）与天梯榜单（`rankings/`）按天新增独立文件，严禁覆盖历史旧日记录。
+  - 每日资讯文档必须包含段落出处直达链接与文末权威验证源汇总表，严禁无来源陈述。
   - 专精核心手册（`classes/{class}/{spec}/`）保持最新状态，随最新版本改动直接更新原文件。
 - **YAML Front Matter 元数据规范**：
   - 除所有 `README.md` 与 `AGENTS.md` 豁免外，仓库内所有 Markdown 文章必须在文件起始处包含标准的 YAML Front Matter（`---` 包裹）。
   - 通用必填字段：`title`、`description`、`category`、`docType`、`tags`。
   - 专精手册特有字段：`class`、`spec`、`role`、`gameVersion`、`season`、`updatedAt`、`hotfixAligned`。
   - 天梯排行榜特有字段：`mode`、`gameVersion`、`season`、`date`、`sampleSize`、`dataSource`。
-  - 补丁热修特有字段：`patchType`、`gameVersion`、`date`、`affectedClasses`、`affectedSpecs`。
+  - 补丁热修特有字段：`patchType`、`gameVersion`、`clientBuild`、`versionId`、`bluePostId`、`revision`、`date`、`affectedClasses`、`affectedSpecs`。
+  - 每日资讯特有字段：`gameVersion`、`date`、`sources`（包含数据源名称 name 与权威 URL 数组）。
 
 ## Spec Onboarding Rules (新增专精强制标准)
 
