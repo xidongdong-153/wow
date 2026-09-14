@@ -31,7 +31,7 @@ tags:
   - 套装：圣火（Consecrated Flame）4 件套（胸、头、肩、手）
   - 武器：血骑士战刃（双手剑，精通/暴击）
   - 英雄天赋：太阳先锋（Herald of the Sun）
-  - 饰品：Vile Vial of Volatile Venom + 乌拉泰克的饕餮之心
+  - 饰品：Vile Vial of Volatile Venom + 乌拉特克的饕餮之心
 - **复盘要点**：
   - 精通占比超过 30%，晨光射线与神圣风暴暴风之怒贡献全程近 55% 的总伤害。
   - 辅助施法记录：每场地下城平均施放 8 次牺牲祝福与 15+ 次清毒术，零意外倒地。

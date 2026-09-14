@@ -43,7 +43,7 @@ tags:
 
 ---
 
-### 案例 2：Dawnhealer (Tichondrius - US) —— 盲目溪谷 (The Blinding Vale) +21 限时 (24分52秒)
+### 案例 2：Dawnhealer (Tichondrius - US) —— 夺目谷 (The Blinding Vale) +21 限时 (24分52秒)
 - **WCL 报告直达**：`https://www.warcraftlogs.com/reports/sample-holy-vale-21`
 - **英雄天赋**：太阳先锋（Herald of the Sun）
 - **全程秒治疗 (HPS)**：168.4k
@@ -62,7 +62,7 @@ tags:
 
 ## 2. 团本史诗难度顶尖日志复盘
 
-### 案例：Ellesmere (Liquid - US) —— 史诗深毒深渊 (The Venomous Abyss) 4 号首领世界前列击杀
+### 案例：Ellesmere (Liquid - US) —— 史诗烈毒之渊 (The Venomous Abyss) 4 号首领世界前列击杀
 - **WCL 报告直达**：`https://www.warcraftlogs.com/reports/sample-holy-raid-boss4`
 - **装等**：639.6
 - **秒治疗 (HPS)**：184.2k

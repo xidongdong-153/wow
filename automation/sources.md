@@ -66,12 +66,42 @@ tags:
 - **抓取建议**：
   - Raider.IO 提供了公开 REST API（`https://raider.io/api/v1/...`），不需要使用浏览器即可通过普通 `fetch` 直接获取 JSON，极大降低 Token 与资源消耗。
 
-### 1.4 Subcreation
-- **定位**：基于 WCL 近期限时高层日志纯算法计算出的专精 Tier List 与装备组合热力图。
-- **直达 URL 规则**：
-  - 大秘境专精强度榜：`https://mplus.subcreation.net/`
-  - 单专精配装与天赋分析：`https://mplus.subcreation.net/{spec}-{class}.html`
-  - 团本首领专精强度：`https://subcreation.net/`
+### 1.5 当前赛季地下城与团本直达路由表 (Zone 53 & Zone 55)
+
+#### 大秘境 Season 2 官方 8 地下城直达路由 (WCL & Archon)
+- **夺目谷 (The Blinding Vale - ID 1309)**：
+  - WCL: `https://www.warcraftlogs.com/zone/rankings/55#dungeon=1309`
+  - Archon: `https://www.archon.gg/wow/dungeons/the-blinding-vale/overview/mythic-plus/20`
+- **密谋小径 (Murder Row - ID 1304)**：
+  - WCL: `https://www.warcraftlogs.com/zone/rankings/55#dungeon=1304`
+  - Archon: `https://www.archon.gg/wow/dungeons/murder-row/overview/mythic-plus/20`
+- **纳洛拉克的洞穴 (Den of Nalorakk - ID 1311)**：
+  - WCL: `https://www.warcraftlogs.com/zone/rankings/55#dungeon=1311`
+  - Archon: `https://www.archon.gg/wow/dungeons/den-of-nalorakk/overview/mythic-plus/20`
+- **毒牙祭坛 (Altar of Fangs - ID 1322)**：
+  - WCL: `https://www.warcraftlogs.com/zone/rankings/55#dungeon=1322`
+  - Archon: `https://www.archon.gg/wow/dungeons/altar-of-fangs/overview/mythic-plus/20`
+- **虚空之痕竞技场 (Voidscar Arena - ID 1313)**：
+  - WCL: `https://www.warcraftlogs.com/zone/rankings/55#dungeon=1313`
+  - Archon: `https://www.archon.gg/wow/dungeons/voidscar-arena/overview/mythic-plus/20`
+- **红玉新生法池 (Ruby Life Pools - ID 1202)**：
+  - WCL: `https://www.warcraftlogs.com/zone/rankings/55#dungeon=1202`
+  - Archon: `https://www.archon.gg/wow/dungeons/ruby-life-pools/overview/mythic-plus/20`
+- **诸王之眠 (Kings' Rest - ID 1041)**：
+  - WCL: `https://www.warcraftlogs.com/zone/rankings/55#dungeon=1041`
+  - Archon: `https://www.archon.gg/wow/dungeons/kings-rest/overview/mythic-plus/20`
+- **塞塔里斯神庙 (Temple of Sethraliss - ID 1030)**：
+  - WCL: `https://www.warcraftlogs.com/zone/rankings/55#dungeon=1030`
+  - Archon: `https://www.archon.gg/wow/dungeons/temple-of-sethraliss/overview/mythic-plus/20`
+
+#### 史诗团本烈毒之渊直达路由 (The Venomous Abyss - Zone 53)
+- 团本史诗排行总榜：`https://www.warcraftlogs.com/zone/rankings/53#difficulty=5`
+- 1号 腐蚀之牙 掠夺者：`https://www.warcraftlogs.com/zone/rankings/53#difficulty=5&boss=2811`
+- 2号 孵化女王 维克希拉：`https://www.warcraftlogs.com/zone/rankings/53#difficulty=5&boss=2812`
+- 3号 受折磨的聚合体：`https://www.warcraftlogs.com/zone/rankings/53#difficulty=5&boss=2813`
+- 4号 缚影者 马拉考尔：`https://www.warcraftlogs.com/zone/rankings/53#difficulty=5&boss=2814`
+- 5号 高阶祭司 斯里克希尔：`https://www.warcraftlogs.com/zone/rankings/53#difficulty=5&boss=2815`
+- 6号 亵渎者 乌拉特克：`https://www.warcraftlogs.com/zone/rankings/53#difficulty=5&boss=2816`
 
 ---
 

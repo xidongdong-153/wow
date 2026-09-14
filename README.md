@@ -15,6 +15,7 @@
 ## 目录索引
 
 - `classes/`：各职业专精深度库（配装、天赋、属性、手法、日志精读）。当前主维护：死亡骑士（DK）、圣骑士（Paladin）；新增专精标准模板位于 `classes/_template/`。
+- `instances/`：当季大秘境与史诗团队副本机制攻略、拉怪时序、高危打断与 WCL 实战基准数据（新人入门 vs 高层冲分双轨制）。
 - `rankings/`：每日职业强度排行榜（大秘境与团本分榜，包含分级、样本量与关键改动影响）。
 - `news/`：每日官方资讯、社区热点与活动速报（按月归档）。
 - `patches/`：暴雪补丁日志、职业平衡调整与加强削弱深度量化分析。
@@ -62,6 +63,17 @@
   - WCL 高分日志复盘：`classes/paladin/holy/logs.md`
 - 今日大秘境天梯榜：`rankings/mythic-plus/2026-09-14.md`
 - 今日团本天梯榜：`rankings/raid/2026-09-14.md`
+- 当季副本攻略总览：`instances/README.md`
+- 大秘境 Season 2 官方轮换池 (8本全收录)：`instances/mythic-plus/README.md`
+  - 夺目谷：`instances/mythic-plus/the-blinding-vale/`
+  - 密谋小径：`instances/mythic-plus/murder-row/`
+  - 纳洛拉克的洞穴：`instances/mythic-plus/den-of-nalorakk/`
+  - 毒牙祭坛：`instances/mythic-plus/altar-of-fangs/`
+  - 虚空之痕竞技场：`instances/mythic-plus/voidscar-arena/`
+  - 红玉新生法池 (经典回归)：`instances/mythic-plus/ruby-life-pools/`
+  - 诸王之眠 (经典回归)：`instances/mythic-plus/kings-rest/`
+  - 塞塔里斯神庙 (经典回归)：`instances/mythic-plus/temple-of-sethraliss/`
+- 史诗团队副本烈毒之渊 (Zone 53 全6首领)：`instances/raid/the-venomous-abyss/README.md`
 - 补丁调整分析：`patches/12.1/2026-09-14-tuning.md`
 - 版本规范与蓝贴时效：`VERSION.md`
 - 版本与时效管理脚本：`automation/scripts/version-manager.mjs`

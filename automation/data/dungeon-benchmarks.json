@@ -1,0 +1,96 @@
+{
+  "updatedAt": "2026-09-14",
+  "zoneId": 55,
+  "season": "Midnight Season 2",
+  "gameVersion": "12.1.0",
+  "dungeons": {
+    "the-blinding-vale": {
+      "nameCn": "夺目谷",
+      "parTimeSeconds": 1800,
+      "levels": {
+        "10": { "teamDps": 780000, "tankDps": 115000, "healerDps": 28000, "dpsPerPlayer": 212000, "teamDtpsAvg": 210000, "peakDtpsBurst": 520000, "medianClearSec": 1580 },
+        "15": { "teamDps": 940000, "tankDps": 140000, "healerDps": 32000, "dpsPerPlayer": 256000, "teamDtpsAvg": 275000, "peakDtpsBurst": 680000, "medianClearSec": 1690 },
+        "18": { "teamDps": 1050000, "tankDps": 155000, "healerDps": 35000, "dpsPerPlayer": 286000, "teamDtpsAvg": 320000, "peakDtpsBurst": 820000, "medianClearSec": 1740 },
+        "20": { "teamDps": 1140000, "tankDps": 170000, "healerDps": 40000, "dpsPerPlayer": 310000, "teamDtpsAvg": 365000, "peakDtpsBurst": 950000, "medianClearSec": 1785 },
+        "22": { "teamDps": 1240000, "tankDps": 185000, "healerDps": 45000, "dpsPerPlayer": 336000, "teamDtpsAvg": 410000, "peakDtpsBurst": 1100000, "medianClearSec": 1795 }
+      }
+    },
+    "murder-row": {
+      "nameCn": "密谋小径",
+      "parTimeSeconds": 1920,
+      "levels": {
+        "10": { "teamDps": 800000, "tankDps": 120000, "healerDps": 30000, "dpsPerPlayer": 216000, "teamDtpsAvg": 240000, "peakDtpsBurst": 580000, "medianClearSec": 1680 },
+        "15": { "teamDps": 960000, "tankDps": 145000, "healerDps": 34000, "dpsPerPlayer": 260000, "teamDtpsAvg": 305000, "peakDtpsBurst": 760000, "medianClearSec": 1790 },
+        "18": { "teamDps": 1070000, "tankDps": 160000, "healerDps": 38000, "dpsPerPlayer": 290000, "teamDtpsAvg": 355000, "peakDtpsBurst": 920000, "medianClearSec": 1850 },
+        "20": { "teamDps": 1160000, "tankDps": 175000, "healerDps": 42000, "dpsPerPlayer": 314000, "teamDtpsAvg": 400000, "peakDtpsBurst": 1060000, "medianClearSec": 1895 },
+        "22": { "teamDps": 1260000, "tankDps": 190000, "healerDps": 46000, "dpsPerPlayer": 341000, "teamDtpsAvg": 450000, "peakDtpsBurst": 1220000, "medianClearSec": 1910 }
+      }
+    },
+    "den-of-nalorakk": {
+      "nameCn": "纳洛拉克的洞穴",
+      "parTimeSeconds": 1980,
+      "levels": {
+        "10": { "teamDps": 750000, "tankDps": 110000, "healerDps": 26000, "dpsPerPlayer": 204000, "teamDtpsAvg": 230000, "peakDtpsBurst": 560000, "medianClearSec": 1750 },
+        "15": { "teamDps": 910000, "tankDps": 135000, "healerDps": 30000, "dpsPerPlayer": 248000, "teamDtpsAvg": 295000, "peakDtpsBurst": 740000, "medianClearSec": 1860 },
+        "18": { "teamDps": 1020000, "tankDps": 150000, "healerDps": 34000, "dpsPerPlayer": 278000, "teamDtpsAvg": 345000, "peakDtpsBurst": 890000, "medianClearSec": 1910 },
+        "20": { "teamDps": 1110000, "tankDps": 165000, "healerDps": 38000, "dpsPerPlayer": 302000, "teamDtpsAvg": 390000, "peakDtpsBurst": 1020000, "medianClearSec": 1950 },
+        "22": { "teamDps": 1210000, "tankDps": 180000, "healerDps": 42000, "dpsPerPlayer": 329000, "teamDtpsAvg": 440000, "peakDtpsBurst": 1180000, "medianClearSec": 1968 }
+      }
+    },
+    "altar-of-fangs": {
+      "nameCn": "毒牙祭坛",
+      "parTimeSeconds": 2100,
+      "levels": {
+        "10": { "teamDps": 740000, "tankDps": 108000, "healerDps": 27000, "dpsPerPlayer": 201000, "teamDtpsAvg": 215000, "peakDtpsBurst": 510000, "medianClearSec": 1840 },
+        "15": { "teamDps": 900000, "tankDps": 132000, "healerDps": 31000, "dpsPerPlayer": 245000, "teamDtpsAvg": 270000, "peakDtpsBurst": 670000, "medianClearSec": 1960 },
+        "18": { "teamDps": 1010000, "tankDps": 148000, "healerDps": 35000, "dpsPerPlayer": 275000, "teamDtpsAvg": 315000, "peakDtpsBurst": 810000, "medianClearSec": 2020 },
+        "20": { "teamDps": 1100000, "tankDps": 162000, "healerDps": 39000, "dpsPerPlayer": 299000, "teamDtpsAvg": 360000, "peakDtpsBurst": 940000, "medianClearSec": 2065 },
+        "22": { "teamDps": 1200000, "tankDps": 178000, "healerDps": 44000, "dpsPerPlayer": 326000, "teamDtpsAvg": 405000, "peakDtpsBurst": 1090000, "medianClearSec": 2085 }
+      }
+    },
+    "voidscar-arena": {
+      "nameCn": "虚空之痕竞技场",
+      "parTimeSeconds": 1860,
+      "levels": {
+        "10": { "teamDps": 790000, "tankDps": 118000, "healerDps": 29000, "dpsPerPlayer": 214000, "teamDtpsAvg": 225000, "peakDtpsBurst": 540000, "medianClearSec": 1620 },
+        "15": { "teamDps": 950000, "tankDps": 142000, "healerDps": 33000, "dpsPerPlayer": 258000, "teamDtpsAvg": 285000, "peakDtpsBurst": 710000, "medianClearSec": 1730 },
+        "18": { "teamDps": 1060000, "tankDps": 158000, "healerDps": 36000, "dpsPerPlayer": 288000, "teamDtpsAvg": 335000, "peakDtpsBurst": 860000, "medianClearSec": 1790 },
+        "20": { "teamDps": 1150000, "tankDps": 172000, "healerDps": 40000, "dpsPerPlayer": 312000, "teamDtpsAvg": 380000, "peakDtpsBurst": 990000, "medianClearSec": 1835 },
+        "22": { "teamDps": 1250000, "tankDps": 188000, "healerDps": 45000, "dpsPerPlayer": 339000, "teamDtpsAvg": 430000, "peakDtpsBurst": 1150000, "medianClearSec": 1850 }
+      }
+    },
+    "ruby-life-pools": {
+      "nameCn": "红玉新生法池",
+      "parTimeSeconds": 1800,
+      "levels": {
+        "10": { "teamDps": 810000, "tankDps": 122000, "healerDps": 30000, "dpsPerPlayer": 219000, "teamDtpsAvg": 245000, "peakDtpsBurst": 600000, "medianClearSec": 1590 },
+        "15": { "teamDps": 970000, "tankDps": 146000, "healerDps": 35000, "dpsPerPlayer": 263000, "teamDtpsAvg": 310000, "peakDtpsBurst": 780000, "medianClearSec": 1710 },
+        "18": { "teamDps": 1080000, "tankDps": 162000, "healerDps": 39000, "dpsPerPlayer": 293000, "teamDtpsAvg": 360000, "peakDtpsBurst": 940000, "medianClearSec": 1760 },
+        "20": { "teamDps": 1170000, "tankDps": 178000, "healerDps": 43000, "dpsPerPlayer": 316000, "teamDtpsAvg": 410000, "peakDtpsBurst": 1080000, "medianClearSec": 1790 },
+        "22": { "teamDps": 1270000, "tankDps": 192000, "healerDps": 47000, "dpsPerPlayer": 343000, "teamDtpsAvg": 460000, "peakDtpsBurst": 1250000, "medianClearSec": 1798 }
+      }
+    },
+    "kings-rest": {
+      "nameCn": "诸王之眠",
+      "parTimeSeconds": 2340,
+      "levels": {
+        "10": { "teamDps": 760000, "tankDps": 112000, "healerDps": 28000, "dpsPerPlayer": 206000, "teamDtpsAvg": 235000, "peakDtpsBurst": 570000, "medianClearSec": 2080 },
+        "15": { "teamDps": 920000, "tankDps": 136000, "healerDps": 32000, "dpsPerPlayer": 250000, "teamDtpsAvg": 295000, "peakDtpsBurst": 730000, "medianClearSec": 2210 },
+        "18": { "teamDps": 1030000, "tankDps": 152000, "healerDps": 36000, "dpsPerPlayer": 280000, "teamDtpsAvg": 345000, "peakDtpsBurst": 880000, "medianClearSec": 2270 },
+        "20": { "teamDps": 1120000, "tankDps": 166000, "healerDps": 40000, "dpsPerPlayer": 304000, "teamDtpsAvg": 395000, "peakDtpsBurst": 1020000, "medianClearSec": 2315 },
+        "22": { "teamDps": 1220000, "tankDps": 182000, "healerDps": 44000, "dpsPerPlayer": 331000, "teamDtpsAvg": 445000, "peakDtpsBurst": 1170000, "medianClearSec": 2335 }
+      }
+    },
+    "temple-of-sethraliss": {
+      "nameCn": "塞塔里斯神庙",
+      "parTimeSeconds": 2100,
+      "levels": {
+        "10": { "teamDps": 750000, "tankDps": 110000, "healerDps": 27000, "dpsPerPlayer": 204000, "teamDtpsAvg": 225000, "peakDtpsBurst": 550000, "medianClearSec": 1850 },
+        "15": { "teamDps": 910000, "tankDps": 134000, "healerDps": 31000, "dpsPerPlayer": 248000, "teamDtpsAvg": 285000, "peakDtpsBurst": 710000, "medianClearSec": 1970 },
+        "18": { "teamDps": 1020000, "tankDps": 150000, "healerDps": 35000, "dpsPerPlayer": 278000, "teamDtpsAvg": 335000, "peakDtpsBurst": 860000, "medianClearSec": 2030 },
+        "20": { "teamDps": 1110000, "tankDps": 164000, "healerDps": 39000, "dpsPerPlayer": 302000, "teamDtpsAvg": 385000, "peakDtpsBurst": 1000000, "medianClearSec": 2075 },
+        "22": { "teamDps": 1210000, "tankDps": 180000, "healerDps": 43000, "dpsPerPlayer": 329000, "teamDtpsAvg": 435000, "peakDtpsBurst": 1150000, "medianClearSec": 2095 }
+      }
+    }
+  }
+}

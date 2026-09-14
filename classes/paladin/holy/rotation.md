@@ -38,7 +38,7 @@ tags:
 ```mermaid
 %%{init: {"theme": "dark"}}%%
 flowchart TD
-    A[预警阶段: 预留3-5点神圣能量] --> B[AOE来临前1秒: 开启美德道标 Beacon of Virtue]
+    A["预警阶段: 预留3-5点神圣能量"] --> B["AOE来临前1秒: 开启美德道标 Beacon of Virtue"]
     B --> C[对掉血最严重目标施放神圣震击]
     C --> D[触发晨光射线并在4名队友间建立连线]
     D --> E[施放荣耀圣令/黎明之光延长晨光时间]

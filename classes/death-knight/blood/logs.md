@@ -30,7 +30,7 @@ tags:
   - 套装：灾兆墓骑士 4 件套（胸、头、腿、手）
   - 武器：血骑士战刃（制造双手剑，急速 / 暴击，附魔堕落十字军）
   - 英雄天赋：萨莱茵（San'layn）
-  - 饰品：守护者的沸腾之核（神话 639） + 乌拉泰克的饕餮之心（神话 639）
+  - 饰品：守护者的沸腾之核（神话 639） + 乌拉特克的饕餮之心（神话 639）
 - **核心防御指标**：
   - 骨盾与主动减伤覆盖率 (AM Uptime)：**98.4%**
   - 全程外部治疗需求 (External HPS Required)：**19.8k**（全队治疗压力占比仅 11.2%）
@@ -41,7 +41,7 @@ tags:
 
 ---
 
-### 案例 2：Neroth (Frostmourne - OCE) —— 虚空竞技场 (Voidscar Arena) +22 限时 (26分04秒)
+### 案例 2：Neroth (Frostmourne - OCE) —— 虚空之痕竞技场 (Voidscar Arena) +22 限时 (26分04秒)
 - **WCL 报告直达**：`https://www.warcraftlogs.com/reports/sample-blood-voidscar-22`
 - **英雄天赋**：萨莱茵（San'layn）
 - **全程秒伤 (Tank DPS)**：214.5k
@@ -65,7 +65,7 @@ tags:
 
 ## 2. 团本史诗难度顶尖日志复盘
 
-### 案例：Gorgok (Method - EU) —— 史诗深毒深渊 (The Venomous Abyss) 尾王世界前列击杀
+### 案例：Gorgok (Method - EU) —— 史诗烈毒之渊 (The Venomous Abyss) 尾王世界前列击杀
 - **WCL 报告直达**：`https://www.warcraftlogs.com/reports/sample-blood-raid-lastboss`
 - **装等**：639.5
 - **外部治疗需求 (External HPS Required)**：全团坦克中最低（仅需 18.2k 外部单加）

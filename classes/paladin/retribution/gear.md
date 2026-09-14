@@ -61,11 +61,11 @@ tags:
 | 3 | **Sapling of the Dawnroot** | 12.5% | +19 | 地下城掉落 | 常驻精通与被动神圣附伤 |
 | 4 | **BiS Zul'jin's Guillotine Technique (祖尔金的断头秘技)** | 12.1% | **+21** | 团本掉落 | **版本顶配 BiS 饰品**，斩杀期毁灭伤害 |
 | 5 | **Resonant Bellowstone (共鸣巨吼石)** | 11.7% | +20 | 地下城掉落 | 极佳的 AOE 波次主动爆发 |
-| 6 | **BiS Voracious Heart of Ula'tek (乌拉泰克的饕餮之心)** | 8.5% | **+21** | 团本尾王 | 团本与大秘境冲层顶配 |
+| 6 | **BiS Voracious Heart of Ula'tek (乌拉特克的饕餮之心)** | 8.5% | **+21** | 团本尾王 | 团本与大秘境冲层顶配 |
 
 ### 核心饰品组合（Trinket Combos）
 
-- **高层突破双 BiS 组**：`祖尔金的断头秘技` + `乌拉泰克的饕餮之心`（最高打进 +21 层）。
+- **高层突破双 BiS 组**：`祖尔金的断头秘技` + `乌拉特克的饕餮之心`（最高打进 +21 层）。
 - **平民爆发组合**：`Algeth'ar Puzzle Box` + `Vile Vial of Volatile Venom`（占比约 6.0%）。
 - **常驻波次组合**：`Sapling of the Dawnroot` + `Vile Vial of Volatile Venom`（占比 4.0%）。
 

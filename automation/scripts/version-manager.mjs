@@ -112,6 +112,19 @@ async function runCheck() {
     }
   }
 
+  // 5. 副本攻略时效状态检查
+  console.log("--------------------------------------------------");
+  console.log("副本攻略时效状态列表:");
+  const instanceEntries = Object.entries(config.instanceStatus || {});
+  for (const [instKey, info] of instanceEntries) {
+    const isAligned = info.hotfixAligned === hotfix.versionId;
+    const statusText = info.status === "up-to-date" && isAligned ? "已对齐" : "待审查";
+    console.log(`  - ${instKey.padEnd(28)}: ${statusText} (对齐热修: ${info.hotfixAligned})`);
+    if (info.status !== "up-to-date" || !isAligned) {
+      hasIssue = true;
+    }
+  }
+
   console.log("==================================================");
   if (hasIssue) {
     console.log("检测结果: 存在未对齐或缺失项，请按以上提示补齐。");
@@ -242,6 +255,31 @@ async function runMarkSynced(specKey) {
   console.log(`专精 [${specKey}] 已标记为与热修版本 [${hotfixVersionId}] 对齐完成。`);
 }
 
+async function runMarkSyncedInstance(instKey) {
+  if (!instKey) {
+    console.error("错误: 缺少副本路径参数 (例如: mythic-plus/the-blinding-vale 或 raid/the-venomous-abyss)");
+    process.exit(1);
+  }
+
+  const config = await readVersionConfig();
+  if (!config.instanceStatus) {
+    config.instanceStatus = {};
+  }
+  if (!config.instanceStatus[instKey]) {
+    config.instanceStatus[instKey] = {};
+  }
+
+  const today = new Date().toISOString().split("T")[0];
+  const hotfixVersionId = config.activeHotfix.versionId || `${config.activeHotfix.date}`;
+
+  config.instanceStatus[instKey].status = "up-to-date";
+  config.instanceStatus[instKey].verifiedAt = today;
+  config.instanceStatus[instKey].hotfixAligned = hotfixVersionId;
+
+  await writeVersionConfig(config);
+  console.log(`副本攻略 [${instKey}] 已标记为与热修版本 [${hotfixVersionId}] 对齐完成。`);
+}
+
 async function runTagInfo() {
   const config = await readVersionConfig();
   const hotfix = config.activeHotfix;
@@ -262,6 +300,8 @@ function showHelp() {
   console.log("      录入新蓝贴，生成精细热修ID与Git Tag，并将受影响专精置为待审");
   console.log("  node automation/scripts/version-manager.mjs mark-synced <class/spec>");
   console.log("      标记指定专精的手法与配装已对齐最新热修版本");
+  console.log("  node automation/scripts/version-manager.mjs mark-synced-instance <instance-path>");
+  console.log("      标记指定副本攻略已对齐最新热修版本 (例如: mythic-plus/the-blinding-vale)");
   console.log("  node automation/scripts/version-manager.mjs tag-info");
   console.log("      输出当前建议的精细化 Git Tag 命令");
 }
@@ -280,6 +320,9 @@ switch (command) {
     break;
   case "mark-synced":
     await runMarkSynced(targetArg);
+    break;
+  case "mark-synced-instance":
+    await runMarkSyncedInstance(targetArg);
     break;
   case "tag-info":
     await runTagInfo();

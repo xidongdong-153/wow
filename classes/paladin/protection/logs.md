@@ -42,7 +42,7 @@ tags:
 
 ---
 
-### 案例 2：Dawnshield (Area 52 - US) —— 盲目溪谷 (The Blinding Vale) +20 限时 (25分31秒)
+### 案例 2：Dawnshield (Area 52 - US) —— 夺目谷 (The Blinding Vale) +20 限时 (25分31秒)
 - **WCL 报告直达**：`https://www.warcraftlogs.com/reports/sample-prot-vale-20`
 - **英雄天赋**：铸光者（Lightsmith）
 - **全程秒伤 (Tank DPS)**：158.4k
@@ -65,7 +65,7 @@ tags:
 
 ## 2. 团本史诗难度顶尖日志复盘
 
-### 案例：Lightbringer (Liquid - US) —— 史诗深毒深渊 (The Venomous Abyss) 5 号首领世界首杀
+### 案例：Lightbringer (Liquid - US) —— 史诗烈毒之渊 (The Venomous Abyss) 5 号首领世界首杀
 - **WCL 报告直达**：`https://www.warcraftlogs.com/reports/sample-prot-raid-boss5`
 - **装等**：639.4
 - **承伤平稳度**：全团主抗坦克中承伤曲线最平滑，零猝死风险。

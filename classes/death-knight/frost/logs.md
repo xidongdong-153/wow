@@ -31,14 +31,14 @@ tags:
   - 主手武器：制造单手剑 破法者之刃（暴击 / 精通，附魔堕落十字军）
   - 副手武器：锁缚女神之颌（英雄等级 +21 掉落，附魔冰锋符文）
   - 英雄天赋：死亡使者（Deathbringer）
-  - 饰品：乌拉泰克的饕餮之心（神话 639） + 共鸣风箱石（神话 639）
+  - 饰品：乌拉特克的饕餮之心（神话 639） + 共鸣风箱石（神话 639）
 - **复盘要点**：
   - 45 秒一波冰柱对齐死神印记，在波次聚怪完毕 3 秒内打满全部印记充能层数，瞬间引爆伤害峰值超 1,400k。
   - 致盲冰雨精准打断关键读条怪，反魔法护罩在高压 AOE 阶段转化为全额符文能量，保持持续站桩输出。
 
 ---
 
-### 案例 2：Koldhart (Illidan - US) —— 纳洛拉克之穴 (Den of Nalorakk) +21 限时 (24分18秒)
+### 案例 2：Koldhart (Illidan - US) —— 纳洛拉克的洞穴 (Den of Nalorakk) +21 限时 (24分18秒)
 - **WCL 报告直达**：`https://www.warcraftlogs.com/reports/sample-frost-den-21`
 - **英雄天赋**：死亡使者（Deathbringer）
 - **全程秒伤 (DPS)**：304.8k
@@ -55,7 +55,7 @@ tags:
 
 ## 2. 团本史诗难度顶尖日志复盘
 
-### 案例：Vôstokk (Echo - EU) —— 史诗深毒深渊 (The Venomous Abyss) 3 号首领世界第 2 击杀
+### 案例：Vôstokk (Echo - EU) —— 史诗烈毒之渊 (The Venomous Abyss) 3 号首领世界第 2 击杀
 - **WCL 报告直达**：`https://www.warcraftlogs.com/reports/sample-frost-raid-boss3`
 - **装等**：639.2
 - **单体秒伤 (DPS)**：272.4k

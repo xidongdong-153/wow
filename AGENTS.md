@@ -9,6 +9,7 @@
 ## Repository Structure
 
 - `classes/{class}/{spec}/`：职业专精核心手册。每个专精固定包含 `README.md`（总览/属性）、`talents.md`（天赋/英雄天赋）、`gear.md`（套装/饰品/美化/散件）、`rotation.md`（输出手法/起手/优先级）与 `logs.md`（WCL 顶尖日志精读）。标准模板位于 `classes/_template/`。
+- `instances/{mythic-plus|raid}/`：当季大秘境地下城与史诗团队副本深度攻坚攻略库。每个地下城包含 `README.md`、`route.md`（新人 vs 冲分双轨）、`trash.md`（高危打断）、`bosses.md`（首领时间轴）与 `benchmarks.md`（WCL 限时数据基准）；标准模板位于 `instances/_template/`。
 - `rankings/{mythic-plus|raid}/`：每日职业强度排行榜，按日期 `YYYY-MM-DD.md` 独立归档，记录专精梯队与版本生态。
 - `news/YYYY-MM/`：每日资讯与社区热点，按月份分目录、按日期 `YYYY-MM-DD.md` 独立归档。
 - `patches/{version}/`：暴雪补丁、在线热修日志与职业平衡深度量化分析，按大版本号分目录。

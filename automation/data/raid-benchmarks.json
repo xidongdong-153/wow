@@ -1,0 +1,79 @@
+{
+  "updatedAt": "2026-09-14",
+  "zoneId": 53,
+  "season": "Midnight Season 1",
+  "gameVersion": "12.1.0",
+  "raid": {
+    "slug": "the-venomous-abyss",
+    "nameCn": "烈毒之渊",
+    "difficulty": "Mythic",
+    "bosses": {
+      "acidfang": {
+        "index": 1,
+        "nameCn": "腐蚀之牙 掠夺者",
+        "encounterId": 2811,
+        "enrageSeconds": 420,
+        "requiredRaidDps": 4300000,
+        "medianDpsCheck": 215000,
+        "topDpsCheck": 245000,
+        "requiredRaidHps": 1100000,
+        "peakDtps": 2600000
+      },
+      "vexira": {
+        "index": 2,
+        "nameCn": "孵化女王 维克希拉",
+        "encounterId": 2812,
+        "enrageSeconds": 450,
+        "requiredRaidDps": 4360000,
+        "medianDpsCheck": 218000,
+        "topDpsCheck": 248000,
+        "requiredRaidHps": 1250000,
+        "peakDtps": 2900000
+      },
+      "tormented-amalgam": {
+        "index": 3,
+        "nameCn": "受折磨的聚合体",
+        "encounterId": 2813,
+        "enrageSeconds": 480,
+        "requiredRaidDps": 4440000,
+        "medianDpsCheck": 222000,
+        "topDpsCheck": 252000,
+        "requiredRaidHps": 1320000,
+        "peakDtps": 3200000
+      },
+      "malakor": {
+        "index": 4,
+        "nameCn": "缚影者 马拉考尔",
+        "encounterId": 2814,
+        "enrageSeconds": 510,
+        "requiredRaidDps": 4520000,
+        "medianDpsCheck": 226000,
+        "topDpsCheck": 255000,
+        "requiredRaidHps": 1400000,
+        "peakDtps": 3500000
+      },
+      "srikthir": {
+        "index": 5,
+        "nameCn": "高阶祭司 斯里克希尔",
+        "encounterId": 2815,
+        "enrageSeconds": 540,
+        "requiredRaidDps": 4640000,
+        "medianDpsCheck": 232000,
+        "topDpsCheck": 262000,
+        "requiredRaidHps": 1550000,
+        "peakDtps": 3900000
+      },
+      "ulatek": {
+        "index": 6,
+        "nameCn": "亵渎者 乌拉特克",
+        "encounterId": 2816,
+        "enrageSeconds": 600,
+        "requiredRaidDps": 4800000,
+        "medianDpsCheck": 240000,
+        "topDpsCheck": 275000,
+        "requiredRaidHps": 1750000,
+        "peakDtps": 4400000
+      }
+    }
+  }
+}

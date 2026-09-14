@@ -54,5 +54,67 @@
       "verifiedAt": "2026-09-14",
       "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
     }
+  },
+  "instanceStatus": {
+    "mythic-plus/the-blinding-vale": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "mythic-plus/den-of-nalorakk": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "mythic-plus/voidscar-arena": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "mythic-plus/altar-of-fangs": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "mythic-plus/murder-row": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "mythic-plus/the-dawnspire": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "mythic-plus/amani-crypts": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "mythic-plus/freightrunner-run": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "mythic-plus/ruby-life-pools": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "mythic-plus/kings-rest": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "mythic-plus/temple-of-sethraliss": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    },
+    "raid/the-venomous-abyss": {
+      "verifiedAt": "2026-09-14",
+      "status": "up-to-date",
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+    }
   }
 }
