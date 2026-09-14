@@ -8,7 +8,7 @@
 
 ## Repository Structure
 
-- `classes/{class}/{spec}/`：职业专精核心手册。每个专精固定包含 `README.md`（总览/属性）、`talents.md`（天赋/英雄天赋）、`gear.md`（套装/饰品/美化/散件）、`rotation.md`（输出手法/起手/优先级）与 `logs.md`（WCL 顶尖日志精读）。
+- `classes/{class}/{spec}/`：职业专精核心手册。每个专精固定包含 `README.md`（总览/属性）、`talents.md`（天赋/英雄天赋）、`gear.md`（套装/饰品/美化/散件）、`rotation.md`（输出手法/起手/优先级）与 `logs.md`（WCL 顶尖日志精读）。标准模板位于 `classes/_template/`。
 - `rankings/{mythic-plus|raid}/`：每日职业强度排行榜，按日期 `YYYY-MM-DD.md` 独立归档，记录专精梯队与版本生态。
 - `news/YYYY-MM/`：每日资讯与社区热点，按月份分目录、按日期 `YYYY-MM-DD.md` 独立归档。
 - `patches/{version}/`：暴雪补丁、在线热修日志与职业平衡深度量化分析，按大版本号分目录。
@@ -59,6 +59,23 @@
 - **数据维护原则**：
   - 每日资讯（`news/`）与天梯榜单（`rankings/`）按天新增独立文件，严禁覆盖历史旧日记录。
   - 专精核心手册（`classes/{class}/{spec}/`）保持最新状态，随最新版本改动直接更新原文件。
+
+## Spec Onboarding Rules (新增专精强制标准)
+
+当 Agent 被要求新增职业或专精时，**必须严格按 `classes/_template/` 结构生成全部 5 个文件加 1 张实景截图**，严禁自由发挥漏项：
+
+1. **文件完整度（缺一不可）**：
+   - `README.md`：专精定位、机制核心、大秘境与团本属性优先级及数值均值。
+   - `talents.md`：英雄天赋对比表（必须含大秘境/团本使用率与均伤）、主流机制拆解、通用/专精树核心推荐；顶端必须内嵌实景截图 `![天赋概览](./assets/talents-overview.png)`。
+   - `gear.md`：套装 4 件套各部位穿戴率表、武器排行（区分制造与掉落）、双美化方案、单体饰品榜与双 BiS 组合榜、6 个关键散件速查。
+   - `rotation.md`：资源防溢出原则、大秘境 AOE 爆发循环（**必须包含 Mermaid 暗色流程图**）、团本单体优先级（**必须包含 Mermaid 流程图**）、4 条具体新手易错自查。
+   - `logs.md`：世界前 3 选手拆解、单场高层限时日志的 5 项主要伤害来源占比、史诗团本代表性击杀日志。
+2. **实景截图要求**：
+   - 调用 `ego-browser` 打开 Archon/WCL 天赋页并截图，保存至 `classes/{class}/{spec}/assets/talents-overview.png`。
+3. **全局索引联动**：
+   - 在 `classes/{class}/README.md` 中添加专精导航。
+   - 在根目录 `README.md` 的“快速导航”中增加该专精条目。
+   - 在 `AGENTS.md` 的 `Repository Overview` 更新当前主力维护职业列表。
 
 ## Constraints & Gotchas
 
