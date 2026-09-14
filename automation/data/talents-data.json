@@ -1,0 +1,1346 @@
+{
+  "unholy-death-knight": {
+    "specKey": "unholy-death-knight",
+    "classSlug": "death-knight",
+    "specSlug": "unholy",
+    "nameCn": "邪恶死亡骑士",
+    "specCn": "邪DK",
+    "classCn": "死亡骑士",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "105,632",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SAN'LAYN",
+        "dpsOrHps": "311.3K",
+        "popularity": "57.7%",
+        "nameCn": "萨莱茵"
+      },
+      {
+        "rank": 2,
+        "nameEn": "RIDER OF THE APOCALYPSE",
+        "dpsOrHps": "266.3K",
+        "popularity": "42.2%",
+        "nameCn": "天启骑士"
+      }
+    ],
+    "recommended": {
+      "popularity": "15.5%",
+      "keyLevel": "+18",
+      "metric": "DPS: 271.4k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMjBzyMzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGD",
+      "heroTreeCn": "萨莱茵"
+    }
+  },
+  "frost-death-knight": {
+    "specKey": "frost-death-knight",
+    "classSlug": "death-knight",
+    "specSlug": "frost",
+    "nameCn": "冰霜死亡骑士",
+    "specCn": "冰DK",
+    "classCn": "死亡骑士",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "73,688",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "DEATHBRINGER",
+        "dpsOrHps": "292.9K",
+        "popularity": "98.2%",
+        "nameCn": "死亡使者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "RIDER OF THE APOCALYPSE",
+        "dpsOrHps": "249.0K",
+        "popularity": "1.7%",
+        "nameCn": "天启骑士"
+      }
+    ],
+    "recommended": {
+      "popularity": "77.4%",
+      "keyLevel": "+21",
+      "metric": "DPS: 296.9k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CsPAAAAAAAAAAAAAAAAAAAAAAMAzMMjZYY2mZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAwgB",
+      "heroTreeCn": "死亡使者"
+    }
+  },
+  "blood-death-knight": {
+    "specKey": "blood-death-knight",
+    "classSlug": "death-knight",
+    "specSlug": "blood",
+    "nameCn": "鲜血死亡骑士",
+    "specCn": "血DK",
+    "classCn": "死亡骑士",
+    "role": "tank",
+    "type": "tank",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "478,288",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SAN'LAYN",
+        "dpsOrHps": "197.2K",
+        "popularity": "90.0%",
+        "nameCn": "萨莱茵"
+      },
+      {
+        "rank": 2,
+        "nameEn": "DEATHBRINGER",
+        "dpsOrHps": "152.6K",
+        "popularity": "9.9%",
+        "nameCn": "死亡使者"
+      }
+    ],
+    "recommended": {
+      "popularity": "38.9%",
+      "keyLevel": "+22",
+      "metric": "DPS: 208.0k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZbmZmmZxMzMzMAAAAAmhZmZmZMzYAAzMzMzAAAYgBmxiGLbA2GwGgZMAAAzMAGA",
+      "heroTreeCn": "萨莱茵"
+    }
+  },
+  "retribution-paladin": {
+    "specKey": "retribution-paladin",
+    "classSlug": "paladin",
+    "specSlug": "retribution",
+    "nameCn": "惩戒圣骑士",
+    "specCn": "惩戒骑",
+    "classCn": "圣骑士",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "310,614",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "HERALD OF THE SUN",
+        "dpsOrHps": "303.8K",
+        "popularity": "82.5%",
+        "nameCn": "太阳先锋"
+      },
+      {
+        "rank": 2,
+        "nameEn": "TEMPLAR",
+        "dpsOrHps": "238.4K",
+        "popularity": "17.4%",
+        "nameCn": "圣殿骑士"
+      }
+    ],
+    "recommended": {
+      "popularity": "44.5%",
+      "keyLevel": "+21",
+      "metric": "DPS: 301.6k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmysMDzM2Gz2wMbzYmxYYGLsBgZZ2mZmtGAAAYBwAAmhBmxMzGwMzwYYwA",
+      "heroTreeCn": "太阳先锋"
+    }
+  },
+  "protection-paladin": {
+    "specKey": "protection-paladin",
+    "classSlug": "paladin",
+    "specSlug": "protection",
+    "nameCn": "防护圣骑士",
+    "specCn": "防骑",
+    "classCn": "圣骑士",
+    "role": "tank",
+    "type": "tank",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "279,438",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "LIGHTSMITH",
+        "dpsOrHps": "154.3K",
+        "popularity": "79.4%",
+        "nameCn": "铸光者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "TEMPLAR",
+        "dpsOrHps": "130.8K",
+        "popularity": "20.5%",
+        "nameCn": "圣殿骑士"
+      }
+    ],
+    "recommended": {
+      "popularity": "15.2%",
+      "keyLevel": "+20",
+      "metric": "DPS: 153.9k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CIEAAAAAAAAAAAAAAAAAAAAAAsZYWGzYmZmZW2GjZZWmlZMAADAAAAAAaamZZmxMDDbtBgBGwMYDAAAAmZW2WaZmxilFmBwgZ2wAgZGAMzAGL",
+      "heroTreeCn": "铸光者"
+    }
+  },
+  "holy-paladin": {
+    "specKey": "holy-paladin",
+    "classSlug": "paladin",
+    "specSlug": "holy",
+    "nameCn": "神圣圣骑士",
+    "specCn": "奶骑",
+    "classCn": "圣骑士",
+    "role": "healer",
+    "type": "healer",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "396,441",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "HERALD OF THE SUN",
+        "dpsOrHps": "165.5K",
+        "popularity": "69.9%",
+        "nameCn": "太阳先锋"
+      },
+      {
+        "rank": 2,
+        "nameEn": "LIGHTSMITH",
+        "dpsOrHps": "178.0K",
+        "popularity": "30.0%",
+        "nameCn": "铸光者"
+      }
+    ],
+    "recommended": {
+      "popularity": "25.0%",
+      "keyLevel": "+19",
+      "metric": "HPS: 157.6k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CEEAAAAAAAAAAAAAAAAAAAAAAAAAALAwMAAD2GzMzMjZmZBmZYZsZmFjmYYMzMMmtMAMAsB2YZmZmlZbmZ2aAAAAWAGsZgZMDzAAYmhZMGGA",
+      "heroTreeCn": "太阳先锋"
+    }
+  },
+  "arms-warrior": {
+    "specKey": "arms-warrior",
+    "classSlug": "warrior",
+    "specSlug": "arms",
+    "nameCn": "武器战士",
+    "specCn": "武器战",
+    "classCn": "战士",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "385,524",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SLAYER",
+        "dpsOrHps": "303.2K",
+        "popularity": "99.8%",
+        "nameCn": "屠戮者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "COLOSSUS",
+        "dpsOrHps": "243.8K",
+        "popularity": "0.1%",
+        "nameCn": "巨神"
+      }
+    ],
+    "recommended": {
+      "popularity": "60.9%",
+      "keyLevel": "+22",
+      "metric": "DPS: 309.1k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphZGmZbZmZmZYGzMAAAAAGLzMwEGLbDsAGwMMBmBbgZGGGMLzsNAzMAYGGA",
+      "heroTreeCn": "屠戮者"
+    }
+  },
+  "fury-warrior": {
+    "specKey": "fury-warrior",
+    "classSlug": "warrior",
+    "specSlug": "fury",
+    "nameCn": "狂暴战士",
+    "specCn": "狂暴战",
+    "classCn": "战士",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "44,764",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SLAYER",
+        "dpsOrHps": "289.8K",
+        "popularity": "74.7%",
+        "nameCn": "屠戮者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "MOUNTAIN THANE",
+        "dpsOrHps": "261.3K",
+        "popularity": "25.2%",
+        "nameCn": "山丘领主"
+      }
+    ],
+    "recommended": {
+      "popularity": "34.9%",
+      "keyLevel": "+20",
+      "metric": "DPS: 285.2k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjhZ2WmZmZmZmxMzMzMjZWmxYmxsZmZGAAIGLbDsAGwMMBmhNgZGGAAgZGGzywYwYA",
+      "heroTreeCn": "屠戮者"
+    }
+  },
+  "protection-warrior": {
+    "specKey": "protection-warrior",
+    "classSlug": "warrior",
+    "specSlug": "protection",
+    "nameCn": "防护战士",
+    "specCn": "防战",
+    "classCn": "战士",
+    "role": "tank",
+    "type": "tank",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "107,332",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "MOUNTAIN THANE",
+        "dpsOrHps": "158.3K",
+        "popularity": "96.5%",
+        "nameCn": "山丘领主"
+      },
+      {
+        "rank": 2,
+        "nameEn": "COLOSSUS",
+        "dpsOrHps": "164.7K",
+        "popularity": "3.4%",
+        "nameCn": "巨神"
+      }
+    ],
+    "recommended": {
+      "popularity": "16.0%",
+      "keyLevel": "+19",
+      "metric": "DPS: 153.6k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxoxMGWMzMzYGmZAAAAwyMDwMGgB2glFjGzAYWwMbAzMDmNAYmBAgZgxA",
+      "heroTreeCn": "山丘领主"
+    }
+  },
+  "assassination-rogue": {
+    "specKey": "assassination-rogue",
+    "classSlug": "rogue",
+    "specSlug": "assassination",
+    "nameCn": "奇袭潜行者",
+    "specCn": "奇袭贼",
+    "classCn": "潜行者",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "142,288",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "FATEBOUND",
+        "dpsOrHps": "319.2K",
+        "popularity": "72.9%",
+        "nameCn": "命运宿敌"
+      },
+      {
+        "rank": 2,
+        "nameEn": "DEATHSTALKER",
+        "dpsOrHps": "296.1K",
+        "popularity": "27.0%",
+        "nameCn": "死亡行者"
+      }
+    ],
+    "recommended": {
+      "popularity": "11.5%",
+      "keyLevel": "+20",
+      "metric": "DPS: 328.1k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAotlZmZmZmxYZmZmtZWmZmHwMmZMGmZMGADsAzY0Y2AsNgNAwMzYMA",
+      "heroTreeCn": "命运宿敌"
+    }
+  },
+  "outlaw-rogue": {
+    "specKey": "outlaw-rogue",
+    "classSlug": "rogue",
+    "specSlug": "outlaw",
+    "nameCn": "狂徒潜行者",
+    "specCn": "狂徒贼",
+    "classCn": "潜行者",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "40,699",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "TRICKSTER",
+        "dpsOrHps": "300.8K",
+        "popularity": "99.6%",
+        "nameCn": "欺诈者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "FATEBOUND",
+        "dpsOrHps": "209.3K",
+        "popularity": "0.3%",
+        "nameCn": "命运宿敌"
+      }
+    ],
+    "recommended": {
+      "popularity": "67.1%",
+      "keyLevel": "+20",
+      "metric": "DPS: 299.5k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAgZbZmZGmZmZWMzMbDAAAAjBAjZxwADMLsQLsxAMzgBG",
+      "heroTreeCn": "欺诈者"
+    }
+  },
+  "subtlety-rogue": {
+    "specKey": "subtlety-rogue",
+    "classSlug": "rogue",
+    "specSlug": "subtlety",
+    "nameCn": "敏锐潜行者",
+    "specCn": "敏锐贼",
+    "classCn": "潜行者",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "61,027",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "DEATHSTALKER",
+        "dpsOrHps": "300.6K",
+        "popularity": "90.0%",
+        "nameCn": "死亡行者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "TRICKSTER",
+        "dpsOrHps": "270.3K",
+        "popularity": "9.9%",
+        "nameCn": "欺诈者"
+      }
+    ],
+    "recommended": {
+      "popularity": "42.8%",
+      "keyLevel": "+20",
+      "metric": "DPS: 293.5k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDjZmZmZGGbzYmZbZmZmZmZMYMz2AAAAwgxsYWGYALglhJwsADzMAzYA",
+      "heroTreeCn": "死亡行者"
+    }
+  },
+  "arcane-mage": {
+    "specKey": "arcane-mage",
+    "classSlug": "mage",
+    "specSlug": "arcane",
+    "nameCn": "奥术法师",
+    "specCn": "奥法",
+    "classCn": "法师",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "625,771",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SUNFURY",
+        "dpsOrHps": "311.8K",
+        "popularity": "99.6%",
+        "nameCn": "日怒"
+      },
+      {
+        "rank": 2,
+        "nameEn": "SPELLSLINGER",
+        "dpsOrHps": "266.5K",
+        "popularity": "0.3%",
+        "nameCn": "魔导士"
+      }
+    ],
+    "recommended": {
+      "popularity": "59.6%",
+      "keyLevel": "+21",
+      "metric": "DPS: 303.8k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZQzMGAAAGAwMz0sssMDAgNAA2gZmhNLzYmlZMmZmZGWYmZmZGAgBAAYAmZAGAMMzM",
+      "heroTreeCn": "日怒"
+    }
+  },
+  "fire-mage": {
+    "specKey": "fire-mage",
+    "classSlug": "mage",
+    "specSlug": "fire",
+    "nameCn": "火焰法师",
+    "specCn": "火法",
+    "classCn": "法师",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "10,383",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SUNFURY",
+        "dpsOrHps": "288.1K",
+        "popularity": "97.5%",
+        "nameCn": "日怒"
+      },
+      {
+        "rank": 2,
+        "nameEn": "FROSTFIRE",
+        "dpsOrHps": "230.2K",
+        "popularity": "2.4%",
+        "nameCn": "霜火"
+      }
+    ],
+    "recommended": {
+      "popularity": "18.3%",
+      "keyLevel": "+18",
+      "metric": "DPS: 281.8k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzMAAAGAwMz0sstNDAwmZmx2MzMzYDAAAAALmZmZAAgZMmZmZMzsNAMzAMGwMMGA",
+      "heroTreeCn": "日怒"
+    }
+  },
+  "frost-mage": {
+    "specKey": "frost-mage",
+    "classSlug": "mage",
+    "specSlug": "frost",
+    "nameCn": "冰霜法师",
+    "specCn": "冰法",
+    "classCn": "法师",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "27,272",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SPELLSLINGER",
+        "dpsOrHps": "237.4K",
+        "popularity": "75.5%",
+        "nameCn": "魔导士"
+      },
+      {
+        "rank": 2,
+        "nameEn": "FROSTFIRE",
+        "dpsOrHps": "253.2K",
+        "popularity": "24.4%",
+        "nameCn": "霜火"
+      }
+    ],
+    "recommended": {
+      "popularity": "23.2%",
+      "keyLevel": "+17",
+      "metric": "DPS: 231.5k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAALAstNmZmBz2wYmxGAAAzsBMDjBMDGA",
+      "heroTreeCn": "魔导士"
+    }
+  },
+  "elemental-shaman": {
+    "specKey": "elemental-shaman",
+    "classSlug": "shaman",
+    "specSlug": "elemental",
+    "nameCn": "元素萨满祭司",
+    "specCn": "元素萨",
+    "classCn": "萨满祭司",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "343,271",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "FARSEER",
+        "dpsOrHps": "319.7K",
+        "popularity": "99.4%",
+        "nameCn": "先知"
+      },
+      {
+        "rank": 2,
+        "nameEn": "STORMBRINGER",
+        "dpsOrHps": "203.9K",
+        "popularity": "0.5%",
+        "nameCn": "风暴使者"
+      }
+    ],
+    "recommended": {
+      "popularity": "26.5%",
+      "keyLevel": "+21",
+      "metric": "DPS: 324.8k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZbZMmhZAAAAgFzsBDYAzGTgZBAmlZmZM2WMtxMjxyMmZegxsMLzMLDjZmFAgBAmZMMMA",
+      "heroTreeCn": "先知"
+    }
+  },
+  "enhancement-shaman": {
+    "specKey": "enhancement-shaman",
+    "classSlug": "shaman",
+    "specSlug": "enhancement",
+    "nameCn": "增强萨满祭司",
+    "specCn": "增强萨",
+    "classCn": "萨满祭司",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "67,192",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "STORMBRINGER",
+        "dpsOrHps": "288.5K",
+        "popularity": "98.8%",
+        "nameCn": "风暴使者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "TOTEMIC",
+        "dpsOrHps": "234.9K",
+        "popularity": "1.1%",
+        "nameCn": "图腾巨擘"
+      }
+    ],
+    "recommended": {
+      "popularity": "83.7%",
+      "keyLevel": "+20",
+      "metric": "DPS: 288.7k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYswMz2YZmZmZwCzAAMDjZGmJwMDGMGA",
+      "heroTreeCn": "风暴使者"
+    }
+  },
+  "restoration-shaman": {
+    "specKey": "restoration-shaman",
+    "classSlug": "shaman",
+    "specSlug": "restoration",
+    "nameCn": "恢复萨满祭司",
+    "specCn": "奶萨",
+    "classCn": "萨满祭司",
+    "role": "healer",
+    "type": "healer",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "328,559",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "TOTEMIC",
+        "dpsOrHps": "156.2K",
+        "popularity": "97.7%",
+        "nameCn": "图腾巨擘"
+      },
+      {
+        "rank": 2,
+        "nameEn": "FARSEER",
+        "dpsOrHps": "133.1K",
+        "popularity": "2.2%",
+        "nameCn": "先知"
+      }
+    ],
+    "recommended": {
+      "popularity": "22.7%",
+      "keyLevel": "+19",
+      "metric": "HPS: 151.0k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjZgFYDmxiGbDgZgNmZGMbzMGNbLzMbmxswixMjhlZZAAAgZmBzMAwgZA",
+      "heroTreeCn": "图腾巨擘"
+    }
+  },
+  "balance-druid": {
+    "specKey": "balance-druid",
+    "classSlug": "druid",
+    "specSlug": "balance",
+    "nameCn": "平衡德鲁伊",
+    "specCn": "鸟德",
+    "classCn": "德鲁伊",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "140,339",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "ELUNE'S CHOSEN",
+        "dpsOrHps": "285.1K",
+        "popularity": "98.8%",
+        "nameCn": "艾露恩之选"
+      },
+      {
+        "rank": 2,
+        "nameEn": "KEEPER OF THE GROVE",
+        "dpsOrHps": "227.6K",
+        "popularity": "1.1%",
+        "nameCn": "丛林守护者"
+      }
+    ],
+    "recommended": {
+      "popularity": "27.1%",
+      "keyLevel": "+21",
+      "metric": "DPS: 302.1k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWYmxGLzsMmZM2wwAM22mZwY2GATAAAAWMzMzMYzwYMAAMzglBA",
+      "heroTreeCn": "艾露恩之选"
+    }
+  },
+  "feral-druid": {
+    "specKey": "feral-druid",
+    "classSlug": "druid",
+    "specSlug": "feral",
+    "nameCn": "野性德鲁伊",
+    "specCn": "野德",
+    "classCn": "德鲁伊",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "51,046",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "DRUID OF THE CLAW",
+        "dpsOrHps": "312.7K",
+        "popularity": "90.7%",
+        "nameCn": "利爪德鲁伊"
+      },
+      {
+        "rank": 2,
+        "nameEn": "WILDSTALKER",
+        "dpsOrHps": "264.0K",
+        "popularity": "9.2%",
+        "nameCn": "荒野追猎者"
+      }
+    ],
+    "recommended": {
+      "popularity": "43.9%",
+      "keyLevel": "+21",
+      "metric": "DPS: 314.2k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
+      "heroTreeCn": "利爪德鲁伊"
+    }
+  },
+  "guardian-druid": {
+    "specKey": "guardian-druid",
+    "classSlug": "druid",
+    "specSlug": "guardian",
+    "nameCn": "守护德鲁伊",
+    "specCn": "熊德",
+    "classCn": "德鲁伊",
+    "role": "tank",
+    "type": "tank",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "188,216",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "ELUNE'S CHOSEN",
+        "dpsOrHps": "154.1K",
+        "popularity": "99.1%",
+        "nameCn": "艾露恩之选"
+      },
+      {
+        "rank": 2,
+        "nameEn": "DRUID OF THE CLAW",
+        "dpsOrHps": "129.4K",
+        "popularity": "0.8%",
+        "nameCn": "利爪德鲁伊"
+      }
+    ],
+    "recommended": {
+      "popularity": "22.0%",
+      "keyLevel": "+21",
+      "metric": "DPS: 161.0k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYmZMziZxMmZZZgZzwoJamZWmZmZmlxMAAAAAAMjNDYZbmBjZZAMBAAAshZGgFjhBsYBgZGAD",
+      "heroTreeCn": "艾露恩之选"
+    }
+  },
+  "restoration-druid": {
+    "specKey": "restoration-druid",
+    "classSlug": "druid",
+    "specSlug": "restoration",
+    "nameCn": "恢复德鲁伊",
+    "specCn": "奶德",
+    "classCn": "德鲁伊",
+    "role": "healer",
+    "type": "healer",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "85,695",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "WILDSTALKER",
+        "dpsOrHps": "159.3K",
+        "popularity": "89.3%",
+        "nameCn": "荒野追猎者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "KEEPER OF THE GROVE",
+        "dpsOrHps": "144.0K",
+        "popularity": "10.6%",
+        "nameCn": "丛林守护者"
+      }
+    ],
+    "recommended": {
+      "popularity": "14.4%",
+      "keyLevel": "+19",
+      "metric": "HPS: 152.8k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsMoZzw0MjZwsMzMzMLzwMAAAAAAAwAAAAAgZbmtmtZWsxYmBmBoZAAmZAYA",
+      "heroTreeCn": "荒野追猎者"
+    }
+  },
+  "demonology-warlock": {
+    "specKey": "demonology-warlock",
+    "classSlug": "warlock",
+    "specSlug": "demonology",
+    "nameCn": "恶魔学识术士",
+    "specCn": "恶魔术",
+    "classCn": "术士",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "349,067",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "DIABOLIST",
+        "dpsOrHps": "330.1K",
+        "popularity": "99.8%",
+        "nameCn": "恶魔修习者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "SOUL HARVESTER",
+        "dpsOrHps": "219.4K",
+        "popularity": "0.1%",
+        "nameCn": "灵魂收割者"
+      }
+    ],
+    "recommended": {
+      "popularity": "33.6%",
+      "keyLevel": "+20",
+      "metric": "DPS: 317.7k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CoQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
+      "heroTreeCn": "恶魔修习者"
+    }
+  },
+  "destruction-warlock": {
+    "specKey": "destruction-warlock",
+    "classSlug": "warlock",
+    "specSlug": "destruction",
+    "nameCn": "毁灭术士",
+    "specCn": "毁灭术",
+    "classCn": "术士",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "23,600",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "DIABOLIST",
+        "dpsOrHps": "276.3K",
+        "popularity": "83.4%",
+        "nameCn": "恶魔修习者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "HELLCALLER",
+        "dpsOrHps": "247.2K",
+        "popularity": "16.5%",
+        "nameCn": "唤魔者"
+      }
+    ],
+    "recommended": {
+      "popularity": "20.3%",
+      "keyLevel": "+19",
+      "metric": "DPS: 281.3k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CsQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzysZmZmFzMLLjBAAzYMzMLgxMGWgB2GWoxCDAAMGMAAzMAjZMjNAAAzMzAAgZYA",
+      "heroTreeCn": "恶魔修习者"
+    }
+  },
+  "affliction-warlock": {
+    "specKey": "affliction-warlock",
+    "classSlug": "warlock",
+    "specSlug": "affliction",
+    "nameCn": "痛苦术士",
+    "specCn": "痛苦术",
+    "classCn": "术士",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "28,500",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SOUL HARVESTER",
+        "dpsOrHps": "297.5K",
+        "popularity": "91.5%",
+        "nameCn": "灵魂收割者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "HELLCALLER",
+        "dpsOrHps": "261.0K",
+        "popularity": "8.4%",
+        "nameCn": "唤魔者"
+      }
+    ],
+    "recommended": {
+      "popularity": "29.6%",
+      "keyLevel": "+19",
+      "metric": "DPS: 294.6k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMLmZ2GDAM2WGYADYG2CMsNAAAMDAAgZmxMmZ2GjZMmZmZMMzMDAwAG",
+      "heroTreeCn": "灵魂收割者"
+    }
+  },
+  "beast-mastery-hunter": {
+    "specKey": "beast-mastery-hunter",
+    "classSlug": "hunter",
+    "specSlug": "beast-mastery",
+    "nameCn": "野兽控制猎人",
+    "specCn": "兽王猎",
+    "classCn": "猎人",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "337,019",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "PACK LEADER",
+        "dpsOrHps": "292.7K",
+        "popularity": "99.0%",
+        "nameCn": "兽群领袖"
+      },
+      {
+        "rank": 2,
+        "nameEn": "DARK RANGER",
+        "dpsOrHps": "242.5K",
+        "popularity": "0.9%",
+        "nameCn": "黑暗游侠"
+      }
+    ],
+    "recommended": {
+      "popularity": "28.1%",
+      "keyLevel": "+19",
+      "metric": "DPS: 284.0k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZMjZYZMNDAAAAAAAA8AjxAmZDAzCYbAYA",
+      "heroTreeCn": "兽群领袖"
+    }
+  },
+  "marksmanship-hunter": {
+    "specKey": "marksmanship-hunter",
+    "classSlug": "hunter",
+    "specSlug": "marksmanship",
+    "nameCn": "射击猎人",
+    "specCn": "射击猎",
+    "classCn": "猎人",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "42,641",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SENTINEL",
+        "dpsOrHps": "260.4K",
+        "popularity": "97.3%",
+        "nameCn": "哨兵"
+      },
+      {
+        "rank": 2,
+        "nameEn": "DARK RANGER",
+        "dpsOrHps": "248.0K",
+        "popularity": "2.6%",
+        "nameCn": "黑暗游侠"
+      }
+    ],
+    "recommended": {
+      "popularity": "30.3%",
+      "keyLevel": "+18",
+      "metric": "DPS: 255.6k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/C4PAAAAAAAAAAAAAAAAAAAAAAwGMwMGNWGAzgNAAAAAAAAwMmZmx2MmZGzwyYaGDmltlZmZmZmZmZhZWGmBAAwDMGDAzYDMAbMz2MG",
+      "heroTreeCn": "哨兵"
+    }
+  },
+  "survival-hunter": {
+    "specKey": "survival-hunter",
+    "classSlug": "hunter",
+    "specSlug": "survival",
+    "nameCn": "生存猎人",
+    "specCn": "生存猎",
+    "classCn": "猎人",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "21,800",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SENTINEL",
+        "dpsOrHps": "268.1K",
+        "popularity": "66.5%",
+        "nameCn": "哨兵"
+      },
+      {
+        "rank": 2,
+        "nameEn": "PACK LEADER",
+        "dpsOrHps": "273.2K",
+        "popularity": "33.4%",
+        "nameCn": "兽群领袖"
+      }
+    ],
+    "recommended": {
+      "popularity": "21.1%",
+      "keyLevel": "+19",
+      "metric": "DPS: 256.4k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMjZbeAAAAAAAzYmZGbzYMjZYZMNDAAAwAAjllZGLYmZ8AjxAwM2AjxMzmBA",
+      "heroTreeCn": "哨兵"
+    }
+  },
+  "windwalker-monk": {
+    "specKey": "windwalker-monk",
+    "classSlug": "monk",
+    "specSlug": "windwalker",
+    "nameCn": "踏风武僧",
+    "specCn": "踏风",
+    "classCn": "武僧",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "91,834",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "CONDUIT OF THE CELESTIALS",
+        "dpsOrHps": "328.8K",
+        "popularity": "50.7%",
+        "nameCn": "天神御尊"
+      }
+    ],
+    "recommended": {
+      "popularity": "28.8%",
+      "keyLevel": "+18",
+      "metric": "DPS: 266.3k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmhhBMjhZmZGmNMDzyMBAsYmtZmxMzMDAgNAYWmlmZmZBgZgZGAYZMgBM",
+      "heroTreeCn": "天神御尊"
+    }
+  },
+  "brewmaster-monk": {
+    "specKey": "brewmaster-monk",
+    "classSlug": "monk",
+    "specSlug": "brewmaster",
+    "nameCn": "酒仙武僧",
+    "specCn": "酒仙",
+    "classCn": "武僧",
+    "role": "tank",
+    "type": "tank",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "75,911",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "MASTER OF HARMONY",
+        "dpsOrHps": "150.8K",
+        "popularity": "78.2%",
+        "nameCn": "祥和大师"
+      }
+    ],
+    "recommended": {
+      "popularity": "35.1%",
+      "keyLevel": "+21",
+      "metric": "DPS: 157.9k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2gxMzMDz2YmxYZYZ7B22mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
+      "heroTreeCn": "祥和大师"
+    }
+  },
+  "mistweaver-monk": {
+    "specKey": "mistweaver-monk",
+    "classSlug": "monk",
+    "specSlug": "mistweaver",
+    "nameCn": "织雾武僧",
+    "specCn": "织雾",
+    "classCn": "武僧",
+    "role": "healer",
+    "type": "healer",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "93,720",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "CONDUIT OF THE CELESTIALS",
+        "dpsOrHps": "162.8K",
+        "popularity": "95.9%",
+        "nameCn": "天神御尊"
+      },
+      {
+        "rank": 2,
+        "nameEn": "MASTER OF HARMONY",
+        "dpsOrHps": "151.7K",
+        "popularity": "4.0%",
+        "nameCn": "祥和大师"
+      }
+    ],
+    "recommended": {
+      "popularity": "15.6%",
+      "keyLevel": "+21",
+      "metric": "HPS: 173.5k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYMNjZAjxAGzMzMMbYGmlZCAAAAAAWsNz2sNzAAAwYAmBMALyYGA",
+      "heroTreeCn": "天神御尊"
+    }
+  },
+  "shadow-priest": {
+    "specKey": "shadow-priest",
+    "classSlug": "priest",
+    "specSlug": "shadow",
+    "nameCn": "暗影牧师",
+    "specCn": "暗牧",
+    "classCn": "牧师",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "89,331",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "ARCHON",
+        "dpsOrHps": "266.8K",
+        "popularity": "62.3%",
+        "nameCn": "执政官"
+      },
+      {
+        "rank": 2,
+        "nameEn": "VOIDWEAVER",
+        "dpsOrHps": "272.8K",
+        "popularity": "37.6%",
+        "nameCn": "虚空编织者"
+      }
+    ],
+    "recommended": {
+      "popularity": "37.5%",
+      "keyLevel": "+19",
+      "metric": "DPS: 267.0k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGbID2mpBYGgZ2MDzmBgMGLAYmBMzMzMmNmZbZAmBDA",
+      "heroTreeCn": "执政官"
+    }
+  },
+  "holy-priest": {
+    "specKey": "holy-priest",
+    "classSlug": "priest",
+    "specSlug": "holy",
+    "nameCn": "神圣牧师",
+    "specCn": "神牧",
+    "classCn": "牧师",
+    "role": "healer",
+    "type": "healer",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "220,617",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "ORACLE",
+        "dpsOrHps": "171.8K",
+        "popularity": "95.8%",
+        "nameCn": "神谕者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "ARCHON",
+        "dpsOrHps": "135.4K",
+        "popularity": "4.1%",
+        "nameCn": "执政官"
+      }
+    ],
+    "recommended": {
+      "popularity": "14.5%",
+      "keyLevel": "+20",
+      "metric": "HPS: 163.8k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAMzMmlxMjZGDzALzMzMAAAAGzsMDmZmx2MmZAMTBwMLYIMmtBYMwiZmBAzYmxYwMAzMDYA",
+      "heroTreeCn": "神谕者"
+    }
+  },
+  "discipline-priest": {
+    "specKey": "discipline-priest",
+    "classSlug": "priest",
+    "specSlug": "discipline",
+    "nameCn": "戒律牧师",
+    "specCn": "戒律牧",
+    "classCn": "牧师",
+    "role": "healer",
+    "type": "healer",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "40,585",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "ORACLE",
+        "dpsOrHps": "149.5K",
+        "popularity": "86.7%",
+        "nameCn": "神谕者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "VOIDWEAVER",
+        "dpsOrHps": "137.4K",
+        "popularity": "13.2%",
+        "nameCn": "虚空编织者"
+      }
+    ],
+    "recommended": {
+      "popularity": "28.0%",
+      "keyLevel": "+19",
+      "metric": "HPS: 149.7k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CAQAAAAAAAAAAAAAAAAAAAAAAADsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAgxYZGMzMDGzMGbmmJGgZWwQYMLDwYwCAAMmZmxgZAmZGgZA",
+      "heroTreeCn": "神谕者"
+    }
+  },
+  "havoc-demon-hunter": {
+    "specKey": "havoc-demon-hunter",
+    "classSlug": "demon-hunter",
+    "specSlug": "havoc",
+    "nameCn": "浩劫恶魔猎手",
+    "specCn": "浩劫",
+    "classCn": "恶魔猎手",
+    "role": "dps",
+    "type": "melee",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "109,739",
+    "heroTalents": [
+      {
+        "rank": 2,
+        "nameEn": "ALDRACHI REAVER",
+        "dpsOrHps": "261.2K",
+        "popularity": "0.8%",
+        "nameCn": "奥达奇收割者"
+      }
+    ],
+    "recommended": {
+      "popularity": "51.9%",
+      "keyLevel": "+20",
+      "metric": "DPS: 291.2k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmxYmMmZAAAAAAAzixsNDzMwMWmZmZYmBzyALzmZMMLMNmZGzYDAAAYAAAAMzgBAAAgB",
+      "heroTreeCn": "奥达奇收割者"
+    }
+  },
+  "vengeance-demon-hunter": {
+    "specKey": "vengeance-demon-hunter",
+    "classSlug": "demon-hunter",
+    "specSlug": "vengeance",
+    "nameCn": "复仇恶魔猎手",
+    "specCn": "复仇",
+    "classCn": "恶魔猎手",
+    "role": "tank",
+    "type": "tank",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "101,357",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "ANNIHILATOR",
+        "dpsOrHps": "157.7K",
+        "popularity": "96.8%",
+        "nameCn": "ANNIHILATOR"
+      },
+      {
+        "rank": 2,
+        "nameEn": "ALDRACHI REAVER",
+        "dpsOrHps": "133.0K",
+        "popularity": "3.1%",
+        "nameCn": "奥达奇收割者"
+      }
+    ],
+    "recommended": {
+      "popularity": "26.3%",
+      "keyLevel": "+19",
+      "metric": "DPS: 147.4k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMwiZMDmZMzYmHYmZGDzMzM2GzYMmBAAAAAAAgZmxGAAAAGYmZmZWabmZGAYAAAAMA",
+      "heroTreeCn": "ANNIHILATOR"
+    }
+  },
+  "devastation-evoker": {
+    "specKey": "devastation-evoker",
+    "classSlug": "evoker",
+    "specSlug": "devastation",
+    "nameCn": "湮灭唤魔师",
+    "specCn": "湮灭龙",
+    "classCn": "唤魔师",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "49,316",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SCALECOMMANDER",
+        "dpsOrHps": "275.0K",
+        "popularity": "98.2%",
+        "nameCn": "鳞长"
+      },
+      {
+        "rank": 2,
+        "nameEn": "FLAMESHAPER",
+        "dpsOrHps": "232.7K",
+        "popularity": "1.7%",
+        "nameCn": "塑焰者"
+      }
+    ],
+    "recommended": {
+      "popularity": "28.3%",
+      "keyLevel": "+19",
+      "metric": "DPS: 282.3k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZAMzwMYGzYMTjZmpZMz2MmZmZmZmZGgxMGzMLzMDMwYwGsMGN2GAzAwGmBzMYYA",
+      "heroTreeCn": "鳞长"
+    }
+  },
+  "augmentation-evoker": {
+    "specKey": "augmentation-evoker",
+    "classSlug": "evoker",
+    "specSlug": "augmentation",
+    "nameCn": "增辉唤魔师",
+    "specCn": "增辉龙",
+    "classCn": "唤魔师",
+    "role": "dps",
+    "type": "ranged",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "11,336",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "SCALECOMMANDER",
+        "dpsOrHps": "212.2K",
+        "popularity": "51.2%",
+        "nameCn": "鳞长"
+      },
+      {
+        "rank": 2,
+        "nameEn": "CHRONOWARDEN",
+        "dpsOrHps": "227.7K",
+        "popularity": "48.7%",
+        "nameCn": "时空守卫"
+      }
+    ],
+    "recommended": {
+      "popularity": "26.0%",
+      "keyLevel": "+18",
+      "metric": "DPS: 223.9k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbzMzgZYmZZGzMjZ2AAAAAAAAwMMzAjpGzMzAAAAgZmZMmZWGzMwMMwYGLsADMDDNwCGzMzAAD",
+      "heroTreeCn": "鳞长"
+    }
+  },
+  "preservation-evoker": {
+    "specKey": "preservation-evoker",
+    "classSlug": "evoker",
+    "specSlug": "preservation",
+    "nameCn": "恩护唤魔师",
+    "specCn": "奶龙",
+    "classCn": "唤魔师",
+    "role": "healer",
+    "type": "healer",
+    "fetchedAt": "2026-09-14",
+    "totalParses": "66,016",
+    "heroTalents": [
+      {
+        "rank": 1,
+        "nameEn": "FLAMESHAPER",
+        "dpsOrHps": "159.5K",
+        "popularity": "95.7%",
+        "nameCn": "塑焰者"
+      },
+      {
+        "rank": 2,
+        "nameEn": "CHRONOWARDEN",
+        "dpsOrHps": "144.1K",
+        "popularity": "4.2%",
+        "nameCn": "时空守卫"
+      }
+    ],
+    "recommended": {
+      "popularity": "39.7%",
+      "keyLevel": "+19",
+      "metric": "HPS: 150.4k",
+      "wowheadUrl": "https://www.wowhead.com/talent-calc/blizzard/CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYGzMjhZi5BmBAAAMzMTGzMzDMLjZAgxMwCYDMDTgNGbGmBYmhB",
+      "heroTreeCn": "塑焰者"
+    }
+  }
+}

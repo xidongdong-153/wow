@@ -60,7 +60,6 @@ export const SPEC_MAP = {
 
   // 恶魔猎手 Demon Hunter
   "havoc-demon-hunter": { nameCn: "浩劫恶魔猎手", specCn: "浩劫", classCn: "恶魔猎手", role: "dps", type: "melee", classSlug: "demon-hunter", specSlug: "havoc" },
-  "devourer-demon-hunter": { nameCn: "噬灭恶魔猎手", specCn: "噬灭", classCn: "恶魔猎手", role: "dps", type: "melee", classSlug: "demon-hunter", specSlug: "devourer" },
   "vengeance-demon-hunter": { nameCn: "复仇恶魔猎手", specCn: "复仇", classCn: "恶魔猎手", role: "tank", type: "tank", classSlug: "demon-hunter", specSlug: "vengeance" },
 
   // 唤魔师 Evoker

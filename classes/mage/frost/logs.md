@@ -1,0 +1,53 @@
+---
+title: WCL 代表性顶尖冰霜法师日志拆解与复盘
+description: 全球第一冰霜法师配装复盘、大秘境高层五大技能来源拆解与史诗团本实战表现
+category: class-guide
+docType: logs
+class: mage
+spec: frost
+role: dps
+damageProfile: burst-aoe
+targetCapType: square-root
+gameVersion: 12.1.0
+season: Midnight Season 2
+updatedAt: 2026-09-14
+hotfixAligned: 12.1.0.61234-hotfix.0914.1
+tags:
+  - mage
+  - frost
+  - logs
+  - wcl
+  - analysis
+  - 12.1
+---
+
+# WCL 代表性顶尖冰霜法师日志拆解与复盘
+
+## 1. 大秘境世界顶尖选手与日志复盘
+
+### 案例 1：Glacius (Twisting Nether - EU) —— 夺目谷 +20 限时 (298.2k DPS)
+- **角色评分**：3760+
+- **配装核心**：
+  - 套装：4 件套全齐
+  - 饰品：轻装连队战旗 + 乌拉特克的饕餮之心
+  - 英雄天赋：魔导士 (SPELLSLINGER)
+- **核心数据表现**：全程表现位列该专精世界前列，面对高层词缀展现出极高的稳定性与爆发质量。
+
+---
+
+### 案例 2：代表性高层大秘境实战数据拆解
+- **核心来源拆解（Breakdown）**：
+  1. **冰枪术与碎冰裂变 (31.2%)**
+  2. **冰霜宝珠 (22.4%)**
+  3. **彗星风暴 (19.8%)**
+  4. **魔导士法术飞弹 (14.1%)**
+  5. **寒冰箭 (12.5%)**
+- **节奏与实战特点**：
+  - 爆发饰品与团队聚怪节奏严丝合缝；
+  - 核心免伤技能全程高频施放，保证生存与输出零断档。
+
+---
+
+## 2. 史诗团本烈毒之渊（The Venomous Abyss）实战表现
+
+在当前版本史诗团本中，该专精在面对 6 号尾王乌拉特克（Ula'tek）等核心首领时，展现了极具竞争力的纯单体压制与转阶段处理能力。

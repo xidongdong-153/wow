@@ -25,42 +25,28 @@
 
 - 资讯与数据源直达表（Agent 省 Token 速查）：`automation/sources.md`
 - Agent 抓取操作手册（SOP）：`automation/runbook-wcl-fetch.md`
-- 邪恶死亡骑士指南：`classes/death-knight/unholy/`
-  - 专精总览与属性：`classes/death-knight/unholy/README.md`
-  - 天赋与英雄天赋：`classes/death-knight/unholy/talents.md`
-  - 配装与饰品排行：`classes/death-knight/unholy/gear.md`
-  - 输出手法与循环：`classes/death-knight/unholy/rotation.md`
-  - WCL 高分日志复盘：`classes/death-knight/unholy/logs.md`
-- 冰霜死亡骑士指南：`classes/death-knight/frost/`
-  - 专精总览与属性：`classes/death-knight/frost/README.md`
-  - 天赋与英雄天赋：`classes/death-knight/frost/talents.md`
-  - 配装与饰品排行：`classes/death-knight/frost/gear.md`
-  - 输出手法与循环：`classes/death-knight/frost/rotation.md`
-  - WCL 高分日志复盘：`classes/death-knight/frost/logs.md`
-- 鲜血死亡骑士指南：`classes/death-knight/blood/`
-  - 专精总览与属性：`classes/death-knight/blood/README.md`
-  - 天赋与英雄天赋：`classes/death-knight/blood/talents.md`
-  - 配装与饰品排行：`classes/death-knight/blood/gear.md`
-  - 输出手法与循环：`classes/death-knight/blood/rotation.md`
-  - WCL 高分日志复盘：`classes/death-knight/blood/logs.md`
-- 惩戒圣骑士指南：`classes/paladin/retribution/`
-  - 专精总览与属性：`classes/paladin/retribution/README.md`
-  - 天赋与英雄天赋：`classes/paladin/retribution/talents.md`
-  - 配装与饰品排行：`classes/paladin/retribution/gear.md`
-  - 输出手法与循环：`classes/paladin/retribution/rotation.md`
-  - WCL 高分日志复盘：`classes/paladin/retribution/logs.md`
-- 防护圣骑士指南：`classes/paladin/protection/`
-  - 专精总览与属性：`classes/paladin/protection/README.md`
-  - 天赋与英雄天赋：`classes/paladin/protection/talents.md`
-  - 配装与饰品排行：`classes/paladin/protection/gear.md`
-  - 输出手法与循环：`classes/paladin/protection/rotation.md`
-  - WCL 高分日志复盘：`classes/paladin/protection/logs.md`
-- 神圣圣骑士指南：`classes/paladin/holy/`
-  - 专精总览与属性：`classes/paladin/holy/README.md`
-  - 天赋与英雄天赋：`classes/paladin/holy/talents.md`
-  - 配装与饰品排行：`classes/paladin/holy/gear.md`
-  - 输出手法与循环：`classes/paladin/holy/rotation.md`
-  - WCL 高分日志复盘：`classes/paladin/holy/logs.md`
+- 国服官方术语检索与赛季核验 SOP：`automation/runbook-localization.md`
+- 全职业 13 职业 39 专精天梯天赋总览：`classes/README.md`
+- 全职业天赋数据库（39专精抓取数据）：`automation/data/talents-data.json`
+- 死亡骑士全专精指南：`classes/death-knight/`
+  - 邪恶死亡骑士：`classes/death-knight/unholy/`
+  - 冰霜死亡骑士：`classes/death-knight/frost/`
+  - 鲜血死亡骑士：`classes/death-knight/blood/`
+- 圣骑士全专精指南：`classes/paladin/`
+  - 惩戒圣骑士：`classes/paladin/retribution/`
+  - 防护圣骑士：`classes/paladin/protection/`
+  - 神圣圣骑士：`classes/paladin/holy/`
+- 战士全专精天赋：`classes/warrior/`（武器、狂暴、防战）
+- 猎人全专精天赋：`classes/hunter/`（兽王、射击、生存）
+- 潜行者全专精天赋：`classes/rogue/`（奇袭、狂徒、敏锐）
+- 法师全专精天赋：`classes/mage/`（奥法、火法、冰法）
+- 萨满祭司全专精天赋：`classes/shaman/`（元素、增强、奶萨）
+- 德鲁伊全专精天赋：`classes/druid/`（鸟德、野德、熊德、奶德）
+- 术士全专精天赋：`classes/warlock/`（恶魔、毁灭、痛苦）
+- 武僧全专精天赋：`classes/monk/`（踏风、酒仙、织雾）
+- 牧师全专精天赋：`classes/priest/`（暗牧、神牧、戒律）
+- 恶魔猎手全专精天赋：`classes/demon-hunter/`（浩劫、复仇）
+- 唤魔师全专精天赋：`classes/evoker/`（湮灭、增辉、奶龙）
 - 今日大秘境天梯榜：`rankings/mythic-plus/2026-09-14.md`
 - 今日团本天梯榜：`rankings/raid/2026-09-14.md`
 - 当季副本攻略总览：`instances/README.md`
