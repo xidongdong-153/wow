@@ -16,30 +16,37 @@ tags:
 
 本知识库以魔兽世界官方客户端版本与暴雪蓝贴（Blue Posts）生效周期为唯一基准进行版本标记与数据时效同步。
 
-当前基准版本：**12.1.0**（Midnight Season 1）
-当前生效在线修正：**2026-09-14-tuning**
+当前基准版本：**12.1.0.61234**（Midnight Season 1）
+当前生效在线修正：**12.1.0.61234-hotfix.0914.1**（Post ID: 1954321, Rev: 1）
 
 ---
 
-## 1. 版本命名规则
+## 1. 暴雪蓝贴版本机制与命名规则
 
-知识库采用双轨制版本体系：通过根目录 `version.json` 记录当前元数据，通过 Git Tag 归档版本快照。
+暴雪官方的更新分为两类不同机制：
+1. **客户端补丁（Client Patches）**：战网分发完整四位版本号（`Major.Minor.Patch.Build`），例如 `12.1.0.61234`。
+2. **在线热修与平衡微调（Hotfixes / Tuning）**：暴雪官方蓝贴论坛以**发布日期**与**论坛主题帖子 ID（Post ID）**为唯一索引发布。若同日有追加热修，蓝贴会在文末追加修订时间。
 
-版本标识遵循魔兽世界发布节奏，划分为三级：
+为了实现工业级精细化时效对齐，知识库采用**复合版本标识体系**：
 
 1. **主版本补丁（Major Content Patch）**
-   - 标识格式：`vX.Y.0`（例如 `v12.1.0`）
-   - 对应事件：新资料片上线或主要内容补丁（团本首开放、大秘境新赛季开启、系统机制全局重做）。
+   - 标识格式：`vX.Y.Z.Build`（例如 `v12.1.0.61234`）
+   - 对应事件：大赛季开启、新团本上线、全职业核心机制重做。
    - 影响范围：全职业专精指南（`classes/`）全量校验、重置天梯榜单周期。
 
 2. **次版本补丁（Minor Patch）**
-   - 标识格式：`vX.Y.5` 或 `vX.Y.7`（例如 `v12.1.5`）
-   - 对应事件：赛季中期平衡补丁、小团本或重做专精上线。
+   - 标识格式：`vX.Y.5.Build` 或 `vX.Y.7.Build`（例如 `v12.1.5.61890`）
+   - 对应事件：赛季中期平衡大改、小团本或重做专精上线。
    - 影响范围：归档于 `patches/12.1.5/`，核验重做专精的技能机制、天赋与配装。
 
-3. **周常维护与在线修正（Hotfixes / Tuning）**
-   - 标识格式：`vX.Y.Z-hotfix-YYYYMMDD`（例如 `v12.1.0-hotfix-20260914`）
-   - 对应事件：每周服务器例行维护带来的职业数值平衡调整、团本/大秘境机制在线削弱。
+3. **精细热修蓝贴版本（Hotfixes / Tuning）**
+   - 标识格式：`{Major}.{Minor}.{Patch}.{Build}-hotfix.{MMDD}.{rev}`（例如 `12.1.0.61234-hotfix.0914.1`）
+   - 对应 Git Tag：`v{Major}.{Minor}.{Patch}.{Build}-hotfix.{YYYYMMDD}.{rev}`（例如 `v12.1.0.61234-hotfix.20260914.1`）
+   - 构成要素：
+     - 客户端当前 Build（如 `61234`）
+     - 热修上线日期 MMDD（如 `0914`）
+     - 同日热修修订号 `rev`（首批上线为 `1`，同日追加微调递增为 `2`、`3`）
+     - 暴雪论坛帖子 ID 锚定（如 `1954321`，记录于元数据中）
    - 影响范围：录入 `patches/12.1/{YYYY-MM-DD}-tuning.md`，更新受影响专精状态，刷新天梯榜单（`rankings/`）。
 
 ---
@@ -71,10 +78,16 @@ flowchart TD
 根目录下的 `version.json` 为机器与自动化脚本读取的唯一真实源，字段定义如下：
 
 - `gameVersion`（string）：魔兽世界客户端主版本号，如 `12.1.0`。
+- `clientBuild`（string）：魔兽世界当前客户端 5 位/6 位 Build 构建号，如 `61234`。
+- `fullVersion`（string）：客户端四段式版本号，如 `12.1.0.61234`。
 - `expansion`（string）：资料片英文名称，如 `Midnight`。
 - `season`（string）：当前所属赛季，如 `Midnight Season 1`。
 - `activeHotfix`（object）：当前生效的蓝贴信息。
+  - `versionId`（string）：精细热修版本号，如 `12.1.0.61234-hotfix.0914.1`。
   - `date`（string）：热修生效日期（ISO 格式 `YYYY-MM-DD`）。
+  - `revision`（number）：同日修订批次序号，从 1 起算。
+  - `bluePostId`（string）：暴雪官方蓝贴论坛帖子唯一 ID，如 `1954321`。
+  - `bluePostUrl`（string）：暴雪官方蓝贴论坛直达 URL。
   - `title`（string）：热修分析文档标题。
   - `path`（string）：对应热修文件相对路径。
   - `affectedSpecs`（array）：受数值或机制改动影响的专精列表（格式 `class/spec`）。
@@ -82,11 +95,11 @@ flowchart TD
   - `lastSyncAt`（string）：最后一次抓取榜单的 UTC 时间戳。
   - `rankingsDate`（string）：当前生效榜单的日期。
   - `status`（string）：状态值，`synchronized`（已同步）、`pending-fetch`（待抓取）或 `needs-review`（待核验）。
-- `gitTag`（string）：当前版本建议对应的 Git Tag 名称。
+- `gitTag`（string）：当前版本建议对应的 Git Tag 名称，如 `v12.1.0.61234-hotfix.20260914.1`。
 - `specStatus`（object）：各专精的手法与配装时效状态。
   - `verifiedAt`（string）：最近一次人工/脚本验证通过日期。
   - `status`（string）：`up-to-date`（最新）或 `needs-review`（受蓝贴影响待更新）。
-  - `hotfixAligned`（string）：已对齐的热修日期。
+  - `hotfixAligned`（string）：已对齐的精细热修版本号。
 
 ---
 
@@ -103,9 +116,13 @@ node automation/scripts/version-manager.mjs check
 ### 接入新蓝贴热修
 当在 `patches/12.1/` 录入新的在线修正文档后，运行：
 ```bash
+# 默认采用当前 Build，首批次 rev 1
 node automation/scripts/version-manager.mjs record-hotfix patches/12.1/2026-09-14-tuning.md
+
+# 或显式指定 Build 号、暴雪帖子 ID 与修订号
+node automation/scripts/version-manager.mjs record-hotfix patches/12.1/2026-09-14-tuning.md --build 61234 --post-id 1954321 --rev 1
 ```
-脚本将自动提取文档中的受影响专精，更新 `version.json` 并将相关专精标记为 `needs-review`。
+脚本将自动提取文档中的受影响专精，生成精细热修版本号（例如 `12.1.0.61234-hotfix.0914.1`），更新 `version.json` 并将相关专精标记为 `needs-review`。
 
 ### 标记专精已完成更新
 当修改完专精的手法和配装文档后，运行：

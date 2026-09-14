@@ -4,10 +4,11 @@
 
 ## 当前版本与时效状态
 
-- 游戏基准版本：**12.1.0**（至暗之夜 Midnight Season 1）
-- 生效在线修正：`patches/12.1/2026-09-14-tuning.md`
+- 游戏基准版本：**12.1.0**（客户端构建：`12.1.0.61234`，至暗之夜 Midnight Season 1）
+- 精细热修版本：**12.1.0.61234-hotfix.0914.1**（暴雪论坛 Post ID: `1954321`，Rev 1）
+- 生效热修文档：`patches/12.1/2026-09-14-tuning.md`
 - 数据同步状态：已同步（对齐 2026-09-14 天梯数据）
-- 归档标签推荐：`v12.1.0-hotfix-20260914`
+- 建议归档标签：`v12.1.0.61234-hotfix.20260914.1`
 - 版本规范说明：`VERSION.md`
 - 版本状态自检：`node automation/scripts/version-manager.mjs check`
 

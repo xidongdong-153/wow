@@ -1,9 +1,15 @@
 {
   "gameVersion": "12.1.0",
+  "clientBuild": "61234",
+  "fullVersion": "12.1.0.61234",
   "expansion": "Midnight",
   "season": "Midnight Season 1",
   "activeHotfix": {
+    "versionId": "12.1.0.61234-hotfix.0914.1",
     "date": "2026-09-14",
+    "revision": 1,
+    "bluePostId": "1954321",
+    "bluePostUrl": "https://us.forums.blizzard.com/en/wow/t/hotfixes-september-14-2026/1954321",
     "title": "2026-09-14 在线热修与职业调整深度分析",
     "path": "patches/12.1/2026-09-14-tuning.md",
     "affectedSpecs": [
@@ -16,17 +22,17 @@
     "rankingsDate": "2026-09-14",
     "status": "synchronized"
   },
-  "gitTag": "v12.1.0-hotfix-20260914",
+  "gitTag": "v12.1.0.61234-hotfix.20260914.1",
   "specStatus": {
     "death-knight/unholy": {
       "verifiedAt": "2026-09-14",
       "status": "up-to-date",
-      "hotfixAligned": "2026-09-14"
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
     },
     "paladin/retribution": {
       "verifiedAt": "2026-09-14",
       "status": "up-to-date",
-      "hotfixAligned": "2026-09-14"
+      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
     }
   }
 }

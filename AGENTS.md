@@ -97,22 +97,22 @@
 
 ## Versioning & Blue Post Sync Rules (版本与蓝贴时效规范)
 
-仓库全面对齐暴雪魔兽世界官方客户端版本（当前：`12.1.0` Midnight Season 1），以暴雪官方蓝贴（Patch Notes / Hotfixes）为唯一时效驱动源，采用“元数据 + Git Tag 双轨制”：
+仓库全面对齐暴雪魔兽世界官方客户端版本（当前客户端构建：`12.1.0.61234`，至暗之夜 Midnight Season 1），以暴雪官方蓝贴（Patch Notes 与 Hotfixes 在线修正）为唯一时效驱动源，采用“客户端 Build + 蓝贴 Post ID + 同日修订号”复合版本体系：
 
 1. **版本元数据唯一真实源（version.json）**：
-   - 根目录 `version.json` 必须记录当前 `gameVersion`（如 `12.1.0`）、`activeHotfix`（当前生效热修文档与日期）、`specStatus`（各专精与热修的对齐状态）以及 `gitTag` 建议标签。
+   - 根目录 `version.json` 必须记录当前主版本 `gameVersion`（如 `12.1.0`）、客户端构建 `clientBuild`（如 `61234`）、完整四位版本 `fullVersion`（如 `12.1.0.61234`）、生效热修 `activeHotfix`（含精细版本号 `versionId`、日期、暴雪论坛 `bluePostId`、修订号 `revision` 与对应文档路径）、专精对齐状态 `specStatus` 以及建议标签 `gitTag`。
    - 任何涉及补丁分析或专精手册改动后，必须同步更新 `version.json`。
 2. **蓝贴时效同步标准操作流（SOP）**：
    - 第一步：将暴雪新发布的改动写入 `patches/{version}/{YYYY-MM-DD}-tuning.md`。
-   - 第二步：运行 `node automation/scripts/version-manager.mjs record-hotfix patches/{version}/{YYYY-MM-DD}-tuning.md`，将受影响专精状态自动置为 `needs-review`。
+   - 第二步：运行 `node automation/scripts/version-manager.mjs record-hotfix patches/{version}/{YYYY-MM-DD}-tuning.md [--build <build>] [--post-id <id>] [--rev <rev>]`，自动生成精细热修版本号（例如 `12.1.0.61234-hotfix.0914.1`），并将受影响专精状态置为 `needs-review`。
    - 第三步：复核并修改对应专精的 `talents.md`、`gear.md` 与 `rotation.md`，修改完成后运行 `node automation/scripts/version-manager.mjs mark-synced {class}/{spec}`。
    - 第四步：根据新热修生效后的天梯环境，运行排行榜采集脚本更新 `rankings/`。
    - 第五步：运行 `node automation/scripts/version-manager.mjs check` 确保零未对齐项。
    - 第六步：经用户确认后，依据 `node automation/scripts/version-manager.mjs tag-info` 打上 Git Tag。
 3. **Git Tag 命名规范**：
-   - 大补丁：`v12.1.0`
-   - 次补丁：`v12.1.5`
-   - 热修快照：`v12.1.0-hotfix-YYYYMMDD`（如 `v12.1.0-hotfix-20260914`）
+   - 大补丁基线：`v12.1.0.61234`
+   - 次补丁基线：`v12.1.5.61890`
+   - 热修精细快照：`v{Major}.{Minor}.{Patch}.{Build}-hotfix.{YYYYMMDD}.{rev}`（如 `v12.1.0.61234-hotfix.20260914.1`）
 
 ## Constraints & Gotchas
 
