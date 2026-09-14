@@ -6,6 +6,8 @@ docType: gear
 class: death-knight
 spec: frost
 role: dps
+damageProfile: burst-aoe
+targetCapType: square-root
 gameVersion: 12.1.0
 season: Midnight Season 1
 updatedAt: 2026-09-14

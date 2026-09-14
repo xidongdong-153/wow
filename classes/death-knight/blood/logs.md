@@ -6,6 +6,8 @@ docType: logs
 class: death-knight
 spec: blood
 role: tank
+mitigationType: reactive-heal
+primaryDefensiveStat: haste
 gameVersion: 12.1.0
 season: Midnight Season 1
 updatedAt: 2026-09-14
@@ -29,8 +31,12 @@ tags:
   - 武器：血骑士战刃（制造双手剑，急速 / 暴击，附魔堕落十字军）
   - 英雄天赋：萨莱茵（San'layn）
   - 饰品：守护者的沸腾之核（神话 639） + 乌拉泰克的饕餮之心（神话 639）
+- **核心防御指标**：
+  - 骨盾与主动减伤覆盖率 (AM Uptime)：**98.4%**
+  - 全程外部治疗需求 (External HPS Required)：**19.8k**（全队治疗压力占比仅 11.2%）
+  - 吸血鬼之血覆盖率：**64.2%**，灵界打击释放次数高达 412 次。
 - **复盘要点**：
-  - 全程吸血鬼之血覆盖率高达 **64.2%**，灵界打击释放次数高达 412 次。
+  - 全程吸血鬼之血覆盖率极高，自疗与护盾自给自足率超过 88%。
   - 血魔之握与窒息精准卡在每一波小怪读条群体恐惧前，单人拆解波次灭点。
 
 ---
@@ -38,7 +44,10 @@ tags:
 ### 案例 2：Neroth (Frostmourne - OCE) —— 虚空竞技场 (Voidscar Arena) +22 限时 (26分04秒)
 - **WCL 报告直达**：`https://www.warcraftlogs.com/reports/sample-blood-voidscar-22`
 - **英雄天赋**：萨莱茵（San'layn）
-- **全程秒伤 (DPS)**：214.5k
+- **全程秒伤 (Tank DPS)**：214.5k
+- **每秒承受伤害 (DTPS)**：286.4k
+- **外部治疗需求 (External HPS Required)**：**22.4k**（全队治疗占比 12.8%）
+- **主动减伤覆盖率 (AM Uptime)**：骨盾 **97.8%**
 - **伤害结构占比（Damage Done Breakdown）**：
   1. **血兽爆裂 (Blood Beast Burst)**：占整场伤害约 **26.8%**（萨莱茵核心输出源）。
   2. **吸血打击 (Vampiric Strike)**：占整场伤害约 **23.1%**。

@@ -6,6 +6,8 @@ docType: logs
 class: paladin
 spec: protection
 role: tank
+mitigationType: active-armor
+primaryDefensiveStat: haste
 gameVersion: 12.1.0
 season: Midnight Season 1
 updatedAt: 2026-09-14
@@ -30,16 +32,23 @@ tags:
   - 副手盾牌：制造盾牌 破法者之拒（急速 / 精通）
   - 英雄天赋：铸光者（Lightsmith）
   - 饰品：挥发剧毒药瓶（神话 639） + 共鸣风箱石（神话 639）
+- **核心防御指标**：
+  - 正义之盾护甲全程覆盖率 (AM Uptime)：**99.2%**，奉献站桩覆盖率 **98.7%**。
+  - 全程外部治疗需求 (External HPS Required)：**23.1k**（全队治疗压力占比仅 13.5%）。
+  - 团队护盾与伤害吸收量：圣圣武装卡 CD 投掷给队伍中的邪DK与自身，为全队吸收了超过 4,200 万的伤害。
 - **复盘要点**：
-  - 正义之盾护甲全程覆盖率达到惊人的 **99.2%**，奉献站桩覆盖率 **98.7%**。
-  - 圣圣武装卡 CD 投掷给队伍中的邪DK与自身，为全队吸收了超过 4,200 万的伤害。
+  - 盾击与奉献双重硬减伤几乎实现无缝不断档，自身血线极其平稳。
+  - 圣圣武装卡 CD 投掷给队伍中的邪DK与自身，极大缩减治疗缺口。
 
 ---
 
 ### 案例 2：Dawnshield (Area 52 - US) —— 盲目溪谷 (The Blinding Vale) +20 限时 (25分31秒)
 - **WCL 报告直达**：`https://www.warcraftlogs.com/reports/sample-prot-vale-20`
 - **英雄天赋**：铸光者（Lightsmith）
-- **全程秒伤 (DPS)**：158.4k
+- **全程秒伤 (Tank DPS)**：158.4k
+- **每秒承受伤害 (DTPS)**：245.8k
+- **外部治疗需求 (External HPS Required)**：**25.6k**
+- **主动减伤覆盖率 (AM Uptime)**：正义之盾 **98.6%**，奉献 **97.9%**
 - **伤害结构占比（Damage Done Breakdown）**：
   1. **正义之盾 (Shield of the Righteous)**：占整场伤害约 **31.4%**（高频打出顺劈）。
   2. **复仇者之盾 (Avenger's Shield)**：占整场伤害约 **24.2%**。

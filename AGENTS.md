@@ -75,21 +75,40 @@
 - **YAML Front Matter 元数据规范**：
   - 除所有 `README.md` 与 `AGENTS.md` 豁免外，仓库内所有 Markdown 文章必须在文件起始处包含标准的 YAML Front Matter（`---` 包裹）。
   - 通用必填字段：`title`、`description`、`category`、`docType`、`tags`。
-  - 专精手册特有字段：`class`、`spec`、`role`、`gameVersion`、`season`、`updatedAt`、`hotfixAligned`。
+  - 专精手册特有字段：`class`、`spec`、`role`（`dps`、`tank`、`healer`）、`gameVersion`、`season`、`updatedAt`、`hotfixAligned`。
+  - 职责扩展字段（按 `role` 选填）：
+    - 输出（`role: dps`）：`damageProfile`（`burst-aoe`、`sustained-cleave`、`pure-single`、`execute`）、`targetCapType`（`hard-cap-5`、`soft-cap-8`、`square-root`、`uncapped`）。
+    - 坦克（`role: tank`）：`mitigationType`（`active-armor`、`reactive-heal`、`stagger`、`block-shield`）、`primaryDefensiveStat`（`haste`、`mastery`、`versatility`、`crit`）。
+    - 治疗（`role: healer`）：`healerStyle`（`proactive-ramp`、`reactive-direct`、`dps-conversion`、`shield-absorb`）、`manaReliance`（`low`、`medium`、`high`）。
   - 天梯排行榜特有字段：`mode`、`gameVersion`、`season`、`date`、`sampleSize`、`dataSource`。
   - 补丁热修特有字段：`patchType`、`gameVersion`、`clientBuild`、`versionId`、`bluePostId`、`revision`、`date`、`affectedClasses`、`affectedSpecs`。
   - 每日资讯特有字段：`gameVersion`、`date`、`sources`（包含数据源名称 name 与权威 URL 数组）。
 
 ## Spec Onboarding Rules (新增专精强制标准)
 
-当 Agent 被要求新增职业或专精时，**必须严格按 `classes/_template/` 结构生成全部 5 个文件加 1 张实景截图**，严禁自由发挥漏项：
+当 Agent 被要求新增职业或专精时，**必须严格按 `classes/_template/` 结构与所属职责（输出/坦克/治疗）生成全部 5 个文件加 1 张实景截图**，严禁自由发挥漏项：
 
-1. **文件完整度（缺一不可）**：
+1. **文件完整度（缺一不可，按职责细致分化）**：
    - `README.md`：专精定位、机制核心、大秘境与团本属性优先级及数值均值。
-   - `talents.md`：英雄天赋对比表（必须含大秘境/团本使用率与均伤）、主流机制拆解、通用/专精树核心推荐；顶端必须内嵌实景截图 `![天赋概览](./assets/talents-overview.png)`。
-   - `gear.md`：套装 4 件套各部位穿戴率表、武器排行（区分制造与掉落）、双美化方案、单体饰品榜与双 BiS 组合榜、6 个关键散件速查。
-   - `rotation.md`：资源防溢出原则、大秘境 AOE 爆发循环（**必须包含 Mermaid 暗色流程图**）、团本单体优先级（**必须包含 Mermaid 流程图**）、4 条具体新手易错自查。
-   - `logs.md`：世界前 3 选手拆解、单场高层限时日志的 5 项主要伤害来源占比、史诗团本代表性击杀日志。
+     - 输出：标注单体/顺劈收益与副属性递减断点；
+     - 坦克：标注主动免伤形式与主/副属性生存折算（如暴击转招架、精通转格挡/护盾）；
+     - 治疗：标注治疗模型（预铺/直刷/伤害转化）与施法速度与法力消耗平衡点。
+   - `talents.md`：英雄天赋对比表（必须顶端内嵌实景截图 `![天赋概览](./assets/talents-overview.png)`）：
+     - 输出表头：大秘境/团本使用率与均伤 (DPS)、目标上限与机制特征；
+     - 坦克表头：使用率、均伤 (DPS)、外部治疗需求 (EHRPS)、减伤覆盖率 (AM Uptime)、最高限时与抗怪特点；
+     - 治疗表头：使用率、均治疗 (HPS)、均伤害 (DPS)、团本均治疗与救急机制。
+   - `gear.md`：套装 4 件套各部位穿戴率表、武器排行、双美化方案、饰品榜与双 BiS 组合榜、6 个关键散件速查。
+     - 输出：主动爆发增伤与常驻属性饰品，伤害向美化；
+     - 坦克：硬免伤/吸收护盾、常驻自愈吸血与攻防兼备饰品，生存向美化；
+     - 治疗：法力回复续航、紧急拯救爆发与兼顾输出饰品，治疗转化向美化。
+   - `rotation.md`：核心资源循环原则、实战流程图（**必须包含 Mermaid 暗色流程图**）、新手易错自查。
+     - 输出：AOE 爆发与单体优先级流程图，防溢出与爆发药水对齐；
+     - 坦克：聚怪接怪防猝死 SOP、主动减伤循环与首领死刑技能（Tank Buster）应对协议流程图；
+     - 治疗：小队高压尖峰预铺时序、紧急救急（Triage）优先级与平稳期近战/远程输出转化流程图。
+   - `logs.md`：世界顶尖选手拆解、单场高层限时日志数据结构拆解、史诗团本击杀复盘。
+     - 输出：Top 5 伤害来源占比与爆发峰值；
+     - 坦克：Top 5 自愈/吸收来源占比、DTPS、外部治疗需求 (EHRPS) 与主动减伤覆盖率；
+     - 治疗：Top 5 有效治疗来源占比、过量治疗率 (Overhealing Rate)、全程 DPS 贡献与关键驱散/打断。
 2. **实景截图要求**：
    - 调用 `ego-browser` 打开 Archon/WCL 天赋页并截图，保存至 `classes/{class}/{spec}/assets/talents-overview.png`。
 3. **全局索引联动**：

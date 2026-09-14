@@ -6,6 +6,8 @@ docType: logs
 class: paladin
 spec: retribution
 role: dps
+damageProfile: burst-aoe
+targetCapType: square-root
 gameVersion: 12.1.0
 season: Midnight Season 2
 updatedAt: 2026-09-14

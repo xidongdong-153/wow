@@ -6,6 +6,8 @@ docType: logs
 class: paladin
 spec: holy
 role: healer
+healerStyle: proactive-ramp
+manaReliance: medium
 gameVersion: 12.1.0
 season: Midnight Season 1
 updatedAt: 2026-09-14
@@ -30,9 +32,14 @@ tags:
   - 副手盾牌：制造盾牌 破法者之拒（急速 / 精通）
   - 英雄天赋：太阳先锋（Herald of the Sun）
   - 饰品：缚魂仪式之皿（神话 639） + 格博的无底行囊（神话 639）
+- **核心治疗指标**：
+  - 全程有效秒治疗 (Effective HPS)：**172.5k**
+  - 全程过量治疗率 (Overhealing Rate)：**18.4%**（高压战斗控制极其优异）
+  - 全程 DPS 贡献：**38.5k**（近战十字军打击、奉献与晨光顺劈输出打满）
+  - 关键急救响应：美德道标覆盖效率极高，每次 AOE 尖峰前 1 秒必先开道标，全队血线始终在 3 秒内由晨光射线与荣耀圣令瞬抬至满血。
 - **复盘要点**：
-  - 美德道标覆盖效率极高，每次 AOE 尖峰前 1 秒必先开道标，全队血线始终在 3 秒内由晨光射线与荣耀圣令瞬抬至满血。
-  - 全程 DPS 贡献达到 38.5k，近战位十字军打击与奉献伤害打满。
+  - 治疗与输出双高，近战位输出不仅补足全队伤害，更源源不断提供圣能反哺瞬发抬血。
+  - 技能节奏近乎零浪费，荣耀圣令与震击全部精准喂入美德道标窗口。
 
 ---
 
@@ -41,6 +48,7 @@ tags:
 - **英雄天赋**：太阳先锋（Herald of the Sun）
 - **全程秒治疗 (HPS)**：168.4k
 - **全程秒伤 (DPS)**：34.2k
+- **过量治疗率 (Overhealing Rate)**：**16.8%**
 - **有效治疗结构占比（Healing Done Breakdown）**：
   1. **晨光 / 太阳耀斑 (Dawnlight / Sun's Avatar)**：占整场治疗约 **29.8%**（核心智能回血）。
   2. **荣耀圣令 (Word of Glory)**：占整场治疗约 **26.4%**。

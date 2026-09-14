@@ -1,11 +1,13 @@
 ---
-title: 防护圣骑士输出手法与施法优先级
-description: 防护圣骑士神圣能量与盾击护甲覆盖、大秘境聚怪减伤时序与团本单体优先级
+title: 防护圣骑士减伤循环与施法优先级
+description: 防护圣骑士神圣能量与盾击护甲覆盖、大秘境聚怪减伤时序、死刑尖峰应对与施法优先级
 category: class-guide
 docType: rotation
 class: paladin
 spec: protection
 role: tank
+mitigationType: active-armor
+primaryDefensiveStat: haste
 gameVersion: 12.1.0
 season: Midnight Season 1
 updatedAt: 2026-09-14
@@ -17,7 +19,7 @@ tags:
   - 12.1
 ---
 
-# 防护圣骑士输出手法与施法优先级
+# 防护圣骑士减伤循环与施法优先级
 
 ## 1. 核心资源循环与原则
 
@@ -63,6 +65,13 @@ flowchart TD
 2. 保持奉献常驻，若怪物位移则同步重新铺放奉献。
 3. 触发大十字军高亮时，优先打出复仇者之盾，叠满吸收护盾。
 4. 遇到队伍掉血高压波次，施放免费发光的荣耀圣令协助治疗单抬队友。
+
+### 阶段三：首领死刑技能（Tank Buster）应对协议
+1. **死刑读条前 2 秒**：确保正义之盾剩余时间大于 4 秒（若不足立刻打盾击刷新），且自身绝对站在奉献范围内。
+2. **死刑读条中**：交替覆盖中短 CD 减伤技能：
+   - 常规物理尖峰：提前开启炽热防御者（Ardent Defender，提供 20% 减伤且自带致死免疫保底），并投掷圣圣武装吸收护盾。
+   - 毁灭性混合伤害死刑：开启提尔之眼（Eye of Tyr）降低敌人伤害，或直接开启远古列王守卫（Guardian of Ancient Kings，50% 全额硬减伤）。
+3. **死刑命中瞬间（0.5 秒内）**：若血线出现缺口，打出免费触发的发光荣耀圣令瞬抬自身，并立刻补充审判与转锤积攒下一次盾击能量。
 
 ---
 
