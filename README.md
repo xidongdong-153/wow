@@ -4,7 +4,7 @@
 
 ## 目录索引
 
-- `classes/`：各职业专精指南库（配装、天赋、属性、手法、日志精读）。当前主维护：死亡骑士（DK）。
+- `classes/`：各职业专精指南库（配装、天赋、属性、手法、日志精读）。当前主维护：死亡骑士（DK）、圣骑士（Paladin）。
 - `rankings/`：每日职业强度排行榜（大秘境与团本分榜，包含分级、样本量与关键改动影响）。
 - `news/`：每日官方资讯、社区热点与活动速报（按月归档）。
 - `patches/`：暴雪补丁日志、职业平衡调整与加强削弱深度量化分析。
@@ -20,6 +20,12 @@
   - 配装与饰品排行：`classes/death-knight/unholy/gear.md`
   - 输出手法与循环：`classes/death-knight/unholy/rotation.md`
   - WCL 高分日志复盘：`classes/death-knight/unholy/logs.md`
+- 惩戒圣骑士指南：`classes/paladin/retribution/`
+  - 专精总览与属性：`classes/paladin/retribution/README.md`
+  - 天赋与英雄天赋：`classes/paladin/retribution/talents.md`
+  - 配装与饰品排行：`classes/paladin/retribution/gear.md`
+  - 输出手法与循环：`classes/paladin/retribution/rotation.md`
+  - WCL 高分日志复盘：`classes/paladin/retribution/logs.md`
 - 今日大秘境天梯榜：`rankings/mythic-plus/2026-09-14.md`
 - 今日团本天梯榜：`rankings/raid/2026-09-14.md`
 - 补丁调整分析：`patches/12.1/2026-09-14-tuning.md`
