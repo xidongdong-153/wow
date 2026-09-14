@@ -62,6 +62,10 @@
   - 严禁出现任何 emoji（包括标题、列表与表格）。
   - 严禁客服腔（“建议您”、“请您”、“希望对您有所帮助”等）与互联网黑话。
   - 纯事实驱动：直接提供确切路径、技能名、数值权重与具体动作。
+- **官方本地化与赛季轮换核验规范（强制遵守 automation/runbook-localization.md）**：
+  - 严禁大模型直译或主观意译魔兽名词（如严禁将 The Blinding Vale 译为“失明谷/盲目溪谷”，必须采用国服官方客户端译名“夺目谷”；严禁将 The Venomous Abyss 译为“深毒深渊/剧毒深渊”，必须采用国服官方译名“烈毒之渊”）。
+  - 录入新副本或版本前，必须运行 `node automation/scripts/lookup-term.mjs dungeon "<英文名>"` 或限定在国服数据库 `db.damijing.com`、`wow.166.net`、`wow.blizzard.cn` 中核对官方客户端实际译名。
+  - 严禁主观臆测赛季大秘境池：必须查阅暴雪官方《Season X is Now Live》开季蓝贴确认真实的 8 本名单（区分当季新本地下城与经典回归老地下城，如 Season 2 包含了红玉新生法池、诸王之眠、塞塔里斯神庙）。
 - **命名规范**：
   - 目录名统一采用英文小写破折号（`kebab-case`），如 `death-knight`, `mythic-plus`。
   - 资讯、天梯榜单统一采用 ISO 日期命名（`YYYY-MM-DD.md`）。
