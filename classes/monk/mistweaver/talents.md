@@ -47,30 +47,113 @@ tags:
 
 ## 2. 官方推荐构建（Recommended Build）
 
-当前大秘境 +7 至 +21 层大数据统计下的最高限时优选组合：
+当前大秘境大数据统计下的主流限时优选组合：
 
 | 评估指标 | 官方推荐统计值 |
 | :--- | :--- |
-| **首选英雄天赋** | **天神御尊** |
-| **构建综合使用率** | 15.6% |
-| **当前验证最高限时** | **+21** |
-| **均伤 / 均治疗表现** | HPS: 173.5k |
-| **Wowhead 官方天赋模拟器** | [点击在 Wowhead 查看完整天赋树与导出字符串](https://www.wowhead.com/talent-calc/blizzard/C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYMNjZAjxAGzMzMMbYGmlZCAAAAAAWsNz2sNzAAAwYAmBMALyYGA) |
+| **首选英雄天赋** | **天神御尊 (Conduit of the Celestials)** |
+| **构建综合使用率** | 25.4% |
+| **验证最高限时** | **+21** |
+| **样本量** | 93,720 |
+
+### 暴雪官方天赋导入代码（一键复制）
+
+在游戏内按 `N` 打开天赋面板，点击左下角【导入】，粘贴下方代码即可载入整套加点：
+
+```text
+C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBWmZZML2mxMz2mBmhZzMbLLzMWYMNjZAjxAGzMzMMbYGmlZCAAAAAAWsNz2sNzAAAwYAmBMALyYGA
+```
 
 ---
 
-## 3. 大秘境核心天赋点法推荐
+## 3. 精确天赋点数分配清单（71 点全量明细）
 
-### 职业通用树（Class Tree）核心必点
-- 切喉手（打断）
-- 扫堂腿（群晕）
-- 平心之环与分筋错骨
-- 壮胆酒与作茧缚命（Life Cocoon，救命单盾）
-- 滚地翻与还魂术（Revival，全团驱散大抬血）
+### 英雄天赋树（天神御尊，投入 15 点）
+| 层级/位置 | 天赋名称 (中文/英文) | 投入点数 | 节点类型与抉择 |
+| :--- | :--- | :--- | :--- |
+| 第 0 层 | **天神御尊** (Conduit of the Celestials) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **玉珑之慧** (Yu'lon's Knowledge) | `1/1` | 分支二选一 (已选选项 2) |
+| 第 3 层 | **流星轨迹** (Path of the Falling Star) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **心怀四方** (Inner Compass) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **雪怒的指引** (Xuen's Guidance) | `1/1` | 分支二选一 (已选选项 2) |
+| 第 3 层 | **赤精迅捷** (Chi-Ji's Swiftness) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **青玉庇护** (Jade Sanctuary) | `1/1` | 分支二选一 (已选选项 2) |
+| 第 5 层 | **众神聚心** (Unity Within) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **远古奔踏** (Stampede of the Ancients) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **白虎之勇** (Courage of the White Tiger) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **流转之智** (Flowing Wisdom) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **青龙之心** (Heart of the Jade Serpent) | `1/1` | 核心被动/主动 |
+| 第 1 层 | **天神御身** (Celestial Conduit) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **玄牛之力** (Strength of the Black Ox) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **玉珑化身** (Yu'lon's Avatar) | `1/1` | 核心被动/主动 |
 
-### 专精核心树（Spec Tree）关键联动
-1. **复苏之雾（Renewing Mist）智能跳跃**
-2. **氤氲之雾（Enveloping Mist）强效单抬**
-3. **抚慰之雾（Soothing Mist）引导瞬发**
-4. **神龙之赐（Sheilun's Gift）大秘境群抬神器**
-5. **旭日踢与真气升腾（近战古法输出转化治疗）**
+### 专精核心树（织雾，投入 34 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 节点特性 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **氤氲之雾** (Enveloping Mist) | `1/1` | 标准节点 |
+| 第 2 行 | **凝雾汇涌** (Misty Coalescence) | `1/1` | 标准节点 |
+| 第 2 行 | **雷光聚神茶** (Thunder Focus Tea) | `1/1` | 标准节点 |
+| 第 3 行 | **作茧缚命** (Life Cocoon) | `1/1` | 标准节点 |
+| 第 3 行 | **振奋之雾** (Invigorating Mists) | `1/1` | 标准节点 |
+| 第 3 行 | **法力茶** (Mana Tea) | `1/1` | 标准节点 |
+| 第 4 行 | **鹤形拳** (Crane Style) | `1/1` | 标准节点 |
+| 第 4 行 | **金创药** (Healing Elixir) | `1/1` | 标准节点 |
+| 第 4 行 | **还魂术** (Revival) | `1/1` | 抉择分支 (选项 1) |
+| 第 5 行 | **静心凝雾** (Calming Coalescence) | `1/1` | 抉择分支 (选项 1) |
+| 第 5 行 | **豪能酒** (Energizing Brew) | `1/1` | 抉择分支 (选项 1) |
+| 第 5 行 | **仙鹤之道** (Way of the Crane) | `1/1` | 抉择分支 (选项 2) |
+| 第 6 行 | **生命之雾** (Mists of Life) | `1/1` | 标准节点 |
+| 第 6 行 | **云雾飞散** (Rapid Diffusion) | `2/2` | 两点进阶强化 |
+| 第 6 行 | **朱鹤下凡** (Invoke Chi-Ji, the Red Crane) | `1/1` | 抉择分支 (选项 2) |
+| 第 7 行 | **破蛹化蝶** (Chrysalis) | `1/1` | 抉择分支 (选项 1) |
+| 第 7 行 | **玉莲灌注** (Lotus Infusion) | `1/1` | 标准节点 |
+| 第 7 行 | **天神融合** (Celestial Harmony) | `1/1` | 标准节点 |
+| 第 7 行 | **沥血注气** (Vital Expenditure) | `1/1` | 抉择分支 (选项 2) |
+| 第 8 行 | **天神之赐** (Gift of the Celestials) | `1/1` | 抉择分支 (选项 2) |
+| 第 8 行 | **雷光凝聚** (Focused Thunder) | `1/1` | 标准节点 |
+| 第 8 行 | **神龙之赐** (Sheilun's Gift) | `1/1` | 标准节点 |
+| 第 8 行 | **晨风拂露** (Morning Breeze) | `1/1` | 抉择分支 (选项 2) |
+| 第 8 行 | **日升雾腾** (Pool of Mists) | `1/1` | 标准节点 |
+| 第 9 行 | **碧火之训** (Jadefire Teachings) | `1/1` | 抉择分支 (选项 1) |
+| 第 9 行 | **秘术传功** (Secret Infusion) | `2/2` | 两点进阶强化 |
+| 第 10 行 | **皇帝琼浆** (Emperor's Elixir) | `1/1` | 标准节点 |
+| 第 10 行 | **赤精之舞** (Dance of Chi-Ji) | `1/1` | 标准节点 |
+| 第 11 行 | **灵泉** (Spiritfont) | `1/4` | 两点进阶强化 |
+| 第 11 行 | **灵泉** (Spiritfont) | `1/4` | 两点进阶强化 |
+| 第 11 行 | **灵泉** (Spiritfont) | `2/4` | 两点进阶强化 |
+
+### 职业通用树（武僧，投入 36 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 功能分类 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **分筋错骨** (Paralysis) | `1/1` | 主动自保/控制/位移 |
+| 第 1 行 | **抚慰之雾** (Soothing Mist) | `1/1` | 主动自保/控制/位移 |
+| 第 1 行 | **旭日东升踢** (Rising Sun Kick) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **飘忽迷雾** (Elusive Mists) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **迅如猛虎** (Tiger's Lust) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **无影步** (Fast Feet) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **强化清创生血** (Improved Detox) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **神鹤恩典** (Grace of the Crane) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **平心静气** (Calming Presence) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **正中死穴** (Pressure Points) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **止戈古训** (Ancient Arts) | `2/2` | 属性与防御强化 |
+| 第 4 行 | **活力苏醒** (Vivacious Vivification) | `1/1` | 功能抉择 (选项 1) |
+| 第 4 行 | **真气结界** (Chi Warding) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **魂体双分** (Transcendence) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **动如脱兔** (Celerity) | `1/1` | 功能抉择 (选项 1) |
+| 第 6 行 | **平心之环** (Ring of Peace) | `1/1` | 功能抉择 (选项 1) |
+| 第 6 行 | **雪怒之勇** (Ferocity of Xuen) | `2/2` | 属性与防御强化 |
+| 第 6 行 | **猛虎扫尾** (Tiger Tail Sweep) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **风之舞** (Dance of the Wind) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **平和荣昌** (Peace and Prosperity) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **玉珑的优雅** (Yu'lon's Grace) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **壮胆酒** (Fortifying Brew) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **召雾者** (Mist Caller) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **迅风行** (Swift Art) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **普度众生** (Save Them All) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **迅疾豪胆** (Expeditious Fortification) | `1/1` | 功能抉择 (选项 2) |
+| 第 8 行 | **散魔功** (Diffuse Magic) | `1/1` | 主动自保/控制/位移 |
+| 第 9 行 | **真气熟稔** (Chi Proficiency) | `2/2` | 属性与防御强化 |
+| 第 9 行 | **以武立身** (Martial Instincts) | `2/2` | 属性与防御强化 |
+| 第 10 行 | **身轻如羽** (Lighter Than Air) | `1/1` | 主动自保/控制/位移 |
+| 第 10 行 | **真气流转** (Flow of Chi) | `1/1` | 主动自保/控制/位移 |
+| 第 10 行 | **致命之触** (Fatal Touch) | `1/1` | 主动自保/控制/位移 |

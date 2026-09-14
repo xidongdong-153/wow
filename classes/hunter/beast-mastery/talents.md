@@ -47,30 +47,110 @@ tags:
 
 ## 2. 官方推荐构建（Recommended Build）
 
-当前大秘境 +7 至 +21 层大数据统计下的最高限时优选组合：
+当前大秘境大数据统计下的主流限时优选组合：
 
 | 评估指标 | 官方推荐统计值 |
 | :--- | :--- |
-| **首选英雄天赋** | **兽群领袖** |
-| **构建综合使用率** | 28.1% |
-| **当前验证最高限时** | **+19** |
-| **均伤 / 均治疗表现** | DPS: 284.0k |
-| **Wowhead 官方天赋模拟器** | [点击在 Wowhead 查看完整天赋树与导出字符串](https://www.wowhead.com/talent-calc/blizzard/C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZMjZYZMNDAAAAAAAA8AjxAmZDAzCYbAYA) |
+| **首选英雄天赋** | **兽群领袖 (Pack Leader)** |
+| **构建综合使用率** | 41.6% |
+| **验证最高限时** | **+19** |
+| **样本量** | 337,019 |
+
+### 暴雪官方天赋导入代码（一键复制）
+
+在游戏内按 `N` 打开天赋面板，点击左下角【导入】，粘贴下方代码即可载入整套加点：
+
+```text
+C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZMjZYZMNDAAAAAAAA8AjxAmZDAzCYbAYA
+```
 
 ---
 
-## 3. 大秘境核心天赋点法推荐
+## 3. 精确天赋点数分配清单（71 点全量明细）
 
-### 职业通用树（Class Tree）核心必点
-- 反制射击（Counter Shot，打断）
-- 胁迫（Intimidation，宠物单晕）
-- 焦油陷阱与冰冻陷阱
-- 意气风发（Exhilaration，自愈）与龟壳（Aspect of the Turtle，无敌）
-- 误导（Misdirection）与假死（Feign Death）
+### 英雄天赋树（兽群领袖，投入 15 点）
+| 层级/位置 | 天赋名称 (中文/英文) | 投入点数 | 节点类型与抉择 |
+| :--- | :--- | :--- | :--- |
+| 第 2 层 | **强强联手** (Better Together) | `1/1` | 核心被动/主动 |
+| 第 5 层 | **奔踏！** (Stampede!) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **龟壳庇护** (Shell Cover) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **从无怜悯** (No Mercy) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **巨熊之怒** (Ursine Fury) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 2 层 | **油滑之靴** (Slicked Shoes) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 3 层 | **双足飞龙之怒** (Fury of the Wyvern) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **兽群思维** (Pack Mentality) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **猪突猛进** (Hogstrider) | `1/1` | 核心被动/主动 |
+| 第 1 层 | **猎群领袖之嚎** (Howl of the Pack Leader) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **凶暴召唤** (Dire Summons) | `1/1` | 核心被动/主动 |
+| 第 0 层 | **兽群领袖** (Pack Leader) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **尖锐獠牙** (Sharpened Fangs) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **致命倒钩** (Lethal Barbs) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **双足飞龙之视** (Wyvern's Gaze) | `1/1` | 分支二选一 (已选选项 2) |
 
-### 专精核心树（Spec Tree）关键联动
-1. **倒刺射击（Barbed Shot）维持狂乱**
-2. **杀戮命令（Kill Command）双充能**
-3. **野兽顺劈（Beast Cleave）宠物多目标溅射**
-4. **狂野怒火（Bestial Wrath）爆发**
-5. **荒野的召唤（Call of the Wild）宠物大军**
+### 专精核心树（兽王猎，投入 34 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 节点特性 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **杀戮命令** (Kill Command) | `1/1` | 标准节点 |
+| 第 2 行 | **倒刺射击** (Barbed Shot) | `1/1` | 标准节点 |
+| 第 2 行 | **动物伙伴** (Animal Companion) | `1/1` | 抉择分支 (选项 1) |
+| 第 3 行 | **战争命令** (War Orders) | `1/1` | 标准节点 |
+| 第 3 行 | **践踏** (Stomp) | `1/1` | 标准节点 |
+| 第 3 行 | **捕食者头领** (Alpha Predator) | `1/1` | 标准节点 |
+| 第 4 行 | **狂野怒火** (Bestial Wrath) | `1/1` | 标准节点 |
+| 第 4 行 | **眼镜蛇射击** (Cobra Shot) | `1/1` | 标准节点 |
+| 第 4 行 | **狂野鞭笞** (Wild Thrash) | `1/1` | 标准节点 |
+| 第 5 行 | **野兽顺劈** (Beast Cleave) | `1/1` | 标准节点 |
+| 第 5 行 | **血之气息** (Scent of Blood) | `1/1` | 标准节点 |
+| 第 5 行 | **直取要害** (Go for the Throat) | `1/1` | 标准节点 |
+| 第 5 行 | **轰雷蹄踏** (Thundering Hooves) | `1/1` | 标准节点 |
+| 第 6 行 | **训练专家** (Training Expert) | `2/2` | 两点进阶强化 |
+| 第 6 行 | **尖刺鳞片** (Barbed Scales) | `1/1` | 标准节点 |
+| 第 6 行 | **杀戮顺劈** (Kill Cleave) | `1/1` | 标准节点 |
+| 第 6 行 | **裂痕** (Laceration) | `1/1` | 标准节点 |
+| 第 6 行 | **野兽之心** (The Beast Within) | `1/1` | 标准节点 |
+| 第 6 行 | **兽群战术** (Pack Tactics) | `1/1` | 标准节点 |
+| 第 7 行 | **蛇皮箭袋** (Snakeskin Quiver) | `1/1` | 抉择分支 (选项 1) |
+| 第 7 行 | **野兽守护** (Aspect of the Beast) | `1/1` | 标准节点 |
+| 第 7 行 | **锯齿创伤** (Jagged Wounds) | `1/1` | 标准节点 |
+| 第 7 行 | **毒蛇打击** (Serpentine Strikes) | `1/1` | 标准节点 |
+| 第 8 行 | **狂乱** (Frenzy) | `2/2` | 两点进阶强化 |
+| 第 9 行 | **野蛮** (Savagery) | `1/1` | 标准节点 |
+| 第 9 行 | **嗜血利齿** (Razor Sharp) | `1/1` | 标准节点 |
+| 第 9 行 | **血溅十方** (Bloodshed) | `1/1` | 标准节点 |
+| 第 10 行 | **血腥狂乱** (Bloody Frenzy) | `1/1` | 标准节点 |
+| 第 11 行 | **自然之友** (Nature's Ally) | `1/4` | 两点进阶强化 |
+| 第 11 行 | **自然之友** (Nature's Ally) | `2/4` | 两点进阶强化 |
+| 第 11 行 | **自然之友** (Nature's Ally) | `1/4` | 两点进阶强化 |
+
+### 职业通用树（猎人，投入 35 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 功能分类 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **春回大地** (Rejuvenating Wind) | `1/1` | 主动自保/控制/位移 |
+| 第 1 行 | **迅疾如风** (Posthaste) | `1/1` | 主动自保/控制/位移 |
+| 第 1 行 | **优胜劣汰** (Survival of the Fittest) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **自然治愈** (Natural Mending) | `2/2` | 属性与防御强化 |
+| 第 2 行 | **护身软甲** (Padded Armor) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **猎人闪避** (Hunter's Avoidance) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **强化猎豹守护** (Improved Aspect of the Cheetah) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **实战经验** (Combat Experience) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **反制射击** (Counter Shot) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **精准打击** (Precision Strikes) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **锯齿尖锋** (Serrated Tips) | `2/2` | 属性与防御强化 |
+| 第 5 行 | **干扰弹** (Disruptive Rounds) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **寻路** (Pathfinding) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **误导** (Misdirection) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **强化假死** (Improved Feign Death) | `1/2` | 属性与防御强化 |
+| 第 5 行 | **宁神射击** (Tranquilizing Shot) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **扳机指** (Trigger Finger) | `2/2` | 属性与防御强化 |
+| 第 6 行 | **科多兽镇静剂** (Kodo Tranquilizer) | `1/1` | 功能抉择 (选项 1) |
+| 第 6 行 | **青草之触** (Touch of Grass) | `2/2` | 属性与防御强化 |
+| 第 7 行 | **特化军火库** (Specialized Arsenal) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **强化灵龟守护** (Improved Aspect of the Turtle) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **孤独幸存者** (Lone Survivor) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **胁迫** (Intimidation) | `1/1` | 主动自保/控制/位移 |
+| 第 9 行 | **视力敏锐** (Keen Eyesight) | `2/2` | 属性与防御强化 |
+| 第 9 行 | **天生狂野** (Born To Be Wild) | `2/2` | 属性与防御强化 |
+| 第 9 行 | **低沉咆哮** (Guttural Roar) | `1/1` | 功能抉择 (选项 2) |
+| 第 10 行 | **非自然原因** (Unnatural Causes) | `1/1` | 主动自保/控制/位移 |
+| 第 10 行 | **紧急药膏** (Emergency Salve) | `1/1` | 主动自保/控制/位移 |
+| 第 10 行 | **守护者之皮** (Guardian's Hide) | `1/1` | 功能抉择 (选项 2) |

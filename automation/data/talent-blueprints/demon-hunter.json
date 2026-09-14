@@ -1,0 +1,5783 @@
+{
+  "classSlug": "demon-hunter",
+  "className": "demon-hunter",
+  "nameCn": "恶魔猎手",
+  "specs": {
+    "havoc": {
+      "specSlug": "havoc",
+      "specName": "havoc",
+      "nameCn": "浩劫",
+      "classIcon": "actor-sprite-DemonHunter",
+      "specIcon": "actor-sprite-DemonHunter-Havoc",
+      "heroTrees": [
+        {
+          "id": 35,
+          "nameEn": "Aldrachi Reaver",
+          "nameCn": "奥达奇收割者",
+          "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/35_full.png"
+        },
+        {
+          "id": 34,
+          "nameEn": "Fel-Scarred",
+          "nameCn": "邪痕狂徒",
+          "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/34_full.png"
+        }
+      ],
+      "nodes": [
+        {
+          "nodeId": 90927,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 5100,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            91000
+          ],
+          "abilities": [
+            {
+              "id": 112837,
+              "definitionId": 117842,
+              "type": "passive",
+              "nameEn": "Burn It Out",
+              "nameCn": "幽焰祛除",
+              "spellId": 1266316,
+              "icon": "spell_fel_elementaldevastation",
+              "maxRanks": 1
+            },
+            {
+              "id": 136502,
+              "definitionId": 141275,
+              "type": "passive",
+              "nameEn": "Soul Cleanse",
+              "nameCn": "灵魂净化",
+              "spellId": 1266496,
+              "icon": "spell_nature_removecurse",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90928,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112838,
+              "definitionId": 117843,
+              "type": "passive",
+              "nameEn": "Demon Muzzle",
+              "nameCn": "恶魔笼头",
+              "spellId": 1266329,
+              "icon": "spell_warlock_demonicservitude",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90929,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90928,
+            91002
+          ],
+          "abilities": [
+            {
+              "id": 112839,
+              "definitionId": 117844,
+              "type": "passive",
+              "nameEn": "Remorseless",
+              "nameCn": "无悯",
+              "spellId": 1266328,
+              "icon": "inv_glaive_1h_npc_d_02",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90930,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90931
+          ],
+          "abilities": [
+            {
+              "id": 112840,
+              "definitionId": 117845,
+              "type": "passive",
+              "nameEn": "Vengeful Bonds",
+              "nameCn": "复仇桎梏",
+              "spellId": 320635,
+              "icon": "ability_demonhunter_vengefulretreat2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90931,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90938,
+            90993,
+            90993,
+            90993,
+            90993,
+            90993,
+            107347,
+            108729
+          ],
+          "abilities": [
+            {
+              "id": 112841,
+              "definitionId": 117846,
+              "type": "passive",
+              "nameEn": "Bouncing Glaives",
+              "nameCn": "弹跳利刃",
+              "spellId": 320386,
+              "icon": "ability_demonhunter_throwglaive",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90933,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90947,
+            90927,
+            91004
+          ],
+          "abilities": [
+            {
+              "id": 112844,
+              "definitionId": 117849,
+              "type": "passive",
+              "nameEn": "Aura of Pain",
+              "nameCn": "痛苦光环",
+              "spellId": 207347,
+              "icon": "spell_fire_felimmolation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90934,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90996,
+            90996
+          ],
+          "abilities": [
+            {
+              "id": 112845,
+              "definitionId": 117850,
+              "type": "passive",
+              "nameEn": "Internal Struggle",
+              "nameCn": "内心冲突",
+              "spellId": 393822,
+              "icon": "ability_warlock_demonicpower",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90935,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90934,
+            95152
+          ],
+          "abilities": [
+            {
+              "id": 112846,
+              "definitionId": 117851,
+              "type": "passive",
+              "nameEn": "Illidari Knowledge",
+              "nameCn": "伊利达雷的知识",
+              "spellId": 389696,
+              "icon": "spell_mage_overpowered",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90936,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            91003,
+            90935,
+            107346,
+            108728
+          ],
+          "abilities": [
+            {
+              "id": 112847,
+              "definitionId": 117852,
+              "type": "passive",
+              "nameEn": "Soul Rending",
+              "nameCn": "灵魂劈裂",
+              "spellId": 204909,
+              "icon": "ability_demonhunter_soulcleave2",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90937,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90936
+          ],
+          "abilities": [
+            {
+              "id": 112848,
+              "definitionId": 117853,
+              "type": "passive",
+              "nameEn": "Disrupting Fury",
+              "nameCn": "瓦解之怒",
+              "spellId": 183782,
+              "icon": "ability_demonhunter_consumemagic",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90938,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90994,
+            90937,
+            95150
+          ],
+          "abilities": [
+            {
+              "id": 112849,
+              "definitionId": 117854,
+              "type": "passive",
+              "nameEn": "Improved Disrupt",
+              "nameCn": "强化瓦解",
+              "spellId": 320361,
+              "icon": "ability_demonhunter_consumemagic",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90939,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91003,
+            107346,
+            108728
+          ],
+          "abilities": [
+            {
+              "id": 112850,
+              "definitionId": 117855,
+              "type": "passive",
+              "nameEn": "Felfire Haste",
+              "nameCn": "邪火疾速",
+              "spellId": 389846,
+              "icon": "inv_boots_cloth_35v4",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90940,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 2100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90935
+          ],
+          "abilities": [
+            {
+              "id": 112851,
+              "definitionId": 117856,
+              "type": "passive",
+              "nameEn": "Pursuit",
+              "nameCn": "追踪",
+              "spellId": 320654,
+              "icon": "ability_demonhunter_infernalstrike2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90941,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90931,
+            91007
+          ],
+          "abilities": [
+            {
+              "id": 112852,
+              "definitionId": 117857,
+              "type": "passive",
+              "nameEn": "Unrestrained Fury",
+              "nameCn": "无拘怒意",
+              "spellId": 320770,
+              "icon": "ability_warrior_improveddisciplines",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90942,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 1,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90941,
+            90930
+          ],
+          "abilities": [
+            {
+              "id": 112853,
+              "definitionId": 117858,
+              "type": "active",
+              "nameEn": "Vengeful Retreat",
+              "nameCn": "复仇回避",
+              "spellId": 198793,
+              "icon": "ability_demonhunter_vengefulretreat2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90945,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90948
+          ],
+          "abilities": [
+            {
+              "id": 112858,
+              "definitionId": 117863,
+              "type": "passive",
+              "nameEn": "Improved Sigil of Misery",
+              "nameCn": "强化悲苦咒符",
+              "spellId": 320418,
+              "icon": "ability_demonhunter_sigilofmisery",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90946,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 1,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90950,
+            90945
+          ],
+          "abilities": [
+            {
+              "id": 112859,
+              "definitionId": 117864,
+              "type": "active",
+              "nameEn": "Sigil of Misery",
+              "nameCn": "悲苦咒符",
+              "spellId": 207684,
+              "icon": "ability_demonhunter_sigilofmisery",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90947,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 5700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91000
+          ],
+          "abilities": [
+            {
+              "id": 112860,
+              "definitionId": 117865,
+              "type": "passive",
+              "nameEn": "Lost in Darkness",
+              "nameCn": "黑暗迷失",
+              "spellId": 389849,
+              "icon": "inv_pet_inquisitoreye",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90948,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91006,
+            90999
+          ],
+          "abilities": [
+            {
+              "id": 112861,
+              "definitionId": 117866,
+              "type": "passive",
+              "nameEn": "Charred Warblades",
+              "nameCn": "焦油战刃",
+              "spellId": 213010,
+              "icon": "spell_fire_incinerate",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90949,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90997
+          ],
+          "abilities": [
+            {
+              "id": 112862,
+              "definitionId": 117867,
+              "type": "passive",
+              "nameEn": "Soul Splitter",
+              "nameCn": "灵魂分裂者",
+              "spellId": 1266330,
+              "icon": "ability_warlock_soulswap",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90950,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90948,
+            91007
+          ],
+          "abilities": [
+            {
+              "id": 112863,
+              "definitionId": 117868,
+              "type": "passive",
+              "nameEn": "Shattered Restoration",
+              "nameCn": "碎魂恢复",
+              "spellId": 389824,
+              "icon": "ability_warlock_soulsiphon",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90993,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 2100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90994,
+            95154
+          ],
+          "abilities": [
+            {
+              "id": 112911,
+              "definitionId": 117916,
+              "type": "active",
+              "nameEn": "Chaos Nova",
+              "nameCn": "混乱新星",
+              "spellId": 179057,
+              "icon": "spell_fire_felfirenova",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90994,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 2700,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            90936,
+            90940
+          ],
+          "abilities": [
+            {
+              "id": 112912,
+              "definitionId": 117917,
+              "type": "passive",
+              "nameEn": "Master of the Glaive",
+              "nameCn": "战刃大师",
+              "spellId": 389763,
+              "icon": "inv_glaive_1h_demonhunter_a_01",
+              "maxRanks": 1
+            },
+            {
+              "id": 117768,
+              "definitionId": 122780,
+              "type": "passive",
+              "nameEn": "Champion of the Glaive",
+              "nameCn": "飞刃勇士",
+              "spellId": 429211,
+              "icon": "inv_glaive_1h_battledungeon_c_01",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90996,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            110010
+          ],
+          "abilities": [
+            {
+              "id": 112914,
+              "definitionId": 117919,
+              "type": "passive",
+              "nameEn": "Erratic Felheart",
+              "nameCn": "不稳定的恶魔之心",
+              "spellId": 391397,
+              "icon": "inv_archaeology_70_crystallineeyeofundravius",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90997,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 117755,
+              "definitionId": 122767,
+              "type": "passive",
+              "nameEn": "Demonic Resilience",
+              "nameCn": "恶魔韧性",
+              "spellId": 1266307,
+              "icon": "inv_summondemonictyrant",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90999,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 5700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            95151,
+            90933
+          ],
+          "abilities": [
+            {
+              "id": 112917,
+              "definitionId": 117922,
+              "type": "passive",
+              "nameEn": "Aldrachi Design",
+              "nameCn": "奥达奇的设计",
+              "spellId": 391409,
+              "icon": "inv_glaive_1h_artifactaldrochi_d_01dual",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91000,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90929,
+            95149
+          ],
+          "abilities": [
+            {
+              "id": 112918,
+              "definitionId": 117923,
+              "type": "passive",
+              "nameEn": "Will of the Illidari",
+              "nameCn": "伊利达雷的意志",
+              "spellId": 389695,
+              "icon": "ability_demonhunter_spectank",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 91001,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 3900,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112920,
+              "definitionId": 117925,
+              "type": "passive",
+              "nameEn": "Long Night",
+              "nameCn": "长夜",
+              "spellId": 389781,
+              "icon": "spell_fire_twilightimmolation",
+              "maxRanks": 1
+            },
+            {
+              "id": 112919,
+              "definitionId": 117924,
+              "type": "passive",
+              "nameEn": "Pitch Black",
+              "nameCn": "漆黑",
+              "spellId": 389783,
+              "icon": "sha_spell_warlock_demonsoul",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91002,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91001
+          ],
+          "abilities": [
+            {
+              "id": 112921,
+              "definitionId": 117926,
+              "type": "active",
+              "nameEn": "Darkness",
+              "nameCn": "黑暗",
+              "spellId": 196718,
+              "icon": "ability_demonhunter_darkness",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91003,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90929,
+            95152
+          ],
+          "abilities": [
+            {
+              "id": 112923,
+              "definitionId": 117928,
+              "type": "passive",
+              "nameEn": "Felbound",
+              "nameCn": "邪能束缚",
+              "spellId": 1266762,
+              "icon": "ability_demonhunter_doublejump",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91004,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            91003,
+            91000,
+            107346,
+            108728
+          ],
+          "abilities": [
+            {
+              "id": 112924,
+              "definitionId": 117929,
+              "type": "passive",
+              "nameEn": "Infernal Armor",
+              "nameCn": "地狱火护甲",
+              "spellId": 320331,
+              "icon": "ability_demonhunter_immolation",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 91005,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112925,
+              "definitionId": 117930,
+              "type": "passive",
+              "nameEn": "Swallowed Anger",
+              "nameCn": "吞噬愤怒",
+              "spellId": 320313,
+              "icon": "spell_misc_zandalari_council_soulswap",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91006,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91005,
+            95150,
+            90933
+          ],
+          "abilities": [
+            {
+              "id": 112926,
+              "definitionId": 117931,
+              "type": "active",
+              "nameEn": "Consume Magic",
+              "nameCn": "吞噬魔法",
+              "spellId": 278326,
+              "icon": "spell_misc_zandalari_council_soulswap",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91007,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90938,
+            91006
+          ],
+          "abilities": [
+            {
+              "id": 112927,
+              "definitionId": 117932,
+              "type": "active",
+              "nameEn": "Imprison",
+              "nameCn": "禁锢",
+              "spellId": 217832,
+              "icon": "ability_demonhunter_imprison",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91008,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 1,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90941,
+            90950,
+            90950
+          ],
+          "abilities": [
+            {
+              "id": 112928,
+              "definitionId": 117933,
+              "type": "active",
+              "nameEn": "Felblade",
+              "nameCn": "邪能之刃",
+              "spellId": 232893,
+              "icon": "ability_demonhunter_felblade",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95149,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90949
+          ],
+          "abilities": [
+            {
+              "id": 117758,
+              "definitionId": 122770,
+              "type": "passive",
+              "nameEn": "First In, Last Out",
+              "nameCn": "陷阵殿后",
+              "spellId": 1266497,
+              "icon": "ability_demonhunter_demonictrample",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95150,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90936,
+            90939,
+            91004
+          ],
+          "abilities": [
+            {
+              "id": 117759,
+              "definitionId": 122771,
+              "type": "passive",
+              "nameEn": "Blazing Path",
+              "nameCn": "烈焰之径",
+              "spellId": 320416,
+              "icon": "ability_demonhunter_felrush",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95151,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 5700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90947
+          ],
+          "abilities": [
+            {
+              "id": 117761,
+              "definitionId": 122773,
+              "type": "passive",
+              "nameEn": "Live by the Glaive",
+              "nameCn": "刃以为骨",
+              "spellId": 428607,
+              "icon": "inv_sword_108",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95152,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            110011,
+            91002
+          ],
+          "abilities": [
+            {
+              "id": 117762,
+              "definitionId": 122774,
+              "type": "passive",
+              "nameEn": "Furious",
+              "nameCn": "狂怒",
+              "spellId": 1266326,
+              "icon": "ability_warlock_shadowfurytga",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95154,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 2100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90940
+          ],
+          "abilities": [
+            {
+              "id": 117767,
+              "definitionId": 122779,
+              "type": "passive",
+              "nameEn": "Focused Ire",
+              "nameCn": "凝神之怒",
+              "spellId": 1266296,
+              "icon": "ability_bossfellord_felspike",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 99824,
+          "treeType": "hero",
+          "heroTreeId": null,
+          "row": 0,
+          "posX": 7200,
+          "type": "subtree",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 123330,
+              "definitionId": 0,
+              "type": "passive",
+              "nameEn": "Aldrachi Reaver",
+              "nameCn": "奥达奇收割者",
+              "spellId": 0,
+              "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/35_full.png",
+              "maxRanks": 1
+            },
+            {
+              "id": 123329,
+              "definitionId": 0,
+              "type": "passive",
+              "nameEn": "Fel-Scarred",
+              "nameCn": "邪痕狂徒",
+              "spellId": 0,
+              "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/34_full.png",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 110010,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 136500,
+              "definitionId": 141273,
+              "type": "passive",
+              "nameEn": "Wings of Wrath",
+              "nameCn": "盛怒之翼",
+              "spellId": 1266493,
+              "icon": "ability_demonhunter_glide",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 110011,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 136501,
+              "definitionId": 141274,
+              "type": "passive",
+              "nameEn": "Final Breath",
+              "nameCn": "终结吐息",
+              "spellId": 1266500,
+              "icon": "spell_fire_felflamebreath",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90914,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 11400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91026
+          ],
+          "abilities": [
+            {
+              "id": 112823,
+              "definitionId": 117828,
+              "type": "passive",
+              "nameEn": "Scars of Suffering",
+              "nameCn": "苦难千疮",
+              "spellId": 428232,
+              "icon": "spell_fire_felimmolation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90915,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 14100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90916,
+            91015
+          ],
+          "abilities": [
+            {
+              "id": 112824,
+              "definitionId": 117829,
+              "type": "passive",
+              "nameEn": "Trail of Ruin",
+              "nameCn": "毁灭之痕",
+              "spellId": 258881,
+              "icon": "ability_demonhunter_bladedance",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90916,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 14100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90917,
+            91013
+          ],
+          "abilities": [
+            {
+              "id": 112825,
+              "definitionId": 117830,
+              "type": "passive",
+              "nameEn": "Growing Inferno",
+              "nameCn": "滋长炼狱",
+              "spellId": 390158,
+              "icon": "spell_fel_incinerate",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90917,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 14100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90918,
+            91012
+          ],
+          "abilities": [
+            {
+              "id": 112826,
+              "definitionId": 117831,
+              "type": "passive",
+              "nameEn": "Burning Wound",
+              "nameCn": "灼烧之伤",
+              "spellId": 391189,
+              "icon": "spell_fire_felhellfire",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90918,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 14100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            95147
+          ],
+          "abilities": [
+            {
+              "id": 112827,
+              "definitionId": 117832,
+              "type": "passive",
+              "nameEn": "Ragefire",
+              "nameCn": "怒焰",
+              "spellId": 388107,
+              "icon": "spell_fire_fireballgreen",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90919,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 13200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112828,
+              "definitionId": 117833,
+              "type": "passive",
+              "nameEn": "Screaming Brutality",
+              "nameCn": "呼啸暴虐",
+              "spellId": 1220506,
+              "icon": "inv_misc_magtheridonshead",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90921,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91012,
+            91035,
+            91024
+          ],
+          "abilities": [
+            {
+              "id": 112830,
+              "definitionId": 117835,
+              "type": "active",
+              "nameEn": "The Hunt",
+              "nameCn": "恶魔追击",
+              "spellId": 370965,
+              "icon": "inv_ability_demonhunter_thehunt",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90922,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91026,
+            91015,
+            91025
+          ],
+          "abilities": [
+            {
+              "id": 112831,
+              "definitionId": 117836,
+              "type": "passive",
+              "nameEn": "Demonic",
+              "nameCn": "魔化",
+              "spellId": 213410,
+              "icon": "spell_shadow_demonform",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90923,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 13200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90925,
+            91017,
+            91011
+          ],
+          "abilities": [
+            {
+              "id": 112832,
+              "definitionId": 117837,
+              "type": "passive",
+              "nameEn": "Burning Hatred",
+              "nameCn": "燃烧之恨",
+              "spellId": 320374,
+              "icon": "ability_demonhunter_immolation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90925,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            93016,
+            93015
+          ],
+          "abilities": [
+            {
+              "id": 112834,
+              "definitionId": 117839,
+              "type": "passive",
+              "nameEn": "First Blood",
+              "nameCn": "第一滴血",
+              "spellId": 206416,
+              "icon": "ability_deathwing_bloodcorruption_death",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91011,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 13200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            93015
+          ],
+          "abilities": [
+            {
+              "id": 112932,
+              "definitionId": 117937,
+              "type": "passive",
+              "nameEn": "Accelerated Blade",
+              "nameCn": "狂飙利刃",
+              "spellId": 391275,
+              "icon": "ability_demonhunter_throwglaive",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91012,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 13200,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            95147
+          ],
+          "abilities": [
+            {
+              "id": 112933,
+              "definitionId": 117938,
+              "type": "passive",
+              "nameEn": "Relentless Onslaught",
+              "nameCn": "无情强攻",
+              "spellId": 389977,
+              "icon": "ability_demonhunter_soulcleave2",
+              "maxRanks": 1
+            },
+            {
+              "id": 117764,
+              "definitionId": 122776,
+              "type": "passive",
+              "nameEn": "Soulscar",
+              "nameCn": "碎魂创痕",
+              "spellId": 388106,
+              "icon": "ability_demonhunter_bloodlet",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91013,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 13200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91012
+          ],
+          "abilities": [
+            {
+              "id": 112934,
+              "definitionId": 117939,
+              "type": "passive",
+              "nameEn": "Serrated Glaive",
+              "nameCn": "锯齿战刃",
+              "spellId": 390154,
+              "icon": "inv_glaive_1h_artifactaldrochi_d_03dual",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91015,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 13200,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            91013,
+            90921
+          ],
+          "abilities": [
+            {
+              "id": 112936,
+              "definitionId": 117941,
+              "type": "passive",
+              "nameEn": "Dancing with Fate",
+              "nameCn": "命运共舞",
+              "spellId": 389978,
+              "icon": "inv_polearm_1h_felfireraid_d_02",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 91017,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 14100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            93015
+          ],
+          "abilities": [
+            {
+              "id": 112938,
+              "definitionId": 117943,
+              "type": "passive",
+              "nameEn": "Demon Hide",
+              "nameCn": "恶魔之肤",
+              "spellId": 428241,
+              "icon": "misc_legionfall_demonhunter",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91018,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 1,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91028,
+            90923
+          ],
+          "abilities": [
+            {
+              "id": 112939,
+              "definitionId": 117944,
+              "type": "active",
+              "nameEn": "Eye Beam",
+              "nameCn": "眼棱",
+              "spellId": 198013,
+              "icon": "ability_demonhunter_eyebeam",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91020,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 10500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91034
+          ],
+          "abilities": [
+            {
+              "id": 112942,
+              "definitionId": 117947,
+              "type": "passive",
+              "nameEn": "Unbound Chaos",
+              "nameCn": "释放混沌",
+              "spellId": 347461,
+              "icon": "artifactability_vengeancedemonhunter_painbringer",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91021,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 10500,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            91035,
+            91020
+          ],
+          "abilities": [
+            {
+              "id": 112943,
+              "definitionId": 117948,
+              "type": "passive",
+              "nameEn": "Exergy",
+              "nameCn": "能量放射",
+              "spellId": 206476,
+              "icon": "ability_foundryraid_demolition",
+              "maxRanks": 1
+            },
+            {
+              "id": 117744,
+              "definitionId": 122756,
+              "type": "passive",
+              "nameEn": "Inertia",
+              "nameCn": "冲撞惯性",
+              "spellId": 427640,
+              "icon": "inv_10_inscription3_pigments_black",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91022,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 10500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91036,
+            91021
+          ],
+          "abilities": [
+            {
+              "id": 112944,
+              "definitionId": 117949,
+              "type": "passive",
+              "nameEn": "Tactical Retreat",
+              "nameCn": "战术撤退",
+              "spellId": 389688,
+              "icon": "ability_demonhunter_vengefulretreat2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91024,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91034,
+            91032,
+            95147
+          ],
+          "abilities": [
+            {
+              "id": 112947,
+              "definitionId": 117952,
+              "type": "passive",
+              "nameEn": "Chaotic Transformation",
+              "nameCn": "混沌变身",
+              "spellId": 388112,
+              "icon": "ability_demonhunter_glide",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91025,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90921
+          ],
+          "abilities": [
+            {
+              "id": 112948,
+              "definitionId": 117953,
+              "type": "passive",
+              "nameEn": "Furious Gaze",
+              "nameCn": "狂怒凝视",
+              "spellId": 343311,
+              "icon": "ability_demonhunter_eyebeam",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91026,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 11400,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            91036,
+            90921
+          ],
+          "abilities": [
+            {
+              "id": 112949,
+              "definitionId": 117954,
+              "type": "passive",
+              "nameEn": "Blind Fury",
+              "nameCn": "盲目之怒",
+              "spellId": 203550,
+              "icon": "ability_bosskilrogg_deadeye",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 91027,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 10500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91026,
+            91022
+          ],
+          "abilities": [
+            {
+              "id": 112950,
+              "definitionId": 117955,
+              "type": "passive",
+              "nameEn": "Initiative",
+              "nameCn": "先发制人",
+              "spellId": 388108,
+              "icon": "ability_rogue_surpriseattack",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91028,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 11400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90925,
+            91030,
+            93014
+          ],
+          "abilities": [
+            {
+              "id": 112951,
+              "definitionId": 117956,
+              "type": "passive",
+              "nameEn": "Critical Chaos",
+              "nameCn": "致命混沌",
+              "spellId": 320413,
+              "icon": "inv_glaive_1h_battledungeon_c_02",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91030,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 11400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            93016
+          ],
+          "abilities": [
+            {
+              "id": 112953,
+              "definitionId": 117958,
+              "type": "passive",
+              "nameEn": "Improved Chaos Strike",
+              "nameCn": "强化混乱打击",
+              "spellId": 343206,
+              "icon": "ability_demonhunter_chaosstrike",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91031,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 12300,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112954,
+              "definitionId": 117959,
+              "type": "passive",
+              "nameEn": "Shattered Destiny",
+              "nameCn": "破碎的命运",
+              "spellId": 388116,
+              "icon": "achievement_boss_triumvirate_darknaaru",
+              "maxRanks": 1
+            },
+            {
+              "id": 134227,
+              "definitionId": 139005,
+              "type": "passive",
+              "nameEn": "Collective Anguish",
+              "nameCn": "聚凝痛楚",
+              "spellId": 390152,
+              "icon": "artifactability_havocdemonhunter_anguishofthedeceiver",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91032,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90919,
+            91031,
+            108669
+          ],
+          "abilities": [
+            {
+              "id": 112955,
+              "definitionId": 117960,
+              "type": "passive",
+              "nameEn": "Cycle of Hatred",
+              "nameCn": "仇恨之轮",
+              "spellId": 258887,
+              "icon": "ability_ironmaidens_whirlofblood",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91033,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 10500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112956,
+              "definitionId": 117961,
+              "type": "active",
+              "nameEn": "Essence Break",
+              "nameCn": "精华破碎",
+              "spellId": 258860,
+              "icon": "spell_shadow_ritualofsacrifice",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91034,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 11400,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            108669,
+            91033
+          ],
+          "abilities": [
+            {
+              "id": 112957,
+              "definitionId": 117962,
+              "type": "passive",
+              "nameEn": "Know Your Enemy",
+              "nameCn": "知己知彼",
+              "spellId": 388118,
+              "icon": "ability_demonhunter_eyeofleotheras",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 91035,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 11400,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            91034
+          ],
+          "abilities": [
+            {
+              "id": 112958,
+              "definitionId": 117963,
+              "type": "passive",
+              "nameEn": "Chaos Theory",
+              "nameCn": "混沌理论",
+              "spellId": 389687,
+              "icon": "inv_glaive_1h_artifactaldrochi_d_03dual",
+              "maxRanks": 1
+            },
+            {
+              "id": 137827,
+              "definitionId": 142581,
+              "type": "passive",
+              "nameEn": "Inner Demon",
+              "nameCn": "内心之魔",
+              "spellId": 389693,
+              "icon": "ability_demonhunter_glide",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91036,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 11400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91035
+          ],
+          "abilities": [
+            {
+              "id": 112959,
+              "definitionId": 117964,
+              "type": "passive",
+              "nameEn": "Isolated Prey",
+              "nameCn": "落单的猎物",
+              "spellId": 388113,
+              "icon": "spell_shadow_shadesofdarkness",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 93013,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 13200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91015
+          ],
+          "abilities": [
+            {
+              "id": 115244,
+              "definitionId": 120256,
+              "type": "passive",
+              "nameEn": "Furious Throws",
+              "nameCn": "愤怒投掷",
+              "spellId": 393029,
+              "icon": "inv_glaive_1h_npc_d_01",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 93014,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 10500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            93016
+          ],
+          "abilities": [
+            {
+              "id": 115245,
+              "definitionId": 120257,
+              "type": "passive",
+              "nameEn": "Never Say Die",
+              "nameCn": "永不言弃",
+              "spellId": 427794,
+              "icon": "inv_misc_food_legion_goosaporange_drop",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 93015,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 13200,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            93013,
+            90915,
+            90922
+          ],
+          "abilities": [
+            {
+              "id": 115246,
+              "definitionId": 120258,
+              "type": "passive",
+              "nameEn": "Deflecting Dance",
+              "nameCn": "舞刃折光",
+              "spellId": 427776,
+              "icon": "ability_ironmaidens_bladerush",
+              "maxRanks": 1
+            },
+            {
+              "id": 117743,
+              "definitionId": 122755,
+              "type": "passive",
+              "nameEn": "Mortal Dance",
+              "nameCn": "致死舞步",
+              "spellId": 328725,
+              "icon": "ability_demonhunter_vengefulretreat",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 93016,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 11400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90922,
+            91027,
+            90914
+          ],
+          "abilities": [
+            {
+              "id": 115248,
+              "definitionId": 120260,
+              "type": "passive",
+              "nameEn": "Desperate Instincts",
+              "nameCn": "绝望本能",
+              "spellId": 205411,
+              "icon": "spell_shadow_manafeed",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95143,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 14100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 117741,
+              "definitionId": 122753,
+              "type": "passive",
+              "nameEn": "A Fire Inside",
+              "nameCn": "焰由心生",
+              "spellId": 427775,
+              "icon": "ability_demonhunter_chaoticimprint_fire",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95147,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 13200,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90919,
+            95143
+          ],
+          "abilities": [
+            {
+              "id": 117754,
+              "definitionId": 122766,
+              "type": "passive",
+              "nameEn": "Chaotic Disposition",
+              "nameCn": "混沌无常",
+              "spellId": 428492,
+              "icon": "inv_inscription_tarotchaos",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 108669,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 11400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 134203,
+              "definitionId": 138983,
+              "type": "passive",
+              "nameEn": "Glaive Tempest",
+              "nameCn": "战刃风暴",
+              "spellId": 1244557,
+              "icon": "inv_glaive_1h_artifactazgalor_d_06dual",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 110427,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 11,
+          "posX": 12300,
+          "type": "capstone",
+          "maxRanks": 4,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 137049,
+              "definitionId": 141812,
+              "type": "capstone",
+              "nameEn": "Eternal Hunt",
+              "nameCn": "永恒追猎",
+              "spellId": 1270898,
+              "icon": "inv12_apextalent_demonhunter_eternalhunt",
+              "maxRanks": 1
+            },
+            {
+              "id": 137048,
+              "definitionId": 141811,
+              "type": "capstone",
+              "nameEn": "Eternal Hunt",
+              "nameCn": "永恒追猎",
+              "spellId": 1270900,
+              "icon": "inv12_apextalent_demonhunter_eternalhunt",
+              "maxRanks": 2
+            },
+            {
+              "id": 137047,
+              "definitionId": 141810,
+              "type": "capstone",
+              "nameEn": "Eternal Hunt",
+              "nameCn": "永恒追猎",
+              "spellId": 1270901,
+              "icon": "inv12_apextalent_demonhunter_eternalhunt",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94895,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 4,
+          "posX": 7200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94919
+          ],
+          "abilities": [
+            {
+              "id": 117492,
+              "definitionId": 122504,
+              "type": "passive",
+              "nameEn": "Incisive Blade",
+              "nameCn": "寒芒之刃",
+              "spellId": 442492,
+              "icon": "ability_dualwieldspecialization",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94896,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 3,
+          "posX": 7800,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            94910
+          ],
+          "abilities": [
+            {
+              "id": 117493,
+              "definitionId": 122505,
+              "type": "passive",
+              "nameEn": "Army Unto Oneself",
+              "nameCn": "一人成军",
+              "spellId": 442714,
+              "icon": "ability_warlock_avoidance",
+              "maxRanks": 1
+            },
+            {
+              "id": 123046,
+              "definitionId": 127927,
+              "type": "passive",
+              "nameEn": "Incorruptible Spirit",
+              "nameCn": "不朽灵魂",
+              "spellId": 442736,
+              "icon": "spell_nzinsanity_chasedbyshadows",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94897,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 3,
+          "posX": 8400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94906
+          ],
+          "abilities": [
+            {
+              "id": 117494,
+              "definitionId": 122506,
+              "type": "passive",
+              "nameEn": "Wounded Quarry",
+              "nameCn": "穷寇当逐",
+              "spellId": 442806,
+              "icon": "ability_rogue_venomouswounds",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94898,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 2,
+          "posX": 7200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94914
+          ],
+          "abilities": [
+            {
+              "id": 117495,
+              "definitionId": 122519,
+              "type": "passive",
+              "nameEn": "Fury of the Aldrachi",
+              "nameCn": "奥达奇之怒",
+              "spellId": 442718,
+              "icon": "spell_fire_felflamestrike",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94903,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 2,
+          "posX": 8400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94897
+          ],
+          "abilities": [
+            {
+              "id": 117500,
+              "definitionId": 122512,
+              "type": "passive",
+              "nameEn": "Reaver's Mark",
+              "nameCn": "收割者印记",
+              "spellId": 442679,
+              "icon": "ability_hunter_harass",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94906,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 4,
+          "posX": 8400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94919
+          ],
+          "abilities": [
+            {
+              "id": 117503,
+              "definitionId": 122515,
+              "type": "passive",
+              "nameEn": "Bladecraft",
+              "nameCn": "利刃之艺",
+              "spellId": 1272153,
+              "icon": "ability_demonhunter_soulcleave3",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94910,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 4,
+          "posX": 7800,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            94919
+          ],
+          "abilities": [
+            {
+              "id": 117507,
+              "definitionId": 122507,
+              "type": "passive",
+              "nameEn": "Keen Engagement",
+              "nameCn": "锐意交锋",
+              "spellId": 442497,
+              "icon": "ability_warlock_shadowfurytga",
+              "maxRanks": 1
+            },
+            {
+              "id": 122422,
+              "definitionId": 127322,
+              "type": "passive",
+              "nameEn": "Preemptive Strike",
+              "nameCn": "先发制人",
+              "spellId": 444997,
+              "icon": "ability_rogue_focusedattacks",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94911,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 2,
+          "posX": 7800,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            94896
+          ],
+          "abilities": [
+            {
+              "id": 117508,
+              "definitionId": 122520,
+              "type": "passive",
+              "nameEn": "Evasive Action",
+              "nameCn": "规避行动",
+              "spellId": 444926,
+              "icon": "ability_demonhunter_vengefulretreat",
+              "maxRanks": 1
+            },
+            {
+              "id": 123047,
+              "definitionId": 127928,
+              "type": "passive",
+              "nameEn": "Unhindered Assault",
+              "nameCn": "无拘强袭",
+              "spellId": 444931,
+              "icon": "ability_ironmaidens_bladerush",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94914,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 3,
+          "posX": 7200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94895
+          ],
+          "abilities": [
+            {
+              "id": 117511,
+              "definitionId": 122523,
+              "type": "passive",
+              "nameEn": "Aldrachi Tactics",
+              "nameCn": "奥达奇战术",
+              "spellId": 442683,
+              "icon": "ability_demonhunter_soulcleave2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94915,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 1,
+          "posX": 8100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94911,
+            94898,
+            94903,
+            109771
+          ],
+          "abilities": [
+            {
+              "id": 117512,
+              "definitionId": 122524,
+              "type": "passive",
+              "nameEn": "Art of the Glaive",
+              "nameCn": "战刃绝技",
+              "spellId": 442290,
+              "icon": "inv_ability_aldrachireaverdemonhunter_reaversglaive",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94919,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 5,
+          "posX": 8100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 117516,
+              "definitionId": 122528,
+              "type": "passive",
+              "nameEn": "Thrill of the Fight",
+              "nameCn": "酣战热血",
+              "spellId": 442686,
+              "icon": "spell_arcane_arcanetactics",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109769,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 4,
+          "posX": 9000,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94919
+          ],
+          "abilities": [
+            {
+              "id": 136027,
+              "definitionId": 140782,
+              "type": "passive",
+              "nameEn": "Warblade's Hunger",
+              "nameCn": "战刃渴望",
+              "spellId": 442502,
+              "icon": "ability_warlock_soulsiphon",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109770,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 3,
+          "posX": 9000,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109769
+          ],
+          "abilities": [
+            {
+              "id": 136028,
+              "definitionId": 140783,
+              "type": "passive",
+              "nameEn": "Keen Edge",
+              "nameCn": "利刃",
+              "spellId": 1272138,
+              "icon": "inv_glaive_1h_tyrande_d_01",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109771,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 2,
+          "posX": 9000,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109770
+          ],
+          "abilities": [
+            {
+              "id": 136029,
+              "definitionId": 140784,
+              "type": "passive",
+              "nameEn": "Broken Spirit",
+              "nameCn": "碎裂精魂",
+              "spellId": 1272143,
+              "icon": "ability_argus_soulbombdebufflarge",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94899,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 2,
+          "posX": 8400,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            94916
+          ],
+          "abilities": [
+            {
+              "id": 117496,
+              "definitionId": 122508,
+              "type": "passive",
+              "nameEn": "Set Fire to the Pain",
+              "nameCn": "沐焰为殇",
+              "spellId": 452406,
+              "icon": "ability_demonhunter_empowerwards",
+              "maxRanks": 1
+            },
+            {
+              "id": 124010,
+              "definitionId": 128848,
+              "type": "passive",
+              "nameEn": "Improved Soul Rending",
+              "nameCn": "强化灵魂劈裂",
+              "spellId": 452407,
+              "icon": "ability_demonhunter_soulcleave2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94901,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 5,
+          "posX": 8100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 117498,
+              "definitionId": 122510,
+              "type": "passive",
+              "nameEn": "Demonic Intensity",
+              "nameCn": "魔化强度",
+              "spellId": 452415,
+              "icon": "spell_warlock_demonicempowerment",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94902,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 4,
+          "posX": 7800,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            94901
+          ],
+          "abilities": [
+            {
+              "id": 117499,
+              "definitionId": 122511,
+              "type": "passive",
+              "nameEn": "Student of Suffering",
+              "nameCn": "苦难修行",
+              "spellId": 452412,
+              "icon": "achievement_dungeon_theatreofpain_kultharok",
+              "maxRanks": 1
+            },
+            {
+              "id": 124009,
+              "definitionId": 128847,
+              "type": "passive",
+              "nameEn": "Flamebound",
+              "nameCn": "火缚",
+              "spellId": 452413,
+              "icon": "spell_fire_felflamering",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94904,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 4,
+          "posX": 7200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94901
+          ],
+          "abilities": [
+            {
+              "id": 117501,
+              "definitionId": 122513,
+              "type": "passive",
+              "nameEn": "Untethered Fury",
+              "nameCn": "无拘之怒",
+              "spellId": 452411,
+              "icon": "inv__felbarrage",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94905,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 3,
+          "posX": 7200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94904
+          ],
+          "abilities": [
+            {
+              "id": 117502,
+              "definitionId": 122514,
+              "type": "passive",
+              "nameEn": "Burning Blades",
+              "nameCn": "燃烧剑刃",
+              "spellId": 452408,
+              "icon": "inv_glaive_1h_artifactazgalor_d_02dual",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94909,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 4,
+          "posX": 8400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94901
+          ],
+          "abilities": [
+            {
+              "id": 117506,
+              "definitionId": 122518,
+              "type": "passive",
+              "nameEn": "Monster Rising",
+              "nameCn": "怪物现身",
+              "spellId": 452414,
+              "icon": "ability_warlock_demonicpower",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94912,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 3,
+          "posX": 7800,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94902
+          ],
+          "abilities": [
+            {
+              "id": 117509,
+              "definitionId": 122521,
+              "type": "passive",
+              "nameEn": "Violent Transformation",
+              "nameCn": "猛烈变形",
+              "spellId": 452409,
+              "icon": "spell_shadow_demoniccirclesummon",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94913,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 2,
+          "posX": 7200,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            94905
+          ],
+          "abilities": [
+            {
+              "id": 117510,
+              "definitionId": 122522,
+              "type": "passive",
+              "nameEn": "Wave of Debilitation",
+              "nameCn": "衰竭波动",
+              "spellId": 452403,
+              "icon": "spell_fire_felfirenova",
+              "maxRanks": 1
+            },
+            {
+              "id": 124011,
+              "definitionId": 128849,
+              "type": "passive",
+              "nameEn": "Pursuit of Angriness",
+              "nameCn": "怒意追击",
+              "spellId": 452404,
+              "icon": "ability_felarakkoa_focusedblast",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94916,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 3,
+          "posX": 8400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94909
+          ],
+          "abilities": [
+            {
+              "id": 117513,
+              "definitionId": 122525,
+              "type": "passive",
+              "nameEn": "Enduring Torment",
+              "nameCn": "弥久苦痛",
+              "spellId": 452410,
+              "icon": "spell_fire_felimmolation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94917,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 1,
+          "posX": 8100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94913,
+            94918,
+            94899,
+            109773
+          ],
+          "abilities": [
+            {
+              "id": 117514,
+              "definitionId": 122526,
+              "type": "passive",
+              "nameEn": "Demonsurge",
+              "nameCn": "魔涌",
+              "spellId": 452402,
+              "icon": "inv_ability_felscarreddemonhunter_demonsurge",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94918,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 2,
+          "posX": 7800,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94912
+          ],
+          "abilities": [
+            {
+              "id": 117515,
+              "definitionId": 122527,
+              "type": "passive",
+              "nameEn": "Focused Hatred",
+              "nameCn": "专注仇恨",
+              "spellId": 452405,
+              "icon": "ability_demonhunter_illidansgrasp",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109772,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 4,
+          "posX": 9000,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94901
+          ],
+          "abilities": [
+            {
+              "id": 136030,
+              "definitionId": 140785,
+              "type": "passive",
+              "nameEn": "Volatile Instinct",
+              "nameCn": "暴烈本能",
+              "spellId": 1272453,
+              "icon": "inv_nature_nova",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109773,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 2,
+          "posX": 9000,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109774
+          ],
+          "abilities": [
+            {
+              "id": 136031,
+              "definitionId": 140786,
+              "type": "passive",
+              "nameEn": "Blind Focus",
+              "nameCn": "盲眼专注",
+              "spellId": 1272364,
+              "icon": "inv_belt_leather_raiddemonhunter_r_01",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109774,
+          "treeType": "hero",
+          "heroTreeId": 34,
+          "row": 3,
+          "posX": 9000,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109772
+          ],
+          "abilities": [
+            {
+              "id": 136032,
+              "definitionId": 140787,
+              "type": "passive",
+              "nameEn": "Undying Embers",
+              "nameCn": "不灭余烬",
+              "spellId": 1272405,
+              "icon": "ability_warlock_burningembersgreen",
+              "maxRanks": 1
+            }
+          ]
+        }
+      ]
+    },
+    "vengeance": {
+      "specSlug": "vengeance",
+      "specName": "vengeance",
+      "nameCn": "复仇",
+      "classIcon": "actor-sprite-DemonHunter",
+      "specIcon": "actor-sprite-DemonHunter-Vengeance",
+      "heroTrees": [
+        {
+          "id": 35,
+          "nameEn": "Aldrachi Reaver",
+          "nameCn": "奥达奇收割者",
+          "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/35_full.png"
+        },
+        {
+          "id": 124,
+          "nameEn": "Annihilator",
+          "nameCn": "Annihilator",
+          "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/124_full.png"
+        }
+      ],
+      "nodes": [
+        {
+          "nodeId": 90927,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 5100,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            91000
+          ],
+          "abilities": [
+            {
+              "id": 112837,
+              "definitionId": 117842,
+              "type": "passive",
+              "nameEn": "Burn It Out",
+              "nameCn": "幽焰祛除",
+              "spellId": 1266316,
+              "icon": "spell_fel_elementaldevastation",
+              "maxRanks": 1
+            },
+            {
+              "id": 136502,
+              "definitionId": 141275,
+              "type": "passive",
+              "nameEn": "Soul Cleanse",
+              "nameCn": "灵魂净化",
+              "spellId": 1266496,
+              "icon": "spell_nature_removecurse",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90928,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112838,
+              "definitionId": 117843,
+              "type": "passive",
+              "nameEn": "Demon Muzzle",
+              "nameCn": "恶魔笼头",
+              "spellId": 1266329,
+              "icon": "spell_warlock_demonicservitude",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90929,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90928,
+            91002
+          ],
+          "abilities": [
+            {
+              "id": 112839,
+              "definitionId": 117844,
+              "type": "passive",
+              "nameEn": "Remorseless",
+              "nameCn": "无悯",
+              "spellId": 1266328,
+              "icon": "inv_glaive_1h_npc_d_02",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90930,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90931
+          ],
+          "abilities": [
+            {
+              "id": 112840,
+              "definitionId": 117845,
+              "type": "passive",
+              "nameEn": "Vengeful Bonds",
+              "nameCn": "复仇桎梏",
+              "spellId": 320635,
+              "icon": "ability_demonhunter_vengefulretreat2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90931,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90938,
+            90993,
+            90993,
+            90993,
+            90993,
+            90993,
+            107347,
+            108729
+          ],
+          "abilities": [
+            {
+              "id": 112841,
+              "definitionId": 117846,
+              "type": "passive",
+              "nameEn": "Bouncing Glaives",
+              "nameCn": "弹跳利刃",
+              "spellId": 320386,
+              "icon": "ability_demonhunter_throwglaive",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90933,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90947,
+            90927,
+            91004
+          ],
+          "abilities": [
+            {
+              "id": 112844,
+              "definitionId": 117849,
+              "type": "passive",
+              "nameEn": "Aura of Pain",
+              "nameCn": "痛苦光环",
+              "spellId": 207347,
+              "icon": "spell_fire_felimmolation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90934,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90996,
+            90996
+          ],
+          "abilities": [
+            {
+              "id": 112845,
+              "definitionId": 117850,
+              "type": "passive",
+              "nameEn": "Internal Struggle",
+              "nameCn": "内心冲突",
+              "spellId": 393822,
+              "icon": "ability_warlock_demonicpower",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90935,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90934,
+            95152
+          ],
+          "abilities": [
+            {
+              "id": 112846,
+              "definitionId": 117851,
+              "type": "passive",
+              "nameEn": "Illidari Knowledge",
+              "nameCn": "伊利达雷的知识",
+              "spellId": 389696,
+              "icon": "spell_mage_overpowered",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90936,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            91003,
+            90935,
+            107346,
+            108728
+          ],
+          "abilities": [
+            {
+              "id": 112847,
+              "definitionId": 117852,
+              "type": "passive",
+              "nameEn": "Soul Rending",
+              "nameCn": "灵魂劈裂",
+              "spellId": 204909,
+              "icon": "ability_demonhunter_soulcleave2",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90937,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90936
+          ],
+          "abilities": [
+            {
+              "id": 112848,
+              "definitionId": 117853,
+              "type": "passive",
+              "nameEn": "Disrupting Fury",
+              "nameCn": "瓦解之怒",
+              "spellId": 183782,
+              "icon": "ability_demonhunter_consumemagic",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90938,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90994,
+            90937,
+            95150
+          ],
+          "abilities": [
+            {
+              "id": 112849,
+              "definitionId": 117854,
+              "type": "passive",
+              "nameEn": "Improved Disrupt",
+              "nameCn": "强化瓦解",
+              "spellId": 320361,
+              "icon": "ability_demonhunter_consumemagic",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90939,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91003,
+            107346,
+            108728
+          ],
+          "abilities": [
+            {
+              "id": 112850,
+              "definitionId": 117855,
+              "type": "passive",
+              "nameEn": "Felfire Haste",
+              "nameCn": "邪火疾速",
+              "spellId": 389846,
+              "icon": "inv_boots_cloth_35v4",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90940,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 2100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90935
+          ],
+          "abilities": [
+            {
+              "id": 112851,
+              "definitionId": 117856,
+              "type": "passive",
+              "nameEn": "Pursuit",
+              "nameCn": "追踪",
+              "spellId": 320654,
+              "icon": "ability_demonhunter_infernalstrike2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90941,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90931,
+            91007
+          ],
+          "abilities": [
+            {
+              "id": 112852,
+              "definitionId": 117857,
+              "type": "passive",
+              "nameEn": "Unrestrained Fury",
+              "nameCn": "无拘怒意",
+              "spellId": 320770,
+              "icon": "ability_warrior_improveddisciplines",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90942,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 1,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90941,
+            90930
+          ],
+          "abilities": [
+            {
+              "id": 112853,
+              "definitionId": 117858,
+              "type": "active",
+              "nameEn": "Vengeful Retreat",
+              "nameCn": "复仇回避",
+              "spellId": 198793,
+              "icon": "ability_demonhunter_vengefulretreat2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90945,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90948
+          ],
+          "abilities": [
+            {
+              "id": 112858,
+              "definitionId": 117863,
+              "type": "passive",
+              "nameEn": "Improved Sigil of Misery",
+              "nameCn": "强化悲苦咒符",
+              "spellId": 320418,
+              "icon": "ability_demonhunter_sigilofmisery",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90946,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 1,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90950,
+            90945
+          ],
+          "abilities": [
+            {
+              "id": 112859,
+              "definitionId": 117864,
+              "type": "active",
+              "nameEn": "Sigil of Misery",
+              "nameCn": "悲苦咒符",
+              "spellId": 207684,
+              "icon": "ability_demonhunter_sigilofmisery",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90947,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 5700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91000
+          ],
+          "abilities": [
+            {
+              "id": 112860,
+              "definitionId": 117865,
+              "type": "passive",
+              "nameEn": "Lost in Darkness",
+              "nameCn": "黑暗迷失",
+              "spellId": 389849,
+              "icon": "inv_pet_inquisitoreye",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90948,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91006,
+            90999
+          ],
+          "abilities": [
+            {
+              "id": 112861,
+              "definitionId": 117866,
+              "type": "passive",
+              "nameEn": "Charred Warblades",
+              "nameCn": "焦油战刃",
+              "spellId": 213010,
+              "icon": "spell_fire_incinerate",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90949,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90997
+          ],
+          "abilities": [
+            {
+              "id": 112862,
+              "definitionId": 117867,
+              "type": "passive",
+              "nameEn": "Soul Splitter",
+              "nameCn": "灵魂分裂者",
+              "spellId": 1266330,
+              "icon": "ability_warlock_soulswap",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90950,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90948,
+            91007
+          ],
+          "abilities": [
+            {
+              "id": 112863,
+              "definitionId": 117868,
+              "type": "passive",
+              "nameEn": "Shattered Restoration",
+              "nameCn": "碎魂恢复",
+              "spellId": 389824,
+              "icon": "ability_warlock_soulsiphon",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90994,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 2700,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            90936,
+            90940
+          ],
+          "abilities": [
+            {
+              "id": 112912,
+              "definitionId": 117917,
+              "type": "passive",
+              "nameEn": "Master of the Glaive",
+              "nameCn": "战刃大师",
+              "spellId": 389763,
+              "icon": "inv_glaive_1h_demonhunter_a_01",
+              "maxRanks": 1
+            },
+            {
+              "id": 117768,
+              "definitionId": 122780,
+              "type": "passive",
+              "nameEn": "Champion of the Glaive",
+              "nameCn": "飞刃勇士",
+              "spellId": 429211,
+              "icon": "inv_glaive_1h_battledungeon_c_01",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90996,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            110010
+          ],
+          "abilities": [
+            {
+              "id": 112914,
+              "definitionId": 117919,
+              "type": "passive",
+              "nameEn": "Erratic Felheart",
+              "nameCn": "不稳定的恶魔之心",
+              "spellId": 391397,
+              "icon": "inv_archaeology_70_crystallineeyeofundravius",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90997,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 117755,
+              "definitionId": 122767,
+              "type": "passive",
+              "nameEn": "Demonic Resilience",
+              "nameCn": "恶魔韧性",
+              "spellId": 1266307,
+              "icon": "inv_summondemonictyrant",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90999,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 5700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            95151,
+            90933
+          ],
+          "abilities": [
+            {
+              "id": 112917,
+              "definitionId": 117922,
+              "type": "passive",
+              "nameEn": "Aldrachi Design",
+              "nameCn": "奥达奇的设计",
+              "spellId": 391409,
+              "icon": "inv_glaive_1h_artifactaldrochi_d_01dual",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91000,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90929,
+            95149
+          ],
+          "abilities": [
+            {
+              "id": 112918,
+              "definitionId": 117923,
+              "type": "passive",
+              "nameEn": "Will of the Illidari",
+              "nameCn": "伊利达雷的意志",
+              "spellId": 389695,
+              "icon": "ability_demonhunter_spectank",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 91001,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 3900,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112920,
+              "definitionId": 117925,
+              "type": "passive",
+              "nameEn": "Long Night",
+              "nameCn": "长夜",
+              "spellId": 389781,
+              "icon": "spell_fire_twilightimmolation",
+              "maxRanks": 1
+            },
+            {
+              "id": 112919,
+              "definitionId": 117924,
+              "type": "passive",
+              "nameEn": "Pitch Black",
+              "nameCn": "漆黑",
+              "spellId": 389783,
+              "icon": "sha_spell_warlock_demonsoul",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91002,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91001
+          ],
+          "abilities": [
+            {
+              "id": 112921,
+              "definitionId": 117926,
+              "type": "active",
+              "nameEn": "Darkness",
+              "nameCn": "黑暗",
+              "spellId": 196718,
+              "icon": "ability_demonhunter_darkness",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91004,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            91003,
+            91000,
+            107346,
+            108728
+          ],
+          "abilities": [
+            {
+              "id": 112924,
+              "definitionId": 117929,
+              "type": "passive",
+              "nameEn": "Infernal Armor",
+              "nameCn": "地狱火护甲",
+              "spellId": 320331,
+              "icon": "ability_demonhunter_immolation",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 91005,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112925,
+              "definitionId": 117930,
+              "type": "passive",
+              "nameEn": "Swallowed Anger",
+              "nameCn": "吞噬愤怒",
+              "spellId": 320313,
+              "icon": "spell_misc_zandalari_council_soulswap",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91006,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 4500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            91005,
+            95150,
+            90933
+          ],
+          "abilities": [
+            {
+              "id": 112926,
+              "definitionId": 117931,
+              "type": "active",
+              "nameEn": "Consume Magic",
+              "nameCn": "吞噬魔法",
+              "spellId": 278326,
+              "icon": "spell_misc_zandalari_council_soulswap",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 91007,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90938,
+            91006
+          ],
+          "abilities": [
+            {
+              "id": 112927,
+              "definitionId": 117932,
+              "type": "active",
+              "nameEn": "Imprison",
+              "nameCn": "禁锢",
+              "spellId": 217832,
+              "icon": "ability_demonhunter_imprison",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95149,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 5100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90949
+          ],
+          "abilities": [
+            {
+              "id": 117758,
+              "definitionId": 122770,
+              "type": "passive",
+              "nameEn": "First In, Last Out",
+              "nameCn": "陷阵殿后",
+              "spellId": 1266497,
+              "icon": "ability_demonhunter_demonictrample",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95150,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90936,
+            90939,
+            91004
+          ],
+          "abilities": [
+            {
+              "id": 117759,
+              "definitionId": 122771,
+              "type": "passive",
+              "nameEn": "Blazing Path",
+              "nameCn": "烈焰之径",
+              "spellId": 320416,
+              "icon": "ability_demonhunter_felrush",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95151,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 5700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90947
+          ],
+          "abilities": [
+            {
+              "id": 117761,
+              "definitionId": 122773,
+              "type": "passive",
+              "nameEn": "Live by the Glaive",
+              "nameCn": "刃以为骨",
+              "spellId": 428607,
+              "icon": "inv_sword_108",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95152,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            110011,
+            91002
+          ],
+          "abilities": [
+            {
+              "id": 117762,
+              "definitionId": 122774,
+              "type": "passive",
+              "nameEn": "Furious",
+              "nameCn": "狂怒",
+              "spellId": 1266326,
+              "icon": "ability_warlock_shadowfurytga",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 95154,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 2100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90940
+          ],
+          "abilities": [
+            {
+              "id": 117767,
+              "definitionId": 122779,
+              "type": "passive",
+              "nameEn": "Focused Ire",
+              "nameCn": "凝神之怒",
+              "spellId": 1266296,
+              "icon": "ability_bossfellord_felspike",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 99823,
+          "treeType": "hero",
+          "heroTreeId": null,
+          "row": 0,
+          "posX": 8400,
+          "type": "subtree",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 123328,
+              "definitionId": 0,
+              "type": "passive",
+              "nameEn": "Aldrachi Reaver",
+              "nameCn": "奥达奇收割者",
+              "spellId": 0,
+              "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/35_full.png",
+              "maxRanks": 1
+            },
+            {
+              "id": 134253,
+              "definitionId": 0,
+              "type": "passive",
+              "nameEn": "Annihilator",
+              "nameCn": "歼灭者",
+              "spellId": 0,
+              "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/124_full.png",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 108722,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 1,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90941,
+            90950
+          ],
+          "abilities": [
+            {
+              "id": 134271,
+              "definitionId": 139044,
+              "type": "active",
+              "nameEn": "Felblade",
+              "nameCn": "邪能之刃",
+              "spellId": 232893,
+              "icon": "ability_demonhunter_felblade",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 108728,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 3900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90929,
+            95152
+          ],
+          "abilities": [
+            {
+              "id": 134281,
+              "definitionId": 139054,
+              "type": "passive",
+              "nameEn": "Felbound",
+              "nameCn": "邪能束缚",
+              "spellId": 1266762,
+              "icon": "ability_demonhunter_doublejump",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 108729,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 2100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            95154,
+            95154
+          ],
+          "abilities": [
+            {
+              "id": 134282,
+              "definitionId": 139055,
+              "type": "active",
+              "nameEn": "Chaos Nova",
+              "nameCn": "混乱新星",
+              "spellId": 179057,
+              "icon": "spell_fire_felfirenova",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 110010,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 2700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 136500,
+              "definitionId": 141273,
+              "type": "passive",
+              "nameEn": "Wings of Wrath",
+              "nameCn": "盛怒之翼",
+              "spellId": 1266493,
+              "icon": "ability_demonhunter_glide",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 110011,
+          "treeType": "class",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 3300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 136501,
+              "definitionId": 141274,
+              "type": "passive",
+              "nameEn": "Final Breath",
+              "nameCn": "终结吐息",
+              "spellId": 1266500,
+              "icon": "spell_fire_felflamebreath",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90951,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 12900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90960,
+            90989
+          ],
+          "abilities": [
+            {
+              "id": 112864,
+              "definitionId": 117869,
+              "type": "active",
+              "nameEn": "Fiery Brand",
+              "nameCn": "烈火烙印",
+              "spellId": 204021,
+              "icon": "ability_demonhunter_fierybrand",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90952,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 13500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90987
+          ],
+          "abilities": [
+            {
+              "id": 112865,
+              "definitionId": 117870,
+              "type": "passive",
+              "nameEn": "Retaliation",
+              "nameCn": "以牙还牙",
+              "spellId": 389729,
+              "icon": "ability_demonhunter_demonspikes2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90953,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 14100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90987,
+            90957
+          ],
+          "abilities": [
+            {
+              "id": 112866,
+              "definitionId": 117871,
+              "type": "passive",
+              "nameEn": "Felfire Fist",
+              "nameCn": "邪火之拳",
+              "spellId": 389724,
+              "icon": "inv12_ability_demonhunter_felfirefists",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90954,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90984
+          ],
+          "abilities": [
+            {
+              "id": 112867,
+              "definitionId": 117872,
+              "type": "passive",
+              "nameEn": "Roaring Fire",
+              "nameCn": "熊熊大火",
+              "spellId": 391178,
+              "icon": "spell_fire_felflamering",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90955,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 14100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90958,
+            90964
+          ],
+          "abilities": [
+            {
+              "id": 112868,
+              "definitionId": 117873,
+              "type": "passive",
+              "nameEn": "Fel Flame Fortification",
+              "nameCn": "强固邪焰",
+              "spellId": 389705,
+              "icon": "spell_fire_felfire",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90956,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 13500,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            90958
+          ],
+          "abilities": [
+            {
+              "id": 112870,
+              "definitionId": 117875,
+              "type": "passive",
+              "nameEn": "Soul Barrier",
+              "nameCn": "灵魂壁障",
+              "spellId": 1265924,
+              "icon": "inv_soulbarrier",
+              "maxRanks": 1
+            },
+            {
+              "id": 112869,
+              "definitionId": 117874,
+              "type": "passive",
+              "nameEn": "Soul Sigils",
+              "nameCn": "灵魂咒符",
+              "spellId": 395446,
+              "icon": "ability_demonhunter_sigilofinquisition",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90957,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 14700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90955
+          ],
+          "abilities": [
+            {
+              "id": 112871,
+              "definitionId": 117876,
+              "type": "passive",
+              "nameEn": "Revel in Pain",
+              "nameCn": "痛苦狂欢",
+              "spellId": 343014,
+              "icon": "ability_bossfelmagnaron_handempowered",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90958,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 13500,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90984,
+            90963,
+            90959
+          ],
+          "abilities": [
+            {
+              "id": 112872,
+              "definitionId": 117877,
+              "type": "passive",
+              "nameEn": "Fiery Demise",
+              "nameCn": "炽烈灭亡",
+              "spellId": 389220,
+              "icon": "ability_demonhunter_fierybrand",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90959,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 13500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90962,
+            90983
+          ],
+          "abilities": [
+            {
+              "id": 112873,
+              "definitionId": 117878,
+              "type": "passive",
+              "nameEn": "Burning Alive",
+              "nameCn": "火刑",
+              "spellId": 207739,
+              "icon": "spell_fire_elementaldevastation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90960,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 13500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90952,
+            90953
+          ],
+          "abilities": [
+            {
+              "id": 112875,
+              "definitionId": 117880,
+              "type": "passive",
+              "nameEn": "Ascending Flame",
+              "nameCn": "冲天怒焰",
+              "spellId": 428603,
+              "icon": "inv_helm_suncrown_d_01",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90961,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 13500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112876,
+              "definitionId": 117881,
+              "type": "passive",
+              "nameEn": "Down in Flames",
+              "nameCn": "葬身火海",
+              "spellId": 389732,
+              "icon": "ability_demonhunter_fierybrand",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90962,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 13500,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90961,
+            90985
+          ],
+          "abilities": [
+            {
+              "id": 112877,
+              "definitionId": 117882,
+              "type": "passive",
+              "nameEn": "Charred Flesh",
+              "nameCn": "血肉灰烬",
+              "spellId": 336639,
+              "icon": "ability_warlock_backdraft",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90963,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 14100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90962
+          ],
+          "abilities": [
+            {
+              "id": 112878,
+              "definitionId": 117883,
+              "type": "passive",
+              "nameEn": "Cycle of Binding",
+              "nameCn": "咒符之环",
+              "spellId": 389718,
+              "icon": "ability_demonhunter_sigilofinquisition",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90964,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 14700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90963
+          ],
+          "abilities": [
+            {
+              "id": 112879,
+              "definitionId": 117884,
+              "type": "passive",
+              "nameEn": "Chains of Anger",
+              "nameCn": "愤怒锁链",
+              "spellId": 389715,
+              "icon": "ability_demonhunter_sigilofchains",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90965,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90954
+          ],
+          "abilities": [
+            {
+              "id": 112880,
+              "definitionId": 117885,
+              "type": "passive",
+              "nameEn": "Ruinous Bulwark",
+              "nameCn": "毁灭壁垒",
+              "spellId": 326853,
+              "icon": "ability_demonhunter_feldevastation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90966,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90986,
+            90965,
+            90972
+          ],
+          "abilities": [
+            {
+              "id": 112881,
+              "definitionId": 117886,
+              "type": "active",
+              "nameEn": "Sigil of Silence",
+              "nameCn": "沉默咒符",
+              "spellId": 202137,
+              "icon": "ability_demonhunter_sigilofsilence",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90967,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 11100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90971
+          ],
+          "abilities": [
+            {
+              "id": 112882,
+              "definitionId": 117887,
+              "type": "passive",
+              "nameEn": "Calcified Spikes",
+              "nameCn": "钙化尖刺",
+              "spellId": 389720,
+              "icon": "ability_demonhunter_demonspikes",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90968,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 10500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90971,
+            90978
+          ],
+          "abilities": [
+            {
+              "id": 112883,
+              "definitionId": 117888,
+              "type": "passive",
+              "nameEn": "Tempered Steel",
+              "nameCn": "淬炼钢铁",
+              "spellId": 1265800,
+              "icon": "ability_demonhunter_manabreak",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90969,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 11100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90976
+          ],
+          "abilities": [
+            {
+              "id": 112884,
+              "definitionId": 117889,
+              "type": "passive",
+              "nameEn": "Feast of Souls",
+              "nameCn": "灵魂盛宴",
+              "spellId": 207697,
+              "icon": "spell_shadow_soulleech",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90970,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 11100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90967,
+            90968
+          ],
+          "abilities": [
+            {
+              "id": 112886,
+              "definitionId": 117891,
+              "type": "passive",
+              "nameEn": "Perfectly Balanced Glaive",
+              "nameCn": "完美平衡利刃",
+              "spellId": 320387,
+              "icon": "ability_demonhunter_throwglaive",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90971,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 11100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90972,
+            90977,
+            90969
+          ],
+          "abilities": [
+            {
+              "id": 112887,
+              "definitionId": 117892,
+              "type": "passive",
+              "nameEn": "Agonizing Flames",
+              "nameCn": "苦痛之焰",
+              "spellId": 207548,
+              "icon": "achievment_raid_houroftwilight",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90972,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 11700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90976,
+            90954
+          ],
+          "abilities": [
+            {
+              "id": 112888,
+              "definitionId": 117893,
+              "type": "passive",
+              "nameEn": "Fallout",
+              "nameCn": "爆燃",
+              "spellId": 227174,
+              "icon": "spell_volatilefiregreen",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90973,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 11100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90981,
+            90983
+          ],
+          "abilities": [
+            {
+              "id": 112889,
+              "definitionId": 117894,
+              "type": "passive",
+              "nameEn": "Soulmonger",
+              "nameCn": "贩卖灵魂",
+              "spellId": 389711,
+              "icon": "ability_demonhunter_shatteredsouls",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90974,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 9900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90975
+          ],
+          "abilities": [
+            {
+              "id": 112890,
+              "definitionId": 117895,
+              "type": "passive",
+              "nameEn": "Void Reaver",
+              "nameCn": "虚空掠夺者",
+              "spellId": 268175,
+              "icon": "spell_shadow_demonicempathy",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90975,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 10500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90981
+          ],
+          "abilities": [
+            {
+              "id": 112891,
+              "definitionId": 117896,
+              "type": "passive",
+              "nameEn": "Focused Cleave",
+              "nameCn": "聚焦裂劈",
+              "spellId": 343207,
+              "icon": "ability_demonhunter_soulcleave",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90976,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 7,
+          "posX": 11100,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90984,
+            90973,
+            90975
+          ],
+          "abilities": [
+            {
+              "id": 112892,
+              "definitionId": 117897,
+              "type": "passive",
+              "nameEn": "Painbringer",
+              "nameCn": "痛苦使者",
+              "spellId": 207387,
+              "icon": "artifactability_vengeancedemonhunter_painbringer",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90977,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 10500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90976,
+            90974
+          ],
+          "abilities": [
+            {
+              "id": 112893,
+              "definitionId": 117898,
+              "type": "passive",
+              "nameEn": "Frailty",
+              "nameCn": "脆弱",
+              "spellId": 389958,
+              "icon": "inv_icon_shadowcouncilorb_purple",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90978,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 9900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90977
+          ],
+          "abilities": [
+            {
+              "id": 112894,
+              "definitionId": 117899,
+              "type": "active",
+              "nameEn": "Sigil of Spite",
+              "nameCn": "怨念咒符",
+              "spellId": 390163,
+              "icon": "inv_ability_demonhunter_elysiandecree",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90979,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112895,
+              "definitionId": 117900,
+              "type": "passive",
+              "nameEn": "Last Resort",
+              "nameCn": "最后一搏",
+              "spellId": 209258,
+              "icon": "inv_glaive_1h_artifactaldorchi_d_06",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90980,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 11100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112896,
+              "definitionId": 117901,
+              "type": "passive",
+              "nameEn": "Soulcrush",
+              "nameCn": "灵魂重碾",
+              "spellId": 389985,
+              "icon": "inv_icon_shadowcouncilorb_purple",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90981,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 11100,
+          "type": "single",
+          "maxRanks": 2,
+          "childNodes": [
+            90980,
+            90982
+          ],
+          "abilities": [
+            {
+              "id": 112897,
+              "definitionId": 117902,
+              "type": "passive",
+              "nameEn": "Vulnerability",
+              "nameCn": "易伤",
+              "spellId": 389976,
+              "icon": "inv_icon_shadowcouncilorb_purple",
+              "maxRanks": 2
+            }
+          ]
+        },
+        {
+          "nodeId": 90982,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 11700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112898,
+              "definitionId": 117903,
+              "type": "active",
+              "nameEn": "Soul Carver",
+              "nameCn": "灵魂切削",
+              "spellId": 207407,
+              "icon": "inv_glaive_1h_artifactaldrochi_d_01",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90983,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 9,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90979,
+            90982,
+            90985
+          ],
+          "abilities": [
+            {
+              "id": 112899,
+              "definitionId": 117904,
+              "type": "passive",
+              "nameEn": "Vengeful Beast",
+              "nameCn": "复仇凶兽",
+              "spellId": 1265818,
+              "icon": "inv12_ability_demonhunter_vengeanceismine",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90984,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 8,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90983
+          ],
+          "abilities": [
+            {
+              "id": 112900,
+              "definitionId": 117905,
+              "type": "passive",
+              "nameEn": "Stoke the Flames",
+              "nameCn": "引火",
+              "spellId": 393827,
+              "icon": "ability_demonhunter_feldevastation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90985,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 10,
+          "posX": 12900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 112901,
+              "definitionId": 117906,
+              "type": "passive",
+              "nameEn": "Darkglare Boon",
+              "nameCn": "黑眼之赐",
+              "spellId": 389708,
+              "icon": "inv_jewelry_necklace_53",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90986,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 6,
+          "posX": 12900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90958,
+            90954
+          ],
+          "abilities": [
+            {
+              "id": 112902,
+              "definitionId": 117907,
+              "type": "passive",
+              "nameEn": "Volatile Flameblood",
+              "nameCn": "动燃焰血",
+              "spellId": 390808,
+              "icon": "ability_demonhunter_immolation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90987,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 5,
+          "posX": 13500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90986,
+            90955,
+            90956
+          ],
+          "abilities": [
+            {
+              "id": 112903,
+              "definitionId": 117908,
+              "type": "passive",
+              "nameEn": "Burning Blood",
+              "nameCn": "炽燃之血",
+              "spellId": 390213,
+              "icon": "ability_demonhunter_immolation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90988,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 4,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90966,
+            90971,
+            90987
+          ],
+          "abilities": [
+            {
+              "id": 112905,
+              "definitionId": 117910,
+              "type": "passive",
+              "nameEn": "Feed the Demon",
+              "nameCn": "喂食恶魔",
+              "spellId": 218612,
+              "icon": "spell_warlock_demonicempowerment",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90989,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 3,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90988
+          ],
+          "abilities": [
+            {
+              "id": 112906,
+              "definitionId": 117911,
+              "type": "passive",
+              "nameEn": "Quickened Sigils",
+              "nameCn": "快速咒符",
+              "spellId": 209281,
+              "icon": "ability_demonhunter_concentratedsigils",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90990,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 2,
+          "posX": 11700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90970,
+            90989
+          ],
+          "abilities": [
+            {
+              "id": 112907,
+              "definitionId": 117912,
+              "type": "active",
+              "nameEn": "Spirit Bomb",
+              "nameCn": "幽魂炸弹",
+              "spellId": 247454,
+              "icon": "inv_icon_shadowcouncilorb_purple",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 90991,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 1,
+          "posX": 12300,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            90951,
+            90990
+          ],
+          "abilities": [
+            {
+              "id": 112908,
+              "definitionId": 117913,
+              "type": "active",
+              "nameEn": "Fel Devastation",
+              "nameCn": "邪能毁灭",
+              "spellId": 212084,
+              "icon": "ability_demonhunter_feldevastation",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 110425,
+          "treeType": "spec",
+          "heroTreeId": null,
+          "row": 11,
+          "posX": 12300,
+          "type": "capstone",
+          "maxRanks": 4,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 137043,
+              "definitionId": 141806,
+              "type": "capstone",
+              "nameEn": "Untethered Rage",
+              "nameCn": "无羁邪怒",
+              "spellId": 1270444,
+              "icon": "inv12_apextalent_demonhunter-_untetheredrage",
+              "maxRanks": 1
+            },
+            {
+              "id": 137042,
+              "definitionId": 141805,
+              "type": "capstone",
+              "nameEn": "Untethered Rage",
+              "nameCn": "无羁邪怒",
+              "spellId": 1270448,
+              "icon": "inv12_apextalent_demonhunter-_untetheredrage",
+              "maxRanks": 2
+            },
+            {
+              "id": 137041,
+              "definitionId": 141804,
+              "type": "capstone",
+              "nameEn": "Untethered Rage",
+              "nameCn": "无羁邪怒",
+              "spellId": 1270449,
+              "icon": "inv12_apextalent_demonhunter-_untetheredrage",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94895,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 4,
+          "posX": 7200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94919
+          ],
+          "abilities": [
+            {
+              "id": 117492,
+              "definitionId": 122504,
+              "type": "passive",
+              "nameEn": "Incisive Blade",
+              "nameCn": "寒芒之刃",
+              "spellId": 442492,
+              "icon": "ability_dualwieldspecialization",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94896,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 3,
+          "posX": 7800,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            94910
+          ],
+          "abilities": [
+            {
+              "id": 117493,
+              "definitionId": 122505,
+              "type": "passive",
+              "nameEn": "Army Unto Oneself",
+              "nameCn": "一人成军",
+              "spellId": 442714,
+              "icon": "ability_warlock_avoidance",
+              "maxRanks": 1
+            },
+            {
+              "id": 123046,
+              "definitionId": 127927,
+              "type": "passive",
+              "nameEn": "Incorruptible Spirit",
+              "nameCn": "不朽灵魂",
+              "spellId": 442736,
+              "icon": "spell_nzinsanity_chasedbyshadows",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94897,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 3,
+          "posX": 8400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94906
+          ],
+          "abilities": [
+            {
+              "id": 117494,
+              "definitionId": 122506,
+              "type": "passive",
+              "nameEn": "Wounded Quarry",
+              "nameCn": "穷寇当逐",
+              "spellId": 442806,
+              "icon": "ability_rogue_venomouswounds",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94898,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 2,
+          "posX": 7200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94914
+          ],
+          "abilities": [
+            {
+              "id": 117495,
+              "definitionId": 122519,
+              "type": "passive",
+              "nameEn": "Fury of the Aldrachi",
+              "nameCn": "奥达奇之怒",
+              "spellId": 442718,
+              "icon": "spell_fire_felflamestrike",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94903,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 2,
+          "posX": 8400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94897
+          ],
+          "abilities": [
+            {
+              "id": 117500,
+              "definitionId": 122512,
+              "type": "passive",
+              "nameEn": "Reaver's Mark",
+              "nameCn": "收割者印记",
+              "spellId": 442679,
+              "icon": "ability_hunter_harass",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94906,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 4,
+          "posX": 8400,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94919
+          ],
+          "abilities": [
+            {
+              "id": 117503,
+              "definitionId": 122515,
+              "type": "passive",
+              "nameEn": "Bladecraft",
+              "nameCn": "利刃之艺",
+              "spellId": 1272153,
+              "icon": "ability_demonhunter_soulcleave3",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94910,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 4,
+          "posX": 7800,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            94919
+          ],
+          "abilities": [
+            {
+              "id": 117507,
+              "definitionId": 122507,
+              "type": "passive",
+              "nameEn": "Keen Engagement",
+              "nameCn": "锐意交锋",
+              "spellId": 442497,
+              "icon": "ability_warlock_shadowfurytga",
+              "maxRanks": 1
+            },
+            {
+              "id": 122422,
+              "definitionId": 127322,
+              "type": "passive",
+              "nameEn": "Preemptive Strike",
+              "nameCn": "先发制人",
+              "spellId": 444997,
+              "icon": "ability_rogue_focusedattacks",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94911,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 2,
+          "posX": 7800,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            94896
+          ],
+          "abilities": [
+            {
+              "id": 117508,
+              "definitionId": 122520,
+              "type": "passive",
+              "nameEn": "Evasive Action",
+              "nameCn": "规避行动",
+              "spellId": 444926,
+              "icon": "ability_demonhunter_vengefulretreat",
+              "maxRanks": 1
+            },
+            {
+              "id": 123047,
+              "definitionId": 127928,
+              "type": "passive",
+              "nameEn": "Unhindered Assault",
+              "nameCn": "无拘强袭",
+              "spellId": 444931,
+              "icon": "ability_ironmaidens_bladerush",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94914,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 3,
+          "posX": 7200,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94895
+          ],
+          "abilities": [
+            {
+              "id": 117511,
+              "definitionId": 122523,
+              "type": "passive",
+              "nameEn": "Aldrachi Tactics",
+              "nameCn": "奥达奇战术",
+              "spellId": 442683,
+              "icon": "ability_demonhunter_soulcleave2",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94915,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 1,
+          "posX": 8100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94911,
+            94898,
+            94903,
+            109771
+          ],
+          "abilities": [
+            {
+              "id": 117512,
+              "definitionId": 122524,
+              "type": "passive",
+              "nameEn": "Art of the Glaive",
+              "nameCn": "战刃绝技",
+              "spellId": 442290,
+              "icon": "inv_ability_aldrachireaverdemonhunter_reaversglaive",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 94919,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 5,
+          "posX": 8100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 117516,
+              "definitionId": 122528,
+              "type": "passive",
+              "nameEn": "Thrill of the Fight",
+              "nameCn": "酣战热血",
+              "spellId": 442686,
+              "icon": "spell_arcane_arcanetactics",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109769,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 4,
+          "posX": 9000,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            94919
+          ],
+          "abilities": [
+            {
+              "id": 136027,
+              "definitionId": 140782,
+              "type": "passive",
+              "nameEn": "Warblade's Hunger",
+              "nameCn": "战刃渴望",
+              "spellId": 442502,
+              "icon": "ability_warlock_soulsiphon",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109770,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 3,
+          "posX": 9000,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109769
+          ],
+          "abilities": [
+            {
+              "id": 136028,
+              "definitionId": 140783,
+              "type": "passive",
+              "nameEn": "Keen Edge",
+              "nameCn": "利刃",
+              "spellId": 1272138,
+              "icon": "inv_glaive_1h_tyrande_d_01",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109771,
+          "treeType": "hero",
+          "heroTreeId": 35,
+          "row": 2,
+          "posX": 9000,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109770
+          ],
+          "abilities": [
+            {
+              "id": 136029,
+              "definitionId": 140784,
+              "type": "passive",
+              "nameEn": "Broken Spirit",
+              "nameCn": "碎裂精魂",
+              "spellId": 1272143,
+              "icon": "ability_argus_soulbombdebufflarge",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109442,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 5,
+          "posX": 7800,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [],
+          "abilities": [
+            {
+              "id": 135660,
+              "definitionId": 140416,
+              "type": "passive",
+              "nameEn": "World Killer",
+              "nameCn": "灭世灾星",
+              "spellId": 1256353,
+              "icon": "inv_112_raiddimensius_brokenworld",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109443,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 4,
+          "posX": 8700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109442
+          ],
+          "abilities": [
+            {
+              "id": 135661,
+              "definitionId": 140417,
+              "type": "passive",
+              "nameEn": "Otherworldly Focus",
+              "nameCn": "异界专注",
+              "spellId": 1253817,
+              "icon": "inv_babyvoidwalker_blue",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109444,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 4,
+          "posX": 8100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109442
+          ],
+          "abilities": [
+            {
+              "id": 135662,
+              "definitionId": 140418,
+              "type": "passive",
+              "nameEn": "Dark Matter",
+              "nameCn": "暗物质",
+              "spellId": 1256307,
+              "icon": "inv_cosmicvoid_nova",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109445,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 4,
+          "posX": 6900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109442
+          ],
+          "abilities": [
+            {
+              "id": 135663,
+              "definitionId": 140419,
+              "type": "passive",
+              "nameEn": "Final Hour",
+              "nameCn": "终末时刻",
+              "spellId": 1253805,
+              "icon": "inv_10_worlddroplevelingoptionalreagent_relics_hourglass_color1",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109446,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 4,
+          "posX": 7500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109442
+          ],
+          "abilities": [
+            {
+              "id": 135664,
+              "definitionId": 140420,
+              "type": "passive",
+              "nameEn": "Meteoric Fall",
+              "nameCn": "迅疾流星",
+              "spellId": 1253391,
+              "icon": "ability_socererking_arcanereplication",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109447,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 3,
+          "posX": 7500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109446
+          ],
+          "abilities": [
+            {
+              "id": 135665,
+              "definitionId": 140421,
+              "type": "passive",
+              "nameEn": "Mass Acceleration",
+              "nameCn": "质量加速",
+              "spellId": 1256295,
+              "icon": "inv_nullstone_cosmicvoid",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109448,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 3,
+          "posX": 6900,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            109445
+          ],
+          "abilities": [
+            {
+              "id": 135666,
+              "definitionId": 140422,
+              "type": "passive",
+              "nameEn": "Path to Oblivion",
+              "nameCn": "湮灭之路",
+              "spellId": 1253399,
+              "icon": "ability_socererking_arcaneacceleration",
+              "maxRanks": 1
+            },
+            {
+              "id": 135659,
+              "definitionId": 140415,
+              "type": "passive",
+              "nameEn": "State of Matter",
+              "nameCn": "物态",
+              "spellId": 1253402,
+              "icon": "inv_112_arcane_buff",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109449,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 1,
+          "posX": 7800,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109452,
+            109453,
+            109455,
+            109454
+          ],
+          "abilities": [
+            {
+              "id": 135667,
+              "definitionId": 140423,
+              "type": "passive",
+              "nameEn": "Voidfall",
+              "nameCn": "虚落",
+              "spellId": 1253304,
+              "icon": "inv_12_dh_void_ability_voidfall",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109450,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 3,
+          "posX": 8100,
+          "type": "choice",
+          "maxRanks": 1,
+          "childNodes": [
+            109444
+          ],
+          "abilities": [
+            {
+              "id": 135668,
+              "definitionId": 140424,
+              "type": "passive",
+              "nameEn": "Doomsayer",
+              "nameCn": "末日预言者",
+              "spellId": 1253676,
+              "icon": "inv_shadowflame_buff",
+              "maxRanks": 1
+            },
+            {
+              "id": 136810,
+              "definitionId": 141573,
+              "type": "passive",
+              "nameEn": "Harness the Cosmos",
+              "nameCn": "掌驭宇宙",
+              "spellId": 1279247,
+              "icon": "inv_cosmicvoid_orb",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109451,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 3,
+          "posX": 8700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109443
+          ],
+          "abilities": [
+            {
+              "id": 135669,
+              "definitionId": 140425,
+              "type": "passive",
+              "nameEn": "Celestial Echoes",
+              "nameCn": "天界回响",
+              "spellId": 1253415,
+              "icon": "inv_polearm_2h_voidscythe_d_01",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109452,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 2,
+          "posX": 8700,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109451
+          ],
+          "abilities": [
+            {
+              "id": 135670,
+              "definitionId": 140426,
+              "type": "passive",
+              "nameEn": "Phase Shift",
+              "nameCn": "相位变换",
+              "spellId": 1256245,
+              "icon": "ability_demonhunter_blur",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109453,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 2,
+          "posX": 8100,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109450
+          ],
+          "abilities": [
+            {
+              "id": 135671,
+              "definitionId": 140427,
+              "type": "passive",
+              "nameEn": "Catastrophe",
+              "nameCn": "大灭",
+              "spellId": 1253769,
+              "icon": "inv_netherportal",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109454,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 2,
+          "posX": 6900,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109448
+          ],
+          "abilities": [
+            {
+              "id": 135672,
+              "definitionId": 140428,
+              "type": "passive",
+              "nameEn": "Swift Erasure",
+              "nameCn": "迅捷抹消",
+              "spellId": 1253668,
+              "icon": "ability_priest_darkarchangel",
+              "maxRanks": 1
+            }
+          ]
+        },
+        {
+          "nodeId": 109455,
+          "treeType": "hero",
+          "heroTreeId": 124,
+          "row": 2,
+          "posX": 7500,
+          "type": "single",
+          "maxRanks": 1,
+          "childNodes": [
+            109447
+          ],
+          "abilities": [
+            {
+              "id": 135673,
+              "definitionId": 140429,
+              "type": "passive",
+              "nameEn": "Meteoric Rise",
+              "nameCn": "迅疾冲霄",
+              "spellId": 1253377,
+              "icon": "ability_socererking_arcanefortification",
+              "maxRanks": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

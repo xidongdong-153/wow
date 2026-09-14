@@ -47,30 +47,113 @@ tags:
 
 ## 2. 官方推荐构建（Recommended Build）
 
-当前大秘境 +7 至 +21 层大数据统计下的最高限时优选组合：
+当前大秘境大数据统计下的主流限时优选组合：
 
 | 评估指标 | 官方推荐统计值 |
 | :--- | :--- |
-| **首选英雄天赋** | **神谕者** |
-| **构建综合使用率** | 28.0% |
-| **当前验证最高限时** | **+19** |
-| **均伤 / 均治疗表现** | HPS: 149.7k |
-| **Wowhead 官方天赋模拟器** | [点击在 Wowhead 查看完整天赋树与导出字符串](https://www.wowhead.com/talent-calc/blizzard/CAQAAAAAAAAAAAAAAAAAAAAAAADsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAgxYZGMzMDGzMGbmmJGgZWwQYMLDwYwCAAMmZmxgZAmZGgZA) |
+| **首选英雄天赋** | **神谕者 (Oracle)** |
+| **构建综合使用率** | 1.3% |
+| **验证最高限时** | **+19** |
+| **样本量** | 40,585 |
+
+### 暴雪官方天赋导入代码（一键复制）
+
+在游戏内按 `N` 打开天赋面板，点击左下角【导入】，粘贴下方代码即可载入整套加点：
+
+```text
+CAQAAAAAAAAAAAAAAAAAAAAAAADsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAgxYZGMzMDGzMGbmmJGgZWwQYMLDwYwCAAMmZmxgZAmZGgZA
+```
 
 ---
 
-## 3. 大秘境核心天赋点法推荐
+## 3. 精确天赋点数分配清单（71 点全量明细）
 
-### 职业通用树（Class Tree）核心必点
-- 心灵尖啸（群恐）
-- 绝望祷言与痛苦压制（Pain Suppression，40%强单体减伤）
-- 真言术：障（Power Word: Barrier，定点罩子）
-- 群体驱散与纯净术
-- 信仰飞跃
+### 英雄天赋树（神谕者，投入 15 点）
+| 层级/位置 | 天赋名称 (中文/英文) | 投入点数 | 节点类型与抉择 |
+| :--- | :--- | :--- | :--- |
+| 第 4 层 | **迅愈祷言** (Prompt Prognosis) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **预见治疗** (Preemptive Care) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **神圣之羽** (Divine Feathers) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 2 层 | **分秒必争** (Waste No Time) | `1/1` | 核心被动/主动 |
+| 第 1 层 | **指引之光** (Guiding Light) | `1/1` | 核心被动/主动 |
+| 第 5 层 | **双重视界** (Twinsight) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **洞悉大局** (Foreseen Circumstances) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **预言者的意志** (Prophet's Will) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 3 层 | **安全无虞** (Assured Safety) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **防微杜渐** (Preventive Measures) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **虔敬** (Piety) | `1/1` | 核心被动/主动 |
+| 第 0 层 | **神谕者** (Oracle) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **展开视界** (Unfolding Vision) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **睿智之语** (Words of the Wise) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **预言者的洞察** (Prophet's Insight) | `1/1` | 核心被动/主动 |
 
-### 专精核心树（Spec Tree）关键联动
-1. **救赎（Atonement）挂队友机制**
-2. **苦修（Penance）进攻转治疗**
-3. **真言术：盾（Power Word: Shield）吸收与铺救赎**
-4. **控心术与心灵震爆**
-5. **全神贯注（Rapture）套盾爆发与暗影魔**
+### 专精核心树（戒律牧，投入 34 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 节点特性 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **救赎** (Atonement) | `1/1` | 标准节点 |
+| 第 2 行 | **痛苦压制** (Pain Suppression) | `1/1` | 标准节点 |
+| 第 2 行 | **真言术：耀** (Power Word: Radiance) | `1/1` | 标准节点 |
+| 第 2 行 | **阴暗面之力** (Power of the Dark Side) | `1/1` | 标准节点 |
+| 第 3 行 | **渗透暗影** (Encroaching Shadows) | `1/1` | 标准节点 |
+| 第 3 行 | **护佑弱者** (Protector of the Frail) | `1/1` | 抉择分支 (选项 2) |
+| 第 3 行 | **圣光的许诺** (Light's Promise) | `1/1` | 标准节点 |
+| 第 3 行 | **沉溺黑暗** (Dark Indulgence) | `1/1` | 标准节点 |
+| 第 4 行 | **黑暗狂欢** (Revel in Darkness) | `1/1` | 标准节点 |
+| 第 4 行 | **护盾戒律** (Shield Discipline) | `1/1` | 标准节点 |
+| 第 4 行 | **持久之光** (Enduring Luminescence) | `1/1` | 抉择分支 (选项 2) |
+| 第 4 行 | **痛苦惩罚** (Painful Punishment) | `1/1` | 标准节点 |
+| 第 4 行 | **终极苦修** (Ultimate Penitence) | `1/1` | 抉择分支 (选项 1) |
+| 第 5 行 | **神圣射线** (Holy Ray) | `1/1` | 标准节点 |
+| 第 5 行 | **仁慈** (Lenience) | `1/1` | 标准节点 |
+| 第 6 行 | **净化邪恶** (Purge the Wicked) | `1/1` | 标准节点 |
+| 第 6 行 | **惩罚** (Castigation) | `1/1` | 标准节点 |
+| 第 7 行 | **福音** (Evangelism) | `1/1` | 标准节点 |
+| 第 7 行 | **严酷戒律** (Harsh Discipline) | `2/2` | 两点进阶强化 |
+| 第 8 行 | **暗影愈合** (Shadow Mend) | `1/1` | 标准节点 |
+| 第 8 行 | **天使长** (Archangel) | `1/1` | 抉择分支 (选项 1) |
+| 第 8 行 | **心灵专注** (Inner Focus) | `1/1` | 标准节点 |
+| 第 9 行 | **争分夺秒** (Borrowed Time) | `2/2` | 两点进阶强化 |
+| 第 9 行 | **神圣庇护** (Divine Aegis) | `1/1` | 标准节点 |
+| 第 9 行 | **冷酷渡引** (Grim Deliverance) | `1/1` | 标准节点 |
+| 第 10 行 | **永恒屏障** (Eternal Barrier) | `1/1` | 标准节点 |
+| 第 10 行 | **祸福相倚** (Weal and Woe) | `1/1` | 标准节点 |
+| 第 10 行 | **灼热之光** (Searing Light) | `1/1` | 标准节点 |
+| 第 11 行 | **黑暗主宰** (Master the Darkness) | `1/4` | 两点进阶强化 |
+| 第 11 行 | **黑暗主宰** (Master the Darkness) | `2/4` | 两点进阶强化 |
+| 第 11 行 | **黑暗主宰** (Master the Darkness) | `1/4` | 两点进阶强化 |
+
+### 职业通用树（牧师，投入 36 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 功能分类 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **天堂之羽** (Angelic Feather) | `1/1` | 主动自保/控制/位移 |
+| 第 1 行 | **心灵震爆** (Mind Blast) | `1/1` | 主动自保/控制/位移 |
+| 第 1 行 | **强化快速治疗** (Improved Flash Heal) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **驱散魔法** (Dispel Magic) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **精神指引** (Spiritual Guidance) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **心灵尖啸** (Psychic Scream) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **能量灌注** (Power Infusion) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **致痛祈咒** (Painful Invocation) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **强化纯净术** (Improved Purify) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **信仰飞跃** (Leap of Faith) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **统御意志** (Dominate Mind) | `1/1` | 功能抉择 (选项 2) |
+| 第 4 行 | **坚毅之力** (Strength of Resolve) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **圣光涌动** (Surge of Light) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **双子太阳女祭司** (Twins of the Sun Priestess) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **群体驱散** (Mass Dispel) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **双生戒律** (Twin Disciplines) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **永续之光** (Everlasting Light) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **黑暗启迪** (Dark Enlightenment) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **联结愈疗** (Binding Heals) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **暗言术：灭** (Shadow Word: Death) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **血色教义** (Sanguine Teachings) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **命运多舛** (Twist of Fate) | `2/2` | 属性与防御强化 |
+| 第 7 行 | **绝望祷言** (Desperate Prayer) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **渐隐术** (Fade) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **防护圣光** (Protective Light) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **强化渐隐术** (Improved Fade) | `2/2` | 属性与防御强化 |
+| 第 8 行 | **心灵穿刺** (Mindpierce) | `1/1` | 主动自保/控制/位移 |
+| 第 9 行 | **坚定意志** (Unwavering Will) | `2/2` | 属性与防御强化 |
+| 第 9 行 | **幻隐** (Phantasm) | `1/1` | 主动自保/控制/位移 |
+| 第 9 行 | **法术屏障** (Spell Warding) | `2/2` | 属性与防御强化 |
+| 第 10 行 | **通透影像** (Translucent Image) | `1/1` | 主动自保/控制/位移 |
+| 第 10 行 | **仁爱之心** (Benevolence) | `1/1` | 功能抉择 (选项 1) |

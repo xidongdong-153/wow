@@ -8,7 +8,7 @@
 
 ## Repository Structure
 
-- `classes/{class}/{spec}/`：职业专精核心手册。每个专精固定包含 `README.md`（总览/属性）、`talents.md`（天赋/英雄天赋）、`gear.md`（套装/饰品/美化/散件）、`rotation.md`（输出手法/起手/优先级）与 `logs.md`（WCL 顶尖日志精读）。标准模板位于 `classes/_template/`。
+- `classes/{class}/{spec}/`：职业专精核心手册。每个专精固定包含 `README.md`（总览/属性）、`talents.md`（天赋/英雄天赋/官方导入代码/精确点数清单）、`talents.json`（实战加点结构化方案，供 Web/App 端直接消费）、`gear.md`（套装/饰品/美化/散件）、`rotation.md`（输出手法/起手/优先级）与 `logs.md`（WCL 顶尖日志精读）。标准模板位于 `classes/_template/`。
 - `instances/{mythic-plus|raid}/`：当季大秘境地下城与史诗团队副本深度攻坚攻略库。每个地下城包含 `README.md`、`route.md`（新人 vs 冲分双轨）、`trash.md`（高危打断）、`bosses.md`（首领时间轴）与 `benchmarks.md`（WCL 限时数据基准）；标准模板位于 `instances/_template/`。
 - `rankings/{mythic-plus|raid}/`：每日职业强度排行榜，按日期 `YYYY-MM-DD.md` 独立归档，记录专精梯队与版本生态。
 - `news/YYYY-MM/`：每日资讯与社区热点，按月份分目录、按日期 `YYYY-MM-DD.md` 独立归档。
@@ -16,6 +16,8 @@
 - `automation/`：AI Agent 自动化采集工具库。
   - `sources.md`：全生态网站直达路由速查表（供 Agent 快速拼接 URL，杜绝从首页逐级点击浪费 Token）。
   - `runbook-wcl-fetch.md`：操作 `ego-browser` 抓取 WCL / Archon 的 SOP 运行指南。
+  - `data/talent-blueprints/{class}.json`：全职业 13 个静态天赋树拓扑底图库（坐标 row/posX、连线 childNodes、能力池 abilities、图标 icon，供 Web/App 端渲染全树）。
+  - `data/spell-translations.json`：全职业 3,196+ 技能暴雪官方国服简中译名权威持久化字典。
   - `scripts/`：Node.js 自动化采集脚本。
 
 ## Commands
@@ -27,6 +29,14 @@
 - **运行专精数据采集脚本**：
   ```bash
   ego-browser nodejs < automation/scripts/fetch-spec-data.mjs
+  ```
+- **同步全职业天赋底图与实战点数**：
+  ```bash
+  ego-browser nodejs < automation/scripts/sync-all-detailed-talents.mjs
+  ```
+- **同步全量官方天赋简中权威译名**：
+  ```bash
+  node automation/scripts/sync-spell-translations.mjs
   ```
 - **版本与蓝贴时效状态自检**：
   ```bash
@@ -73,6 +83,12 @@
 - **图文配合规范（缓解纯文字疲劳）**：
   - **复杂数据/实景排布**：使用 `ego-browser` 截图或放入 `assets/` 下的 PNG，相对路径引用。
   - **手法时序/决策流程**：强制采用内联 Mermaid 代码块（首行统一加 `%%{init: {"theme": "dark"}}%%` 暗色主题），避免纯文本列表堆叠。
+- **天赋数据与 Web/App 跨端渲染规范**：
+  - **三级数据体系**：严格执行“静态拓扑底图共享 + 专精实战加点内聚 + 手册文档直观呈现”设计。
+  - **底图维护（talent-blueprints）**：节点坐标 `row`/`posX`、连线关系 `childNodes`、节点形态 `type` 与能力池 `abilities` 必须保持与游戏内树状拓扑一致，供 Web/App 前端直接绘制连线与绝对定位网格。
+  - **加点内聚（talents.json）**：每个专精目录必须配套 `talents.json`，记录暴雪官方 Base64 导入代码 `exportCode`、所选英雄天赋树以及全部点亮节点数组 `selectedNodes`（明确投入点数 `1/1` 或 `2/2`，二选一具体选项索引 `choiceIndex`）。
+  - **手册规范（talents.md）**：必须包含暴雪官方一键导入独立代码块（支持游戏内按 `N` 粘贴导入），以及分列英雄树（10 点）、专精树（30 点）、通用树（31 点）的精确点数分配明细表格。
+  - **官方译名 100% 覆盖**：所有天赋中文名必须以 `spellId` 为准，经由 `automation/data/spell-translations.json` 对齐暴雪官方客户端标准简中译名，严禁大模型直译或英文裸奔。
 - **数据维护原则**：
   - 每日资讯（`news/`）与天梯榜单（`rankings/`）按天新增独立文件，严禁覆盖历史旧日记录。
   - 每日资讯文档必须包含段落出处直达链接与文末权威验证源汇总表，严禁无来源陈述。
@@ -98,10 +114,11 @@
      - 输出：标注单体/顺劈收益与副属性递减断点；
      - 坦克：标注主动免伤形式与主/副属性生存折算（如暴击转招架、精通转格挡/护盾）；
      - 治疗：标注治疗模型（预铺/直刷/伤害转化）与施法速度与法力消耗平衡点。
-   - `talents.md`：英雄天赋对比表（必须顶端内嵌实景截图 `![天赋概览](./assets/talents-overview.png)`）：
+   - `talents.md`：英雄天赋对比表（必须顶端内嵌实景截图 `![天赋概览](./assets/talents-overview.png)`），必须包含暴雪官方导入代码独立代码块以及精确点数分配清单表格：
      - 输出表头：大秘境/团本使用率与均伤 (DPS)、目标上限与机制特征；
      - 坦克表头：使用率、均伤 (DPS)、外部治疗需求 (EHRPS)、减伤覆盖率 (AM Uptime)、最高限时与抗怪特点；
      - 治疗表头：使用率、均治疗 (HPS)、均伤害 (DPS)、团本均治疗与救急机制。
+   - `talents.json`：配套生成的机器可读实战加点方案，与 `talents.md` 保持完全同步。
    - `gear.md`：套装 4 件套各部位穿戴率表、武器排行、双美化方案、饰品榜与双 BiS 组合榜、6 个关键散件速查。
      - 输出：主动爆发增伤与常驻属性饰品，伤害向美化；
      - 坦克：硬免伤/吸收护盾、常驻自愈吸血与攻防兼备饰品，生存向美化；

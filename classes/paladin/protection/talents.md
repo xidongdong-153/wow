@@ -48,41 +48,116 @@ tags:
 
 ## 2. 官方推荐构建（Recommended Build）
 
-当前大秘境 +7 至 +21 层大数据统计下的最高限时优选组合：
+当前大秘境大数据统计下的主流限时优选组合：
 
 | 评估指标 | 官方推荐统计值 |
 | :--- | :--- |
-| **首选英雄天赋** | **铸光者** |
-| **构建综合使用率** | 15.2% |
-| **当前验证最高限时** | **+20** |
-| **均伤 / 均治疗表现** | DPS: 153.9k |
-| **Wowhead 官方天赋模拟器** | [点击在 Wowhead 查看完整天赋树与导出字符串](https://www.wowhead.com/talent-calc/blizzard/CIEAAAAAAAAAAAAAAAAAAAAAAsZYWGzYmZmZW2GjZZWmlZMAADAAAAAAaamZZmxMDDbtBgBGwMYDAAAAmZW2WaZmxilFmBwgZ2wAgZGAMzAGL) |
+| **首选英雄天赋** | **铸光者 (Lightsmith)** |
+| **构建综合使用率** | 39.6% |
+| **验证最高限时** | **+20** |
+| **样本量** | 279,438 |
+
+### 暴雪官方天赋导入代码（一键复制）
+
+在游戏内按 `N` 打开天赋面板，点击左下角【导入】，粘贴下方代码即可载入整套加点：
+
+```text
+CIEAAAAAAAAAAAAAAAAAAAAAAsZYWGzYmZmZW2GjZZWmlZMAADAAAAAAaamZZmxMDDbtBgBGwMYDAAAAmZW2WaZmxilFmBwgZ2wAgZGAMzAGL
+```
 
 ---
 
-## 3. 大秘境通用加点推荐（双审判 + 飞盾强化吸收体系）
+## 3. 精确天赋点数分配清单（71 点全量明细）
 
-### 职业通用树核心
-- 责难（Rebuke，打断）
-- 制裁之锤（Hammer of Justice，单体昏迷）
-- 盲目之光（Blinding Sleet，群盲断条）
-- 骑乘战马（双充能位移）
-- 保护祝福（物理免伤与消除物理 Debuff）
-- 牺牲祝福（转移队友 30% 伤害至自身）
-- 自由祝福（解除并免疫减速与定身）
-- 圣疗术（瞬发回满生命）
-- 清毒术（驱散毒素与疾病）
+### 英雄天赋树（铸光者，投入 15 点）
+| 层级/位置 | 天赋名称 (中文/英文) | 投入点数 | 节点类型与抉择 |
+| :--- | :--- | :--- | :--- |
+| 第 2 层 | **勠力同心** (Solidarity) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **骁勇** (Valiance) | `1/1` | 核心被动/主动 |
+| 第 5 层 | **锻炉的祝福** (Blessing of the Forge) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **神圣鼓舞** (Divine Inspiration) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 3 层 | **战火淬炼** (Tempered in Battle) | `1/1` | 分支二选一 (已选选项 2) |
+| 第 2 层 | **圣言祭礼** (Rite of Sanctification) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 1 层 | **神圣壁垒** (Holy Armaments) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **神恩指引** (Divine Guidance) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 3 层 | **铸剑为光** (Laying Down Arms) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **共志同心** (Shared Resolve) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **光辉映象** (Reflection of Radiance) | `1/1` | 核心被动/主动 |
+| 第 0 层 | **铸光者** (Lightsmith) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **大师杰作** (Masterwork) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **槌砧战术** (Hammer and Anvil) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **回响打击** (Resounding Strike) | `1/1` | 核心被动/主动 |
 
-### 防护专精树核心
-1. **基础能量与减伤**：
-   - 祝福之锤（Blessed Hammer）：3 层充能，平砍削弱目标并产生神圣能量。
-   - 奉献（Consecration）及奉献减伤强化。
-   - 正义之盾强化：每次盾击提升护甲并延长持续时间。
-2. **中层（飞盾与吸收联动）**：
-   - 复仇者之盾强化分支：增加弹跳目标数量并使飞盾命中产生吸收护盾。
-   - 炽热防御者（Ardent Defender）：短 CD 20% 减伤且自带致死免死机制。
-   - 提尔之眼（Eye of Tyr）：范围降低所有敌人伤害，高层大怪波次核心。
-3. **底层（终极防御大招）**：
-   - 远古列王守卫（Guardian of Ancient Kings）：50% 全额硬减伤核心大招。
-   - 荣耀圣令强化：免费发光瞬抬。
-   - 哨兵（Sentinel）或复仇之怒防御强化。
+### 专精核心树（防骑，投入 34 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 节点特性 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **复仇者之盾** (Avenger's Shield) | `1/1` | 标准节点 |
+| 第 2 行 | **祝福之锤** (Blessed Hammer) | `1/1` | 抉择分支 (选项 2) |
+| 第 2 行 | **闪耀之光** (Shining Light) | `1/1` | 标准节点 |
+| 第 3 行 | **大十字军** (Grand Crusader) | `1/1` | 标准节点 |
+| 第 3 行 | **多面防御** (Redoubt) | `1/1` | 抉择分支 (选项 2) |
+| 第 4 行 | **炽热防御者** (Ardent Defender) | `1/1` | 标准节点 |
+| 第 4 行 | **灼日之光** (Searing Sunlight) | `1/1` | 抉择分支 (选项 1) |
+| 第 4 行 | **破咒祝福** (Blessing of Spellwarding) | `1/1` | 抉择分支 (选项 1) |
+| 第 5 行 | **复仇之怒** (Avenging Wrath) | `1/1` | 标准节点 |
+| 第 5 行 | **圣光慰藉** (Solace) | `1/1` | 抉择分支 (选项 1) |
+| 第 5 行 | **精炼圣火** (Refining Fire) | `1/1` | 标准节点 |
+| 第 5 行 | **秩序壁垒** (Bulwark of Order) | `1/1` | 标准节点 |
+| 第 5 行 | **泰坦之光** (Light of the Titans) | `1/1` | 抉择分支 (选项 1) |
+| 第 6 行 | **不灭余烬** (Undying Embers) | `1/1` | 标准节点 |
+| 第 6 行 | **无情审讯** (Relentless Inquisitor) | `1/1` | 标准节点 |
+| 第 6 行 | **十字军审判** (Crusader's Judgment) | `1/1` | 标准节点 |
+| 第 6 行 | **雪恨圣印** (Seal of Reprisal) | `1/1` | 抉择分支 (选项 2) |
+| 第 7 行 | **飞舞之盾** (Soaring Shield) | `1/1` | 抉择分支 (选项 1) |
+| 第 7 行 | **远古列王守卫** (Guardian of Ancient Kings) | `1/1` | 标准节点 |
+| 第 7 行 | **庇护** (Sanctuary) | `1/1` | 标准节点 |
+| 第 8 行 | **金色瓦格里的礼物** (Gift of the Golden Val'kyr) | `1/1` | 标准节点 |
+| 第 8 行 | **逆境搏力** (Strength in Adversity) | `1/1` | 抉择分支 (选项 1) |
+| 第 8 行 | **苍穹之谕** (Empyrean Authority) | `1/1` | 标准节点 |
+| 第 9 行 | **狂热圣贤** (Zealot's Paragon) | `2/2` | 两点进阶强化 |
+| 第 9 行 | **戒卫** (Sentinel) | `1/1` | 标准节点 |
+| 第 10 行 | **正义保护者** (Righteous Protector) | `1/1` | 标准节点 |
+| 第 10 行 | **正义之怒壁垒** (Bulwark of Righteous Fury) | `1/1` | 标准节点 |
+| 第 10 行 | **决一死战** (Final Stand) | `1/1` | 标准节点 |
+| 第 10 行 | **扫荡裁决** (Sweeping Verdict) | `1/1` | 抉择分支 (选项 1) |
+| 第 11 行 | **先锋军荣耀** (Glory of the Vanguard) | `1/4` | 两点进阶强化 |
+| 第 11 行 | **先锋军荣耀** (Glory of the Vanguard) | `2/4` | 两点进阶强化 |
+| 第 11 行 | **先锋军荣耀** (Glory of the Vanguard) | `1/4` | 两点进阶强化 |
+
+### 职业通用树（圣骑士，投入 37 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 功能分类 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **圣疗术** (Lay on Hands) | `1/1` | 主动自保/控制/位移 |
+| 第 1 行 | **坚定光环** (Auras of the Resolute) | `1/1` | 主动自保/控制/位移 |
+| 第 1 行 | **愤怒之锤** (Hammer of Wrath) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **清毒术** (Cleanse Toxins) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **盲目之光** (Blinding Light) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **以太结界** (Empyreal Ward) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **制裁之拳** (Fist of Justice) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **强效审判** (Greater Judgment) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **骑乘战马** (Divine Steed) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **残光** (Afterimage) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **向善祷言** (Guided Prayer) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **责难** (Rebuke) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **骑手** (Cavalier) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **自由祝福** (Blessing of Freedom) | `1/1` | 功能抉择 (选项 2) |
+| 第 5 行 | **圣化护甲** (Sanctified Plates) | `2/2` | 属性与防御强化 |
+| 第 5 行 | **惩罚** (Punishment) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **无拘自由** (Unbound Freedom) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **圣洁鸣钟** (Divine Toll) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **圣洁共鸣** (Divine Resonance) | `1/1` | 功能抉择 (选项 1) |
+| 第 6 行 | **圣洁之地** (Consecrated Ground) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **牺牲祝福** (Blessing of Sacrifice) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **保护祝福** (Blessing of Protection) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **正义牺牲** (Sacrifice of the Just) | `1/1` | 功能抉择 (选项 1) |
+| 第 7 行 | **神圣护佑** (Holy Aegis) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **不败之魂** (Unbreakable Spirit) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **神圣意志** (Divine Purpose) | `1/1` | 功能抉择 (选项 2) |
+| 第 8 行 | **圣光决断** (Light's Revocation) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **光铸祝福** (Lightforged Blessing) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **正义保护** (Righteous Protection) | `1/1` | 功能抉择 (选项 2) |
+| 第 8 行 | **奋发卫士** (Inspired Guard) | `1/1` | 主动自保/控制/位移 |
+| 第 9 行 | **信仰之盾** (Faith's Armor) | `1/1` | 主动自保/控制/位移 |
+| 第 9 行 | **力量圣印** (Seal of Might) | `2/2` | 属性与防御强化 |
+| 第 9 行 | **愤怒复仇** (Vengeful Wrath) | `2/2` | 属性与防御强化 |
+| 第 10 行 | **黄昏祝福** (Blessing of Dusk) | `1/1` | 主动自保/控制/位移 |

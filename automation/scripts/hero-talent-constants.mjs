@@ -25,6 +25,7 @@ export const HERO_TALENT_MAP = {
   // 恶魔猎手 Demon Hunter
   "ALDRACHI REAVER": "奥达奇收割者",
   "FEL-SCARRED": "邪痕狂徒",
+  "ANNIHILATOR": "歼灭者",
 
   // 德鲁伊 Druid
   "ELUNE'S CHOSEN": "艾露恩之选",

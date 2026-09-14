@@ -47,30 +47,113 @@ tags:
 
 ## 2. 官方推荐构建（Recommended Build）
 
-当前大秘境 +7 至 +21 层大数据统计下的最高限时优选组合：
+当前大秘境大数据统计下的主流限时优选组合：
 
 | 评估指标 | 官方推荐统计值 |
 | :--- | :--- |
-| **首选英雄天赋** | **执政官** |
-| **构建综合使用率** | 37.5% |
-| **当前验证最高限时** | **+19** |
-| **均伤 / 均治疗表现** | DPS: 267.0k |
-| **Wowhead 官方天赋模拟器** | [点击在 Wowhead 查看完整天赋树与导出字符串](https://www.wowhead.com/talent-calc/blizzard/CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGbID2mpBYGgZ2MDzmBgMGLAYmBMzMzMmNmZbZAmBDA) |
+| **首选英雄天赋** | **执政官 (Archon)** |
+| **构建综合使用率** | 5.2% |
+| **验证最高限时** | **+19** |
+| **样本量** | 89,331 |
+
+### 暴雪官方天赋导入代码（一键复制）
+
+在游戏内按 `N` 打开天赋面板，点击左下角【导入】，粘贴下方代码即可载入整套加点：
+
+```text
+CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGbID2mpBYGgZ2MDzmBgMGLAYmBMzMzMmNmZbZAmBDA
+```
 
 ---
 
-## 3. 大秘境核心天赋点法推荐
+## 3. 精确天赋点数分配清单（71 点全量明细）
 
-### 职业通用树（Class Tree）核心必点
-- 沉默（Silence，远距离打断）
-- 心灵尖啸（Psychic Scream，群恐）
-- 心灵惊骇（单晕）
-- 消散（Dispersion，75%核心硬减伤）
-- 绝望祷言与信仰飞跃（拉人）与群体驱散（Mass Dispel）
+### 英雄天赋树（执政官，投入 15 点）
+| 层级/位置 | 天赋名称 (中文/英文) | 投入点数 | 节点类型与抉择 |
+| :--- | :--- | :--- | :--- |
+| 第 4 层 | **共振能量** (Resonant Energy) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **完美形态** (Perfected Form) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **能量储备** (Energy Conservation) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **能量涌动** (Power Surge) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **能量循环** (Energy Cycle) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **强化涌动** (Empowered Surges) | `1/1` | 核心被动/主动 |
+| 第 1 层 | **光晕** (Halo) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **具象之力** (Manifested Power) | `1/1` | 核心被动/主动 |
+| 第 5 层 | **神圣光晕** (Divine Halo) | `1/1` | 核心被动/主动 |
+| 第 0 层 | **执政官** (Archon) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **无尽尖叫** (Incessant Screams) | `1/1` | 分支二选一 (已选选项 2) |
+| 第 4 层 | **持续效能** (Sustained Potency) | `1/1` | 分支二选一 (已选选项 2) |
+| 第 3 层 | **至高真言** (Word of Supremacy) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 2 层 | **专注爆发** (Focused Outburst) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **灵泉** (Spiritwell) | `1/1` | 分支二选一 (已选选项 2) |
 
-### 专精核心树（Spec Tree）关键联动
-1. **暗言术：痛与吸血鬼之触（Vampiric Touch）双Dot**
-2. **心灵震爆（Mind Blast）与虚空箭（Void Bolt）**
-3. **噬灵疫病（Devouring Plague）核心狂乱泄能**
-4. **虚空爆发（Void Eruption）/黑暗升华**
-5. **暗影魔/摧心魔（Mindbender）回能循环**
+### 专精核心树（暗牧，投入 34 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 节点特性 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **暗言术：癫** (Shadow Word: Madness) | `1/1` | 标准节点 |
+| 第 2 行 | **心智联结** (Psychic Link) | `1/1` | 标准节点 |
+| 第 2 行 | **哀难** (Misery) | `1/1` | 抉择分支 (选项 1) |
+| 第 2 行 | **意志坚定** (Mental Fortitude) | `1/1` | 抉择分支 (选项 2) |
+| 第 3 行 | **暗影幻灵** (Shadowy Apparitions) | `1/1` | 标准节点 |
+| 第 3 行 | **触须猛击** (Tentacle Slam) | `1/1` | 标准节点 |
+| 第 4 行 | **折磨低语** (Tormenting Whispers) | `1/1` | 标准节点 |
+| 第 4 行 | **狂乱激涌** (Surge of Insanity) | `1/1` | 标准节点 |
+| 第 4 行 | **降世黑暗** (Descending Darkness) | `1/1` | 标准节点 |
+| 第 5 行 | **虚空形态** (Voidform) | `1/1` | 标准节点 |
+| 第 5 行 | **捕风捉影** (Haunting Shadows) | `1/1` | 标准节点 |
+| 第 5 行 | **精神腐烂** (Mental Decay) | `1/1` | 标准节点 |
+| 第 6 行 | **暗影爆裂** (Shadeburst) | `1/1` | 标准节点 |
+| 第 6 行 | **疯狂之触** (Maddening Touch) | `1/1` | 标准节点 |
+| 第 6 行 | **碎裂心智** (Shattered Psyche) | `1/1` | 标准节点 |
+| 第 6 行 | **黑暗福音** (Dark Evangelism) | `1/1` | 标准节点 |
+| 第 6 行 | **远古疯狂** (Ancient Madness) | `1/1` | 抉择分支 (选项 2) |
+| 第 7 行 | **神机妙算** (Mastermind) | `2/2` | 两点进阶强化 |
+| 第 7 行 | **心灵之眼** (Mind's Eye) | `1/1` | 抉择分支 (选项 1) |
+| 第 8 行 | **疯狂触须** (Maddening Tentacles) | `1/1` | 标准节点 |
+| 第 8 行 | **吉兆** (Auspicious Spirits) | `1/1` | 标准节点 |
+| 第 9 行 | **怒火暗生** (Insidious Ire) | `2/2` | 两点进阶强化 |
+| 第 9 行 | **虚空尖啸** (Screams of the Void) | `2/2` | 两点进阶强化 |
+| 第 9 行 | **碾压虚空** (Crushing Void) | `1/1` | 标准节点 |
+| 第 9 行 | **痛苦之魂** (Tormented Spirits) | `1/1` | 标准节点 |
+| 第 10 行 | **恩佐斯的神像** (Idol of N'Zoth) | `1/1` | 标准节点 |
+| 第 10 行 | **尤格-萨隆的神像** (Idol of Yogg-Saron) | `1/1` | 标准节点 |
+| 第 11 行 | **虚空幻灵** (Void Apparitions) | `1/4` | 两点进阶强化 |
+| 第 11 行 | **虚空幻灵** (Void Apparitions) | `2/4` | 两点进阶强化 |
+| 第 11 行 | **虚空幻灵** (Void Apparitions) | `1/4` | 两点进阶强化 |
+
+### 职业通用树（牧师，投入 36 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 功能分类 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **天堂之羽** (Angelic Feather) | `1/1` | 主动自保/控制/位移 |
+| 第 1 行 | **心灵震爆** (Mind Blast) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **驱散魔法** (Dispel Magic) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **精神指引** (Spiritual Guidance) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **心灵尖啸** (Psychic Scream) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **能量灌注** (Power Infusion) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **致痛祈咒** (Painful Invocation) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **信仰飞跃** (Leap of Faith) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **僵滞尖啸** (Petrifying Scream) | `1/1` | 功能抉择 (选项 2) |
+| 第 4 行 | **统御意志** (Dominate Mind) | `1/1` | 功能抉择 (选项 2) |
+| 第 4 行 | **坚毅之力** (Strength of Resolve) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **双子太阳女祭司** (Twins of the Sun Priestess) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **群体驱散** (Mass Dispel) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **身心合一** (Body and Soul) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **双生戒律** (Twin Disciplines) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **虚假自主** (False Autonomy) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **黑暗启迪** (Dark Enlightenment) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **联结愈疗** (Binding Heals) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **暗言术：灭** (Shadow Word: Death) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **血色教义** (Sanguine Teachings) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **命运多舛** (Twist of Fate) | `2/2` | 属性与防御强化 |
+| 第 7 行 | **避缴奉纳** (Tithe Evasion) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **绝望祷言** (Desperate Prayer) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **渐隐术** (Fade) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **防护圣光** (Protective Light) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **天使之慈** (Angel's Mercy) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **强化渐隐术** (Improved Fade) | `2/2` | 属性与防御强化 |
+| 第 8 行 | **心灵穿刺** (Mindpierce) | `1/1` | 主动自保/控制/位移 |
+| 第 9 行 | **圣光鼓舞** (Light's Inspiration) | `1/1` | 主动自保/控制/位移 |
+| 第 9 行 | **法术屏障** (Spell Warding) | `2/2` | 属性与防御强化 |
+| 第 10 行 | **幻影延展** (Phantom Reach) | `1/1` | 主动自保/控制/位移 |
+| 第 10 行 | **通透影像** (Translucent Image) | `1/1` | 主动自保/控制/位移 |
+| 第 10 行 | **聚焦能量** (Focused Power) | `1/1` | 功能抉择 (选项 2) |

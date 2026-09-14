@@ -43,30 +43,114 @@ tags:
 
 ## 2. 官方推荐构建（Recommended Build）
 
-当前大秘境 +7 至 +21 层大数据统计下的最高限时优选组合：
+当前大秘境大数据统计下的主流限时优选组合：
 
 | 评估指标 | 官方推荐统计值 |
 | :--- | :--- |
-| **首选英雄天赋** | **祥和大师** |
-| **构建综合使用率** | 35.1% |
-| **当前验证最高限时** | **+21** |
-| **均伤 / 均治疗表现** | DPS: 157.9k |
-| **Wowhead 官方天赋模拟器** | [点击在 Wowhead 查看完整天赋树与导出字符串](https://www.wowhead.com/talent-calc/blizzard/CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2gxMzMDz2YmxYZYZ7B22mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG) |
+| **首选英雄天赋** | **祥和大师 (Master of Harmony)** |
+| **构建综合使用率** | 11.9% |
+| **验证最高限时** | **+21** |
+| **样本量** | 75,911 |
+
+### 暴雪官方天赋导入代码（一键复制）
+
+在游戏内按 `N` 打开天赋面板，点击左下角【导入】，粘贴下方代码即可载入整套加点：
+
+```text
+CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2gxMzMDz2YmxYZYZ7B22mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG
+```
 
 ---
 
-## 3. 大秘境核心天赋点法推荐
+## 3. 精确天赋点数分配清单（71 点全量明细）
 
-### 职业通用树（Class Tree）核心必点
-- 切喉手（打断）
-- 扫堂腿（群晕）
-- 平心之环（Ring of Peace，弹开控怪神器）
-- 壮胆酒与躯不坏（Dampen Harm）
-- 滚地翻与魂体双分
+### 英雄天赋树（祥和大师，投入 15 点）
+| 层级/位置 | 天赋名称 (中文/英文) | 投入点数 | 节点类型与抉择 |
+| :--- | :--- | :--- | :--- |
+| 第 0 层 | **祥和大师** (Master of Harmony) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **无匹之劲** (Overwhelming Force) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **龙腾虎蹴** (Tiger's Vigor) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 2 层 | **化气凝形** (Manifestation) | `1/1` | 核心被动/主动 |
+| 第 1 层 | **和谐化身** (Aspect of Harmony) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **净化之魂** (Purified Spirit) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 3 层 | **豪饮千杯** (Endless Draught) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **千击秘术** (Way of a Thousand Strikes) | `1/1` | 分支二选一 (已选选项 2) |
+| 第 5 层 | **大道同归** (Coalescence) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **清晰使命** (Clarity of Purpose) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **纯净真言** (Mantra of Purity) | `1/1` | 分支二选一 (已选选项 1) |
+| 第 2 层 | **平衡方略** (Balanced Stratagem) | `1/1` | 核心被动/主动 |
+| 第 2 层 | **和谐涌动** (Harmonic Surge) | `1/1` | 核心被动/主动 |
+| 第 3 层 | **潜在能量** (Potential Energy) | `1/1` | 核心被动/主动 |
+| 第 4 层 | **冥想专注** (Meditative Focus) | `1/1` | 核心被动/主动 |
 
-### 专精核心树（Spec Tree）关键联动
-1. **醉酿投（Keg Smash）核心减速聚怪**
-2. **活血酒（Purifying Brew）化解红醉拳**
-3. **天神护佑（Celestial Brew）巨额吸收盾**
-4. **幻灭踢（Blackout Kick）与猛虎掌**
-5. **玄牛下凡（Invoke Niuzao）与火焰之息**
+### 专精核心树（酒仙，投入 34 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 节点特性 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **醉酿投** (Keg Smash) | `1/1` | 标准节点 |
+| 第 2 行 | **活血酒** (Purifying Brew) | `1/1` | 标准节点 |
+| 第 2 行 | **酒醒入定** (Shuffle) | `1/1` | 标准节点 |
+| 第 3 行 | **强化幻灭踢** (Improved Blackout Kick) | `1/1` | 标准节点 |
+| 第 3 行 | **明志灵药** (Elixir of Determination) | `1/1` | 标准节点 |
+| 第 3 行 | **浅斟快饮** (Quick Sip) | `1/1` | 抉择分支 (选项 2) |
+| 第 4 行 | **玄牛之赐** (Gift of the Ox) | `1/1` | 标准节点 |
+| 第 4 行 | **玄牛之魂** (Spirit of the Ox) | `1/1` | 标准节点 |
+| 第 4 行 | **特别快递** (Special Delivery) | `1/1` | 抉择分支 (选项 1) |
+| 第 5 行 | **太极鞋** (Shadowboxing Treads) | `1/1` | 抉择分支 (选项 1) |
+| 第 5 行 | **醉踪步** (Elusive Footwork) | `1/1` | 标准节点 |
+| 第 5 行 | **天神灌注** (Celestial Infusion) | `1/1` | 抉择分支 (选项 2) |
+| 第 6 行 | **火焰之息** (Breath of Fire) | `1/1` | 标准节点 |
+| 第 6 行 | **砮皂的试炼** (Training of Niuzao) | `1/1` | 抉择分支 (选项 2) |
+| 第 6 行 | **盖平的御酒** (Gai Plin's Imperial Brew) | `1/1` | 标准节点 |
+| 第 6 行 | **无常虚妄** (Pretense of Instability) | `1/1` | 标准节点 |
+| 第 7 行 | **禅悟状态** (Zen State) | `1/1` | 标准节点 |
+| 第 7 行 | **迎面铁掌** (Face Palm) | `1/1` | 标准节点 |
+| 第 7 行 | **萨萨拉比姆的力量** (Sal'salabim's Strength) | `1/1` | 抉择分支 (选项 2) |
+| 第 7 行 | **玄牛酒** (Black Ox Brew) | `1/1` | 抉择分支 (选项 2) |
+| 第 8 行 | **反击** (Counterstrike) | `1/1` | 标准节点 |
+| 第 8 行 | **淬火神酿** (Anvil and Stave) | `2/2` | 两点进阶强化 |
+| 第 8 行 | **龙焰酒** (Dragonfire Brew) | `1/1` | 抉择分支 (选项 1) |
+| 第 8 行 | **坚定不屈** (High Tolerance) | `1/2` | 两点进阶强化 |
+| 第 8 行 | **幻灭连击** (Blackout Combo) | `1/1` | 抉择分支 (选项 2) |
+| 第 9 行 | **玄牛下凡** (Invoke Niuzao, the Black Ox) | `1/1` | 标准节点 |
+| 第 9 行 | **生命之焰** (Vital Flame) | `1/1` | 抉择分支 (选项 2) |
+| 第 10 行 | **风暴烈酒的珍藏酒桶** (Stormstout's Last Keg) | `1/1` | 标准节点 |
+| 第 10 行 | **玄牛之心** (Heart of the Ox) | `1/1` | 标准节点 |
+| 第 11 行 | **再来一桶** (Bring Me Another) | `1/4` | 两点进阶强化 |
+| 第 11 行 | **再来一桶** (Bring Me Another) | `2/4` | 两点进阶强化 |
+| 第 11 行 | **再来一桶** (Bring Me Another) | `1/4` | 两点进阶强化 |
+
+### 职业通用树（武僧，投入 36 点）
+| 行数 | 天赋名称 (中文/英文) | 投入点数 | 功能分类 |
+| :--- | :--- | :--- | :--- |
+| 第 1 行 | **分筋错骨** (Paralysis) | `1/1` | 主动自保/控制/位移 |
+| 第 1 行 | **醉拳** (Stagger) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **迅如猛虎** (Tiger's Lust) | `1/1` | 主动自保/控制/位移 |
+| 第 2 行 | **无影步** (Fast Feet) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **清创生血** (Detox) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **神鹤恩典** (Grace of the Crane) | `1/1` | 主动自保/控制/位移 |
+| 第 3 行 | **平心静气** (Calming Presence) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **正中死穴** (Pressure Points) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **活力苏醒** (Vivacious Vivification) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **切喉手** (Spear Hand Strike) | `1/1` | 主动自保/控制/位移 |
+| 第 4 行 | **止戈古训** (Ancient Arts) | `2/2` | 属性与防御强化 |
+| 第 5 行 | **魂体双分** (Transcendence) | `1/1` | 主动自保/控制/位移 |
+| 第 5 行 | **动如脱兔** (Celerity) | `1/1` | 功能抉择 (选项 1) |
+| 第 5 行 | **真气爆裂** (Chi Burst) | `1/1` | 功能抉择 (选项 2) |
+| 第 6 行 | **平心之环** (Ring of Peace) | `1/1` | 功能抉择 (选项 1) |
+| 第 6 行 | **强化轮回之触** (Improved Touch of Death) | `1/1` | 主动自保/控制/位移 |
+| 第 6 行 | **疾言厉色** (Hasty Provocation) | `1/1` | 功能抉择 (选项 2) |
+| 第 6 行 | **雪怒之勇** (Ferocity of Xuen) | `2/2` | 属性与防御强化 |
+| 第 7 行 | **生机蓬勃** (Vigorous Expulsion) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **平和荣昌** (Peace and Prosperity) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **玉珑的优雅** (Yu'lon's Grace) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **壮胆酒** (Fortifying Brew) | `1/1` | 主动自保/控制/位移 |
+| 第 7 行 | **风之舞** (Dance of the Wind) | `1/1` | 主动自保/控制/位移 |
+| 第 8 行 | **灵魂之力** (Strength of Spirit) | `1/1` | 功能抉择 (选项 1) |
+| 第 8 行 | **迅疾豪胆** (Expeditious Fortification) | `1/1` | 功能抉择 (选项 2) |
+| 第 9 行 | **真气熟稔** (Chi Proficiency) | `2/2` | 属性与防御强化 |
+| 第 9 行 | **疾风步** (Windwalking) | `1/1` | 主动自保/控制/位移 |
+| 第 9 行 | **真气转移** (Chi Transfer) | `1/1` | 主动自保/控制/位移 |
+| 第 9 行 | **以武立身** (Martial Instincts) | `2/2` | 属性与防御强化 |
+| 第 10 行 | **身轻如羽** (Lighter Than Air) | `1/1` | 主动自保/控制/位移 |
+| 第 10 行 | **真气流转** (Flow of Chi) | `1/1` | 主动自保/控制/位移 |
+| 第 10 行 | **致命之触** (Fatal Touch) | `1/1` | 主动自保/控制/位移 |
