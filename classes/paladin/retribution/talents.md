@@ -1,6 +1,6 @@
 ---
 title: 惩戒圣骑士天赋配置
-description: 太阳使者与铸光者英雄天赋对比、大秘境圣光顺劈与团本单体裁决核心树推荐
+description: 太阳先锋与圣殿骑士英雄天赋对比、大秘境圣光顺劈与团本单体裁决核心树推荐
 category: class-guide
 docType: talents
 class: paladin
@@ -9,9 +9,9 @@ role: dps
 damageProfile: burst-aoe
 targetCapType: square-root
 gameVersion: 12.1.0
-season: Midnight Season 2
+season: Midnight Season 1
 updatedAt: 2026-09-14
-hotfixAligned: 2026-09-14
+hotfixAligned: 12.1.0.61234-hotfix.0914.1
 tags:
   - paladin
   - retribution
@@ -33,7 +33,7 @@ tags:
 | 英雄天赋 | 大秘境使用率 | 大秘境均伤 (DPS) | 团本史诗使用率 | 特点定位 |
 | :--- | :--- | :--- | :--- | :--- |
 | **太阳先锋 (Herald of the Sun)** | **82.5%** (绝对统治) | **303.8k** | **78.2%** | 晨光射线与太阳耀斑提供无上限持续 AOE，操作平滑，高层大秘境第一选择 |
-| **圣殿骑士 (Templar)** | 17.5% | 278.4k | 21.8% | 圣殿天锤超高单次伤害，偏单体爆发与短轴下怪波次 |
+| **圣殿骑士 (Templar)** | 17.4% | 278.4k | 21.8% | 圣殿天锤超高单次伤害，偏单体爆发与短轴下怪波次 |
 
 ### 1. 太阳先锋（大秘境核心）机制详解
 - **晨光（Dawnlight）**：施放灰烬觉醒（Wake of Ashes）后立即向周围敌人射出 2 道晨光光束，每秒造成神圣伤害，并在光束连线上的所有目标之间产生连锁顺劈。
@@ -45,7 +45,21 @@ tags:
 
 ---
 
-## 大秘境通用天赋加点推荐
+## 2. 官方推荐构建（Recommended Build）
+
+当前大秘境 +7 至 +21 层大数据统计下的最高限时优选组合：
+
+| 评估指标 | 官方推荐统计值 |
+| :--- | :--- |
+| **首选英雄天赋** | **太阳先锋** |
+| **构建综合使用率** | 44.5% |
+| **当前验证最高限时** | **+21** |
+| **均伤 / 均治疗表现** | DPS: 301.6k |
+| **Wowhead 官方天赋模拟器** | [点击在 Wowhead 查看完整天赋树与导出字符串](https://www.wowhead.com/talent-calc/blizzard/CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmysMDzM2Gz2wMbzYmxYYGLsBgZZ2mZmtGAAAYBwAAmhBmxMzGwMzwYYwA) |
+
+---
+
+## 3. 大秘境通用天赋加点推荐
 
 ### 职业通用树核心
 - 责难（Rebuke，打断）

@@ -46,7 +46,21 @@ tags:
 
 ---
 
-## 大秘境通用加点推荐（双持湮灭 + 冰川突进体系）
+## 2. 官方推荐构建（Recommended Build）
+
+当前大秘境 +7 至 +21 层大数据统计下的最高限时优选组合：
+
+| 评估指标 | 官方推荐统计值 |
+| :--- | :--- |
+| **首选英雄天赋** | **死亡使者** |
+| **构建综合使用率** | 77.4% |
+| **当前验证最高限时** | **+21** |
+| **均伤 / 均治疗表现** | DPS: 296.9k |
+| **Wowhead 官方天赋模拟器** | [点击在 Wowhead 查看完整天赋树与导出字符串](https://www.wowhead.com/talent-calc/blizzard/CsPAAAAAAAAAAAAAAAAAAAAAAMAzMMjZYY2mZmZmZbmZ0MjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAwgB) |
+
+---
+
+## 3. 大秘境通用加点推荐（双持湮灭 + 冰川突进体系）
 
 ### 职业天赋通用树必点核心
 - 死亡脚步（Death's Advance）及强化移速

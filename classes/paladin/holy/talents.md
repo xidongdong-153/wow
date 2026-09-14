@@ -46,7 +46,21 @@ tags:
 
 ---
 
-## 大秘境通用加点推荐（美德道标 + 太阳先锋近战急救体系）
+## 2. 官方推荐构建（Recommended Build）
+
+当前大秘境 +7 至 +21 层大数据统计下的最高限时优选组合：
+
+| 评估指标 | 官方推荐统计值 |
+| :--- | :--- |
+| **首选英雄天赋** | **太阳先锋** |
+| **构建综合使用率** | 25.0% |
+| **当前验证最高限时** | **+19** |
+| **均伤 / 均治疗表现** | HPS: 157.6k |
+| **Wowhead 官方天赋模拟器** | [点击在 Wowhead 查看完整天赋树与导出字符串](https://www.wowhead.com/talent-calc/blizzard/CEEAAAAAAAAAAAAAAAAAAAAAAAAAALAwMAAD2GzMzMjZmZBmZYZsZmFjmYYMzMMmtMAMAsB2YZmZmlZbmZ2aAAAAWAGsZgZMDzAAYmhZMGGA) |
+
+---
+
+## 3. 大秘境通用加点推荐（美德道标 + 太阳先锋近战急救体系）
 
 ### 职业通用树核心
 - 责难（Rebuke，近战打断）
