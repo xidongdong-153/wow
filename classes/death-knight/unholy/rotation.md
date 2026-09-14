@@ -1,3 +1,24 @@
+---
+title: 邪恶死亡骑士输出手法与施法优先级
+description: 符文伤口双资源防溢出、大秘境萨莱茵爆发时序图与团本单体优先级
+category: class-guide
+docType: rotation
+class: death-knight
+spec: unholy
+role: dps
+gameVersion: 12.1.0
+season: Midnight Season 2
+updatedAt: 2026-09-14
+hotfixAligned: 2026-09-14
+tags:
+  - death-knight
+  - unholy
+  - rotation
+  - aoe
+  - single-target
+  - 12.1
+---
+
 # 邪恶死亡骑士输出手法与施法优先级
 
 ## 1. 核心资源循环与机制

@@ -1,3 +1,23 @@
+---
+title: "[专精中文名]配装指南"
+description: "[专精中文名]套装穿戴率、武器选择、双美化与单体及双 BiS 饰品组合速查"
+category: class-guide
+docType: gear
+class: "[class-slug]"
+spec: "[spec-slug]"
+role: "[dps|tank|healer]"
+gameVersion: 12.1.0
+season: Midnight Season 1
+updatedAt: YYYY-MM-DD
+hotfixAligned: YYYY-MM-DD
+tags:
+  - "[class-slug]"
+  - "[spec-slug]"
+  - gear
+  - bis
+  - 12.1
+---
+
 # [专精中文名]配装指南
 
 基于当前赛季（[赛季名称]）最新高分榜统计（样本量 [样本数] parses）。

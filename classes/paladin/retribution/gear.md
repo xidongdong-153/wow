@@ -1,3 +1,24 @@
+---
+title: 惩戒圣骑士配装指南
+description: 祝圣之火套装穿戴率、双手武器推荐、双美化与单体及双 BiS 饰品组合速查
+category: class-guide
+docType: gear
+class: paladin
+spec: retribution
+role: dps
+gameVersion: 12.1.0
+season: Midnight Season 2
+updatedAt: 2026-09-14
+hotfixAligned: 2026-09-14
+tags:
+  - paladin
+  - retribution
+  - gear
+  - bis
+  - trinkets
+  - 12.1
+---
+
 # 惩戒圣骑士配装指南
 
 基于当前赛季（Midnight Season 2）最新高分榜统计（样本量 310,614 parses）。

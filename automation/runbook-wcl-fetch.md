@@ -1,3 +1,17 @@
+---
+title: Agent 操作 EGO LITE 抓取 WCL 与 Archon 数据运行手册
+description: 专供 AI Agent 在终端中调用 ego-browser 执行魔兽世界数据抓取与知识库维护的标准操作手册
+category: automation
+docType: runbook
+updatedAt: 2026-09-14
+tags:
+  - automation
+  - ego-browser
+  - wcl
+  - archon
+  - runbook
+---
+
 # Agent 操作 EGO LITE 抓取 WCL / Archon 数据运行手册 (Runbook)
 
 本手册专供 AI Agent 在终端环境中使用 `ego-browser` 自动执行魔兽世界数据抓取与知识库更新。

@@ -1,3 +1,23 @@
+---
+title: "[专精中文名]天赋配置"
+description: "[专精中文名]英雄天赋使用率对比、大秘境与团本核心天赋推荐"
+category: class-guide
+docType: talents
+class: "[class-slug]"
+spec: "[spec-slug]"
+role: "[dps|tank|healer]"
+gameVersion: 12.1.0
+season: Midnight Season 1
+updatedAt: YYYY-MM-DD
+hotfixAligned: YYYY-MM-DD
+tags:
+  - "[class-slug]"
+  - "[spec-slug]"
+  - talents
+  - hero-talents
+  - 12.1
+---
+
 # [专精中文名]天赋配置
 
 数据来源于 Warcraft Logs 与 Archon 近两周 [样本数] 份大秘境有效记录。

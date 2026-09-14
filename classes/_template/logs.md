@@ -1,3 +1,23 @@
+---
+title: "WCL 代表性顶尖[专精中文名]日志拆解与复盘"
+description: "全球顶尖[专精中文名]选手配装复盘、单场大秘境高层五大伤害源占比与史诗团本表现"
+category: class-guide
+docType: logs
+class: "[class-slug]"
+spec: "[spec-slug]"
+role: "[dps|tank|healer]"
+gameVersion: 12.1.0
+season: Midnight Season 1
+updatedAt: YYYY-MM-DD
+hotfixAligned: YYYY-MM-DD
+tags:
+  - "[class-slug]"
+  - "[spec-slug]"
+  - logs
+  - wcl
+  - 12.1
+---
+
 # WCL 代表性顶尖[专精中文名]日志拆解与复盘
 
 ## 1. 大秘境世界顶尖选手与配置

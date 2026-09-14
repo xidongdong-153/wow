@@ -1,3 +1,17 @@
+---
+title: 魔兽世界数据源与资讯站点速查表
+description: 魔兽全生态数据站点直达 URL 模板、选择器与反爬策略索引表
+category: automation
+docType: reference
+updatedAt: 2026-09-14
+tags:
+  - automation
+  - data-sources
+  - wcl
+  - archon
+  - reference
+---
+
 # 魔兽世界数据源与资讯站点速查表 (Agent 直达索引)
 
 本文件供 AI Agent 快速检索目标网址与路由参数，严禁在各网站首页层层点击导航浪费 Token。各站点均提供直达 URL 模板、核心提取选择器及反爬提示。

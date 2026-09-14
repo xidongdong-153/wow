@@ -1,3 +1,22 @@
+---
+title: "[专精中文名]输出手法与施法优先级"
+description: "[专精中文名]核心资源防溢出规则、大秘境爆发时序流程图与团本单体优先级"
+category: class-guide
+docType: rotation
+class: "[class-slug]"
+spec: "[spec-slug]"
+role: "[dps|tank|healer]"
+gameVersion: 12.1.0
+season: Midnight Season 1
+updatedAt: YYYY-MM-DD
+hotfixAligned: YYYY-MM-DD
+tags:
+  - "[class-slug]"
+  - "[spec-slug]"
+  - rotation
+  - 12.1
+---
+
 # [专精中文名]输出手法与施法优先级
 
 ## 1. 核心资源循环与原则

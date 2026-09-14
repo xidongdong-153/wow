@@ -1,3 +1,24 @@
+---
+title: 邪恶死亡骑士配装指南
+description: 灾祸墓穴骑士套装穿戴率、双手武器排行、双美化与单体及双 BiS 饰品组合速查
+category: class-guide
+docType: gear
+class: death-knight
+spec: unholy
+role: dps
+gameVersion: 12.1.0
+season: Midnight Season 2
+updatedAt: 2026-09-14
+hotfixAligned: 2026-09-14
+tags:
+  - death-knight
+  - unholy
+  - gear
+  - bis
+  - trinkets
+  - 12.1
+---
+
 # 邪恶死亡骑士配装指南
 
 基于当前赛季（Midnight Season 2）最新高分榜统计。

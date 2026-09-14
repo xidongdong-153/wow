@@ -1,3 +1,24 @@
+---
+title: WCL 代表性顶尖惩戒骑日志拆解与复盘
+description: 大秘境顶尖惩戒骑配装复盘、+18 高层五大伤害源占比与史诗团本单体裁决复盘
+category: class-guide
+docType: logs
+class: paladin
+spec: retribution
+role: dps
+gameVersion: 12.1.0
+season: Midnight Season 2
+updatedAt: 2026-09-14
+hotfixAligned: 2026-09-14
+tags:
+  - paladin
+  - retribution
+  - logs
+  - wcl
+  - analysis
+  - 12.1
+---
+
 # WCL 代表性顶尖惩戒骑日志拆解与复盘
 
 ## 1. 大秘境世界顶尖选手与配置

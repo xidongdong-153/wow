@@ -104,7 +104,25 @@ const RAID_DPS_COMMENTS = {
 // ==================== 1. 生成大秘境榜单 ====================
 async function generateMplusMarkdown() {
   const mplus = data.mythicPlus;
-  let md = `# 2026-09-14 大秘境专精强度排行榜 (Mythic+ Season 2)
+  let md = `---
+title: 2026-09-14 大秘境专精强度排行榜 (Mythic+ Season 2)
+description: 基于近14天 864 万份样本的各专精大秘境 95th 官方天梯评分梯度与核心表现复盘
+category: ranking
+docType: tier-list
+mode: mythic-plus
+gameVersion: 12.1.0
+season: Midnight Season 2
+date: 2026-09-14
+sampleSize: 8,649,736 parses
+dataSource: Warcraft Logs & Archon
+tags:
+  - rankings
+  - mythic-plus
+  - tier-list
+  - 12.1
+---
+
+# 2026-09-14 大秘境专精强度排行榜 (Mythic+ Season 2)
 
 数据来源：Warcraft Logs & Archon 大数据统计，基于近 14 天在册通关全样本（统计样本量：8,649,736 Parses，层数范围：+7 至 +21 层）。
 指标说明：采用暴雪官方天梯榜大秘境限时积分（Mythic+ Score）95th 分位值作为核心度量衡。高层大秘境需要伤害输出、控场打断、团队光环与生存硬度综合支撑，95th 分位分客观反映了顶尖选手的实战上限。
@@ -182,7 +200,27 @@ async function generateMplusMarkdown() {
 // ==================== 2. 生成团本榜单 ====================
 async function generateRaidMarkdown() {
   const raid = data.raid;
-  let md = `# 2026-09-14 团本史诗难度专精强度排行榜 (The Venomous Abyss)
+  let md = `---
+title: 2026-09-14 团本史诗难度专精强度排行榜 (The Venomous Abyss)
+description: 基于 27 万份史诗全首领样本的 95th 秒伤吞吐量梯队与进本热度评估
+category: ranking
+docType: tier-list
+mode: raid
+gameVersion: 12.1.0
+season: Midnight Season 1
+raidZone: The Venomous Abyss
+date: 2026-09-14
+sampleSize: 276,294 parses
+dataSource: Warcraft Logs
+tags:
+  - rankings
+  - raid
+  - mythic
+  - tier-list
+  - 12.1
+---
+
+# 2026-09-14 团本史诗难度专精强度排行榜 (The Venomous Abyss)
 
 数据来源：Warcraft Logs 史诗难度（Mythic）全首领击杀大数据聚合（统计样本量：276,294 Parses，版本：12.1）。
 评估维度：

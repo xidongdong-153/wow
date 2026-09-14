@@ -1,3 +1,17 @@
+---
+title: 知识库版本与蓝贴时效管理规范
+description: 魔兽世界知识库双轨制版本体系定义、蓝贴时效驱动机制与运维命令速查
+category: specification
+docType: specification
+gameVersion: 12.1.0
+updatedAt: 2026-09-14
+tags:
+  - versioning
+  - specification
+  - hotfix
+  - workflow
+---
+
 # 知识库版本与蓝贴时效管理规范
 
 本知识库以魔兽世界官方客户端版本与暴雪蓝贴（Blue Posts）生效周期为唯一基准进行版本标记与数据时效同步。

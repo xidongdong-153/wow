@@ -1,3 +1,25 @@
+---
+title: 惩戒圣骑士天赋配置
+description: 太阳使者与铸光者英雄天赋对比、大秘境圣光顺劈与团本单体裁决核心树推荐
+category: class-guide
+docType: talents
+class: paladin
+spec: retribution
+role: dps
+gameVersion: 12.1.0
+season: Midnight Season 2
+updatedAt: 2026-09-14
+hotfixAligned: 2026-09-14
+tags:
+  - paladin
+  - retribution
+  - talents
+  - hero-talents
+  - herald-of-the-sun
+  - lightsmith
+  - 12.1
+---
+
 # 惩戒圣骑士天赋配置
 
 数据来源于 Warcraft Logs 与 Archon 近两周 310,614 份 +7 至 +21 层大秘境有效记录。

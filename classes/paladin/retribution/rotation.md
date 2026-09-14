@@ -1,3 +1,25 @@
+---
+title: 惩戒圣骑士输出手法与施法优先级
+description: 神圣能量防溢出规则、大秘境征伐风暴爆发时序图与团本单体优先级
+category: class-guide
+docType: rotation
+class: paladin
+spec: retribution
+role: dps
+gameVersion: 12.1.0
+season: Midnight Season 2
+updatedAt: 2026-09-14
+hotfixAligned: 2026-09-14
+tags:
+  - paladin
+  - retribution
+  - rotation
+  - holy-power
+  - aoe
+  - single-target
+  - 12.1
+---
+
 # 惩戒圣骑士输出手法与施法优先级
 
 ## 1. 核心资源循环与原则

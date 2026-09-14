@@ -1,3 +1,24 @@
+---
+title: WCL 代表性顶尖邪DK日志拆解与复盘
+description: 全球第一邪DK配装复盘、大秘境 +19 高层五大伤害源拆解与史诗团本实战表现
+category: class-guide
+docType: logs
+class: death-knight
+spec: unholy
+role: dps
+gameVersion: 12.1.0
+season: Midnight Season 2
+updatedAt: 2026-09-14
+hotfixAligned: 2026-09-14
+tags:
+  - death-knight
+  - unholy
+  - logs
+  - wcl
+  - analysis
+  - 12.1
+---
+
 # WCL 代表性顶尖邪DK日志拆解与复盘
 
 ## 1. 大秘境世界顶尖选手与日志复盘

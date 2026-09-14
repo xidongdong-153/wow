@@ -1,3 +1,25 @@
+---
+title: 邪恶死亡骑士天赋配置
+description: 萨莱茵与天启骑士英雄天赋使用率对比、大秘境与团本核心天赋推荐
+category: class-guide
+docType: talents
+class: death-knight
+spec: unholy
+role: dps
+gameVersion: 12.1.0
+season: Midnight Season 2
+updatedAt: 2026-09-14
+hotfixAligned: 2026-09-14
+tags:
+  - death-knight
+  - unholy
+  - talents
+  - hero-talents
+  - sanlayn
+  - rider-of-the-apocalypse
+  - 12.1
+---
+
 # 邪恶死亡骑士天赋配置
 
 数据来源于 Warcraft Logs 与 Archon 近两周 105,632 份 +7 至 +21 层大秘境以及 5,940 份史诗团本击杀记录。
