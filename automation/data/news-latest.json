@@ -1,0 +1,435 @@
+{
+  "gameVersion": "12.1.0",
+  "season": "至暗之夜 S2",
+  "date": "2026-09-15",
+  "hotfixStatus": "09-15 已实装",
+  "sampleSize": 8914520,
+  "heroQuiet": {
+    "dateLabel": "今日情报 · 09 月 15 日",
+    "title": "今天的艾泽拉斯",
+    "bullets": [
+      "诸王之眠迎来了全球首个 +20 限时，红玉新生法池刷新了赛季最优耗时。",
+      "暴雪今日在线热修消除了尾王 30 码秒杀判定，防骑神圣之盾与吸收饰品不再冲突。",
+      "恶魔术在史诗尾王纯单体登顶，冰死骑出场率反弹 4.2%，武器战依然领跑近战。"
+    ],
+    "meta": "数据截至 09:15 · Raider.IO / Warcraft Logs / 暴雪官方社区论坛"
+  },
+  "leadStory": {
+    "tag": "大秘境 · 全球首限达成",
+    "archiveTime": "15 分钟前归档",
+    "dungeonNameCn": "诸王之眠",
+    "dungeonNameEn": "Kings' Rest",
+    "keyLevel": 20,
+    "title": "诸王之眠全球首个 +20 限时达成，耗时 37 分 12 秒",
+    "summary": "美服 Area 52 服务器车队在经典回归地下城诸王之眠（Kings' Rest）成功限时 +20 层（耗时 37 分 12 秒，标准限时 39 分钟，积分 488.5），刷新赛季标杆。战术依托双圣骑士高容错减伤链，配合武器战处决斩杀与奥法双冰箱强吃吐金机制。",
+    "metrics": {
+      "clearTime": "37:12.40",
+      "timeRemaining": "剩余 1 分 48 秒",
+      "score": "+488.5",
+      "scoreCert": "Raider.IO 认证",
+      "tactics": "双冰箱单吃",
+      "tacticsDetail": "一王吐金定点斩杀"
+    },
+    "lineup": [
+      {
+        "role": "tank",
+        "roleLabel": "坦克位",
+        "specSlug": "protection",
+        "classSlug": "paladin",
+        "specName": "防护圣骑士",
+        "duty": "飞盾高频沉默阻断巫医引导，奉献减伤覆盖物理死刑，破咒祝福应对狂咒。"
+      },
+      {
+        "role": "healer",
+        "roleLabel": "治疗位",
+        "specSlug": "holy",
+        "classSlug": "paladin",
+        "specName": "神圣圣骑士",
+        "duty": "美德道标群抬化解全团毒性崩血，光环掌握应对四王议会大招爆发期。"
+      },
+      {
+        "role": "dps",
+        "roleLabel": "近战输出",
+        "specSlug": "arms",
+        "classSlug": "warrior",
+        "specName": "武器战士",
+        "dps": "321.4 万",
+        "duty": "破坏者与巨力顺劈快速清场，后半程处决斩杀强力压制议会血线，全程秒伤 321.4 万。"
+      },
+      {
+        "role": "dps",
+        "roleLabel": "远程输出",
+        "specSlug": "elemental",
+        "classSlug": "shaman",
+        "specName": "元素萨满祭司",
+        "dps": "318.6 万",
+        "duty": "升腾爆发融化始祖龙，12 秒短 CD 风剪全勤打断暗影箭，天怒图腾强化全队法系。"
+      },
+      {
+        "role": "dps",
+        "roleLabel": "远程输出",
+        "specSlug": "arcane",
+        "classSlug": "mage",
+        "specName": "奥术法师",
+        "dps": "315.2 万",
+        "duty": "双冰箱单吃一王吐金点名，法阵爆发定点斩杀诱捕图腾，全程秒伤 315.2 万。"
+      }
+    ],
+    "sourceUrl": "https://raider.io/mythic-plus-runs/season-current/984102-20-kings-rest"
+  },
+  "sideIntel": [
+    {
+      "type": "dungeon-speed",
+      "tag": "突破速递 · 红玉新生法池",
+      "dungeonNameCn": "红玉新生法池",
+      "keyLevel": 20,
+      "time": "28:15 限时",
+      "title": "红玉法池刷新赛季最优耗时：28 分 15 秒",
+      "summary": "欧服 Twisting Nether 车队达成 +20 限时（剩余 1 分 45 秒，积分 486.1）。双近战配置依靠冰死骑与奇袭贼持续融血，血DK高额自愈支撑火舌平砍。",
+      "rosterSummary": [
+        {
+          "roleText": "鲜血死骑 (坦) · 奶萨 (疗)",
+          "note": "聚怪与双图腾"
+        },
+        {
+          "roleText": "奇袭潜行者 · 持续流血",
+          "dps": "326.8 万"
+        },
+        {
+          "roleText": "冰霜死骑 · 45s 短爆发",
+          "dps": "328.0 万"
+        },
+        {
+          "roleText": "恶魔术士 · 暴君压怪海",
+          "dps": "319.6 万"
+        }
+      ],
+      "sourceUrl": "https://raider.io/mythic-plus-runs/season-current/984518-20-ruby-life-pools",
+      "score": "积分 +486.1"
+    },
+    {
+      "type": "raid-speed",
+      "tag": "团本竞速 · 史诗烈毒之渊",
+      "raidNameCn": "烈毒之渊",
+      "guild": "Echo",
+      "time": "1:16:42",
+      "title": "Echo 公会登顶史诗全通竞速榜首",
+      "summary": "Echo 以 1 小时 16 分 42 秒完成史诗烈毒之渊全通。尾王乌拉特克 30 码衰减修复后，纯单体与转阶段压血战术体系执行极其流畅。",
+      "sourceUrl": "https://www.warcraftlogs.com/zone/rankings/53#metric=speed&difficulty=5"
+    }
+  ],
+  "hotfix": {
+    "deployDate": "2026-09-15",
+    "headline": "2026-09-15 热修已实装：修复尾王 30 码秒杀，消除神盾与吸收饰品冲突",
+    "summary": "暴雪官方今日部署在线修正，重点修复地下城与首领战交互判定盒溢出问题。死骑双持冰副手伤害结算同步生效，大幅缓解全职业高层防猝死压力。",
+    "badges": [
+      "烈毒之渊 30 码秒杀修复",
+      "红玉二王窗口 +1.2 秒"
+    ],
+    "cards": [
+      {
+        "target": "毒牙祭坛 · 先知祖尔卡兹",
+        "type": "逻辑修复",
+        "detail": "修复剧毒仪式偶发免疫打断问题；剧毒潜伏者流血伤害降低 8%，显著缓解全职业坦克起手接怪血线压力。"
+      },
+      {
+        "target": "红玉新生法池 · 柯姬雅",
+        "type": "判定盒对齐",
+        "detail": "二王烈焰暴怒者火球判定盒与地面火焰圈严格对齐，近战规避窗口增加 1.2 秒；环境 AOE 降低 5%。"
+      },
+      {
+        "target": "诸王之眠 · 黄金风蛇",
+        "type": "目标校准",
+        "detail": "修复一号首领【吐金】偶发锁定脱战随从与图腾的判定缺陷，点名目标严格限定于当前小队成员。"
+      },
+      {
+        "target": "烈毒之渊 · 尾王乌拉特克",
+        "type": "衰减 Bug 消除",
+        "detail": "P3 阶段虚空剧毒爆发 30 码外距离衰减判定修复，消除远距离全额秒杀 Bug；史诗召唤物生命下调 3%。"
+      }
+    ],
+    "classFixes": "死亡骑士萨莱茵时间戳校准 · 圣骑士神盾吸收消除冲突 · 冰法深冬之寒修复 · 恶魔术传送门高低差校准",
+    "sourceUrl": "https://www.wowhead.com/blue-tracker/topic/eu/midnight-season-2-trinket-tuning-22-september-628616"
+  },
+  "metaRankings": {
+    "sampleSize": "8,914,520 份战报",
+    "keyRange": "+7 至 +21",
+    "monitoredSpecs": "全职业 39 专精监控",
+    "table": [
+      {
+        "rank": "01",
+        "specName": "武器战士",
+        "specSlug": "arms",
+        "classSlug": "warrior",
+        "tier": "S",
+        "score": 3526,
+        "trend": "▲ +2",
+        "roleTag": "近战登顶"
+      },
+      {
+        "rank": "02",
+        "specName": "鲜血死亡骑士",
+        "specSlug": "blood",
+        "classSlug": "death-knight",
+        "tier": "S",
+        "score": 3523,
+        "trend": "▲ +1",
+        "roleTag": "坦克榜首"
+      },
+      {
+        "rank": "03",
+        "specName": "元素萨满祭司",
+        "specSlug": "elemental",
+        "classSlug": "shaman",
+        "tier": "S",
+        "score": 3512,
+        "trend": "— 持平",
+        "roleTag": "远程榜首"
+      },
+      {
+        "rank": "04",
+        "specName": "神圣圣骑士",
+        "specSlug": "holy",
+        "classSlug": "paladin",
+        "tier": "S",
+        "score": 3534,
+        "trend": "▲ +1",
+        "roleTag": "治疗榜首"
+      },
+      {
+        "rank": "05",
+        "specName": "奥术法师",
+        "specSlug": "arcane",
+        "classSlug": "mage",
+        "tier": "S",
+        "score": 3483,
+        "trend": "▲ +1",
+        "roleTag": "爆发压血"
+      },
+      {
+        "rank": "06",
+        "specName": "奇袭潜行者",
+        "specSlug": "assassination",
+        "classSlug": "rogue",
+        "tier": "S",
+        "score": 3482,
+        "trend": "▼ -1",
+        "roleTag": "毒伤流血"
+      },
+      {
+        "rank": "07",
+        "specName": "恶魔学识术士",
+        "specSlug": "demonology",
+        "classSlug": "warlock",
+        "tier": "A+",
+        "score": 3384,
+        "trend": "▲ +3",
+        "roleTag": "团本木桩登顶",
+        "isBlackHorse": true
+      },
+      {
+        "rank": "08",
+        "specName": "冰霜死亡骑士",
+        "specSlug": "frost",
+        "classSlug": "death-knight",
+        "tier": "A+",
+        "score": 3362,
+        "trend": "▲ +4.2%",
+        "roleTag": "副手结算修复"
+      },
+      {
+        "rank": "09",
+        "specName": "平衡德鲁伊",
+        "specSlug": "balance",
+        "classSlug": "druid",
+        "tier": "A+",
+        "score": 3366,
+        "trend": "— 持平",
+        "roleTag": "日光术垄断"
+      }
+    ],
+    "editorialNote": "武器战（3526分）以绝对优势领跑近战；冰死骑因副手结算修复与基础伤害微调，单日出场率上升 4.2%；恶魔术在史诗团本木桩登顶后，大秘境热度同步走高；平衡德凭借日光术在特定词缀下保持垄断地位。",
+    "spotlight": {
+      "specSlug": "demonology",
+      "classSlug": "warlock",
+      "specName": "恶魔学识术士",
+      "score": "3384 分",
+      "headline": "恶魔学识术士：单体登顶与怪海压制双向收益",
+      "description": "得益于恶魔暴君与恶魔卫士旋风斩对高压小怪波次的平稳压制，配合恶魔传送门规避突发点名，恶魔术在史诗尾王以 251.8K 秒伤纯单体登顶，带动大秘境天梯评分回升至 3384 分。",
+      "metrics": [
+        {
+          "label": "尾王 95th 秒伤",
+          "val": "251.8K (全专精第一)",
+          "icon": "specs/warlock-demonology.webp"
+        },
+        {
+          "label": "核心战术定位",
+          "val": "平稳顺劈 + 恶魔传送门",
+          "icon": "spells/ability_rogue_shuriken-storm.webp"
+        },
+        {
+          "label": "热修影响",
+          "val": "高低差落点判定校准",
+          "icon": "items/inv_inscription_darkmooncard_putrescence.webp"
+        },
+        {
+          "label": "有效战报样本",
+          "val": "348,210 份",
+          "icon": "ui/keystone-active.webp"
+        }
+      ]
+    }
+  },
+  "raidEcosystem": {
+    "raidNameCn": "烈毒之渊",
+    "bossNameCn": "尾王乌拉特克",
+    "speedLeader": "Echo (1:16:42)",
+    "dataset": "Warcraft Logs 95th 分位",
+    "dpsBars": [
+      {
+        "rank": "01",
+        "specName": "恶魔学识术士",
+        "specSlug": "demonology",
+        "classSlug": "warlock",
+        "dps": "251.8K",
+        "percentage": 100
+      },
+      {
+        "rank": "02",
+        "specName": "惩戒圣骑士",
+        "specSlug": "retribution",
+        "classSlug": "paladin",
+        "dps": "244.9K",
+        "percentage": 97.2
+      },
+      {
+        "rank": "03",
+        "specName": "武器战士",
+        "specSlug": "arms",
+        "classSlug": "warrior",
+        "dps": "243.5K",
+        "percentage": 96.7
+      },
+      {
+        "rank": "04",
+        "specName": "射击猎人",
+        "specSlug": "marksmanship",
+        "classSlug": "hunter",
+        "dps": "243.0K",
+        "percentage": 96.5
+      },
+      {
+        "rank": "05",
+        "specName": "奥术法师",
+        "specSlug": "arcane",
+        "classSlug": "mage",
+        "dps": "241.9K",
+        "percentage": 96
+      },
+      {
+        "rank": "06",
+        "specName": "双持冰霜死骑",
+        "specSlug": "frost",
+        "classSlug": "death-knight",
+        "dps": "234.8K",
+        "percentage": 93.2
+      },
+      {
+        "rank": "07",
+        "specName": "增强萨满祭司",
+        "specSlug": "enhancement",
+        "classSlug": "shaman",
+        "dps": "230.5K",
+        "percentage": 91.5
+      },
+      {
+        "rank": "08",
+        "specName": "邪恶死亡骑士",
+        "specSlug": "unholy",
+        "classSlug": "death-knight",
+        "dps": "226.3K",
+        "percentage": 89.8
+      }
+    ],
+    "tacticalCards": [
+      {
+        "tag": "战术光环 · 萨满祭司",
+        "title": "增强萨凭借风怒图腾持续拉动近战输出",
+        "subtitle": "风怒图腾",
+        "summary": "虽然个人秒伤位居第 7 位（230.5K），但风怒图腾为小队武器战与奇袭贼带来的额外普攻触发，折合使全团有效 DPS 提升超 3.5%，在史诗全通阵容中不可替代。"
+      },
+      {
+        "tag": "战术减伤 · 死亡骑士",
+        "title": "邪恶死骑秒伤中游，核心价值仍在反魔法领域",
+        "subtitle": "AMZ 硬性减伤",
+        "summary": "秒伤虽然维持在 226.3K 中游水平，但在尾王 P3 剧毒黑洞阶段，双邪DK提供的轮流反魔法领域（AMZ）是应对团战大崩溃的核心减伤基石。"
+      },
+      {
+        "tag": "热修受益 · 冰霜死骑",
+        "title": "双持副手伤害结算修复，团本秒伤达 234.8K",
+        "subtitle": "排位上升 3 名",
+        "summary": "09-15 蓝贴副手修复落地后，双持湮灭流派实测单体秒伤增加约 8.3K，成功跃居第 6 位。"
+      }
+    ],
+    "sourceUrl": "https://www.warcraftlogs.com/zone/statistics/53#boss=3018&dataset=95"
+  },
+  "streamList": [
+    {
+      "time": "15:32",
+      "content": "暴雪 09-15 在线热修全面生效：涵盖毒牙祭坛打断逻辑、红玉二王烈焰判定盒对齐及烈毒之渊尾王 30 码秒杀 Bug 修复。",
+      "source": "暴雪官方社区论坛"
+    },
+    {
+      "time": "14:18",
+      "content": "WCL 大秘境采样窗口刷新：累积 8,914,520 份有效战报，天梯 95th 评分完成重新加权，武器战与血DK领跑。",
+      "source": "Warcraft Logs"
+    },
+    {
+      "time": "12:43",
+      "content": "红玉新生法池刷新赛季最优耗时：欧服 Twisting Nether 车队达成 28:15 限时，积分 +486.1。",
+      "source": "Raider.IO"
+    },
+    {
+      "time": "10:20",
+      "content": "诸王之眠全球首个 +20 限时突破：美服 Area 52 车队以 37:12 达成限时，积分 +488.5 刷新赛季纪录。",
+      "source": "Raider.IO"
+    },
+    {
+      "time": "08:30",
+      "content": "史诗烈毒之渊全通竞速榜首更替：Echo 公会以 1 小时 16 分 42 秒完成全通，登顶全球榜首。",
+      "source": "Warcraft Logs"
+    }
+  ],
+  "sourcesRegistry": [
+    {
+      "id": "01",
+      "topic": "诸王之眠 +20 限时战报 (37:12 首限)",
+      "platform": "Raider.IO",
+      "url": "https://raider.io/mythic-plus-runs/season-current/984102-20-kings-rest"
+    },
+    {
+      "id": "02",
+      "topic": "红玉新生法池 +20 限时战报 (28:15 最优)",
+      "platform": "Raider.IO",
+      "url": "https://raider.io/mythic-plus-runs/season-current/984518-20-ruby-life-pools"
+    },
+    {
+      "id": "03",
+      "topic": "09-15 地下城与机制修复在线热修公告",
+      "platform": "暴雪官方社区论坛",
+      "url": "https://us.forums.blizzard.com/en/wow/t/hotfixes-september-15-2026/1954890"
+    },
+    {
+      "id": "04",
+      "topic": "烈毒之渊史诗全通竞速排行 (Echo 登顶)",
+      "platform": "Warcraft Logs",
+      "url": "https://www.warcraftlogs.com/zone/rankings/53#metric=speed&difficulty=5"
+    },
+    {
+      "id": "05",
+      "topic": "首领战 Ula'tek 95th 分位全职业秒伤统计",
+      "platform": "Warcraft Logs",
+      "url": "https://www.warcraftlogs.com/zone/statistics/53#boss=3018&dataset=95"
+    }
+  ]
+}
