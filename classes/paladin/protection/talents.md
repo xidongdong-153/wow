@@ -10,8 +10,8 @@ mitigationType: active-armor
 primaryDefensiveStat: haste
 gameVersion: 12.1.0
 season: Midnight Season 1
-updatedAt: 2026-09-14
-hotfixAligned: 12.1.0.61234-hotfix.0914.1
+updatedAt: 2026-09-15
+hotfixAligned: 12.1.0.61234-hotfix.0915.1
 tags:
   - paladin
   - protection

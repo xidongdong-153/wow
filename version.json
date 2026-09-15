@@ -5,116 +5,116 @@
   "expansion": "Midnight",
   "season": "Midnight Season 1",
   "activeHotfix": {
-    "versionId": "12.1.0.61234-hotfix.0914.1",
-    "date": "2026-09-14",
+    "versionId": "12.1.0.61234-hotfix.0915.1",
+    "date": "2026-09-15",
     "revision": 1,
-    "bluePostId": "1954321",
-    "bluePostUrl": "https://us.forums.blizzard.com/en/wow/t/hotfixes-september-14-2026/1954321",
-    "title": "2026-09-14 在线热修与职业调整深度分析",
-    "path": "patches/12.1/2026-09-14-tuning.md",
+    "bluePostId": "1954890",
+    "bluePostUrl": "https://us.forums.blizzard.com/en/wow/t/hotfixes-2026-09-15/1954890",
+    "title": "2026-09-15 在线热修与副本机制调整深度分析",
+    "path": "patches/12.1/2026-09-15-tuning.md",
     "affectedSpecs": [
       "death-knight/unholy",
       "death-knight/frost"
     ]
   },
   "dataSync": {
-    "lastSyncAt": "2026-09-14T02:54:31.725Z",
-    "rankingsDate": "2026-09-14",
+    "lastSyncAt": "2026-09-15T06:00:00.000Z",
+    "rankingsDate": "2026-09-15",
     "status": "synchronized"
   },
-  "gitTag": "v12.1.0.61234-hotfix.20260914.1",
+  "gitTag": "v12.1.0.61234-hotfix.20260915.1",
   "specStatus": {
     "death-knight/unholy": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "paladin/retribution": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "death-knight/frost": {
       "status": "up-to-date",
-      "verifiedAt": "2026-09-14",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "verifiedAt": "2026-09-15",
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "death-knight/blood": {
       "status": "up-to-date",
-      "verifiedAt": "2026-09-14",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "verifiedAt": "2026-09-15",
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "paladin/protection": {
       "status": "up-to-date",
-      "verifiedAt": "2026-09-14",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "verifiedAt": "2026-09-15",
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "paladin/holy": {
       "status": "up-to-date",
-      "verifiedAt": "2026-09-14",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "verifiedAt": "2026-09-15",
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     }
   },
   "instanceStatus": {
     "mythic-plus/the-blinding-vale": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "mythic-plus/den-of-nalorakk": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "mythic-plus/voidscar-arena": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "mythic-plus/altar-of-fangs": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "mythic-plus/murder-row": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "mythic-plus/the-dawnspire": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "mythic-plus/amani-crypts": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "mythic-plus/freightrunner-run": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "mythic-plus/ruby-life-pools": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "mythic-plus/kings-rest": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "mythic-plus/temple-of-sethraliss": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     },
     "raid/the-venomous-abyss": {
-      "verifiedAt": "2026-09-14",
+      "verifiedAt": "2026-09-15",
       "status": "up-to-date",
-      "hotfixAligned": "12.1.0.61234-hotfix.0914.1"
+      "hotfixAligned": "12.1.0.61234-hotfix.0915.1"
     }
   }
 }

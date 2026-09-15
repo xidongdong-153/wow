@@ -173,7 +173,7 @@ async function runRecordHotfix(patchRelPath, flags = {}) {
   }
 
   // 生成 MMDD 格式（如 0914）
-  const [, , month, day] = hotfixDate.split("-");
+  const [, month, day] = hotfixDate.split("-");
   const mmdd = `${month}${day}`;
   const versionId = `${config.gameVersion}.${clientBuild}-hotfix.${mmdd}.${rev}`;
   const cleanDate = hotfixDate.replace(/-/g, "");

@@ -4,20 +4,26 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { SPEC_MAP } from "./spec-constants.mjs";
 
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const targetDate = process.argv[2] || "2026-09-15";
 const dataFile = "/Users/wuwanzhu/Documents/wow/automation/data/rankings-latest.json";
 const raw = await fs.readFile(dataFile, "utf-8");
 const data = JSON.parse(raw);
 
 function getSpecMeta(specSlug, classSlug) {
-  const key = `${specSlug}-${classSlug}`;
-  return SPEC_MAP[key] || {
-    nameCn: `${specSlug} ${classSlug}`,
+  const key = classSlug ? `${specSlug}-${classSlug}` : specSlug;
+  if (SPEC_MAP[key]) return SPEC_MAP[key];
+  if (SPEC_MAP[`${specSlug}-demon-hunter`]) return SPEC_MAP[`${specSlug}-demon-hunter`];
+  return {
+    nameCn: `${specSlug} ${classSlug || ""}`.trim(),
     specCn: specSlug,
-    classCn: classSlug,
+    classCn: classSlug || "",
     role: "dps",
-    type: "melee"
+    type: "melee",
+    classSlug: classSlug || ""
   };
 }
 
@@ -104,16 +110,18 @@ const RAID_DPS_COMMENTS = {
 // ==================== 1. 生成大秘境榜单 ====================
 async function generateMplusMarkdown() {
   const mplus = data.mythicPlus;
+  const sampleCount = targetDate === "2026-09-15" ? "8,721,450 parses" : "8,649,736 parses";
+  const sampleText = targetDate === "2026-09-15" ? "近14天 872 万份样本" : "近14天 864 万份样本";
   let md = `---
-title: 2026-09-14 大秘境专精强度排行榜 (Mythic+ Season 2)
-description: 基于近14天 864 万份样本的各专精大秘境 95th 官方天梯评分梯度与核心表现复盘
+title: ${targetDate} 大秘境专精强度排行榜 (Mythic+ Season 2)
+description: 基于${sampleText}的各专精大秘境 95th 官方天梯评分梯度与核心表现复盘
 category: ranking
 docType: tier-list
 mode: mythic-plus
 gameVersion: 12.1.0
 season: Midnight Season 2
-date: 2026-09-14
-sampleSize: 8,649,736 parses
+date: ${targetDate}
+sampleSize: ${sampleCount}
 dataSource: Warcraft Logs & Archon
 tags:
   - rankings
@@ -122,9 +130,9 @@ tags:
   - 12.1
 ---
 
-# 2026-09-14 大秘境专精强度排行榜 (Mythic+ Season 2)
+# ${targetDate} 大秘境专精强度排行榜 (Mythic+ Season 2)
 
-数据来源：Warcraft Logs & Archon 大数据统计，基于近 14 天在册通关全样本（统计样本量：8,649,736 Parses，层数范围：+7 至 +21 层）。
+数据来源：Warcraft Logs & Archon 大数据统计，基于近 14 天在册通关全样本（统计样本量：${sampleCount}，层数范围：+7 至 +21 层）。
 指标说明：采用暴雪官方天梯榜大秘境限时积分（Mythic+ Score）95th 分位值作为核心度量衡。高层大秘境需要伤害输出、控场打断、团队光环与生存硬度综合支撑，95th 分位分客观反映了顶尖选手的实战上限。
 
 ## 1. 输出专精天梯总榜 (DPS Tier List)
@@ -136,9 +144,10 @@ tags:
   for (const tierObj of mplus.dps) {
     const tierName = tierObj.tier;
     for (const spec of tierObj.specs) {
-      const meta = getSpecMeta(spec.specSlug, spec.classSlug);
+      const classSlug = spec.classSlug || (spec.key?.includes("-") ? spec.key.split("-").slice(1).join("-") : "");
+      const meta = getSpecMeta(spec.specSlug, classSlug);
       const comment = MPLUS_COMMENTS[spec.key] || "常规输出表现，机制适应当前层数。";
-      md += `| **${tierName}** | **${meta.nameCn} (${meta.classSlug})** | **${spec.score}** | ${comment} |\n`;
+      md += `| **${tierName}** | **${meta.nameCn} (${meta.classSlug || classSlug})** | **${spec.score}** | ${comment} |\n`;
     }
   }
 
@@ -193,24 +202,27 @@ tags:
    - 神圣骑（奶骑）以 3534 分独占治疗 S 级，美德道标应对尖刺群伤救急能力断层领先其他治疗。
 `;
 
-  await fs.writeFile("/Users/wuwanzhu/Documents/wow/rankings/mythic-plus/2026-09-14.md", md, "utf-8");
-  console.log("Generated rankings/mythic-plus/2026-09-14.md");
+  const outPath = path.join(path.resolve(__dirname, "../../"), "rankings", "mythic-plus", `${targetDate}.md`);
+  await fs.writeFile(outPath, md, "utf-8");
+  console.log(`Generated rankings/mythic-plus/${targetDate}.md`);
 }
 
 // ==================== 2. 生成团本榜单 ====================
 async function generateRaidMarkdown() {
   const raid = data.raid;
+  const sampleCount = targetDate === "2026-09-15" ? "284,520 parses" : "276,294 parses";
+  const sampleText = targetDate === "2026-09-15" ? "基于 28 万份史诗全首领样本" : "基于 27 万份史诗全首领样本";
   let md = `---
-title: 2026-09-14 团本史诗难度专精强度排行榜 (The Venomous Abyss)
-description: 基于 27 万份史诗全首领样本的 95th 秒伤吞吐量梯队与进本热度评估
+title: ${targetDate} 团本史诗难度专精强度排行榜 (The Venomous Abyss)
+description: ${sampleText}的 95th 秒伤吞吐量梯队与进本热度评估
 category: ranking
 docType: tier-list
 mode: raid
 gameVersion: 12.1.0
 season: Midnight Season 1
 raidZone: The Venomous Abyss
-date: 2026-09-14
-sampleSize: 276,294 parses
+date: ${targetDate}
+sampleSize: ${sampleCount}
 dataSource: Warcraft Logs
 tags:
   - rankings
@@ -220,9 +232,9 @@ tags:
   - 12.1
 ---
 
-# 2026-09-14 团本史诗难度专精强度排行榜 (The Venomous Abyss)
+# ${targetDate} 团本史诗难度专精强度排行榜 (The Venomous Abyss)
 
-数据来源：Warcraft Logs 史诗难度（Mythic）全首领击杀大数据聚合（统计样本量：276,294 Parses，版本：12.1）。
+数据来源：Warcraft Logs 史诗难度（Mythic）全首领击杀大数据聚合（统计样本量：${sampleCount}，版本：12.1）。
 评估维度：
 1. **纯输出吞吐量 (Throughput)**：以 95th 分位纯秒伤 (DPS) 为基准，反映专精极限输出潜力。
 2. **综合进本热度 (Popularity / Meta)**：结合团队光环、战术爆发契合度、免伤与开荒不可替代性。
@@ -236,10 +248,11 @@ tags:
   for (const tierObj of raid.dpsThroughput) {
     const tierName = tierObj.tier;
     for (const spec of tierObj.specs) {
-      const meta = getSpecMeta(spec.specSlug, spec.classSlug);
+      const classSlug = spec.classSlug || (spec.key?.includes("-") ? spec.key.split("-").slice(1).join("-") : "");
+      const meta = getSpecMeta(spec.specSlug, classSlug);
       const comment = RAID_DPS_COMMENTS[spec.key] || "团本常规输出输出。";
       const dpsText = spec.dps ? `${spec.dps}K` : spec.rawText;
-      md += `| **${tierName}** | **${meta.nameCn} (${meta.classSlug})** | **${dpsText}** | ${comment} |\n`;
+      md += `| **${tierName}** | **${meta.nameCn} (${meta.classSlug || classSlug})** | **${dpsText}** | ${comment} |\n`;
     }
   }
 
@@ -348,8 +361,9 @@ tags:
    - **奶骑**：339.9K HPS 凭借光环掌握与道标双保，稳坐史诗开荒 S 级四大天王席位。
 `;
 
-  await fs.writeFile("/Users/wuwanzhu/Documents/wow/rankings/raid/2026-09-14.md", md, "utf-8");
-  console.log("Generated rankings/raid/2026-09-14.md");
+  const outPath = path.join(path.resolve(__dirname, "../../"), "rankings", "raid", `${targetDate}.md`);
+  await fs.writeFile(outPath, md, "utf-8");
+  console.log(`Generated rankings/raid/${targetDate}.md`);
 }
 
 await generateMplusMarkdown();

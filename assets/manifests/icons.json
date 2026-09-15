@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "gameVersion": "12.1.0",
   "generatedAt": "2026-09-15T05:31:29.252Z",
-  "totalIcons": 2140,
+  "totalIcons": 2143,
   "entities": {
     "classes": [
       {
@@ -29317,6 +29317,39 @@
       "nameEn": "tank",
       "spellIds": [],
       "cdnFallbackUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_shield_06.jpg"
+    },
+    {
+      "id": "ui_keystone_active",
+      "filename": "keystone-active.webp",
+      "path": "icons/ui/keystone-active.webp",
+      "category": "ui",
+      "subCategory": "dungeons",
+      "nameCn": "大秘境钥石",
+      "nameEn": "Mythic Keystone",
+      "spellIds": [],
+      "cdnFallbackUrl": ""
+    },
+    {
+      "id": "ui_dungeon_the_blinding_vale",
+      "filename": "the-blinding-vale.webp",
+      "path": "icons/ui/the-blinding-vale.webp",
+      "category": "ui",
+      "subCategory": "dungeons",
+      "nameCn": "夺目谷",
+      "nameEn": "The Blinding Vale",
+      "spellIds": [],
+      "cdnFallbackUrl": ""
+    },
+    {
+      "id": "ui_raid_abyssal_maw",
+      "filename": "abyssal-maw.webp",
+      "path": "icons/ui/abyssal-maw.webp",
+      "category": "ui",
+      "subCategory": "raids",
+      "nameCn": "烈毒之渊",
+      "nameEn": "The Abyssal Maw",
+      "spellIds": [],
+      "cdnFallbackUrl": ""
     }
   ]
 }

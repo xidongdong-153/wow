@@ -10,8 +10,8 @@ damageProfile: burst-aoe
 targetCapType: square-root
 gameVersion: 12.1.0
 season: Midnight Season 2
-updatedAt: 2026-09-14
-hotfixAligned: 2026-09-14
+updatedAt: 2026-09-15
+hotfixAligned: 2026-09-15
 tags:
   - death-knight
   - unholy
