@@ -16,7 +16,18 @@
 - **纯输出吞吐量 (Throughput)**：全首领 95th 分位纯秒伤 (DPS)，反映该专精极限输出潜力与木桩/顺劈爆发。
 - **综合进本热度 (Popularity / Meta)**：综合考量团队 5% 属性光环、嗜血、战复、团队大减伤、单吃点名能力与开荒不可替代性。
 
-### 3. 全职业四职责全景归因分析规范（强制遵守）
+### 3. WCL 官方原始统计与顶尖实战战报深度解读分块（专有板块规范）
+在史诗团本和大秘境排行榜中，分别专门接入 WCL 官方底层 Highcharts 五维箱形图分位统计与实战顶尖战报，提供多尺度数据透视：
+- **团本 WCL 分块 (Zone 53)**：
+  - 输出全 27 专精 50th 中位基准、25th 下四分位、75th 上四分位、10th 下限保底、95th 顶尖高分与极限峰值；
+  - 极差（Spread）度量专精抗干扰稳定性；深入归因纯数值登顶与开荒综合热度的机制倒挂；
+  - 提取代表性首领（如 1 号首领 3470 Nek'zali）世界前列击杀记录（选手、装等、实战秒伤、耗时与原始战报直达）。
+- **大秘境 WCL 分块 (Zone 55)**：
+  - 输出全 40 专精（坦克、治疗、DPS 全职责）官方积分分位箱形分布与高层上限；
+  - 深入归因血DK与奶骑的断层统治力、DPS 梯队 Spread 极差（50+点）两极分化机制；
+  - 提取代表性地下城（如毒牙祭坛 +21）世界顶尖限时通关记录（选手、层数、通关用时、单本积分与原始战报直达）。
+
+### 4. 全职业四职责全景归因分析规范（强制遵守）
 每份每日天梯榜单 Markdown 报告在展示完整表格后，必须提供覆盖四大职责的全景机制归因，严禁偏向单一或少数职业：
 - **坦克职责格局演进**：对比血DK、熊德、防骑、酒仙、复仇DH、防战的减伤覆盖、自理能力与聚怪战术价值。
 - **治疗职责救急分化**：对比奶骑、奶萨、神牧、恩护龙、奶僧、奶德、戒律牧的瞬时尖刺救急与团本大减伤。
@@ -28,16 +39,21 @@
 
 所有排行文件由自动化采集脚本直接拉取官方大数据，并由渲染脚本自动生成，严禁手工伪造数据：
 
-1. **执行官方天梯数据采集**：
+1. **执行官方天梯与 WCL 原始分位采集**：
    ```bash
+   # 抓取 Archon 全维度天梯
    ego-browser nodejs < automation/scripts/fetch-rankings.mjs
+   # 抓取 WCL Zone 53 官方团本分位数据与代表性首领实战战报
+   ego-browser nodejs < automation/scripts/fetch-wcl-statistics.mjs
+   # 抓取 WCL Zone 55 官方大秘境全专精积分分位与顶尖地下城限时战报
+   ego-browser nodejs < automation/scripts/fetch-wcl-mplus-statistics.mjs
    ```
-   数据落盘至 `automation/data/rankings-latest.json`。
+   数据落盘至 `automation/data/rankings-latest.json`、`automation/data/wcl-statistics-latest.json` 与 `automation/data/wcl-mplus-statistics-latest.json`。
 2. **生成每日 Markdown 报告**：
    ```bash
    node automation/scripts/generate-rankings-md.mjs
    ```
-   文件落盘至 `rankings/mythic-plus/YYYY-MM-DD.md` 与 `rankings/raid/YYYY-MM-DD.md`。
+   文件落盘至 `rankings/mythic-plus/YYYY-MM-DD.md` 与 `rankings/raid/YYYY-MM-DD.md`（自动注入 WCL 官方分位统计与顶尖战报深度解读分块）。
 
 ## 目录结构
 
