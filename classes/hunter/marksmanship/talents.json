@@ -39,7 +39,21 @@
       "icon": "inv12_ability_hunter_rupturingblow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "野兽控制,  射击\n你的自动射击伤害提高25%。\n\n 生存\n你的自动攻击伤害提高25%。",
+      "descriptionEn": "Survival\nYour auto attack damage is increased by 25%.\n\n Beast Mastery,  Marksmanship\nYour auto shot damage is increased by 25%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102381,
@@ -54,7 +68,21 @@
       "icon": "ability_druid_galewinds",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "意气风发现在还会在8秒内额外为你恢复你最大生命值的12.0%。",
+      "descriptionEn": "Exhilaration now also heals you for an additional 12.0% of your maximum health over 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102384,
@@ -69,7 +97,21 @@
       "icon": "inv_spear_01",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你从爆击来源获得的爆击提高2%。",
+      "descriptionEn": "You gain 2% more critical strike from critical strike sources.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102387,
@@ -84,7 +126,21 @@
       "icon": "ability_hunter_potentvenom",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的持续性伤害效果造成的伤害提高10%。\n\n对生命值低于20%的目标，该效果增加50%。",
+      "descriptionEn": "Your damage over time effects deal 10% increased damage.\n\nThis effect is increased by 50% on targets below 20% health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102389,
@@ -99,7 +155,21 @@
       "icon": "inv_potion_29",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "假死和灵龟守护会移除你身上的中毒和疾病效果。",
+      "descriptionEn": "Feign Death and Aspect of the Turtle removes poison and disease effects from you.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102390,
@@ -114,7 +184,21 @@
       "icon": "inv_misc_quiver_03",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "野兽控制\n杀戮命令造成的伤害提高10%。\n\n 射击\n瞄准射击造成的伤害提高10%。\n\n 生存\n野火炸弹造成的伤害提高10%。",
+      "descriptionEn": "Marksmanship\nAimed Shot deals 10% increased damage.\n\n Beast Mastery\nKill Command deals 10% increased damage.\n\n Survival\nWildfire Bomb deals 10% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102391,
@@ -129,7 +213,21 @@
       "icon": "ability_hunter_huntervswild",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "优胜劣汰的持续时间延长2.0秒。",
+      "descriptionEn": "The duration of Survival of the Fittest is increased by 2.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102395,
@@ -144,7 +242,21 @@
       "icon": "hunter_pvp_vipersting",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "生存\n当压制中断一次施法，获得30点集中值。\n\n 野兽控制,  射击\n当反制射击中断一次施法，获得30点集中值。",
+      "descriptionEn": "Beast Mastery,  Marksmanship\nWhen Counter Shot interrupts a cast, gain 30 Focus.\n\n Survival\nWhen Muzzle interrupts a cast, gain 30 Focus.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102396,
@@ -159,7 +271,21 @@
       "icon": "inv_10_engineering2_pvpflaregun_color1",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "急速提高2%。",
+      "descriptionEn": "Haste increased by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102401,
@@ -174,7 +300,21 @@
       "icon": "ability_hunter_onewithnature",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "意气风发的冷却时间缩短30秒。",
+      "descriptionEn": "Exhilaration's cooldown is reduced by 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102402,
@@ -189,7 +329,21 @@
       "icon": "inv_ammo_arrow_03",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "打断目标施法，并使其在5秒内无法施放任何该系法术。",
+      "descriptionEn": "Interrupts spellcasting, preventing any spell in that school from being cast for 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "24秒 冷却",
+      "cooldownEn": "24 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102404,
@@ -204,7 +358,21 @@
       "icon": "ability_hunter_displacement",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "移动速度提高4%。",
+      "descriptionEn": "Movement speed increased by 4%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102406,
@@ -219,7 +387,21 @@
       "icon": "ability_rogue_plunderarmor",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "优胜劣汰额外获得一次充能。",
+      "descriptionEn": "Survival of the Fittest gains an additional charge.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102409,
@@ -234,7 +416,21 @@
       "icon": "ability_hunter_silenthunter",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "爆击几率提高2%。",
+      "descriptionEn": "Critical strike chance increased by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102411,
@@ -249,7 +445,21 @@
       "icon": "ability_hunter_posthaste",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "逃脱还会移除所有移动限制效果，并使你的移动速度提高50%，持续4秒。",
+      "descriptionEn": "Disengage also frees you from all movement impairing effects and increases your movement speed by 50% for 4 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102415,
@@ -264,7 +474,21 @@
       "icon": "ability_mount_kodo_03",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "宁神射击从附近最多2个目标身上移除1个额外的魔法效果。",
+      "descriptionEn": "Tranquilizing Shot removes 1 additional Magic effect from up to 2 nearby targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102416,
@@ -279,7 +503,21 @@
       "icon": "ability_hunter_aspectoftheviper",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "野兽控制,  射击\n猎豹守护和灵龟守护的冷却时间缩短15秒。\n\n 生存\n雄鹰守护、猎豹守护和灵龟守护的冷却时间缩短15秒。",
+      "descriptionEn": "Beast Mastery,  Marksmanship\nThe cooldown of Aspect of the Cheetah, and Aspect of the Turtle are reduced by 15 sec.\n\n Survival\nThe cooldown of Aspect of the Eagle, Aspect of the Cheetah, and Aspect of the Turtle are reduced by 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102419,
@@ -294,7 +532,21 @@
       "icon": "ability_hunter_misdirection",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在30秒内，你接下来造成的所有威胁值会误导给指定的小队或团队成员，持续8秒。",
+      "descriptionEn": "Misdirects all threat you cause to the targeted party or raid member, beginning with your next attack within 30 sec and lasting for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102422,
@@ -309,7 +561,21 @@
       "icon": "spell_nature_spiritarmor",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你和你的宠物受到的所有伤害降低30%，持续6秒。",
+      "descriptionEn": "Reduces all damage you and your pet take by 30% for 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102423,
@@ -324,7 +590,21 @@
       "icon": "rogue_burstofspeed",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到范围攻击伤害降低5%。",
+      "descriptionEn": "Damage taken from area of effect attacks reduced by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102424,
@@ -339,7 +619,21 @@
       "icon": "ability_hunter_pet_turtle",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "灵龟守护的冷却时间缩短30秒。",
+      "descriptionEn": "The cooldown of Aspect of the Turtle is reduced by 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103990,
@@ -354,7 +648,21 @@
       "icon": "artifactability_survivalhunter_eaglesbite",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的瞭望的雄鹰从天而降，使目标昏迷5秒。 [束缚镣铐: 被胁迫昏迷的目标在效果结束后对你造成的伤害降低10%，持续8秒。]\n\n对玩家使用时，此技能无需视线即可施放。",
+      "descriptionEn": "Your Spotting Eagle descends from the skies, stunning your target for 5 sec. [Binding Shackles: Targets stunned by Intimidation deal 10% less damage to you for 8 sec after the effect ends]\n\nThis ability does not require line of sight when used against players.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102394,
@@ -369,7 +677,21 @@
       "icon": "ability_druid_challangingroar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "胁迫现在还会使附近敌人昏迷1.0秒。",
+      "descriptionEn": "Intimidation now also stuns nearby enemies for 1.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109484,
@@ -384,7 +706,21 @@
       "icon": "ability_rogue_feigndeath",
       "rank": 1,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "假死的冷却时间缩短5秒。",
+      "descriptionEn": "The cooldown of Feign Death is reduced by 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109485,
@@ -399,7 +735,21 @@
       "icon": "ability_mount_jungletiger",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "猎豹守护的冷却时间缩短30秒。",
+      "descriptionEn": "The cooldown of Aspect of the Cheetah is reduced by 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109487,
@@ -414,7 +764,21 @@
       "icon": "inv12_ability_druid_lifetreading",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的最大生命值提高5%。",
+      "descriptionEn": "Your maximum health is increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109489,
@@ -429,7 +793,21 @@
       "icon": "spell_nature_drowsy",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "从一个敌方目标身上移除1个激怒效果和1个魔法效果。",
+      "descriptionEn": "Removes 1 Enrage and 1 Magic effect from an enemy target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "10秒 冷却",
+      "cooldownEn": "10 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110157,
@@ -444,7 +822,21 @@
       "icon": "ability_hunter_combatexperience",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的敏捷提高3%。",
+      "descriptionEn": "Your Agility is increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110164,
@@ -459,7 +851,21 @@
       "icon": "spell_druid_bristlingfur",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "你的宠物时刻保护着你，使你受到的伤害降低3%。你的宠物承受其减免伤害的100%。",
+      "descriptionEn": "Your pet protects you at all times, reducing the damage you take by 3%. Your pet receives 100% of the damage it mitigates.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94965,
@@ -474,7 +880,21 @@
       "icon": "ability_hunter_sentinelowl",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "射击\n冲冠一怒会使你在百发百中期间召唤警戒猫头鹰的几率额外提高10%\n\n 生存\n狩魂一击会召唤你的警戒猫头鹰，且在狩魂一击期间你召唤警戒猫头鹰的几率额外提高10%",
+      "descriptionEn": "Marksmanship\nFeathered Frenzy further increases your chance to summon your Sentinel Owl during Trueshot by 10%.\n\n Survival\nTakedown summons your Sentinel Owl and your chance to summon your Sentinel Owl is increased by an additional 10% during Takedown.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94970,
@@ -489,7 +909,21 @@
       "icon": "inv_10_specialreagentfoozles_tuskclaw-ice",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "射击\n哨兵印记使瞄准射击的伤害额外提高15% \n\n 生存\n哨兵印记使野火炸弹的伤害额外提高50%",
+      "descriptionEn": "Marksmanship\nSentinel's Mark further increases the damage of Aimed Shot by 15% \n\n Survival\nSentinel's Mark further increases the damage of Wildfire Bomb by 50%",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94971,
@@ -504,7 +938,21 @@
       "icon": "ability_mage_netherwindpresence",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "生存\n杀戮命令额外产生5点集中值，伤害提高20%。\n\n最大集中值提高25点。\n\n 射击\n稳固射击额外产生5点集中值，伤害提高20%。\n\n最大集中值提高25点。",
+      "descriptionEn": "Survival\nKill Command grants an additional 5 Focus and its damage is increased by 20%. \n\nMaximum Focus increased by 25.\n\n Marksmanship\nSteady Shot grants an additional 5 Focus and its damage is increased by 20%. \n\nMaximum Focus increased by 25.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94973,
@@ -519,7 +967,21 @@
       "icon": "spell_druid_lunarinspiration",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "生存\n消耗利矛之刃召唤警戒猫头鹰的几率提高10%。\n\n当你的警戒猫头鹰施加哨兵印记时，野火炸弹的冷却时间缩短6.0秒。\n\n 射击\n消耗弹无虚发召唤警戒猫头鹰的几率提高10%。\n\n当你的警戒猫头鹰施加哨兵印记时，瞄准射击的冷却时间缩短1.0秒。",
+      "descriptionEn": "Marksmanship\nConsuming Precise Shots has a 10% increased chance to summon your Sentinel Owl.\n\nWhen your Sentinel Owl applies Sentinel's Mark, reduce the cooldown of Aimed Shot by 1.0 sec.\n\n Survival\nConsuming Tip of the Spear has a 10% increased chance to summon your Sentinel Owl.\n\nWhen your Sentinel Owl applies Sentinel's Mark, reduce the cooldown of Wildfire Bomb by 6.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94976,
@@ -534,7 +996,43 @@
       "icon": "inv_ability_sentinelhunter_lunarstorm",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "射击\n你的雄鹰被替换为一只警戒猫头鹰，会施加一个强化哨兵印记。",
+      "descriptionEn": "Survival\nConsuming Tip of the Spear has a 10% chance to summon the aid of a Sentinel Owl that descends from the skies and applies Sentinel's Mark to your target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "哨兵印记",
+          "icon": "",
+          "description": "你的下一次瞄准射击对被标记的目标造成的直接伤害提高20%。"
+        },
+        {
+          "name": "哨兵印记",
+          "icon": "ability_ardenweald_hunter",
+          "description": "你的下一次野火炸弹对被标记的目标造成的直接伤害提高40%。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Sentinel's Mark",
+          "icon": "",
+          "description": "Your next Wildfire Bomb deals 40% increased direct damage to the marked target."
+        },
+        {
+          "name": "Sentinel's Mark",
+          "icon": "ability_ardenweald_hunter",
+          "description": "Your next Aimed Shot deals 20% increased direct damage to the marked target."
+        }
+      ]
     },
     {
       "nodeId": 94978,
@@ -549,7 +1047,21 @@
       "icon": "artifactability_balancedruid_moonandstars",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当哨兵印记被消耗时，会召唤一连串共4发的皎月飞弹，每发对10码内的敌人造成([200% of Attack Power])点奥术伤害。",
+      "descriptionEn": "When Sentinel's Mark is consumed, it summons a barrage of 4 lunar missiles, each dealing (200% of Attack Power) Arcane damage to enemies within 10 yds.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94980,
@@ -564,7 +1076,21 @@
       "icon": "ability_racial_runningwild",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的移动速度提高8%。\n\n猎豹守护的冷却时间缩短30秒。",
+      "descriptionEn": "Your movement speed is increased by 8%.\n\nAspect of the Cheetah's cooldown is reduced by 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94981,
@@ -579,7 +1105,21 @@
       "icon": "inv_polearm_2h_arakkoa_c_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "射击\n急速射击在6秒内额外造成25%的伤害，这些伤害视为奥术伤害。\n\n 生存\n猛禽一击在6秒内额外造成15%的伤害，这些伤害视为奥术伤害。",
+      "descriptionEn": "Survival\nAn additional 15% of Raptor Strike's damage is dealt as Arcane damage over 6 sec.\n\n Marksmanship\nAn additional 25% of Rapid Fire's damage is dealt as Arcane damage over 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94989,
@@ -594,7 +1134,21 @@
       "icon": "ability_racial_forceshield",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "消耗哨兵印记会使你获得一个护盾，能够吸收相当于你最大生命值10.0%的伤害。",
+      "descriptionEn": "Consuming Sentinel's Mark grants you an absorb shield equal to 10.0% of your maximum health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94990,
@@ -609,7 +1163,21 @@
       "icon": "ability_hunter_aimedshot",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "生存\n利矛之刃的伤害加成提高4%。\n\n狩魂一击的持续时间延长2秒。\n\n 射击\n弹无虚发的伤害加成提高10%。\n\n百发百中的持续时间延长2秒。",
+      "descriptionEn": "Marksmanship\nPrecise Shots damage bonus increased by 10%.\n\nTrueshot duration increased by 2 sec.\n\n Survival\nTip of the Spear damage bonus increased by 4%.\n\nTakedown duration increased by 2 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 99831,
@@ -624,7 +1192,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/42_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "借助哨兵猫头鹰与星月之力，为远程打击附带星界暴风与精确易伤印记。",
+      "descriptionEn": "Draws upon sentinel owls and celestial precision, empowering ranged attacks with Lunar Storms and vulnerability tracking.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 103947,
@@ -639,7 +1211,53 @@
       "icon": "ability_trueshot",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的爆击几率提高10%，爆击伤害提高20%，持续15秒。",
+      "descriptionEn": "Increases your critical strike chance by 10% and critical strike damage by 20% for 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "瞄准射击",
+          "icon": "",
+          "description": "冷却回复速度加快40%。"
+        },
+        {
+          "name": "急速射击",
+          "icon": "ability_hunter_efficiency",
+          "description": "冷却回复速度加快60%。"
+        },
+        {
+          "name": "施加瞭望印记。",
+          "icon": "",
+          "description": "]"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Aimed Shot",
+          "icon": "",
+          "description": "Cooldown recovers 40% faster."
+        },
+        {
+          "name": "Rapid Fire",
+          "icon": "ability_hunter_efficiency",
+          "description": "Cooldown recovers 60% faster."
+        },
+        {
+          "name": "Applies Spotter's Mark.",
+          "icon": "",
+          "description": "]"
+        }
+      ]
     },
     {
       "nodeId": 103956,
@@ -654,7 +1272,21 @@
       "icon": "ability_hunter_rapidkilling",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在6秒内进行一连串的射击，对区域内的敌人造成至多[([168% of Attack Power]) * 12]点物理伤害，只要乱射激活就能获得技巧射击的效果。",
+      "descriptionEn": "Rain a volley of arrows down over 6 sec, dealing up to [(168% of Attack Power) * 12] Physical damage to any enemy in the area, and gain the effects of Trick Shots for as long as Volley is active.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103957,
@@ -669,7 +1301,21 @@
       "icon": "inv_trickshot",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当多重射击击中3名或以上目标时，你的下一个瞄准射击或急速射击将会弹射并击中最多5名额外目标，对其造成相当于正常情况60%的伤害。",
+      "descriptionEn": "When Multi-Shot hits 3 or more targets, your next Aimed Shot or Rapid Fire will ricochet and hit up to 5 additional targets for 60% of normal damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103959,
@@ -684,7 +1330,21 @@
       "icon": "ability_theblackarrow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的自动射击伤害提高25%，其爆击几率提高15%。",
+      "descriptionEn": "The damage of your auto shot is increased by 25% and its critical strike chance is increased by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103960,
@@ -699,7 +1359,33 @@
       "icon": "spell_hunter_exoticmunitions_incendiary",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "乱射同时对命中的最多2个目标施加爆炸射击。",
+      "descriptionEn": "Volley now also applies Explosive Shot to up to 2 targets hit.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "爆炸射击",
+          "icon": "",
+          "description": "向目标射出一发爆炸射击，持续3秒。每1秒目标会因燃烧而受到([307% of Attack Power])点火焰伤害并引发爆炸，对8码内的所有敌人造成相当于该伤害50%的伤害。超过5个目标后伤害递减。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Explosive Shot",
+          "icon": "",
+          "description": "Fires an explosive shot at your target that lasts for 3 sec. Every 1 sec the target burns for (307% of Attack Power) Fire damage and explode, dealing 50% of the damage to all enemies within 8 yds. Deals reduced damage beyond 5 targets."
+        }
+      ]
     },
     {
       "nodeId": 103961,
@@ -714,7 +1400,33 @@
       "icon": "ability_hunter_efficiency",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在2秒内，朝你的目标射出7 / 二连发: 13 / 快速拔枪: 10支箭矢，总共造成[7 / 二连发: 12.6 / 快速拔枪: 10 * ([105% of Attack Power])%]点物理伤害。可在移动时使用。",
+      "descriptionEn": "Shoot a stream of 7 / Double Tap: 13 / Quick Draw: 10 shots at your target over 2 sec, dealing a total of [7 / Double Tap: 12.6 / Quick Draw: 10 * (105% of Attack Power)%] Physical damage. Usable while moving.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "2秒 施法时间",
+      "castTimeEn": "Channeled",
+      "cooldownCn": "16秒 冷却",
+      "cooldownEn": "16 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "每支箭矢可产生3 / 二连发",
+          "icon": "",
+          "description": ":"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Each shot generates 3 / Double Tap",
+          "icon": "",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 103962,
@@ -729,7 +1441,21 @@
       "icon": "ability_hunter_markedshot",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "急速射击使你下一次瞄准射击的伤害提高20%。",
+      "descriptionEn": "Rapid Fire increases the damage of your next Aimed Shot by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103964,
@@ -744,7 +1470,21 @@
       "icon": "achievement_guildperk_reinforce_rank2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的爆击伤害提高，数值等同于你的爆击几率的25%。",
+      "descriptionEn": "Gain critical strike damage equal to 25% of your critical strike chance.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103966,
@@ -759,7 +1499,21 @@
       "icon": "inv_archaeology_70_tauren_stonewoodbow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "百发百中现在还会使瞄准射击的施法时间缩短40%，并使其集中值消耗降低60%。",
+      "descriptionEn": "Trueshot now also reduces the cast time of Aimed Shot by 40% and reduces the Focus cost of Aimed Shot by 60%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103974,
@@ -774,7 +1528,21 @@
       "icon": "ability_hunter_mastermarksman",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的远程技能爆击时，会使目标流血，在6秒内造成额外10%伤害。",
+      "descriptionEn": "Your ranged ability critical strikes cause the target to bleed for an additional 10% of the damage dealt over 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103975,
@@ -789,7 +1557,21 @@
       "icon": "ability_rogue_pistolshot",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "急速射击额外发射3发箭弹。\n\n瞄准射击使移动速度提高50%，持续2秒，并且在持续期间迅速衰减。",
+      "descriptionEn": "Rapid Fire shoots 3 additional shots.\n\nAimed Shot grants 50% increased movement speed for 2 sec, decaying rapidly over its duration.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103977,
@@ -804,7 +1586,21 @@
       "icon": "ability_hunter_snipertraining",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "瞄准射击使你的下一次奥术射击或多重射击造成的伤害额外提高50%，集中值消耗降低60%。\n\n弹无虚发以100%的效果为夺命射击提供伤害加成。",
+      "descriptionEn": "Aimed Shot causes your next Arcane Shot or Multi-Shot to deal 50% more damage and cost 60% less Focus.\n\nPrecise Shots benefits Kill Shot's damage at 100% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103978,
@@ -819,7 +1615,21 @@
       "icon": "inv_rabbit2_darkmoon",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "爆炸射击造成的伤害提高8%，乱射造成的伤害提高12%。",
+      "descriptionEn": "Explosive Shot deals 8% increased damage and Volley deals 12% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103979,
@@ -834,7 +1644,21 @@
       "icon": "ability_hunter_focusfire",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当激涌射击重置急速射击的冷却时间时，你下一次急速射击的伤害提高20%。",
+      "descriptionEn": "When Surging Shots resets the cooldown of Rapid Fire, the damage of your next Rapid Fire is increased by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103982,
@@ -849,7 +1673,21 @@
       "icon": "8026692",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "强大的瞄准射击，造成([972% of Attack Power])点物理伤害。",
+      "descriptionEn": "A powerful aimed shot that deals (972% of Attack Power) Physical damage.",
+      "costCn": null,
+      "costEn": "35 Focus",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2.5秒 施法时间",
+      "castTimeEn": "2.5 sec cast",
+      "cooldownCn": "15秒 充能",
+      "cooldownEn": "15 sec recharge",
+      "chargesCn": "2 充能",
+      "chargesEn": "2 Charges",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103984,
@@ -864,7 +1702,21 @@
       "icon": "inv_111_hunter_ability_featheredfrenzy",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "百发百中使你的瞭望的雄鹰进入狂乱状态，立即为你的目标施加瞭望印记。\n\n在百发百中期间，你施加瞭望印记的几率提高100%。",
+      "descriptionEn": "Trueshot sends your Spotting Eagle into a frenzy, instantly applying Spotter's Mark to your target. \n\nDuring Trueshot, your chance to apply Spotter's Mark is increased by 100%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103985,
@@ -879,7 +1731,21 @@
       "icon": "ability_hunter_focusedaim",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你的技能对生命值在20%以下的目标造成伤害时，你的爆击几率提高1%，持续6秒，可叠加最多30次。",
+      "descriptionEn": "When your abilities damage a target below 20% health, you gain 1% increased critical strike chance for 6 sec, stacking up to 30 times.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103986,
@@ -894,7 +1760,43 @@
       "icon": "ability_druid_demoralizingroar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的瞭望的雄鹰获得坚韧专精，使你获得耐力训练和制空霸权。",
+      "descriptionEn": "Your Spotting Eagle gains the Tenacity specialization, granting you Endurance Training and Air Superiority.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "耐力训练",
+          "icon": "",
+          "description": "最大生命值提高5%。"
+        },
+        {
+          "name": "制空霸权",
+          "icon": "inv_111_hunter_ability_airsuperiority",
+          "description": "你的瞭望的雄鹰会警示你即将到来的危险，使你受到的所有伤害降低3%。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Endurance Training",
+          "icon": "",
+          "description": "You gain 5% increased maximum health."
+        },
+        {
+          "name": "Air Superiority",
+          "icon": "inv_111_hunter_ability_airsuperiority",
+          "description": "Your Spotting Eagle alerts you to oncoming danger, reducing all damage you take by 3%"
+        }
+      ]
     },
     {
       "nodeId": 104095,
@@ -909,7 +1811,21 @@
       "icon": "ability_hunter_efficiency_brown",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在开始引导和结束引导急速射击时，会释放一发效果为100%的奥术射击。\n\n如果你的目标生命值低于20%，则急速射击改为释放夺命射击。",
+      "descriptionEn": "When Rapid Fire begins and finishes channeling, it releases an Arcane Shot at 100% effectiveness.\n\nIf your target is below 20% health, Rapid Fire instead releases Kill Shots.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "引导",
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 104127,
@@ -924,7 +1840,33 @@
       "icon": "inv_111_hunter_ability_eyesinthesky",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "瞭望印记的伤害加成提高20%。\n\n此外，你的雄鹰学会了拾回。",
+      "descriptionEn": "The damage bonus of Spotter's Mark is increased by 20%.\n\nAdditionally, your Eagle learns how to Fetch.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "瞭望印记",
+          "icon": "",
+          "description": "使用受弹无虚发强化的技能对敌人造成伤害时，有30%的几率对主要目标施加瞭望印记，使你的下一次瞄准射击对该目标造成的伤害提高20%。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Spotter's Mark",
+          "icon": "",
+          "description": "Damaging an enemy with abilities empowered by Precise Shots has a 30% chance to apply Spotter's Mark to the primary target, causing your next Aimed Shot to deal 20% increased damage to the target."
+        }
+      ]
     },
     {
       "nodeId": 104130,
@@ -939,7 +1881,21 @@
       "icon": "ability_hunter_resistanceisfutile",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "急速射击造成35%的额外伤害，并且瞄准射击有15%的几率重置急速射击的冷却时间。",
+      "descriptionEn": "Rapid Fire deals 35% additional damage, and Aimed Shot has a 15% chance to reset the cooldown of Rapid Fire.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 107288,
@@ -954,7 +1910,21 @@
       "icon": "ships_ability_armorpiercingammo",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "技巧射击会使瞄准射击和急速射击向2个额外目标弹射。\n\n多头蛇守护的伤害加成提高15%。",
+      "descriptionEn": "Trick Shots now causes Aimed Shot and Rapid Fire to ricochet to 2 additional targets.\n\nAspect of the Hydra's damage bonus is increased by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 107289,
@@ -969,7 +1939,21 @@
       "icon": "ability_hunter_lockandload",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的远程自动攻击有10%几率触发荷枪实弹，使你的下一次瞄准射击变为瞬发且不消耗集中值。",
+      "descriptionEn": "Your ranged auto attacks have a 10% chance to trigger Lock and Load, causing your next Aimed Shot to cost no Focus and be instant.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103958,
@@ -984,7 +1968,21 @@
       "icon": "spell_hunter_exoticmunitions_frozen",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "百发百中现在会使你的爆击几率额外提高10%，并使你的爆击伤害额外提高20%。",
+      "descriptionEn": "Trueshot now increases your critical strike chance by an additional 10% and increases your critical strike damage by an additional 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94958,
@@ -999,7 +1997,21 @@
       "icon": "spell_fire_flare",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "射击\n乱射造成的伤害提高25%。\n\n 生存\n造成的火焰伤害提高5%。",
+      "descriptionEn": "Survival\nFire damage dealt increased by 5%.\n\n Marksmanship\nVolley damage increased by 25%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109805,
@@ -1014,7 +2026,21 @@
       "icon": "inv_misc_nightelfglaive",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的月光战轮每弹跳一次，造成的伤害就提高25%。",
+      "descriptionEn": "Your Moonlight Chakram deals 25% increased damage each time it bounces.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109807,
@@ -1029,7 +2055,43 @@
       "icon": "inv_ability_hunter_deathchakram",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "生存\n施放狩魂一击后的15秒内，狩魂一击被替换为月光战轮。",
+      "descriptionEn": "Survival\nFor 15 sec after casting Takedown, Takedown is replaced with Moonlight Chakram.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "月光战轮",
+          "icon": "",
+          "description": "向你当前的目标投掷一枚受月光祝福的战轮，迅速造成([284.4% of Attack Power])点物理伤害，共造成7次伤害。如果附近有其他目标，战轮则会在其中进行弹跳。"
+        },
+        {
+          "name": "月光战轮",
+          "icon": "inv_ability_hunter_deathchakram",
+          "description": "向你当前的目标投掷一枚受月光祝福的战轮，迅速造成([284.4% of Attack Power])点物理伤害，共造成7次伤害。如果附近有其他目标，战轮则会在其中进行弹跳。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Moonlight Chakram",
+          "icon": "",
+          "description": "Throw a chakram blessed with moonlight at your current target that will rapidly deal (284.4% of Attack Power) Physical damage 7 times, bouncing to other targets if they are nearby."
+        },
+        {
+          "name": "Moonlight Chakram",
+          "icon": "inv_ability_hunter_deathchakram",
+          "description": "Throw a chakram blessed with moonlight at your current target that will rapidly deal (284.4% of Attack Power) Physical damage 7 times, bouncing to other targets if they are nearby."
+        }
+      ]
     },
     {
       "nodeId": 110028,
@@ -1044,7 +2106,21 @@
       "icon": "ability_ambush",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "射击\n投掷月光战轮会使你获得荷枪实弹。\n\n 生存\n投掷月光战轮会使野火炸弹的冷却时间缩短10秒。",
+      "descriptionEn": "Marksmanship\nThrowing your Moonlight Chakram grants you Lock and Load.\n\n Survival\nThrowing your Moonlight Chakram reduces the cooldown of Wildfire Bomb by 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110430,
@@ -1059,7 +2135,21 @@
       "icon": "inv_spear_07",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "瞭望印记现在也会使你的下一次急速射击对该目标造成的伤害提高20%。",
+      "descriptionEn": "Spotter's Mark now also increases the damage of your next Rapid Fire against the target by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110430,
@@ -1074,7 +2164,21 @@
       "icon": "ability_hunter_wildquiver",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "你的技能造成的爆击伤害提高5%。\n\n你的远程技能造成的伤害提高3%。",
+      "descriptionEn": "The critical damage of your abilities is increased by 5%.\n\nThe damage of your ranged abilities is increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110430,
@@ -1089,7 +2193,21 @@
       "icon": "inv12_apextalent_hunter_deadlyinsight",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "急速射击的伤害提高25%。\n\n急速射击的每发子弹使瞄准射击的冷却时间缩短0.50秒。",
+      "descriptionEn": "Rapid Fire damage increased by 25%.\n\nEach shot fired from Rapid Fire reduces the cooldown of Aimed Shot by 0.50 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110572,
@@ -1104,7 +2222,21 @@
       "icon": "inv_eng_crowsnestscope",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "急速射击现在获得弹无虚发效果。",
+      "descriptionEn": "Rapid Fire grants Precise Shots.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110574,
@@ -1119,7 +2251,21 @@
       "icon": "ability_hunter_explosiveshot",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "爆炸射击的持续时间延长1.0秒。",
+      "descriptionEn": "Explosive Shot lasts 1.0 sec longer.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110575,
@@ -1134,7 +2280,21 @@
       "icon": "ability_hunter_explosiveshot",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "向目标射出一发爆炸射击，持续3秒。每1秒目标会因燃烧而受到([307% of Attack Power])点火焰伤害并引发爆炸，对8码内的所有敌人造成相当于该伤害50%的伤害。超过5个目标后伤害递减。",
+      "descriptionEn": "Fires an explosive shot at your target that lasts for 3 sec. Every 1 sec the target burns for (307% of Attack Power) Fire damage and explode, dealing 50% of the damage to all enemies within 8 yds. Deals reduced damage beyond 5 targets.",
+      "costCn": null,
+      "costEn": "20 Focus",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110691,
@@ -1149,7 +2309,21 @@
       "icon": "ability_hunter_silenthunter",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "瞄准射击造成的伤害提高5%。\n\n急速射击造成的伤害提高10%。",
+      "descriptionEn": "Aimed Shot deals 5% increased damage.\n\nRapid Fire deals 10% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110573,
@@ -1164,7 +2338,21 @@
       "icon": "spell_sandexplosion",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "爆炸射击现在可以在施放后的3.0秒内再次使用。爆炸射击会纳入目标身上此前爆炸射击尚未造成的剩余伤害。",
+      "descriptionEn": "Explosive Shot can now be used a second time if cast within 3.0 sec. Explosive Shot will incorporate any remaining damage from previous Explosive Shots on your target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     }
   ]
 }

@@ -39,7 +39,21 @@
       "icon": "inv_ability_paladin_divinetoll",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "惩戒\n立即对30码范围内最多5个目标施放审判。\n\n圣洁鸣钟的审判造成的伤害提高50%。\n\n 神圣,  防护\n立即对30码范围内最多5个目标施放神圣震击、复仇者之盾或审判。",
+      "descriptionEn": "Holy,  Protection\nInstantly cast Holy Shock, Avenger's Shield, or Judgment on up to 5 targets within 30 yds.\n\n Retribution\nInstantly cast Judgment on up to 5 targets within 30 yds.\n\nDivine Toll's Judgment deals 50% increased damage.",
+      "costCn": "3% 法力值",
+      "costEn": "3% of base mana",
+      "rangeCn": "30 码范围",
+      "rangeEn": "30 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81508,
@@ -54,7 +68,21 @@
       "icon": "spell_holy_purify",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "清洁术还会移除所有疾病和中毒效果。",
+      "descriptionEn": "Cleanse additionally removes all Disease and Poison effects.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81543,
@@ -69,7 +97,21 @@
       "icon": "ability_paladin_righteousvengeance",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的奉献的影响范围扩大15%，且会使范围内的敌人移动速度降低50%。",
+      "descriptionEn": "Your Consecration is 15% larger, and enemies within it have 50% reduced movement speed.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81597,
@@ -84,7 +126,21 @@
       "icon": "spell_holy_layonhands",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗一个友方目标，数值相当于你的最大生命值的100%。\n\n无法对有自律效果的目标使用。造成自律效果，持续30秒。",
+      "descriptionEn": "Heals a friendly target for an amount equal to 100% your maximum health.\n\nCannot be used on a target with Forbearance. Causes Forbearance for 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "10分钟 冷却",
+      "cooldownEn": "10 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81598,
@@ -99,7 +155,21 @@
       "icon": "ability_paladin_blindinglight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "向四面八方发出耀眼的光芒，使10码范围内的敌人暂时失明，并使其迷惑地游荡，持续6秒。伤害可能取消该效果。",
+      "descriptionEn": "Emits dazzling light in all directions, blinding enemies within 10 yds, causing them to wander disoriented for 6 sec. Damage may cancel the effect.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81600,
@@ -114,7 +184,53 @@
       "icon": "spell_holy_devotionaura",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "学习专注光环、虔诚光环和十字军光环：",
+      "descriptionEn": "Learn Concentration Aura, Devotion Aura, and Crusader Aura:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "专注光环",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "虔诚光环",
+          "icon": "spell_holy_devotionaura",
+          "description": ":"
+        },
+        {
+          "name": "十字军光环",
+          "icon": "spell_holy_crusaderaura",
+          "description": ":"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Concentration Aura",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Devotion Aura",
+          "icon": "spell_holy_devotionaura",
+          "description": ":"
+        },
+        {
+          "name": "Crusader Aura",
+          "icon": "spell_holy_crusaderaura",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 81605,
@@ -129,7 +245,21 @@
       "icon": "ability_paladin_divinesteed",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣马驹现在可使用2次。",
+      "descriptionEn": "Divine Steed now has 2 charges.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81609,
@@ -144,7 +274,21 @@
       "icon": "ability_paladin_touchedbylight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "护甲和爆击几率提高4%。",
+      "descriptionEn": "Armor and critical strike chance increased by 4%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81613,
@@ -159,7 +303,21 @@
       "icon": "spell_holy_aspiration",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在消耗20层神圣能量后，你的下一个荣耀圣令在附近的一名盟友身上产生30%的效果。",
+      "descriptionEn": "After you spend 20 Holy Power, your next Word of Glory echoes onto a nearby ally at 30% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81614,
@@ -174,7 +332,21 @@
       "icon": "spell_holy_sealofsacrifice",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "祝福一名小队或团队成员，使其所受伤害降低30%，降低伤害的100%由你来承担。\n\n持续12秒，或直到转移的伤害使你的生命值降至20%以下为止。",
+      "descriptionEn": "Blesses a party or raid member, reducing their damage taken by 30%, but you suffer 100% of damage prevented.\n\nLast 12 sec, or until transferred damage would cause you to fall below 20% health.",
+      "costCn": "1.4% 法力值",
+      "costEn": "1.4% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81615,
@@ -189,7 +361,21 @@
       "icon": "spell_holy_holyguidance",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的圣盾术、 [复仇之盾: 复仇之盾、] [炽热防御者 / 圣佑术]和圣疗术的冷却时间缩短30%。",
+      "descriptionEn": "Reduces the cooldown of your Divine Shield, [Shield of Vengeance: Shield of Vengeance] [Ardent Defender / Divine Protection], and Lay on Hands by 30%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81616,
@@ -204,7 +390,21 @@
       "icon": "spell_holy_sealofprotection",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣,  惩戒\n祝福一名小队或团队成员，使其免疫所有物理伤害和有害效果，持续10秒。\n\n无法对有自律效果的目标使用。造成自律，持续30秒。\n\n 防护\n祝福一名小队或团队成员，使其免疫所有物理伤害和有害效果，持续10秒。\n\n无法对有自律效果的目标使用。造成自律，持续30秒。\n\n与破咒祝福共享冷却时间。",
+      "descriptionEn": "Holy,  Retribution\nBlesses a party or raid member, granting immunity to Physical damage and harmful effects for 10 sec.\n\nCannot be used on a target with Forbearance. Causes Forbearance for 30 sec.\n\n Protection\nBlesses a party or raid member, granting immunity to Physical damage and harmful effects for 10 sec.\n\nCannot be used on a target with Forbearance. Causes Forbearance for 30 sec.\n\nShares a cooldown with Blessing of Spellwarding.",
+      "costCn": "3% 法力值",
+      "costEn": "3% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "5分钟 冷却",
+      "cooldownEn": "5 min cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81621,
@@ -219,7 +419,21 @@
       "icon": "spell_holy_sealofwrath",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "防护,  惩戒\n精通提高2%，力量提高2%。\n\n 神圣\n精通提高2%，智力提高2%。",
+      "descriptionEn": "Holy\nMastery increased by 2% and Intellect increased by 2%.\n\n Protection,  Retribution\nMastery increased by 2% and Strength increased by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81630,
@@ -234,7 +448,21 @@
       "icon": "ability_paladin_speedoflight",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "加速提高2%，受到的范围攻击伤害降低2%。",
+      "descriptionEn": "Speed increased by 2% and damage taken from area of effect attacks reduced by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81632,
@@ -249,7 +477,21 @@
       "icon": "ability_paladin_divinesteed",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "跃上战马，移动速度提高100%，持续3秒。可以在室内或战斗中使用。",
+      "descriptionEn": "Leap atop your Charger for 3 sec, increasing movement speed by 100%. Usable while indoors or in combat.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 92220,
@@ -264,7 +506,21 @@
       "icon": "spell_holy_righteousfury",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "审判将目标判定为失格者，抵挡其接下来造成的[(法术强度 * 483 / 100) * (1 + 全能)]点伤害。",
+      "descriptionEn": "Judgment deems the target unworthy, preventing the next [(Spell Power * 483 / 100) * (1 + Versatility)] damage dealt by the target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 93009,
@@ -279,7 +535,21 @@
       "icon": "inv_chest_plate_raidpaladin_s_01",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣,  惩戒\n护甲提高10%，耐力提高5%，受到的范围攻击伤害降低3%。\n\n 防护\n护甲提高5%，耐力提高8%，受到的范围攻击伤害降低3%。",
+      "descriptionEn": "Holy,  Retribution\nArmor increased by 10%, Stamina increased by 5% and damage taken from area of effect attacks reduced by 3%.\n\n Protection\nArmor increased by 5%, Stamina increased by 8% and damage taken from area of effect attacks reduced by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 93180,
@@ -294,7 +564,21 @@
       "icon": "spell_holy_pureofheart",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "神圣\n圣洁鸣钟、神圣军备和神圣棱镜的冷却时间缩短15秒。\n\n 防护\n圣洁鸣钟的冷却时间缩短15秒。\n\n 惩戒\n圣洁鸣钟的冷却时间缩短30秒。",
+      "descriptionEn": "Protection\nDivine Toll's cooldown is reduced by 15 sec.\n\n Retribution\nDivine Toll's cooldown is reduced by 30 sec.\n\n Holy\nDivine Toll's, Holy Armament's, and Holy Prism's cooldown is reduced by 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 93520,
@@ -309,7 +593,21 @@
       "icon": "achievement_dungeon_heroic_gloryoftheraider",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "自由祝福会使目标的移动速度提高30%。 [破咒祝福 / 保护祝福]和牺牲祝福会使目标受到的伤害降低15%。这些效果在祝福结束后持续8秒。",
+      "descriptionEn": "Blessing of Freedom increases the target's movement speed by 30%. [Blessing of Spellwarding / Blessing of Protection] and Blessing of Sacrifice reduce the target's damage taken by 15%. These effects linger for 8 sec after the Blessing ends.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103852,
@@ -324,7 +622,21 @@
       "icon": "spell_holy_circleofrenewal",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "[谴责 / 正义盾击]会为你和附近最多2名盟友恢复([125% of Attack Power])点生命值。",
+      "descriptionEn": "[Denounce / Shield of the Righteous] heals you and up to 2 nearby allies for (125% of Attack Power).",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 93191,
@@ -339,7 +651,21 @@
       "icon": "spell_holy_divinepurpose",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "消耗神圣能量的技能有15%的几率会使你的下一个消耗神圣能量的技能不消耗资源，并且伤害和治疗效果提高15%。",
+      "descriptionEn": "Holy Power spending abilities have a 15% chance to make your next Holy Power spending ability free and deal 15% increased damage and healing.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81631,
@@ -354,7 +680,21 @@
       "icon": "spell_holy_sealofvalor",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "祝福一名小队或团队成员，使其免疫任何移动限制效果， [无拘自由: 并使其移动速度提高30%，]持续8秒。",
+      "descriptionEn": "Blesses a party or raid member, granting immunity to movement impairing effects [Unbound Freedom: and increasing movement speed by 30%]for 8 sec.",
+      "costCn": "1.4% 法力值",
+      "costEn": "1.4% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "25秒 冷却",
+      "cooldownEn": "25 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103858,
@@ -369,7 +709,21 @@
       "icon": "spell_holy_blindingheal",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "防护,  惩戒\n清毒术成功移除盟友身上的效果后，会为其恢复[([540% of Spell Power])]点生命值。\n\n 神圣\n清洁术成功移除盟友身上的效果后，会为其恢复[([540% of Spell Power])]点生命值。",
+      "descriptionEn": "Protection,  Retribution\nAfter Cleanse Toxins successfully removes an effect from an ally, they are healed for [(540% of Spell Power)].\n\n Holy\nAfter Cleanse successfully removes an effect from an ally, they are healed for [(540% of Spell Power)].",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103863,
@@ -384,7 +738,21 @@
       "icon": "achievement_zone_newshadowmoonvalley",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣,  惩戒\n受到的伤害最多降低10%，此效果随生命值降低而提高。\n\n 防护\n受到的伤害最多降低20%，此效果随生命值降低而提高。",
+      "descriptionEn": "Holy,  Retribution\nDamage taken reduced by up to 10%, increasing as your health decreases.\n\n Protection\nDamage taken reduced by up to 20%, increasing as your health decreases.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103864,
@@ -399,7 +767,21 @@
       "icon": "spell_holy_divineprotection",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣,  惩戒\n圣佑术在持续期间内使你受到的治疗效果提高15%。\n\n 防护\n炽热防御者在持续期间内使你受到的治疗效果提高15%。",
+      "descriptionEn": "Protection\nArdent Defender increases healing taken by 15% for its duration.\n\n Holy,  Retribution\nDivine Protection increases healing taken by 15% for its duration.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103866,
@@ -414,7 +796,21 @@
       "icon": "inv_relics_libramoftruth",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你对盟友施放保护祝福或牺牲祝福时，同时使其获得([2000% of Spell Power])点治疗。",
+      "descriptionEn": "Allies are healed for (2000% of Spell Power) when you cast Blessing of Protection or Blessing of Sacrifice on them.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103867,
@@ -429,7 +825,21 @@
       "icon": "inv_helm_plate_raidpaladin_r_01mythic",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣马驹会使4个附近盟友的主要移动技能冷却时间减少3.0秒。\n\n你的移动速度提高3%。",
+      "descriptionEn": "Divine Steed reduces the cooldown of 4 nearby ally's major movement ability by 3.0 sec.\n\nYour movement speed is increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103856,
@@ -444,7 +854,21 @@
       "icon": "ability_paladin_gaurdedbythelight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "神圣\n圣光闪现和圣光术对你的盟友的效果提高30%，并有40%的治疗量也会治疗你。\n\n 防护,  惩戒\n圣光闪现对你的盟友的效果提高30%，并有40%的治疗量也会治疗你。",
+      "descriptionEn": "Holy\nFlash of Light and Holy Light are 30% more effective on your allies and 40% of the healing done also heals you.\n\n Protection,  Retribution\nFlash of Light is 30% more effective on your allies and 40% of the healing done also heals you.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81510,
@@ -459,7 +883,43 @@
       "icon": "inv12_ability_paladin_hammerofwrath",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣,  防护\n在复仇之怒期间，审判被强化为愤怒之锤。",
+      "descriptionEn": "Holy,  Protection\nDuring Avenging Wrath, Judgment is empowered into Hammer of Wrath.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "愤怒之锤",
+          "icon": "",
+          "description": "扔出一把神圣之锤，对一名敌人造成[([123.75% of Attack Power]) * 1]点 [圣光之剑: 神圣打击 / 神圣]伤害。\n\n产生1点神圣能量。"
+        },
+        {
+          "name": "愤怒之锤",
+          "icon": "inv12_ability_paladin_hammerofwrath",
+          "description": "掷出一把神圣之锤击打一名敌人，造成[([215.807% of Attack Power]) * 1]点神圣伤害。\n\n产生1点神圣能量。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Hammer of Wrath",
+          "icon": "",
+          "description": "Hurls a divine hammer that strikes an enemy for [(123.75% of Attack Power) * 1] [Blades of Light: Holystrike / Holy] damage.\n\nGenerates 1 Holy Power."
+        },
+        {
+          "name": "Hammer of Wrath",
+          "icon": "inv12_ability_paladin_hammerofwrath",
+          "description": "Hurls a divine hammer that strikes an enemy for [(215.807% of Attack Power) * 1] Holy damage.\n\nGenerates 1 Holy Power."
+        }
+      ]
     },
     {
       "nodeId": 109998,
@@ -474,7 +934,21 @@
       "icon": "paladin_holy",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "击杀可以提供经验值或荣誉的敌人会使你爆发出神圣能量，治疗最多5名附近的盟友和你自己，总共恢复([625% of Attack Power])点生命值，由所有人平均分摊。",
+      "descriptionEn": "Killing an enemy that yields experience or honor causes you to explode with holy energy, healing up to 5 nearby allies and yourself for (625% of Attack Power), split evenly among them.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109999,
@@ -489,7 +963,21 @@
       "icon": "spell_holy_fistofjustice",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "制裁之锤的冷却时间缩短15秒。",
+      "descriptionEn": "Hammer of Justice's cooldown is reduced by 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110012,
@@ -504,7 +992,21 @@
       "icon": "ability_crown_of_the_heavens_icon",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你的生命值降低到25%以下时，立即对自己施放一次免费的荣耀圣令，效果为原来的60%。\n\n每60秒最多触发一次。",
+      "descriptionEn": "When your health is brought below 25%, you instantly cast a free Word of Glory at 60% effectiveness on yourself.\n\nCannot occur more than once every 60 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110092,
@@ -519,7 +1021,21 @@
       "icon": "inv12_ability_paladin_sentinel",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "有护盾时，你有15%的几率格挡来袭法术，使其伤害降低20%。\n\n未有护盾时，你有15%的几率招架来袭近战攻击，使其伤害降低20%。",
+      "descriptionEn": "While holding a shield, you have a 15% chance to block incoming spells, reducing their damage by 20%. \n\nWithout a shield, you have a 15% chance to parry incoming melee attacks, reducing their damage by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81554,
@@ -534,7 +1050,21 @@
       "icon": "ability_paladin_beaconofinsight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "对你的目标和30码范围内的4名受伤的盟友施放一个圣光道标，持续9秒。\n\n所有受到影响的盟友都会同时受到你对其他目标造成的治疗的10%。",
+      "descriptionEn": "Apply a Beacon of Light to your target and 4 injured allies within 30 yds for 9 sec.\n\nAll affected allies will be healed for 10% of the amount of your other healing done.",
+      "costCn": "4.5% 法力值",
+      "costEn": "4.5% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "15秒 冷却",
+      "cooldownEn": "15 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81555,
@@ -549,7 +1079,21 @@
       "icon": "spell_holy_searinglight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在目标身上引发圣光爆发，对一名敌人造成([216% of Spell Power])点神圣伤害，或为一个盟友恢复([1117% of Spell Power])点生命值。 [神圣震击: 额外有10%的几率造成爆击。]",
+      "descriptionEn": "Triggers a burst of Light on the target, dealing (216% of Spell Power) Holy damage to an enemy, or (1117% of Spell Power) healing to an ally. [Holy Shock: Has an additional 10% critical strike chance]",
+      "costCn": "2% 法力值",
+      "costEn": "2% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "6秒 冷却",
+      "cooldownEn": "6 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81557,
@@ -564,7 +1108,21 @@
       "icon": "ability_priest_flashoflight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "消耗圣光灌注会使神圣震击冷却时间缩短1.0秒。",
+      "descriptionEn": "Consuming Infusion of Light reduces the cooldown of Holy Shock by 1.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81558,
@@ -579,7 +1137,21 @@
       "icon": "ability_paladin_longarmofthelaw",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "根据目标损失的生命值，神圣震击最多返还消耗法力值的10%，并额外造成最多50%的治疗或伤害。",
+      "descriptionEn": "Holy Shock refunds up to 10% of its Mana cost and deals up to 50% more healing or damage, based on the target's missing health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81560,
@@ -594,7 +1166,21 @@
       "icon": "ability_paladin_sheathoflight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "殉道者之光的生命值阈值降低至70%，并且殉道者之光每激活5秒，都会使神圣震击的治疗效果额外提高5%，最多叠加3次。\n\n生命值低于70%时，圣光会紧急治疗你，每1秒恢复([20% of Spell Power])点生命值。",
+      "descriptionEn": "Light of the Martyr's health threshold is reduced to 70% and increases Holy Shock's healing by an additional 5% for every 5 sec Light of the Martyr is active, stacking up to 3 times.\n\nWhile below 70% health, the light urgently heals you for (20% of Spell Power) every 1 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81561,
@@ -609,7 +1195,21 @@
       "icon": "ability_paladin_lightofthemartyr",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "生命值高于80%时，神圣震击的治疗效果提高20%，但会使你受到吸收治疗效果的影响，数值相当于该次治疗量的30%，吸收治疗效果存在期间你无法获得圣光道标的治疗。",
+      "descriptionEn": "While above 80% health, Holy Shock's healing is increased 20%, but creates a heal absorb on you for 30% of the amount healed that prevents Beacon of Light from healing you until it has dissipated.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81562,
@@ -624,7 +1224,21 @@
       "icon": "spell_holy_holynova",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "[谴责 / 正义盾击]对击中的第一个目标造成([256% of Spell Power])点伤害。\n\n如习得神圣意志， [谴责 / 正义盾击]有35%的几率激活神圣意志。",
+      "descriptionEn": "[Denounce / Shield of the Righteous] deals (256% of Spell Power) damage to its first target struck.\n\n [Denounce / Shield of the Righteous] now has a 35% chance to activate Divine Purpose if talented.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81564,
@@ -639,7 +1253,21 @@
       "icon": "ability_paladin_blindinglight2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣震击、圣光术与圣光闪现的爆击治疗效果提高20%。",
+      "descriptionEn": "Holy Shock, Holy Light, and Flash of Light critical healing increased by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81565,
@@ -654,7 +1282,21 @@
       "icon": "spell_paladin_lightofdawn",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "释放神圣能量，为周围40码范围内最多5个受伤的盟友恢复([506.736% of Spell Power])点生命值。",
+      "descriptionEn": "Unleashes Holy energy, healing up to 5 injured allies within a 40 yd radius around you for (506.736% of Spell Power).",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81567,
@@ -669,7 +1311,53 @@
       "icon": "spell_holy_auramastery",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "强化你选择的光环，持续8秒。",
+      "descriptionEn": "Empowers your chosen aura for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3分钟 冷却",
+      "cooldownEn": "3 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "虔诚光环",
+          "icon": "",
+          "description": "：伤害减免提高至12%。"
+        },
+        {
+          "name": "十字军光环",
+          "icon": "",
+          "description": "：骑乘速度加成提高至60%。"
+        },
+        {
+          "name": "专注光环",
+          "icon": "",
+          "description": "：受影响的盟友免疫打断和沉默效果。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Devotion Aura",
+          "icon": "",
+          "description": ": Damage reduction increased to 12%."
+        },
+        {
+          "name": "Crusader Aura",
+          "icon": "",
+          "description": ": Mount speed bonus increased to 60%."
+        },
+        {
+          "name": "Concentration Aura",
+          "icon": "",
+          "description": ": Affected allies immune to interrupts and silences."
+        }
+      ]
     },
     {
       "nodeId": 81568,
@@ -684,7 +1372,21 @@
       "icon": "spell_paladin_clarityofpurpose",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "精通：光明使者现在将按照目标距离你或你的圣光道标中较近的一方的距离提高治疗量。",
+      "descriptionEn": "Mastery: Lightbringer now increases your healing based on the target's proximity to either you or your Beacon of Light, whichever is closer.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81569,
@@ -699,7 +1401,43 @@
       "icon": "ability_paladin_infusionoflight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的神圣震击有10%几率强化你的下一个法术：",
+      "descriptionEn": "Your Holy Shocks have a 10% chance to empower your next spell cast:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "圣光闪现",
+          "icon": "",
+          "description": "：治疗效果提高200%并变为瞬发。"
+        },
+        {
+          "name": "审判",
+          "icon": "",
+          "description": "：强效审判抵挡目标的伤害提高150%并额外产生1层神圣能量。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Flash of Light",
+          "icon": "",
+          "description": ": healing increased by 200% and becomes instant cast."
+        },
+        {
+          "name": "Judgment",
+          "icon": "",
+          "description": ": Greater Judgment prevents an additional 150% damage dealt by the target and generates 1 additional Holy Power."
+        }
+      ]
     },
     {
       "nodeId": 81570,
@@ -714,7 +1452,21 @@
       "icon": "spell_holy_heal",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "圣光术的法力值消耗降低10%，施法时间缩短15%。",
+      "descriptionEn": "The mana cost of Holy Light is reduced by 10% and its cast time is reduced by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81571,
@@ -729,7 +1481,21 @@
       "icon": "spell_holy_flashheal",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的圣光闪现会对受你圣光道标影响的目标造成50%的额外治疗。",
+      "descriptionEn": "Your Flash of Light heals for an additional 50% when cast on a target affected by your Beacon of Light.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81578,
@@ -744,7 +1510,21 @@
       "icon": "ability_paladin_infusionoflight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在圣光灌注的影响下，圣光闪现的治疗量提高20%，并且审判将返还0.5%的最大法力值。",
+      "descriptionEn": "While empowered by Infusion of Light, Flash of Light heals for an additional 20% and Judgment refunds 0.5% of your maximum mana.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81579,
@@ -759,7 +1539,43 @@
       "icon": "inv_helm_plate_raidpaladindragon_d_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "信仰道标：：\n\n美德道标：：",
+      "descriptionEn": "Beacon of Faith：:\n\nBeacon of Virtue：:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "信仰道标",
+          "icon": "",
+          "description": "："
+        },
+        {
+          "name": "美德道标",
+          "icon": "ability_paladin_beaconofinsight",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Beacon of Faith",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Beacon of Virtue",
+          "icon": "ability_paladin_beaconofinsight",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 81580,
@@ -774,7 +1590,21 @@
       "icon": "ability_paladin_beaconoflight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "圣光道标可额外传输5%的治疗量。",
+      "descriptionEn": "Beacon of Light transfers an additional 5% of the amount healed.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81584,
@@ -789,7 +1619,21 @@
       "icon": "spell_holy_avenginewrath",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣,  防护\n召唤圣光之力，成为惩戒的化身，[审判额外产生1层神圣能量，][每花费一层神圣能量，你就会使圣光爆发，对附近的敌人造成([13.5% of Attack Power])点伤害，]你的伤害、治疗效果和爆击几率提高20%，持续20秒 / 神圣愤怒: 24秒 / 正义召唤: 15秒。\n\n 惩戒\n召唤圣光之力，成为惩戒的化身，[审判额外产生4层神圣能量，][每花费一层神圣能量，你就会使圣光爆发，对附近的敌人造成([13.5% of Attack Power])点伤害，]你的伤害、治疗效果和爆击几率提高15%，持续20秒。",
+      "descriptionEn": "Holy,  Protection\nCall upon the Light to become an avatar of retribution, [causing Judgment to generate 1 additional Holy Power,][each Holy Power spent causing you to explode with Holy light for (13.5% of Attack Power) damage to nearby enemies,]increasing your damage, healing, and critical strike chance by 20% for 20 sec / Divine Wrath: 24 sec / Call of the Righteous: 15 sec.\n\n Retribution\nCall upon the Light to become an avatar of retribution, [causing Judgment to generate 4 additional Holy Power,][each Holy Power spent causing you to explode with Holy light for (13.5% of Attack Power) damage to nearby enemies,]increasing your damage, healing, and critical strike chance by 15% for 20 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81585,
@@ -804,7 +1648,21 @@
       "icon": "spell_holy_healingaura",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣震击和审判的爆击几率提高8%。",
+      "descriptionEn": "Holy Shock and Judgment have a 8% increased critical strike chance.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81590,
@@ -819,7 +1677,21 @@
       "icon": "spell_holy_spiritualguidence",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "荣耀圣令和黎明之光根据目标当前的生命值获得最多30%的额外爆击几率。生命值越低的目标越有可能被爆击。",
+      "descriptionEn": "Word of Glory and Light of Dawn gain up to 30% additional chance to critically strike, based on their target's current health. Lower health targets are more likely to be critically struck.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81591,
@@ -834,7 +1706,21 @@
       "icon": "spell_lfieblood",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "圣光灌注的使用次数增加1次。",
+      "descriptionEn": "Infusion of Light has 1 additional charge.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81592,
@@ -849,7 +1735,21 @@
       "icon": "ability_paladin_judgementsofthejust",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣 (神圣圣骑士)\n复仇之怒和复仇十字军的持续时间延长50%。\n\n\n [复仇之怒和复仇十字军的持续时间延长25%。]",
+      "descriptionEn": "Holy (Holy Paladin)\nAvenging Wrath and Avenging Crusader have 50% increased duration.\n\n\n [Avenging Wrath and Avenging Crusader have 25% increased duration]",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81594,
@@ -864,7 +1764,21 @@
       "icon": "spell_holy_blessedresillience",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "复仇之怒未激活时，你获得5%精通。\n\n复仇之怒激活时，你获得30%移动速度。",
+      "descriptionEn": "While Avenging Wrath is not active, you gain 5% Mastery.\n\nWhile Avenging Wrath is active, you gain 30% movement speed.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 93521,
@@ -879,7 +1793,21 @@
       "icon": "ability_paladin_holyavenger",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣震击有12%的几率在施放时返还一层充能，并且其治疗效果提高10%。",
+      "descriptionEn": "Holy Shock has a 12% chance to refund a charge when cast and its healing is increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 93522,
@@ -894,7 +1822,21 @@
       "icon": "spell_holy_absolution",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到圣光道标影响的盟友受到的伤害降低5%。",
+      "descriptionEn": "Allies with Beacon of Light receive 5% less damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 93523,
@@ -909,7 +1851,21 @@
       "icon": "ability_priest_holybolts01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "审判有100%的几率在目标位置施放奉献。\n\n该效果无视奉献的数量限制。",
+      "descriptionEn": "Judgment has a 100% chance to cast Consecration at the target's location.\n\nThe limit on Consecration does not apply to this effect.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 93927,
@@ -924,7 +1880,21 @@
       "icon": "paladin_holy",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣震击现有2次充能，对敌人施放时返还50%的法力值消耗。",
+      "descriptionEn": "Holy Shock now has 2 charges and it refunds 50% of its mana cost when cast on an enemy.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95069,
@@ -939,7 +1909,43 @@
       "icon": "spell_holy_rune",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "惩戒\n施放灰烬觉醒后获得神圣意志。",
+      "descriptionEn": "Holy\nAfter you cast Holy Prism or Divine Toll, gain Divine Purpose.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "神圣意志",
+          "icon": "",
+          "description": "你的下一个消耗神圣能量的技能变为免费且造成的伤害和治疗提高10%。"
+        },
+        {
+          "name": "神圣意志",
+          "icon": "spell_holy_divinepurpose",
+          "description": "你的下一个消耗神圣能量的技能变为免费且造成的伤害和治疗提高15%。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Divine Purpose",
+          "icon": "",
+          "description": "Your next Holy Power spending ability is free and deals 15% increased damage and healing."
+        },
+        {
+          "name": "Divine Purpose",
+          "icon": "spell_holy_divinepurpose",
+          "description": "Your next Holy Power spending ability is free and deals 10% increased damage and healing."
+        }
+      ]
     },
     {
       "nodeId": 95071,
@@ -954,7 +1960,21 @@
       "icon": "inv_ability_holyfire_orb",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "惩戒\n你的持续性伤害和治疗效果有几率使你的下一个审判的伤害提高50%。\n\n 神圣\n神圣震击的治疗效果和伤害提高15%。",
+      "descriptionEn": "Holy\nThe healing and damage of Holy Shock is increased by 15%.\n\n Retribution\nYour damage and healing over time effects have a chance to increase the damage of your next Judgment by 50%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95072,
@@ -969,7 +1989,21 @@
       "icon": "spell_priest_burningwill",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "惩戒\n愤怒之锤和神圣风暴的爆击使目标燃烧，在4秒内额外造成([48% of Spell Power])点光辉伤害。\n\n 神圣\n神圣震击和黎明之光的爆击在4秒内为目标额外恢复([54% of Spell Power])点生命值。",
+      "descriptionEn": "Retribution\nHammer of Wrath and Divine Storm critical strikes cause the target to burn for an additional (48% of Spell Power) Radiant damage over 4 sec.\n\n Holy\nHoly Shock and Light of Dawn critical strikes cause the target to be healed for an additional (54% of Spell Power) over 4 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95080,
@@ -984,7 +2018,21 @@
       "icon": "inv_qirajidol_sun",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "惩戒\n愤怒之锤和神圣风暴的爆击几率提高10%。\n\n 神圣\n神圣震击和黎明之光的爆击几率提高5%。",
+      "descriptionEn": "Retribution\nCritical Strike chance of Hammer of Wrath and Divine Storm increased by 10%.\n\n Holy\nCritical Strike chance of Holy Shock and Light of Dawn increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95086,
@@ -999,7 +2047,21 @@
       "icon": "ability_priest_halo",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "惩戒\n神圣风暴和愤怒之锤有15%的几率再次施放，产生30%的效果。\n\n 神圣\n黎明之光和神圣震击有15%的几率再次施放，产生30%的效果。",
+      "descriptionEn": "Retribution\nDivine Storm and Hammer of Wrath have a 15% chance to cast again at 30% effectiveness.\n\n Holy\nLight of Dawn and Holy Shock have a 15% chance to cast again at 30% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95094,
@@ -1014,7 +2076,21 @@
       "icon": "ability_paladin_sheathoflight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣\n在复仇之怒期间，圣光灌注的触发频率提高100%。\n\n 惩戒\n施放复仇之怒后，你有100%的几率获得安瑟的祝福，并产生2点神圣能量。\n\n复仇之怒期间，愤怒之锤会以100%的效果施放公正之剑。",
+      "descriptionEn": "Holy\nInfusion of Light occurs 100% more often during Avenging Wrath.\n\n Retribution\nYou have a 100% chance to gain Blessing of An'she and generate 2 Holy Power after casting Avenging Wrath.\n\nDuring Avenging Wrath, Hammer of Wrath casts Blade of Justice at 100% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95095,
@@ -1029,7 +2105,21 @@
       "icon": "inv_torch_thrown",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣\n为一名盟友恢复([378% of Spell Power])点生命值，并在16秒内额外恢复([109.44% of Spell Power])点。\n\n对自己施放时治疗效果提高25%。\n\n 惩戒\n为一名盟友恢复([378% of Spell Power])点生命值，并在16秒内额外恢复([109.44% of Spell Power])点。\n\n对自己施放时治疗效果提高35%。",
+      "descriptionEn": "Holy\nHeals an ally for (378% of Spell Power) and an additional (109.44% of Spell Power) over 16 sec.\n\nHealing increased by 25% when cast on self.\n\n Retribution\nHeals an ally for (378% of Spell Power) and an additional (109.44% of Spell Power) over 16 sec.\n\nHealing increased by 35% when cast on self.",
+      "costCn": "3层神圣能量 / 0.6% 法力值",
+      "costEn": "3 Holy Power / 0.6% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95099,
@@ -1044,7 +2134,21 @@
       "icon": "inv_ability_heraldofthesunpaladin_dawnlight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "惩戒\n施放灰烬觉醒后，你的下2个消耗神圣能量的技能会对目标施加晨光，在8秒内造成([255% of Spell Power])点光辉伤害或恢复([538.2% of Spell Power])点生命值。\n\n晨光的伤害和治疗效果的4%会辐射给周围的盟友或敌人，目标超过5个时效果降低。\n\n 神圣\n施放神圣棱镜或圣洁鸣钟后，你的下2个消耗神圣能量的技能会对目标施加晨光，在8秒内造成([255% of Spell Power])点光辉伤害或恢复([538.2% of Spell Power])点生命值。\n\n晨光的伤害和治疗效果的8%会辐射给周围的盟友或敌人，目标超过5个时效果降低。\n\n晨光的治疗效果不会转移给圣光道标。",
+      "descriptionEn": "Holy\nCasting Holy Prism or Divine Toll causes your next 2 Holy Power spending abilities to apply Dawnlight on your target, dealing (255% of Spell Power) Radiant damage or (538.2% of Spell Power) healing over 8 sec.\n\n8% of Dawnlight's damage and healing radiates to nearby allies or enemies, reduced beyond 5 targets.\n\nDawnlight's healing does not transfer to Beacon of Light.\n\n Retribution\nCasting Wake of Ashes causes your next 2 Holy Power spending abilities to apply Dawnlight on your target, dealing (255% of Spell Power) Radiant damage or (538.2% of Spell Power) healing over 8 sec.\n\n4% of Dawnlight's damage and healing radiates to nearby allies or enemies, reduced beyond 5 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95105,
@@ -1059,7 +2163,21 @@
       "icon": "ability_paladin_holyavenger",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣\n你与30码范围内的晨光产生联结，对穿越光束的敌人造成([21.6% of Spell Power])点光辉伤害，为穿越光束的盟友恢复([37.26% of Spell Power])点生命值，目标数量超过5个时效果降低。\n\n 惩戒\n你与30码范围内的晨光产生联结，对穿越光束的敌人造成([21.6% of Spell Power])点光辉伤害，为穿越光束的盟友恢复([37.26% of Spell Power])点生命值，目标数量超过8个时效果降低。",
+      "descriptionEn": "Holy\nYou link to your Dawnlights within 30 yds, causing (21.6% of Spell Power) Radiant damage to enemies or (37.26% of Spell Power) healing to allies that pass through the beams, reduced beyond 5 targets.\n\n Retribution\nYou link to your Dawnlights within 30 yds, causing (21.6% of Spell Power) Radiant damage to enemies or (37.26% of Spell Power) healing to allies that pass through the beams, reduced beyond 8 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95098,
@@ -1074,7 +2192,21 @@
       "icon": "spell_holy_divineprovidence",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "生命值高于80%时移动速度提高5%。\n\n生命值降至35%时，你的移动速度提高40%，持续5秒。该效果每1分钟只能触发一次。",
+      "descriptionEn": "Movement speed increased by 5% while above 80% health.\n\nWhen your health is brought below 35%, your movement speed is increased by 40% for 5 sec. Cannot occur more than once every 1 min.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95073,
@@ -1089,7 +2221,21 @@
       "icon": "spell_priest_power-word",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "你的神圣能量消耗技能造成的伤害和治疗效果提高3%。",
+      "descriptionEn": "Your Holy Power spenders deal 3% additional damage and healing.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 99839,
@@ -1104,7 +2250,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/50_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "引燃烈日灼光，使神圣能量化作晨光与太阳耀斑，为盟友治疗并灼烧周围敌人。",
+      "descriptionEn": "Ignites radiant solar fire, converting Holy Power into Dawnlight and Solar Beams to heal allies and incinerate surrounding foes.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 108034,
@@ -1119,7 +2269,21 @@
       "icon": "ability_paladin_artofwar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "审判为你恢复([312% of Spell Power])点生命值，消耗的法力值降低30%。该效果产生的过量治疗的50%转移给40码内的2名盟友。",
+      "descriptionEn": "Judgment heals you for (312% of Spell Power) and its mana cost is reduced by 30%. 50% of overhealing from this effect is transferred onto 2 allies within 40 yds.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108099,
@@ -1134,7 +2298,21 @@
       "icon": "paladin_protection",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "激活光环掌握也会施放一次效果为200%的圣洁鸣钟。",
+      "descriptionEn": "Activating Aura Mastery also casts a Divine Toll at 200% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81588,
@@ -1149,7 +2327,21 @@
       "icon": "spell_holy_vindication",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "激活复仇之怒，呼唤圣光强化你，使你下 [复仇十字军: 一个圣光术 / 2个圣光术]变为瞬发，且法力消耗降低50%。",
+      "descriptionEn": "Activating Avenging Wrath calls upon the Light to empower you, causing your next [Avenging Crusader: Holy Light / 2 Holy Lights] to be instant cast and cost 50% less mana.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109748,
@@ -1164,7 +2356,21 @@
       "icon": "spell_paladin_inquisition",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "惩戒\n受到神圣风暴或圣殿骑士的裁决打击时，晨光的持续时间延长0.3秒。\n\n2个晨光被神圣风暴击中时，其持续时间会延长0.5秒。\n\n 神圣\n晨光治疗生命值全满的盟友时，其持续时间延长0.5秒。",
+      "descriptionEn": "Retribution\nDawnlight's duration is increased by 0.3 sec whenever struck by Divine Storm or Templar's Verdict.\n\nWhen 2 Dawnlights are struck by Divine Storm, their durations are extended by an additional 0.5 sec.\n\n Holy\nDawnlight's duration is increased by 0.5 sec when it heals an ally with full health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109749,
@@ -1179,7 +2385,21 @@
       "icon": "spell_paladin_lightofdawn",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在复仇之怒期间，晨光的爆击几率提高15%。",
+      "descriptionEn": "Dawnlight's critical strike chance is increased by 15% during Avenging Wrath.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109750,
@@ -1194,7 +2414,21 @@
       "icon": "ability_malkorok_blightofyshaarj_yellow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "惩戒\n急速提高2%。\n\n 神圣\n急速提高5%。",
+      "descriptionEn": "Retribution\nHaste is increased by 2%.\n\n Holy\nHaste is increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110417,
@@ -1209,7 +2443,21 @@
       "icon": "inv12_apextalent_paladin_beaconofthesavior",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "每8秒或当救世道标转移至一个新的受伤目标时，他们会获得一个吸收盾，可吸收接下来的0点伤害，并在15秒内使受到的伤害降低10%。\n\n救世道标现在每5秒还会追踪你的圣光术或圣光闪现法术的目标。",
+      "descriptionEn": "Every 8 sec or when Beacon of the Savior transfers to a new injured target, they are granted an absorb shield that prevents the next 0 damage and reduces damage taken by 10% for 15 sec.\n\nBeacon of the Savior now additionally follows the target of your Holy Light and Flash of Light spells once every 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110417,
@@ -1224,7 +2472,21 @@
       "icon": "inv12_apextalent_paladin_beaconofthesavior",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "救世道标额外转移10%的治疗量，并且带有救世道标的盟友从你那里获得的治疗量提高10%。",
+      "descriptionEn": "Beacon of the Savior transfers an additional 10% of the amount healed and allies with Beacon of the Savior receive 10% more healing from you.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110417,
@@ -1239,7 +2501,21 @@
       "icon": "inv12_apextalent_paladin_beaconofthesavior",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在战斗中，对30码内生命值最低的盟友施加救世道标，使你对他人的直接治疗也会治疗该盟友，治疗量为直接治疗量的10%。\n\n如果救世道标的治疗使目标生命值超过最大值，或者有盟友的生命值降至50%以下，则救世道标会转移至30码内生命值最低的盟友身上。",
+      "descriptionEn": "While in combat, apply a Beacon of the Savior to the lowest health ally within 30 yds that causes your direct healing on others to also heal that ally for 10% of the amount healed.\n\nBeacon of the Savior transfers to the lowest health ally within 30 yds if it heals a target past maximum health or if an ally drops below 50% health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     }
   ]
 }

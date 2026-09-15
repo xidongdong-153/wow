@@ -39,7 +39,21 @@
       "icon": "spell_nature_nullifydisease",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "驱散敌方目标身上的魔法，移除1个增益魔法效果。",
+      "descriptionEn": "Dispels Magic on the enemy target, removing 1 beneficial Magic effect.",
+      "costCn": "14% 法力值",
+      "costEn": "14% of base mana",
+      "rangeCn": "30 码范围",
+      "rangeEn": "30 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82710,
@@ -54,7 +68,21 @@
       "icon": "spell_priest_void-flay",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "控制一个等级不超过你的等级+1的目标，持续30秒，同时保持自身清醒。对恶魔、机械或亡灵类目标或玩家无效。此法术与其他迷惑类法术共享递减效果。",
+      "descriptionEn": "Controls a mind up to 1 level above yours for 30 sec while still controlling your own mind. Does not work versus Demonic, Mechanical, or Undead beings or players. This spell shares diminishing returns with other disorienting effects.",
+      "costCn": "2% 法力值",
+      "costEn": "2% of base mana",
+      "rangeCn": "30 码范围",
+      "rangeEn": "30 yd range",
+      "castTimeCn": "1.8秒 施法时间",
+      "castTimeEn": "1.8 sec cast",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82672,
@@ -69,7 +97,21 @@
       "icon": "spell_holy_spiritualguidence",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的智力提高3%。",
+      "descriptionEn": "Increases your Intellect by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82673,
@@ -84,7 +126,21 @@
       "icon": "spell_shadow_chilltouch",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "大部分法术的射程提高15%。",
+      "descriptionEn": "Increases the range of most spells by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82677,
@@ -99,7 +155,21 @@
       "icon": "spell_holy_holyprotection",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣,  暗影\n对自己施放快速治疗会使你受到的所有伤害降低10%，持续10秒。\n\n 戒律\n对自己施放快速治疗或暗影愈合会使你受到的所有伤害降低10%，持续10秒。",
+      "descriptionEn": "Holy,  Shadow\nCasting Flash Heal on yourself reduces all damage you take by 10% for 10 sec.\n\n Discipline\nCasting Flash Heal or Shadow Mend on yourself reduces all damage you take by 10% for 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82678,
@@ -114,7 +184,21 @@
       "icon": "spell_holy_blindingheal",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "20%的快速治疗对其他目标造成的治疗也会治疗你。",
+      "descriptionEn": "20% of Flash Heal healing on other targets also heals you.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82679,
@@ -129,7 +213,21 @@
       "icon": "spell_holy_restoration",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "从绝望祷言中获得的最大生命值提高10%。",
+      "descriptionEn": "Increases the maximum health gained from Desperate Prayer by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82680,
@@ -144,7 +242,21 @@
       "icon": "spell_holy_testoffaith",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "绝望祷言的冷却时间缩短20秒。",
+      "descriptionEn": "Reduces the cooldown of Desperate Prayer by 20 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82684,
@@ -159,7 +271,21 @@
       "icon": "spell_shadow_mindtwisting",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "对生命值低于35%的目标造成伤害或治疗后，你造成的伤害和治疗效果提高5%，持续8秒。",
+      "descriptionEn": "After damaging or healing a target below 35% health, gain 5% increased damage and healing for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82556,
@@ -174,7 +300,21 @@
       "icon": "spell_holy_powerinfusion",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将能量注入目标体内，使急速提高20%，持续15秒。\n\n只能对玩家施放。",
+      "descriptionEn": "Infuses the target with power for 15 sec, increasing haste by 20%.\n\nCan only be cast on players.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82685,
@@ -189,7 +329,21 @@
       "icon": "spell_shadow_twistedfaith",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "渐隐术会使你受到的伤害降低10%。",
+      "descriptionEn": "Fade reduces damage you take by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82686,
@@ -204,7 +358,21 @@
       "icon": "spell_magic_lesserinvisibilty",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "渐隐术的冷却时间缩短(5))秒。",
+      "descriptionEn": "Reduces the cooldown of Fade by (5)) sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82687,
@@ -219,7 +387,21 @@
       "icon": "spell_holy_ashestoashes",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的耐力提高6%。",
+      "descriptionEn": "Increases your Stamina by 6%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82690,
@@ -234,7 +416,21 @@
       "icon": "ability_priest_innerlightandshadow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的神圣和暗影法术的伤害和治疗效果提高2%。",
+      "descriptionEn": "Increases the damage and healing of your Holy and Shadow spells by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109006,
@@ -249,7 +445,21 @@
       "icon": "spell_holy_mindsooth",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "戒律,  暗影\n暗言术：痛的伤害提高10%。\n\n 神圣 (神圣之火)\n神圣之火神圣之火和暗言术：痛的伤害提高10%。",
+      "descriptionEn": "Holy (Holy Fire)\nIncreases the damage of Holy FireHoly Fire and Shadow Word: Pain by 10%.\n\n Discipline,  Shadow\nIncreases the damage of Shadow Word: Pain by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82701,
@@ -264,7 +474,21 @@
       "icon": "spell_shadow_psychicscream",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "发出心灵尖啸，令8码范围内的所有敌人逃跑，使其迷惑8秒。对目标造成的任何伤害都可能解除该效果。",
+      "descriptionEn": "Lets out a psychic scream, causing all enemies within 8 yards to flee, disorienting them for 8 sec. Damage may interrupt the effect.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "40秒 冷却",
+      "cooldownEn": "40 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82703,
@@ -279,7 +503,21 @@
       "icon": "ability_priest_angelicfeather",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将一根羽毛放在目标位置，使第一个触碰羽毛的盟友的移动速度提高40%，持续5秒。同一时间只能放置3根羽毛。",
+      "descriptionEn": "Places a feather at the target location, granting the first ally to walk through it 40% increased movement speed for 5 sec. Only 3 feathers can be placed at one time.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "20秒 充能",
+      "cooldownEn": "20 sec recharge",
+      "chargesCn": "3 充能",
+      "chargesEn": "3 Charges",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82711,
@@ -294,7 +532,21 @@
       "icon": "spell_nzinsanity_bloodthirst",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗言术：灭对你造成的伤害降低50%。",
+      "descriptionEn": "Shadow Word: Death deals 50% less damage to you.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82712,
@@ -309,7 +561,21 @@
       "icon": "spell_shadow_demonicfortitude",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "戒律,  神圣\n黑暗的咒语，对目标造成([85% of Spell Power])点暗影伤害。如果目标没有被暗言术：灭消灭，则你会受到相当于最大生命值5%的反噬伤害。\n\n对生命值低于20%的目标造成的伤害提高150%。\n\n 暗影\n黑暗的咒语，对目标造成([85% of Spell Power])点暗影伤害。如果目标没有被暗言术：灭消灭，则你会受到相当于最大生命值5%的反噬伤害。\n\n对生命值低于20%的目标造成的伤害提高150%。",
+      "descriptionEn": "Discipline,  Holy\nA word of dark binding that inflicts (85% of Spell Power) Shadow damage to your target. If your target is not killed by Shadow Word: Death, you take backlash damage equal to 5% of your maximum health.\n\nDamage increased by 150% to targets below 20% health.\n\n Shadow\nA word of dark binding that inflicts (85% of Spell Power) Shadow damage to your target. If your target is not killed by Shadow Word: Death, you take backlash damage equal to 5% of your maximum health.\n\nDamage increased by 150% to targets below 20% health.",
+      "costCn": "0.5% 法力值",
+      "costEn": "0.5% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "10秒 冷却",
+      "cooldownEn": "10 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82713,
@@ -324,7 +590,27 @@
       "icon": "spell_shadow_unholyfrenzy",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣\n冲击目标的心灵，造成([78.336% of Spell Power])点暗影伤害。\n\n 暗影\n冲击目标的心灵，造成([78.336% of Spell Power])点暗影伤害。",
+      "descriptionEn": "Holy\nBlast the target's mind for (78.336% of Spell Power) Shadow damage.\n\n Discipline\nBlast the target's mind for (78.336% of Spell Power) Shadow damage. Costs a high amount of mana.\n\n Shadow\nBlast the target's mind for (78.336% of Spell Power) Shadow damage.",
+      "costCn": "4% 法力值",
+      "costEn": "4% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "1.5秒 施法时间",
+      "castTimeEn": "1.5 sec cast",
+      "cooldownCn": "9秒 冷却",
+      "cooldownEn": "9 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [
+        {
+          "name": "产生6点狂乱值。",
+          "icon": "",
+          "description": "戒律"
+        }
+      ],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82715,
@@ -339,7 +625,21 @@
       "icon": "priest_spell_leapoffaith_a",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "拉拽一名小队或团队成员的灵魂，使其立即移动到你面前。",
+      "descriptionEn": "Pulls the spirit of a party or raid member, instantly moving them directly in front of you.",
+      "costCn": "2.6% 法力值",
+      "costEn": "2.6% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82695,
@@ -354,7 +654,21 @@
       "icon": "spell_shadow_psychichorrors",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "心灵尖啸不再使敌人因恐惧而逃跑，而是在原地颤栗。",
+      "descriptionEn": "Psychic Scream causes enemies to tremble in place instead of fleeing in fear.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108731,
@@ -369,7 +683,21 @@
       "icon": "spell_fire_felflamering_red",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当对盟友使用能量灌注时，你也会获得100%效果。\n\n如果没有盟友被选中为目标，会以100%的效果赐予附近的一个盟友，优先选择伤害输出者。",
+      "descriptionEn": "Power Infusion also grants you its effect at 100% value when used on an ally. \n\nIf no ally is targeted, it will grant its effect at 100% value to a nearby ally, preferring damage dealers.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109005,
@@ -384,7 +712,21 @@
       "icon": "spell_arcane_mindmastery",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你对敌对生物施展的精神控制和统御意志的持续时间延长15秒。",
+      "descriptionEn": "Increases the duration of Mind Control and Dominate Mind against enemy creatures by 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109010,
@@ -399,7 +741,21 @@
       "icon": "spell_holy_spellwarding",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到的所有魔法伤害降低3%。",
+      "descriptionEn": "Reduces all magic damage taken by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109011,
@@ -414,7 +770,21 @@
       "icon": "spell_shadow_mindshear",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "戒律,  神圣\n惩击的伤害提高15%。\n\n 暗影\n精神鞭笞的伤害提高15%。",
+      "descriptionEn": "Shadow\nIncreases the damage of Mind Flay by 15%.\n\n Discipline,  Holy\nIncreases the damage of Smite by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109012,
@@ -429,7 +799,21 @@
       "icon": "spell_holy_testoffaith",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使最大生命值提高 [圣光鼓舞: 35 / 25]%，持续10秒，同时立即为你恢复等量的生命值。",
+      "descriptionEn": "Increases maximum health by [Light's Inspiration: 35 / 25]% for 10 sec, and instantly heals you for that amount.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109015,
@@ -444,7 +828,21 @@
       "icon": "spell_magic_lesserinvisibilty",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "渐隐，移除你的所有威胁值并缩短敌人对你的侦测距离，持续10秒。",
+      "descriptionEn": "Fade out, removing all your threat and reducing enemies' detection range against you for 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109020,
@@ -459,7 +857,21 @@
       "icon": "ability_priest_darkness",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的急速提高3%。",
+      "descriptionEn": "Increases your haste by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109021,
@@ -474,7 +886,21 @@
       "icon": "inv_archaeology_80_zandalari_sanguinetotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的吸血提高2%。",
+      "descriptionEn": "Increases your Leech by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82676,
@@ -489,7 +915,21 @@
       "icon": "ability_priest_focusedwill",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "你的法术伤害提高3%。",
+      "descriptionEn": "Increases the damage of your spells by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109890,
@@ -504,7 +944,21 @@
       "icon": "spell_arcane_massdispel",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "驱散半径15码范围内的魔法，从5个友方目标身上移除全部的有害魔法效果，并从5个敌方目标身上移除1个有益魔法效果。这种驱散法术非常强大，可以移除通常无法被驱散的魔法效果。",
+      "descriptionEn": "Dispels magic in a 15 yard radius, removing all harmful Magic from 5 friendly targets and 1 beneficial Magic effect from 5 enemy targets. Potent enough to remove Magic that is normally undispellable.",
+      "costCn": "20% 法力值",
+      "costEn": "20% of base mana",
+      "rangeCn": "30 码范围",
+      "rangeEn": "30 yd range",
+      "castTimeCn": "1.5秒 施法时间",
+      "castTimeEn": "1.5 sec cast",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109917,
@@ -519,7 +973,21 @@
       "icon": "spell_holy_symbolofhope",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣\n愈合祷言和信仰之跃使目标的移动速度提高40%，持续3秒。\n\n 戒律,  暗影\n真言术：盾和信仰之跃使目标的移动速度提高40%，持续3秒。",
+      "descriptionEn": "Discipline,  Shadow\nPower Word: Shield and Leap of Faith increase your target's movement speed by 40% for 3 sec.\n\n Holy\nPrayer of Mending and Leap of Faith increase your target's movement speed by 40% for 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82657,
@@ -534,7 +1002,33 @@
       "icon": "spell_priest_void-blast",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "以虚空齐射轰炸目标，并以虚空魔法扭曲你的暗影形态，使你的法术伤害提高20%，持续20秒。\n\n虚空形态下，虚空齐射将取代此法术，最多可使用3次。",
+      "descriptionEn": "Bombards your target with a Void Volley and twists your Shadowform with void magic, increasing your spell damage by 20% for 20 sec. \n\nDuring Voidform, Void Volley replaces this spell and can be used up to 3 times.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "1.5秒 施法时间",
+      "castTimeEn": "1.5 sec cast",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "虚空齐射",
+          "icon": "",
+          "description": "释放一股纯粹虚空能量汇集的齐射，向你的目标发射10发飞弹，并向你目标10码范围内所有敌人额外发射1发飞弹，每发造成([95.44% of Spell Power])点暗影伤害。\n\n产生10点狂乱值。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Void Volley",
+          "icon": "",
+          "description": "Releases a volley of pure void energy, firing 10 bolts at your target and 1 bolt at all enemies within 10 yards of your target for (95.44% of Spell Power) Shadow damage.\n\nGenerates 10 Insanity."
+        }
+      ]
     },
     {
       "nodeId": 82560,
@@ -549,7 +1043,21 @@
       "icon": "spell_fire_twilightcano",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当暗言术：痛、暗言术：癫和吸血鬼之触同时作用于同一个目标时，你的心灵震爆、虚空洪流、精神鞭笞和虚空齐射会额外造成20%的伤害。",
+      "descriptionEn": "While you have Shadow Word: Pain, Shadow Word: Madness, and Vampiric Touch active on the same target, your Mind Blast, Void Torrent, Mind Flay, and Void Volley deal 20% more damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82552,
@@ -564,7 +1072,21 @@
       "icon": "inv_eyeofnzothpet",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你对敌人施放有害法术时创造惊魂幻象。\n\n惊魂幻象达到50层时，你的目标会看到噩梦，受到([182% of Spell Power])点暗影伤害，并在3秒内为你产生2点狂乱值。\n\n达到100层时，你的目标会见证恩佐斯的幻象，受到([689% of Spell Power])点暗影伤害，并在3秒内为你产生6点狂乱值。",
+      "descriptionEn": "You create Horrific Visions when casting harmful spells on enemies.\n\nAt 50 stacks of Horrific Visions, your target sees a nightmare, dealing (182% of Spell Power) Shadow damage and granting you 2 Insanity over 3 sec.\n\nAt 100 stacks, your target witnesses a vision of N'Zoth, dealing (689% of Spell Power) Shadow damage and granting you 6 Insanity over 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82645,
@@ -579,7 +1101,21 @@
       "icon": "spell_nzinsanity_chasedbyshadows",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "心灵震爆、精神鞭笞和暗言术：灭的爆击率提高4%，爆击伤害提高20%。",
+      "descriptionEn": "Increases the critical strike chance of Mind Blast, Mind Flay, and Shadow Word: Death by 4% and increases their critical strike damage by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82646,
@@ -594,7 +1130,21 @@
       "icon": "ability_warlock_voidzone",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗影幻灵飘向你的主要目标后爆炸，对8码范围内的所有敌人造成([140% of Spell Power])点暗影伤害。\n\n超过5个目标后伤害递减。",
+      "descriptionEn": "Shadowy Apparitions that float towards your primary target explode, dealing (140% of Spell Power) Shadow damage to all enemies within 8 yds.\n\nDamage reduced beyond 5 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82647,
@@ -609,7 +1159,21 @@
       "icon": "inv12_ability_priest_powerwordmadness_eye",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗言术：癫的狂乱值消耗降低5点。",
+      "descriptionEn": "Reduces the Insanity cost of Shadow Word: Madness by 5.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82649,
@@ -624,7 +1188,21 @@
       "icon": "spell_shadow_lifedrain02_purple",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗言术：癫使你的暗言术：痛和吸血鬼之触对所有目标造成伤害的速度提高40%，持续3秒。",
+      "descriptionEn": "Shadow Word: Madness causes your Shadow Word: Pain and Vampiric Touch to deal damage 40% faster on all targets for 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82651,
@@ -639,7 +1217,21 @@
       "icon": "ability_priest_shadowyapparition",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗言术：癫召唤出暗影幻灵，向所有受到你的吸血鬼之触影响的目标飘去，造成([85.05% of Spell Power])点暗影伤害。",
+      "descriptionEn": "Shadow Word: Madness conjures Shadowy Apparitions that float towards all targets afflicted by your Vampiric Touch for (85.05% of Spell Power) Shadow damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82654,
@@ -654,7 +1246,21 @@
       "icon": "inv12_ability_priest_tentacleslam",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "触须猛击会以25%的效果对目标施加暗言术：癫。",
+      "descriptionEn": "Tentacle Slam afflicts your target with Shadow Word: Madness at 25% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82655,
@@ -669,7 +1275,21 @@
       "icon": "inv12_ability_priest_voidvolley",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "触须猛击的伤害提高50%，虚空齐射的伤害提高15%。\n\n虚空形态解除后，你在30秒内可以额外施放1次虚空齐射。",
+      "descriptionEn": "Tentacle Slam deals 50% increased damage and Void Volley deals 15% increased damage.\n\nWhen Voidform ends, you can cast Void Volley 1 additional time within 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82658,
@@ -684,7 +1304,21 @@
       "icon": "inv12_ability_priest_madness_wisp",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗影幻灵的伤害提高10%。\n\n暗影幻灵造成伤害时，你对目标施加的暗言术：痛与吸血鬼之触的持续时间延长1.0秒。",
+      "descriptionEn": "Shadowy Apparition damage increased by 10%.\n\nWhen Shadowy Apparitions deal damage, they extend the duration of your Shadow Word: Pain and Vampiric Touch on the target by 1.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82659,
@@ -699,7 +1333,21 @@
       "icon": "spell_shadow_painandsuffering",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗言术：癫的伤害提高15%。",
+      "descriptionEn": "Increases Shadow Word: Madness damage by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82662,
@@ -714,7 +1362,21 @@
       "icon": "spell_holy_stoicism",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "吸血鬼之触造成的伤害提高20%，并且每次造成伤害都有几率产生1点狂乱值。",
+      "descriptionEn": "Vampiric Touch deals 20% additional damage and has a chance to generate 1 Insanity each time it deals damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82663,
@@ -729,7 +1391,21 @@
       "icon": "ability_priest_psychiclink",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的直接伤害性法术对40码范围内所有其他受到你的吸血鬼之触影响的目标造成25%的伤害。\n\n对暗影幻灵、暗言术：痛和吸血鬼之触造成的伤害无效。",
+      "descriptionEn": "Your direct damage spells inflict 25% of their damage on all other targets afflicted by your Vampiric Touch within 40 yards.\n\nDoes not apply to damage from Shadowy Apparitions, Shadow Word: Pain, and Vampiric Touch.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82665,
@@ -744,7 +1420,21 @@
       "icon": "inv12_ability_priest_powerwordmadness_eye",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "用疯狂之语折磨目标的心智，立即对其造成([227.5% of Spell Power])点暗影伤害，并且在6秒内额外造成9点暗影伤害。为你恢复相当于30%伤害量的生命值。\n\n如果重新施加此效果，所有剩余伤害都会添加到新的效果中。",
+      "descriptionEn": "A word of madness haunts the target's mind, dealing (227.5% of Spell Power) Shadow damage instantly plus an additional 9 Shadow damage over 6 sec. Heals you for 30% of damage dealt.\n\nWhen reapplied to a target, all remaining damage is added to the new effect.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82666,
@@ -759,7 +1449,21 @@
       "icon": "ability_rogue_envelopingshadows",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "吸血鬼之触还会对目标施加暗言术：痛。暗言术：痛额外持续5秒。",
+      "descriptionEn": "Vampiric Touch also applies Shadow Word: Pain to the target. Shadow Word: Pain lasts an additional 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 93170,
@@ -774,7 +1478,21 @@
       "icon": "spell_shadow_painandsuffering",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的暗言术：痛有几率产生暗影幻灵，向所有被你的吸血鬼之触影响的目标飘去。\n\n爆击会使几率提高100%。",
+      "descriptionEn": "Your Shadow Word: Pain damage has a chance to create Shadowy Apparitions that float towards all targets afflicted by your Vampiric Touch. \n\nCritical strikes increase the chance by 100%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82667,
@@ -789,7 +1507,21 @@
       "icon": "ability_priest_auspiciousspirits",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的暗影幻灵的伤害提高15%，并有几率产生1点狂乱值。",
+      "descriptionEn": "Your Shadowy Apparitions deal 15% increased damage and have a chance to generate 1 Insanity.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82668,
@@ -804,7 +1536,21 @@
       "icon": "spell_fire_twilightflamebreath",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "精神鞭笞的伤害提高15%，产生的狂乱值提高30%。",
+      "descriptionEn": "Mind Flay damage increased by 15% and Insanity generation increased by 30%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82670,
@@ -819,7 +1565,21 @@
       "icon": "spell_holy_circleofrenewal_shadow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "触须猛击的伤害提高300%。",
+      "descriptionEn": "Increases Tentacle Slam damage by 300%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82555,
@@ -834,7 +1594,33 @@
       "icon": "achievement_boss_heraldvolazj",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在生成暗影幻灵后获得一层尤格-萨隆的神像。叠加至20层后，你会召唤一个彼岸之物，对附近的敌人施放虚空之刺，持续20秒。",
+      "descriptionEn": "After conjuring Shadowy Apparitions, gain a stack of Idol of Yogg-Saron. At 20 stacks, you summon a Thing from Beyond that casts Void Spike at nearby enemies for 20 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "虚空之刺",
+          "icon": "",
+          "description": "向目标射出一支黑暗魔法箭，造成([93.8961% of Spell Power])点暗影伤害，并对该目标10码范围内的所有敌人造成[([93.8961% of Spell Power]) * 53 / 100]点暗影伤害。目标数量超过5个后造成的伤害降低。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Void Spike",
+          "icon": "",
+          "description": "Hurls a bolt of dark magic, dealing (93.8961% of Spell Power) Shadow damage and [(93.8961% of Spell Power) * 53 / 100] Shadow damage to all enemies within 10 yards of the target. Damage reduced beyond 5 targets."
+        }
+      ]
     },
     {
       "nodeId": 93171,
@@ -849,7 +1635,21 @@
       "icon": "inv12_ability_priest_tentacleslam",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤一个巨大的暗影触须猛击地面，对你前方和目标周围8码内的敌人造成([68.7926% of Spell Power])点暗影伤害。\n\n对最多6名敌人施加吸血鬼之触，优先选择未受吸血鬼之触影响的目标。",
+      "descriptionEn": "Summons a massive shadowy appendage to slam the ground, dealing (68.7926% of Spell Power) Shadow damage in front of you and 8 yds around your target.\n\nApplies Vampiric Touch to up to 6 enemies, prioritizing ones without Vampiric Touch.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "15秒 充能",
+      "cooldownEn": "15 sec recharge",
+      "chargesCn": "2 充能",
+      "chargesEn": "2 Charges",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94676,
@@ -864,7 +1664,21 @@
       "icon": "inv_ability_holyfire_orb",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣\n制造光晕使你的治疗效果提高2%，持续10秒，最多叠加4层。\n\n 暗影\n制造光晕使你的法术伤害提高2%，持续10秒，最多叠加4层。",
+      "descriptionEn": "Holy\nCreating a Halo increases your healing done by 2% for 10 sec, stacking up to 4 times.\n\n Shadow\nCreating a Halo increases your spell damage by 2% for 10 sec, stacking up to 4 times.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94677,
@@ -879,7 +1693,21 @@
       "icon": "inv_ability_holyfire_buff",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣\n在神圣化身激活时，你的治疗效果提高10%。\n\n 暗影\n在虚空形态激活时，你造成的伤害提高5%。",
+      "descriptionEn": "Shadow\nYour damage dealt is increased by 5% while Voidform is active.\n\n Holy\nYour healing done is increased by 10% while Apotheosis is active.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94680,
@@ -894,7 +1722,21 @@
       "icon": "ability_priest_clarityofpurpose",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "能量涌动的持续时间延长5秒。",
+      "descriptionEn": "Power Surge lasts an additional 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94681,
@@ -909,7 +1751,21 @@
       "icon": "inv_ability_holyfire_groundstate",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "施放光晕时，还会在你周围每5秒以100%的效果制造一个光晕，持续10秒。",
+      "descriptionEn": "Casting Halo also causes you to create a Halo around you at 100% effectiveness every 5 sec for 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94685,
@@ -924,7 +1780,21 @@
       "icon": "ability_priest_voidshift",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗影\n施放精神鞭笞：狂有100%的几率召唤暗影幻灵。\n\n 神圣 (至静化身)\n消耗圣光涌动使得圣言术：静的冷却时间降低4秒。消耗圣光涌动使得圣言术：灵的冷却时间降低4秒。",
+      "descriptionEn": "Shadow\nCasting Mind Flay: Insanity has a 100% chance to conjure Shadowy Apparitions.\n\n Holy (Ultimate Serenity)\nConsuming Surge of Light reduces the cooldown of Holy Word: Serenity by 4 sec.Consuming Surge of Light reduces the cooldown of Holy Word: Sanctify by 4 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94688,
@@ -939,7 +1809,21 @@
       "icon": "ability_priest_flashoflight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣\n圣光涌动激活期间，你受其影响的法术治疗效果额外提高5%。\n\n 暗影\n精神鞭笞：狂造成的伤害提高30%。",
+      "descriptionEn": "Shadow\nIncreases the damage done by Mind Flay: Insanity by 30%.\n\n\n\n Holy\nYour spells affected by Surge of Light heal for 5% more while Surge of Light is active.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94697,
@@ -954,7 +1838,33 @@
       "icon": "ability_priest_halo_shadow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在你周围制造一个暗影能量之环，迅速扩散到半径40码的范围，为盟友恢复最多([161% of Spell Power])点生命，并对敌人造成[([144.2% of Spell Power]) * 1 * 1 * 1]点暗影伤害。目标数量超过6个后造成的治疗量降低。 [ 暗影:",
+      "descriptionEn": "Creates a ring of Shadow energy around you that quickly expands to a 40 yd radius, healing allies for (161% of Spell Power) and dealing [(144.2% of Spell Power) * 1 * 1 * 1] Shadow damage to enemies. Healing reduced beyond 6 targets. [ Shadow:",
+      "costCn": "4% 法力值",
+      "costEn": "4% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "1.5秒 施法时间",
+      "castTimeEn": "1.5 sec cast",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "产生5点狂乱值。",
+          "icon": "",
+          "description": "]"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Generates 5 Insanity.",
+          "icon": "",
+          "description": "]"
+        }
+      ]
     },
     {
       "nodeId": 94699,
@@ -969,7 +1879,43 @@
       "icon": "spell_holy_surgeoflight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗影\n制造一个光晕会将你的下一个精神鞭笞升级为精神鞭笞：狂。",
+      "descriptionEn": "Holy\nCreating a Halo grants Surge of Light.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "精神鞭笞：狂",
+          "icon": "",
+          "description": "用暗影能量攻击目标的精神，在1.5秒内造成([542.36% of Spell Power])点暗影伤害，并使移动速度降低70%。\n\n持续期间产生8点狂乱值。"
+        },
+        {
+          "name": "圣光涌动",
+          "icon": "spell_holy_surgeoflight",
+          "description": "你的治疗法术和惩击有8%的几率使你的下一个快速治疗变为瞬发，且消耗的法力值降低 [ 神圣: 50 / 50]%。最多可叠加2层。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Surge of Light",
+          "icon": "",
+          "description": "Your healing spells and Smite have a 8% chance to make your next Flash Heal instant and cost  [ Holy: 50 / 50]% less mana. Stacks to 2."
+        },
+        {
+          "name": "Mind Flay: Insanity",
+          "icon": "spell_fire_twilightflamebreath",
+          "description": "Assaults the target's mind with Shadow energy, causing (542.36% of Spell Power) Shadow damage over 1.5 sec and slowing their movement speed by 70%.\n\nGenerates 8 Insanity over the duration."
+        }
+      ]
     },
     {
       "nodeId": 94702,
@@ -984,7 +1930,21 @@
       "icon": "inv_ability_holyfire_nova",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "光晕现在以你为中点，达到最大距离后会返回你的位置，每次穿越都会对盟友进行治疗，对敌人造成伤害。",
+      "descriptionEn": "Halo now centers around you and returns to you after it reaches its maximum distance, healing allies and damaging enemies each time it passes through them.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 99800,
@@ -999,7 +1959,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/19_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将神圣或暗影光晕扩大为环绕自身的执政官光环，显著延长强化形态并提升范围爆发。",
+      "descriptionEn": "Amplifies Halos into enduring luminous auras, substantially extending apotheosis/dark ascension and group efficacy.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 94686,
@@ -1014,7 +1978,21 @@
       "icon": "spell_shadow_psychicscream",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "心灵尖啸在你的位置创造一个你的幻象。4秒后幻象将释放一次心灵尖啸。",
+      "descriptionEn": "Psychic Scream creates an image of you at your location. After 4 sec, the image will let out a Psychic Scream.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94678,
@@ -1029,7 +2007,21 @@
       "icon": "ability_priest_ascension",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "神圣\n创造一个光晕会使神圣化身的持续时间延长1秒。如果神圣化身未激活，最多可存储6秒。\n\n未进入战斗或受到失控效果影响时，神圣化身的持续时间可暂停最多20秒。\n\n 暗影\n创造一个光晕会使虚空形态的持续时间延长1秒。如果虚空形态未激活，最多可存储6秒。\n\n未进入战斗或受到失控效果影响时，虚空形态的持续时间可暂停最多20秒。",
+      "descriptionEn": "Holy\nCreating a Halo extends the duration of Apotheosis by 1 sec. If Apotheosis is not active, up to 6 seconds is stored.\n\nWhile out of combat or affected by a loss of control effect, the duration of Apotheosis is paused for up to 20 sec.\n\n Shadow\nCreating a Halo extends the duration of Voidform by 1 sec. If Voidform is not active, up to 6 seconds is stored.\n\nWhile out of combat or affected by a loss of control effect, the duration of Voidform is paused for up to 20 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108007,
@@ -1044,7 +2036,21 @@
       "icon": "ability_kaztik_dominatemind",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "精神鞭笞的伤害提高25%。",
+      "descriptionEn": "Increases the damage of Mind Flay by 25%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108029,
@@ -1059,7 +2065,21 @@
       "icon": "inv_ability_priest_mindgames",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "精神鞭笞造成伤害时使你的心灵震爆的爆击几率提高8%，最多叠加12次。\n\n持续10秒。",
+      "descriptionEn": "Mind Flay damage increases the critical strike chance of Mind Blast by 8%, stacking up to 12 times.\n\nLasts 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108031,
@@ -1074,7 +2094,21 @@
       "icon": "spell_mage_presenceofmind",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的周期性法术伤害提高6%。",
+      "descriptionEn": "Increases your periodic spell damage by 6%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82656,
@@ -1089,7 +2123,21 @@
       "icon": "spell_priest_void-flay",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "暗言术：癫使你在虚空形态下的急速提高2%，持续时间延长1.5秒，最多可叠加5层。\n\n虚空形态结束时，急速效果会逐渐消退，在10秒内衰减。",
+      "descriptionEn": "Shadow Word: Madness increases your haste during Voidform by 2% and increases its duration by 1.5 sec, stacking up to 5 times. \n\nWhen Voidform ends, the haste lingers and decays over 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109776,
@@ -1104,7 +2152,21 @@
       "icon": "spell_holy_wordfortitude",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "真言术：韧使你获得额外5%的耐力。",
+      "descriptionEn": "Power Word: Fortitude grants you an additional 5% stamina.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109777,
@@ -1119,7 +2181,21 @@
       "icon": "ability_priest_spiritoftheredeemer",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神圣\n治疗祷言的法力消耗降低10%，施法时间缩短15%。\n\n 暗影\n虚空齐射的伤害提高5%，且在虚空形态下施放暗言术：癫时，会向你的目标发射一次效果为25%的虚空齐射。",
+      "descriptionEn": "Holy\nPrayer of Healing mana cost reduced by 10% and its cast time is reduced by 15%.\n\n Shadow\nVoid Volley deals 5% increased damage and Shadow Word: Madness casts during Voidform unleash a Void Volley at your target at 25% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109017,
@@ -1134,7 +2210,21 @@
       "icon": "ability_priest_clarityofpower",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "在生命值为满的状态下，受到吸血鬼之触和暗言术：癫的治疗会产生吸收护盾，吸收等同于治疗量的伤害。护盾吸收的伤害不会超过你最大生命值的10%。",
+      "descriptionEn": "Healing from Vampiric Touch and Shadow Word: Madness when you are at maximum health will shield you for the same amount. The shield cannot exceed 10% of your maximum health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109775,
@@ -1149,7 +2239,33 @@
       "icon": "spell_holy_prayerofhealing02",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "神圣\n圣光涌动现在除了可以被快速治疗消耗外，还可以被治疗祷言消耗。",
+      "descriptionEn": "Shadow\nIncreases Shadowy Apparition damage by 10%.\n\n Holy\nSurge of Light can now be consumed by Prayer of Healing in addition to Flash Heal.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "圣光涌动",
+          "icon": "",
+          "description": "你的治疗法术和惩击有8%的几率使你的下一个快速治疗变为瞬发，且消耗的法力值降低 [ 神圣: 50 / 50]%。最多可叠加2层。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Surge of Light",
+          "icon": "",
+          "description": "Your healing spells and Smite have a 8% chance to make your next Flash Heal instant and cost  [ Holy: 50 / 50]% less mana. Stacks to 2."
+        }
+      ]
     },
     {
       "nodeId": 110408,
@@ -1164,7 +2280,63 @@
       "icon": "inv12_apextalent_priest_voidapparitions",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "触须猛击有100%的几率激活以下其中一个神像的效果。",
+      "descriptionEn": "Tentacle Slam has a 100% chance to activate an effect from one of your Idols.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "亚煞极的神像",
+          "icon": "",
+          "description": "召唤一个暗影魔。"
+        },
+        {
+          "name": "恩佐斯的神像",
+          "icon": "inv_eyeofnzothpet",
+          "description": "你的目标会目睹一场梦魇或恩佐斯的幻象。"
+        },
+        {
+          "name": "尤格-萨隆的神像",
+          "icon": "achievement_boss_heraldvolazj",
+          "description": "召唤一个彼岸之物。"
+        },
+        {
+          "name": "克苏恩的神像",
+          "icon": "achievement_boss_cthun",
+          "description": "召唤一个虚空触须或虚空鞭笞者。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Idol of Y'Shaarj",
+          "icon": "",
+          "description": "Summons a Shadowfiend."
+        },
+        {
+          "name": "Idol of N'Zoth",
+          "icon": "inv_eyeofnzothpet",
+          "description": "Your target witnesses a nightmare or vision of N'Zoth."
+        },
+        {
+          "name": "Idol of Yogg-Saron",
+          "icon": "achievement_boss_heraldvolazj",
+          "description": "Summons a Thing From Beyond."
+        },
+        {
+          "name": "Idol of C'Thun",
+          "icon": "achievement_boss_cthun",
+          "description": "Summons a Void Tendril or Void Lasher."
+        }
+      ]
     },
     {
       "nodeId": 110408,
@@ -1179,7 +2351,43 @@
       "icon": "inv12_apextalent_priest_voidapparitions",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "暗影幻灵有15%的几率变为虚空幻灵，对其目标施放",
+      "descriptionEn": "Shadowy Apparitions have a 15% chance to spawn as Void Apparitions that release a",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "虚空箭",
+          "icon": "",
+          "description": "并造成50%的额外伤害。"
+        },
+        {
+          "name": "虚空箭",
+          "icon": "ability_ironmaidens_convulsiveshadows",
+          "description": "向目标射出一支纯粹的虚空能量箭，造成([150% of Spell Power])点暗影伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Void Bolt",
+          "icon": "",
+          "description": "at their target and deal 50% increased damage."
+        },
+        {
+          "name": "Void Bolt",
+          "icon": "ability_ironmaidens_convulsiveshadows",
+          "description": "Sends a bolt of pure void energy at your target, dealing (150% of Spell Power) Shadow damage."
+        }
+      ]
     },
     {
       "nodeId": 110408,
@@ -1194,7 +2402,21 @@
       "icon": "inv12_apextalent_priest_voidapparitions",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "神像的效果激活时，召唤暗影幻灵。",
+      "descriptionEn": "When an effect from an Idol is activated, conjure Shadowy Apparitions.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     }
   ]
 }

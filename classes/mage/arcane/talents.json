@@ -39,7 +39,21 @@
       "icon": "spell_arcane_arcane02",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "从目标身上窃取 [窃法成瘾: 所有的增益魔法效果。这些效果最多持续2分钟 / 一个增益魔法效果。此效果最多持续2分钟]。",
+      "descriptionEn": "Steals [Kleptomania: all beneficial magic effects from the target. These effects lasts a maximum of 2 min / a beneficial magic effect from the target. This effect lasts a maximum of 2 min].",
+      "costCn": "21% 法力值",
+      "costEn": "21% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62085,
@@ -54,7 +68,21 @@
       "icon": "spell_fire_bluefire",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "寒冰屏障现在使受到的所有伤害降低70%，持续6秒，但不再提供免疫效果，阻止移动、攻击或施放法术。不触发公共冷却时间。",
+      "descriptionEn": "Ice Block now reduces all damage taken by 70% for 6 sec but no longer grants Immunity, prevents movement, attacks, or casting spells. Does not incur the Global Cooldown.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62086,
@@ -69,7 +97,21 @@
       "icon": "inv_10_dungeonjewelry_primalist_necklace_2_frost",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "寒冰屏障和深寒凝冰的冷却时间缩短30秒。",
+      "descriptionEn": "The cooldown of Ice Block and Ice Cold are reduced by 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62091,
@@ -84,7 +126,21 @@
       "icon": "spell_mage_evanesce",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每当你的护体屏障被移除时，使其冷却时间缩短5秒。",
+      "descriptionEn": "When your Barrier is removed, reduce its cooldown by 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62096,
@@ -99,7 +155,21 @@
       "icon": "spell_arcane_blink",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "闪现术和闪光术的冷却时间缩短3秒。",
+      "descriptionEn": "The cooldowns of Blink and Shimmer are reduced by 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62098,
@@ -114,7 +184,21 @@
       "icon": "inv_misc_book_18",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "急速提高2%。",
+      "descriptionEn": "Increases Haste by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62100,
@@ -129,7 +213,21 @@
       "icon": "spell_mage_temporalshield",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "施放你的护盾会移除所有减速效果。",
+      "descriptionEn": "Casting your barrier removes all snare effects.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62102,
@@ -144,7 +242,21 @@
       "icon": "inv_belt_armor_waistoftime_d_01",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "操控时间的冷却时间缩短5秒。",
+      "descriptionEn": "Reduces the cooldown of Alter Time by 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62104,
@@ -159,7 +271,21 @@
       "icon": "ability_priest_surgeofdarkness",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "法术反制的冷却时间缩短5秒。",
+      "descriptionEn": "Counterspell's cooldown is reduced by 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62105,
@@ -174,7 +300,21 @@
       "icon": "spell_arcane_massdispel",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将你向前传送20码，路线上有阻挡物则会停止。不受公共冷却时间影响，并可在施法过程中施放。",
+      "descriptionEn": "Teleports you 20 yds forward, unless something is in the way. Unaffected by the global cooldown and castable while casting.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62112,
@@ -189,7 +329,21 @@
       "icon": "rogue_burstofspeed",
       "rank": 1,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "[强化隐形术: 强效]隐形术使你的移动速度提高20%，持续6秒。",
+      "descriptionEn": "[Greater Invisibility: Greater]Invisibility increases your movement speed by 20% for 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62114,
@@ -204,7 +358,21 @@
       "icon": "spell_arcane_arcaneresilience",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到的魔法伤害降低4%。",
+      "descriptionEn": "Reduces magic damage taken by 4%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62115,
@@ -219,7 +387,21 @@
       "icon": "spell_mage_altertime",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "改变时间的结构，当你再次施法，或在10秒之后，你的位置和生命值会回到当前状态。死亡或距离太远会导致法术失效。",
+      "descriptionEn": "Alters the fabric of time, returning you to your current location and health when cast a second time, or after 10 sec. Effect negated by long distance or death.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62121,
@@ -234,7 +416,21 @@
       "icon": "spell_magearmor",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "为你施加奥术护盾，吸收[30 / 100 * [Total Health] * (1 + 全能)]点伤害，使受到的魔法伤害降低15%，持续1分钟。\n\n你身上所有有害魔法效果的持续时间缩短25%。",
+      "descriptionEn": "Shields you with an arcane force, absorbing [30 / 100 * Total Health * (1 + Versatility)] damage and reducing magic damage taken by 15% for 1 min.\n\nThe duration of harmful Magic effects against you is reduced by 25%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62122,
@@ -249,7 +445,21 @@
       "icon": "spell_frost_frost",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "一道寒冰屏障笼罩了你，使你在10秒内不会受到任何伤害，但是在这期间你也无法攻击、移动或施法。\n\n引发低温效果，在30秒内不能再次施放寒冰屏障。",
+      "descriptionEn": "Encases you in a block of ice, protecting you from all attacks and damage for 10 sec, but during that time you cannot attack, move, or cast spells.\n\nCauses Hypothermia, preventing you from recasting Ice Block for 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "4分钟 冷却",
+      "cooldownEn": "4 min cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62123,
@@ -264,7 +474,21 @@
       "icon": "spell_ice_rune",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "寒冰屏障的冷却时间缩短30秒。",
+      "descriptionEn": "The cooldown of Ice Block is reduced by 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62124,
@@ -279,7 +503,21 @@
       "icon": "spell_magic_lesserinvisibilty",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在你身边召唤3个持续15秒的镜像，可以施放法术并攻击你的敌人。镜像激活期间，你产生的仇恨值大幅降低。\n\n受到直接伤害将导致你的一个镜像消散。",
+      "descriptionEn": "Creates 3 copies of you nearby for 15 sec, which cast spells and attack your enemies. While active, you generate significantly reduced threat.\n\nTaking direct damage will cause one of your images to dissipate.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62127,
@@ -294,7 +532,21 @@
       "icon": "inv_misc_book_04",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "爆击几率提高2%。",
+      "descriptionEn": "Increases critical strike chance by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 93524,
@@ -309,7 +561,21 @@
       "icon": "ability_mage_greaterinvisibility",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你隐形，无法成为敌人的目标，持续20秒并移除所有威胁值。任何动作都会解除该效果。",
+      "descriptionEn": "Makes you invisible and untargetable for 20 sec, removing all threat. Any action taken cancels this effect.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101883,
@@ -324,7 +590,21 @@
       "icon": "spell_mage_supernova",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "在选中的敌人或盟友周围制造奥术能量脉冲，对8码范围内的所有敌人造成([34.5% of Spell Power])点奥术伤害，并将其击飞。主要敌方目标将额外受到100%的伤害。",
+      "descriptionEn": "Pulses arcane energy around the target enemy or ally, dealing (34.5% of Spell Power) Arcane damage to all enemies within 8 yds, and knocking them upward. A primary enemy target will take 100% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 62094,
@@ -339,7 +619,21 @@
       "icon": "spell_mage_overpowered",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "[闪光术 / 闪现术]获得一层额外充能。",
+      "descriptionEn": "[Shimmer / Blink] gains an additional charge.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108654,
@@ -354,7 +648,21 @@
       "icon": "warrior_doubletime",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在你返回至初始位置时，操控时间会重置闪现术和闪光术的冷却时间。",
+      "descriptionEn": "Alter Time resets the cooldown of Blink and Shimmer when you return to your original location.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108657,
@@ -369,7 +677,21 @@
       "icon": "inv_nerubian_necklace_02_color1",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "精通提高3%。",
+      "descriptionEn": "Your Mastery is increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108658,
@@ -384,7 +706,21 @@
       "icon": "inv_nerubian_necklace_02_color5",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的法术的爆击伤害提高5%。",
+      "descriptionEn": "The critical strike damage of your spells is increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108659,
@@ -399,7 +735,21 @@
       "icon": "ability_mage_invisibility",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "隐形术的冷却时间缩短60秒。",
+      "descriptionEn": "Reduces the cooldown of Invisibility by 60 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108660,
@@ -414,7 +764,21 @@
       "icon": "spell_holy_arcaneintellect",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术智慧使你的智力额外提高2%。",
+      "descriptionEn": "Arcane Intellect grants you an additional 2% Intellect.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108661,
@@ -429,7 +793,21 @@
       "icon": "spell_arcane_manatap",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n每当你的奥术弹幕未能造成爆击时，其爆击几率提高10%。\n\n当受影响的法术造成爆击后，此爆击加成便会移除。\n\n 冰霜\n每当你的寒冰箭未能造成爆击时，其爆击几率提高10%。\n\n当受影响的法术造成爆击后，此爆击加成便会移除。\n\n 火焰\n每当你的火球术未能造成爆击时，其爆击几率提高20%。\n\n当受影响的法术造成爆击后，此爆击加成便会移除。",
+      "descriptionEn": "Arcane\nEach time your Arcane Barrage fails to critically strike, it gains 10% increased critical strike chance.\n\nCritical strike bonus is removed when the affected spell critically strikes.\n\n Fire\nEach time your Fireball fails to critically strike, it gains 20% increased critical strike chance.\n\nCritical strike bonus is removed when the affected spell critically strikes.\n\n Frost\nEach time your Frostbolt fails to critically strike, it gains 10% increased critical strike chance.\n\nCritical strike bonus is removed when the affected spell critically strikes.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108662,
@@ -444,7 +822,21 @@
       "icon": "spell_arcane_focusedpower",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "镜像的冷却时间缩短30秒。",
+      "descriptionEn": "Mirror Image's cooldown is reduced by 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108664,
@@ -459,7 +851,21 @@
       "icon": "spell_magearmor",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "棱光护体额外获得一层充能，并使受到的魔法伤害进一步降低5%。",
+      "descriptionEn": "Prismatic Barrier gains an additional charge and further reduces magic damage taken by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110081,
@@ -474,7 +880,21 @@
       "icon": "ability_kaztik_dominatemind",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "火焰,  冰霜\n获得时?a137020[冰冷智慧][炽热连击]使你的智力提高1%，持续8秒。多次施加可以重叠生效。\n\n 奥术\n获得节能施法时?a137020[冰冷智慧][炽热连击]使你的智力提高1%，持续8秒。多次施加可以重叠生效。",
+      "descriptionEn": "Frost\nGaining Brain Freeze increases your Intellect by 1% for 8 sec. Multiple instances may overlap.\n\n Arcane\nGaining Clearcasting increases your Intellect by 1% for 8 sec. Multiple instances may overlap.\n\n Fire\nGaining Hot Streak increases your Intellect by 1% for 8 sec. Multiple instances may overlap.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110597,
@@ -489,7 +909,21 @@
       "icon": "inv_cloth_raidmage_p_01helm",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到的范围攻击伤害降低4%。",
+      "descriptionEn": "Damage taken from area of effect attacks reduced by 4%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94643,
@@ -504,7 +938,21 @@
       "icon": "inv_misc_powder_copper",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每次你的凤凰施放法术时，获得1层法力涌流。\n\n特殊法术额外提供1层。",
+      "descriptionEn": "Each time your Phoenix casts a spell, gain 1 stack of Mana Cascade.\n\nExceptional spells grant 1 additional stack.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94644,
@@ -519,7 +967,21 @@
       "icon": "inv_ragnaros_heart",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n奥术冲击的伤害提高30%。\n\n奥术脉冲的伤害提高20%。\n\n 火焰\n炎爆术的伤害提高3%。\n\n烈焰风暴的伤害提高3%。",
+      "descriptionEn": "Arcane\nArcane Blast damage increased by 30%.\n\nArcane Pulse damage increased by 20%.\n\n Fire\nPyroblast damage increased by 3%.\n\nFlamestrike damage increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94645,
@@ -534,7 +996,21 @@
       "icon": "inv_10_inscription2_book3_color1",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n当你的奥术凤凰被召唤时，会消耗你所有的法术火焰宝珠。\n\n每消耗一个宝珠，在奥术涌动[燃烧]期间你的法术伤害提高1%，并使你的奥术凤凰在持续时间内施放一次卓越的奥术或火焰法术。\n\n 火焰\n当你的奥术凤凰被召唤时，会消耗你所有的法术火焰宝珠。\n\n每消耗一个宝珠，在[燃烧]期间你的法术伤害提高1%，并使你的奥术凤凰在持续时间内施放一次卓越的奥术或火焰法术。",
+      "descriptionEn": "Arcane\nWhen your Arcane Phoenix is summoned, it consumes all your Spellfire Spheres.\n\nEach Sphere consumed increases your spell damage during Arcane Surge by 1% and causes your Arcane Phoenix to cast an exceptional Arcane or Fire spell over its duration.\n\n Fire\nWhen your Arcane Phoenix is summoned, it consumes all your Spellfire Spheres.\n\nEach Sphere consumed increases your spell damage during Combustion by 1% and causes your Arcane Phoenix to cast an exceptional Arcane or Fire spell over its duration.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94646,
@@ -549,7 +1025,43 @@
       "icon": "inv_ability_sunfurymage_spellfirespheres",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n当你的奥术凤凰消失时，它会强化你，使你获得奥术之魂，持续4.0秒。",
+      "descriptionEn": "Arcane\nWhen your Arcane Phoenix expires it empowers you, granting Arcane Soul for 4.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "奥术之魂",
+          "icon": "",
+          "description": "："
+        },
+        {
+          "name": "过热高温",
+          "icon": "spell_fire_burnout",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Arcane Soul",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Hyperthermia",
+          "icon": "spell_fire_burnout",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 94647,
@@ -564,7 +1076,43 @@
       "icon": "inv_1115_mage_spellfirespheresgeneration",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n施放伤害性法术有6%的几率召唤一颗法术火焰宝珠。\n\n脱离战斗时，你会随着时间缓慢地召唤法术火焰宝珠。",
+      "descriptionEn": "Arcane\nCasting a damaging spell has a 6% chance to conjure a Spellfire Sphere.\n\nWhile you're out of combat, you will slowly conjure Spellfire Spheres over time.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "法术火焰宝珠",
+          "icon": "",
+          "description": "你的法术伤害提高1.0%，最多叠加3次。"
+        },
+        {
+          "name": "法术火焰宝珠",
+          "icon": "inv_1115_mage_spellfirespheresgeneration",
+          "description": "你的法术伤害提高1.0%，最多叠加3次。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Spellfire Sphere",
+          "icon": "",
+          "description": "Increases your spell damage by 1.0%. Stacks up to 3 times."
+        },
+        {
+          "name": "Spellfire Sphere",
+          "icon": "inv_1115_mage_spellfirespheresgeneration",
+          "description": "Increases your spell damage by 1.0%. Stacks up to 3 times."
+        }
+      ]
     },
     {
       "nodeId": 94648,
@@ -579,7 +1127,21 @@
       "icon": "spell_arcane_focusedpower",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "火焰\n生成法术火焰宝珠的几率提高12%。\n\n法术火焰宝珠额外提供1%法术伤害。\n\n 奥术\n生成法术火焰宝珠的几率提高6%。\n\n法术火焰宝珠额外提供1%法术伤害。",
+      "descriptionEn": "Fire\nYour chance to generate a Spellfire Sphere is increased by 12%.\n\nSpellfire Spheres grant an additional 1% spell damage.\n\n Arcane\nYour chance to generate a Spellfire Sphere is increased by 6%.\n\nSpellfire Spheres grant an additional 1% spell damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94649,
@@ -594,7 +1156,21 @@
       "icon": "inv_helm_robe_raidmage_i_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n你的屏障法术提供的增益会在屏障移除后以100%的效果额外持续8秒。\n\n 火焰\n你的屏障法术提供的增益会在屏障移除后以100%的效果额外持续8秒。\n\n此外，灸灼不再对你造成伤害。",
+      "descriptionEn": "Arcane\nThe bonuses provided by your Barrier spells persist at 100% effectiveness for an additional 8 sec after your Barrier is removed.\n\n Fire\nThe bonuses provided by your Barrier spells persist at 100% effectiveness for an additional 8 sec after your Barrier is removed.\n\nAdditionally, Cauterize no longer deals damage to you.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94650,
@@ -609,7 +1185,21 @@
       "icon": "spell_fire_masterofelements",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n当你施放奥术涌动时，每有一个法术火焰宝珠，其持续时间就延长0.8秒，最多2.4秒。\n\n 火焰\n当你施放燃烧时，每有一个法术火焰宝珠，其持续时间就延长0.8秒，最多2.4秒。",
+      "descriptionEn": "Arcane\nWhen you cast Arcane Surge, its duration is extended by 0.8 sec for each Spellfire Sphere you have, up to 2.4 sec.\n\n Fire\nWhen you cast Combustion, its duration is extended by 0.8 sec for each Spellfire Sphere you have, up to 2.4 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94651,
@@ -624,7 +1214,21 @@
       "icon": "ability_paladin_handoflight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的奥术凤凰学会了一些新技巧，在被召唤时和消失时都会施放法术吸取。",
+      "descriptionEn": "Your Arcane Phoenix has picked up a few tricks, and will Spellsteal when it is summoned and when it expires.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94652,
@@ -639,7 +1243,43 @@
       "icon": "inv_misc_phoenixegg",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n当你施放奥术涌动时，召唤一只奥术凤凰协助你作战。",
+      "descriptionEn": "Arcane\nWhen you cast Arcane Surge, summon an Arcane Phoenix to aid you in battle.\n\n &nbsp;",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "奥术凤凰",
+          "icon": "",
+          "description": "你的奥术凤凰会在奥术涌动期间协助你，并随机施放奥术和火焰法术。"
+        },
+        {
+          "name": "奥术凤凰",
+          "icon": "inv_ability_sunfurymage_spellfirespheres",
+          "description": "你的奥术凤凰会在燃烧期间协助你，并随机施放奥术和火焰法术。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Arcane Phoenix",
+          "icon": "",
+          "description": "Your Arcane Phoenix aids you for the duration of your Arcane Surge, casting random Arcane and Fire spells."
+        },
+        {
+          "name": "Arcane Phoenix",
+          "icon": "",
+          "description": "Your Arcane Phoenix aids you for the duration of your Combustion, casting random Arcane and Fire spells."
+        }
+      ]
     },
     {
       "nodeId": 94653,
@@ -654,7 +1294,21 @@
       "icon": "spell_frost_manarecharge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n施放奥术冲击、奥术脉冲、奥术弹幕或棱彩飞弹使你获得0.5%的急速，持续6秒。多次效果可重叠。\n\n 火焰\n消耗炽热连击使你获得0.5%的急速，持续6秒。多次效果可重叠。",
+      "descriptionEn": "Arcane\nCasting Arcane Blast, Arcane Pulse, Arcane Barrage, or Prismatic Bolt grants you 0.5% Haste for 6 sec. Multiple applications may overlap.\n\n Fire\nConsuming Hot Streak grants you 0.5% Haste for 6 sec. Multiple applications may overlap.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 99830,
@@ -669,7 +1323,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/39_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "唤醒上层精灵的烈焰与奥术秘传，召唤强大的魔宠凤凰协助作战并释放炽热的引力奇点。",
+      "descriptionEn": "Channels highborne flame and arcane mastery, summoning an Arcane Phoenix and devastating gravity anomalies.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 102445,
@@ -684,7 +1342,21 @@
       "icon": "spell_shadow_manaburn",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "节能施法可以额外叠加2次。",
+      "descriptionEn": "Clearcasting can stack up to 2 additional times.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102446,
@@ -699,7 +1371,21 @@
       "icon": "spell_shadow_brainwash",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术齐射达到最大层数时，你的下一个奥术弹幕造成的伤害提高25%。",
+      "descriptionEn": "Upon reaching maximum stacks of Arcane Salvo, your next Arcane Barrage deals 25% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102449,
@@ -714,7 +1400,21 @@
       "icon": "ability_mage_arcanesurge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "消耗你当前的所有法力，歼灭你的目标和附近的敌人，根据消耗的法力值，造成最多[([372% of Spell Power]) * 2]点奥术伤害。目标超过8个时伤害会降低。\n\n在接下来的15秒内，你的法力恢复速度提高425%，法术伤害提高35%。",
+      "descriptionEn": "Expend all of your current mana to annihilate your enemy target and nearby enemies for up to [(372% of Spell Power) * 2] Arcane damage based on Mana spent. Deals reduced damage beyond 8 targets.\n\nFor the next 15 sec, your Mana regeneration is increased by 425% and spell damage is increased by 35%.",
+      "costCn": "1至2900001法力值",
+      "costEn": "1 to 2900001 Mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2.5秒 施法时间",
+      "castTimeEn": "2.5 sec cast",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102451,
@@ -729,7 +1429,21 @@
       "icon": "ability_racial_arcaneaffinity",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每一波奥术飞弹有50%几率使你额外获得1层奥术齐射。",
+      "descriptionEn": "Each wave of Arcane Missiles has a 50% chance to grant 1 additional stack of Arcane Salvo.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102467,
@@ -744,7 +1458,33 @@
       "icon": "spell_nature_starfall",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "需要节能施法：在2.5秒内向敌人射出5波奥术飞弹，对其造成总计[(4) * ([107.8% of Spell Power])]点奥术伤害。",
+      "descriptionEn": "Requires Clearcasting：Launches 5 waves of Arcane Missiles at the enemy over 2.5 sec, causing a total of [(4) * (107.8% of Spell Power)] Arcane damage.",
+      "costCn": "15% 法力值",
+      "costEn": "15% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2.5秒 施法时间",
+      "castTimeEn": "Channeled",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "需要节能施法",
+          "icon": "",
+          "description": "在2.5秒内向敌人射出5波奥术飞弹，对其造成总计[(4) * ([107.8% of Spell Power])]点奥术伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Requires Clearcasting",
+          "icon": "",
+          "description": "Launches 5 waves of Arcane Missiles at the enemy over 2.5 sec, causing a total of [(4) * (107.8% of Spell Power)] Arcane damage."
+        }
+      ]
     },
     {
       "nodeId": 102468,
@@ -759,7 +1499,21 @@
       "icon": "inv_ability_mage_radiantspark",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "对你当前的目标施加大法师之触，将你在12秒内对目标造成伤害的20%积累起来，然后发生爆炸，对目标造成相当于积累量的奥术伤害，并对所有附近的敌人造成较少的伤害。",
+      "descriptionEn": "Applies Touch of the Magi to your current target, accumulating 20% of the damage you deal to the target for 12 sec, and then exploding for that amount of Arcane damage to the target and reduced damage to all nearby enemies.",
+      "costCn": "5% 法力值",
+      "costEn": "5% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102470,
@@ -774,7 +1528,21 @@
       "icon": "ability_socererking_arcanefortification",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术伤害基于当前法力值提高，法力全满时最多提高6%。\n\n法力值恢复速度基于当前法力值提高，法力值耗尽时最多提高20%。",
+      "descriptionEn": "Arcane damage dealt is increased based on your current mana, up to 6% at full mana.\n\nMana Regen is increased based on your current mana, up to 20% when out of mana.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102471,
@@ -789,7 +1557,21 @@
       "icon": "ability_mage_arcanebarrage",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每有一层奥术充能，奥术弹幕就可以额外击中附近的1个目标，对其造成40%的伤害。",
+      "descriptionEn": "For each Arcane Charge, Arcane Barrage hits 1 additional nearby target for 40% damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102472,
@@ -804,7 +1586,21 @@
       "icon": "spell_shaman_maelstromweapon",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每一波奥术飞弹有50%几率使你获得1层奥术充能。\n\n奥术飞弹的伤害提高20%。",
+      "descriptionEn": "Each wave of Arcane Missiles has a 50% chance to grant you 1 Arcane Charge.\n\nArcane Missiles damage increased by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102474,
@@ -819,7 +1615,21 @@
       "icon": "spell_mage_arcaneorb_nightborne",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每拥有一层奥术齐射，奥术弹幕就有4%的几率在你前方发射一颗100%效果的奥术宝珠。",
+      "descriptionEn": "Arcane Barrage has a 4% chance per stack of Arcane Salvo to launch an Arcane Orb in front of you at 100% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102475,
@@ -834,7 +1644,21 @@
       "icon": "spell_mage_arcaneorb",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术宝珠额外获得1层充能。奥术宝珠的伤害提高15%。",
+      "descriptionEn": "Arcane Orb gains 1 additional charge. Arcane Orb damage increased by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102480,
@@ -849,7 +1673,21 @@
       "icon": "ability_mage_studentofthemind",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术充能使奥术冲击和奥术弹幕的伤害额外提高10%。",
+      "descriptionEn": "Arcane Charges increase the damage of Arcane Blast and Arcane Barrage by an additional 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 104113,
@@ -864,7 +1702,21 @@
       "icon": "spell_mage_arcaneorb",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "从你的位置向前射出一颗奥术宝珠，最多行进40码，对其触碰到的敌人造成([243.2% of Spell Power])点奥术伤害。",
+      "descriptionEn": "Launches an Arcane Orb forward from your position, traveling up to 40 yds, dealing (243.2% of Spell Power) Arcane damage to enemies it passes through.",
+      "costCn": "1% 法力值",
+      "costEn": "1% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "20秒 冷却",
+      "cooldownEn": "20 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102465,
@@ -879,7 +1731,21 @@
       "icon": "inv_misc_scrollrolled03d",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "施放大法师之触会获得节能施法。",
+      "descriptionEn": "Casting Touch of the Magi grants Clearcasting.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108535,
@@ -894,7 +1760,21 @@
       "icon": "inv_enchant_essencearcanelarge",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术飞弹现在以50%的效能额外攻击2个目标。",
+      "descriptionEn": "Arcane Missiles now damages 2 additional targets at 50% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108536,
@@ -909,7 +1789,21 @@
       "icon": "inv_6_2raid_trinket_1b",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术冲击的法力值消耗降低5%，伤害提高8%。",
+      "descriptionEn": "Reduces Arcane Blast's mana cost by 5% and increases its damage by 8%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102460,
@@ -924,7 +1818,21 @@
       "icon": "spell_holy_mindsooth",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "奥术飞弹和唤醒现在可以在移动中引导。",
+      "descriptionEn": "Arcane Missiles and Evocation can now be channeled while moving.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "引导",
+      "castTimeEn": "channeled",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108537,
@@ -939,7 +1847,33 @@
       "icon": "spell_nature_wispheal",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术齐射的伤害加成提高2%。",
+      "descriptionEn": "Arcane Salvo damage bonus increased by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "奥术齐射",
+          "icon": "",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Arcane Salvo",
+          "icon": "",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 108538,
@@ -954,7 +1888,21 @@
       "icon": "spell_mage_overpowered",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术飞弹的引导速度提高20%。",
+      "descriptionEn": "Arcane Missiles channels 20% faster.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "引导",
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108539,
@@ -969,7 +1917,21 @@
       "icon": "inv12_ability_mage_arcanesalvo",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每一波奥术飞弹会使奥术弹幕的伤害提高3%，最多提高60%。",
+      "descriptionEn": "Each wave of Arcane Missiles increases the damage of Arcane Barrage by 3%, up to 60%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108541,
@@ -984,7 +1946,21 @@
       "icon": "spell_arcane_arcane01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术弹幕每额外击中一个目标，造成的伤害就提高8%。",
+      "descriptionEn": "Arcane Barrage deals 8% increased damage per target it hits beyond the first.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108665,
@@ -999,7 +1975,21 @@
       "icon": "spell_mage_presenceofmind",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "消耗节能施法的法术的伤害提升20%。",
+      "descriptionEn": "When a spell consumes Clearcasting, its damage is increased by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109002,
@@ -1014,7 +2004,21 @@
       "icon": "inv_helmet_101",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "施放奥术冲击或奥术脉冲可获得2层奥术齐射。\n\n施放奥术宝珠可获得1层奥术齐射。\n\n施放棱彩飞弹可获得4层奥术齐射。",
+      "descriptionEn": "Casting Arcane Blast or Arcane Pulse grants 2 stacks of Arcane Salvo.\n\nCasting Arcane Orb grants 1 stack of Arcane Salvo.\n\nCasting Prismatic Bolt grants 4 stacks of Arcane Salvo.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109478,
@@ -1029,7 +2033,21 @@
       "icon": "ability_socererking_arcanereplication",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "获得节能施法时，有25%的几率过载你的下一个奥术飞弹，使其造成的伤害提高100%，产生最大层数的奥术齐射，并以50%的效果额外打击3个目标。",
+      "descriptionEn": "Gaining Clearcasting has a 25% chance to cause your next Arcane Missiles to be Overpowered, causing it to deal 100% increased damage, generate maximum stacks of Arcane Salvo, and strike 3 additional targets at 50% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109673,
@@ -1044,7 +2062,21 @@
       "icon": "shaman_talent_elementalblast",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n奥术齐射可额外叠加5次。\n\n陨星的伤害提高15%。\n\n 火焰\n火焰冲击的冷却时间缩短1.0秒。\n\n陨星的伤害提高15%。",
+      "descriptionEn": "Arcane\nArcane Salvo can stack 5 additional times.\n\nMeteorite damage increased by 15%.\n\n Fire\nFire Blast cooldown reduced by 1.0 sec.\n\nMeteorite damage increased by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109674,
@@ -1059,7 +2091,21 @@
       "icon": "spell_fire_meteorstorm",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "火焰\n来自火球术的伤害有20%的几率召唤一颗陨星。\n\n陨星降落时，火焰冲击的冷却时间缩短0.5秒。\n\n 奥术\n每一波奥术飞弹有10%的几率召唤一颗陨星。\n\n陨星降落时，你有5%的几率获得节能施法。",
+      "descriptionEn": "Fire\nDamage from Fireball has a 20% chance to summon a Meteorite.\n\nWhen a Meteorite lands, the cooldown of Fire Blast is reduced by 0.5 sec.\n\n Arcane\nEach wave of Arcane Missiles has a 10% chance to summon a Meteorite.\n\nWhen a Meteorite lands, you have a 5% chance to gain Clearcasting.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109675,
@@ -1074,7 +2120,43 @@
       "icon": "spell_burningsoul",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术\n奥术弹幕每消耗5层奥术齐射，就会召唤1颗陨星。",
+      "descriptionEn": "Arcane\nArcane Barrage summons 1 Meteorite for every 5 Arcane Salvo stacks consumed.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "陨星",
+          "icon": "",
+          "description": "召唤一颗陨星，3秒后落在目标位置，对击中的所有敌人造成([102% of Spell Power])点火焰伤害。目标超过8个时对所有敌人造成的伤害降低。"
+        },
+        {
+          "name": "陨星",
+          "icon": "spell_mage_meteor",
+          "description": "召唤一颗陨星，3秒后落在目标位置，对击中的所有敌人造成([102% of Spell Power])点火焰伤害。目标超过8个时对所有敌人造成的伤害降低。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Meteorite",
+          "icon": "",
+          "description": "Calls down a meteorite which lands at the target location after 3 sec, dealing (102% of Spell Power) Fire damage to all enemies hit, reduced beyond 8 targets."
+        },
+        {
+          "name": "Meteorite",
+          "icon": "spell_mage_meteor",
+          "description": "Calls down a meteorite which lands at the target location after 3 sec, dealing (102% of Spell Power) Fire damage to all enemies hit, reduced beyond 8 targets."
+        }
+      ]
     },
     {
       "nodeId": 110420,
@@ -1089,7 +2171,21 @@
       "icon": "inv12_apextalent_mage_touchofthearchmage",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "每消耗一层奥术齐射，获得棱彩飞弹的几率提高1%。\n\n奥术弹幕的伤害提高15%。",
+      "descriptionEn": "Increases the chance to gain Prismatic Bolt by 1% per stack of Arcane Salvo consumed.\n\nArcane Barrage damage increased by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110420,
@@ -1104,7 +2200,21 @@
       "icon": "inv12_apextalent_mage_touchofthearchmage",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "棱彩飞弹有50%的几率触发节能施法。\n\n奥术飞弹的伤害提高15%。",
+      "descriptionEn": "Prismatic Bolt has a 50% chance to grant Clearcasting.\n\nArcane Missiles damage increased by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110420,
@@ -1119,7 +2229,33 @@
       "icon": "inv12_apextalent_mage_touchofthearchmage",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术弹幕每消耗一层奥术齐射，就有1%的几率将你的下一次奥术冲击替换为棱彩飞弹。",
+      "descriptionEn": "Arcane Barrage has a 1% chance per stack of Arcane Salvo consumed to replace your next Arcane Blast with Prismatic Bolt.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "棱彩飞弹",
+          "icon": "",
+          "description": "以压倒性的能量摧垮目标，对其造成([3200% of Spell Power])点奥术伤害，并对附近的其他敌人造成([2500% of Spell Power])点奥术伤害。超过5个目标时造成的伤害降低。\n\n产生4层奥术充能。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Prismatic Bolt",
+          "icon": "",
+          "description": "Devastates the target with overwhelming energy, dealing (3200% of Spell Power) Arcane damage to them and (2500% of Spell Power) Arcane damage to other nearby enemies. Damage reduced beyond 5 targets.\n\nGenerates 4 Arcane Charges."
+        }
+      ]
     },
     {
       "nodeId": 110442,
@@ -1134,7 +2270,21 @@
       "icon": "ability_socererking_arcaneacceleration",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的急速提高2%。",
+      "descriptionEn": "Your Haste is increased by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110849,
@@ -1149,7 +2299,21 @@
       "icon": "spell_arcane_invocation",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "奥术飞弹额外发射2枚飞弹。",
+      "descriptionEn": "Arcane Missiles fires 2 additional missiles.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110850,
@@ -1164,7 +2328,21 @@
       "icon": "inv_112_arcane_buff",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你承受的伤害的10%改为在8秒内造成。施放镜像会使该效果提高至30%，持续15秒。",
+      "descriptionEn": "10% of damage you would take is instead dealt over 8 sec. Casting Mirror Image increases this effect to 30% for 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     }
   ]
 }

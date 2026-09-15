@@ -39,7 +39,21 @@
       "icon": "spell_shadow_destructivesoul",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "灵魂石和制造治疗石的施法时间缩短50%。",
+      "descriptionEn": "Reduces the cast time of Soulstone and Create Healthstone by 50%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71922,
@@ -54,7 +68,21 @@
       "icon": "spell_warlock_summonimpoutland",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你和你宠物的最大生命值提高5%。",
+      "descriptionEn": "Increases you and your pets' maximum health by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71926,
@@ -69,7 +97,33 @@
       "icon": "warlock_-bloodstone",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你为自己召唤的治疗石变为恶魔治疗石，可以在战斗中使用多次。恶魔治疗石无法交易。",
+      "descriptionEn": "Healthstones you conjure for yourself are now Demonic Healthstones and can be used multiple times in combat. Demonic Healthstones cannot be traded.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "恶魔治疗石",
+          "icon": "",
+          "description": "立即恢复25%的生命值 [强化治疗石: ，并在6秒内额外恢复30%的生命值。 / 。]"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Demonic Healthstone",
+          "icon": "",
+          "description": "Instantly restores 25% health [Empowered Healthstone: plus an additional 30% over 6 sec / .]"
+        }
+      ]
     },
     {
       "nodeId": 71930,
@@ -84,7 +138,21 @@
       "icon": "spell_shadow_metamorphosis",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "耐力提高10%。",
+      "descriptionEn": "Stamina increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71931,
@@ -99,7 +167,21 @@
       "icon": "spell_shadow_felmending",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你下一次召唤小鬼、虚空行者、夜魔、魅魔、地狱猎犬或恶魔卫士不消耗能量，施法时间缩短90%。",
+      "descriptionEn": "Your next Imp, Voidwalker, Incubus, Succubus, Felhunter, or Felguard Summon spell is free and has its casting time reduced by 90%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3分钟 冷却",
+      "cooldownEn": "3 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71933,
@@ -114,7 +196,21 @@
       "icon": "warlock_siphonlife",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你和你的仆从造成的所有单体伤害会为你和你的宠物提供一个能够吸收伤害的暗影护盾，吸收量相当于造成伤害的3%，持续15秒，吸收量最多不超过最大生命值的5 / 恶魔皮肤: 10 / 邪蹄诡图: 20 / 强韧灵魂: 10%。",
+      "descriptionEn": "All single-target damage done by you and your minions grants you and your pet shadowy shields that absorb 3% of the damage dealt for 15 sec, up to 5 / Demon Skin: 10 / Illhoof's Design: 20 / Fortified Soul: 10% of maximum health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71936,
@@ -129,7 +225,21 @@
       "icon": "spell_shadow_deathpact",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "牺牲你当前生命值的20%，为你施加护盾抵挡伤害。该护盾可吸收相当于已牺牲生命值的200%以及额外的(法术强度 * 2.5)点伤害，持续20秒。可在遭受控制限制效果时施放。",
+      "descriptionEn": "Sacrifices 20% of your current health to shield you for 200% of the sacrificed health plus an additional (Spell Power * 2.5) for 20 sec. Usable while suffering from control impairing effects.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71937,
@@ -144,7 +254,21 @@
       "icon": "ability_ironmaidens_bloodritual",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "黑暗契约的冷却时间缩短15秒。",
+      "descriptionEn": "Reduces the cooldown of Dark Pact by 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71941,
@@ -159,7 +283,21 @@
       "icon": "spell_shadow_shadowfury",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗影之怒的冷却时间缩短15秒，半径增加2码。\n\n恐惧嚎叫的冷却时间缩短5秒，并且现在额外恐惧5个敌人。",
+      "descriptionEn": "Reduces the cooldown of Shadowfury by 15 sec and increases its radius by 2 yds.\n\nReduces the cooldown of Howl of Terror by 5 sec and it now fears 5 additional enemies.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71942,
@@ -174,7 +312,21 @@
       "icon": "ability_warlock_mortalcoil",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使敌方目标因恐惧而逃跑，瘫痪3秒，并为你恢复20%的最大生命值。",
+      "descriptionEn": "Horrifies an enemy target into fleeing, incapacitating for 3 sec and healing you for 20% of maximum health.",
+      "costCn": "2% 法力值",
+      "costEn": "2% of base mana",
+      "rangeCn": "20 码范围",
+      "rangeEn": "20 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71944,
@@ -189,7 +341,21 @@
       "icon": "spell_shadow_cripple",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "放逐一个敌方恶魔、畸变怪 [强效放逐术: 、亡灵]或元素生物，使其无法行动，持续30秒。只能对一个目标使用。再次对目标施放放逐术会取消该效果。",
+      "descriptionEn": "Banishes an enemy Demon, Aberration [Greater Banish: Undead], or Elemental, preventing any action for 30 sec. Limit 1. Casting Banish again on the target will cancel the effect.",
+      "costCn": "1.5% 法力值",
+      "costEn": "1.5% of base mana",
+      "rangeCn": "30 码范围",
+      "rangeEn": "30 yd range",
+      "castTimeCn": "1.5秒 施法时间",
+      "castTimeEn": "1.5 sec cast",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71947,
@@ -204,7 +370,21 @@
       "icon": "ability_warlock_shadowfurytga",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "使8码范围内的所有敌人昏迷，持续3秒。",
+      "descriptionEn": "Stuns all enemies within 8 yds for 3 sec.",
+      "costCn": "1% 法力值",
+      "costEn": "1% of base mana",
+      "rangeCn": "35 码范围",
+      "rangeEn": "35 yd range",
+      "castTimeCn": "1.5秒 施法时间",
+      "castTimeEn": "1.5 sec cast",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71948,
@@ -219,7 +399,21 @@
       "icon": "inv_misc_moosehoof_fel",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "爆燃冲刺造成的伤害降低10%。爆燃冲刺使你的移动速度额外提高20%。",
+      "descriptionEn": "Reduces the damage dealt by Burning Rush by 10%. Burning Rush increases your movement speed by an additional 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71949,
@@ -234,7 +428,21 @@
       "icon": "ability_deathwing_sealarmorbreachtga",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的移动速度提高50%，但每1秒会对你造成4%最大生命值的伤害。期间移动限制效果不会让你的移动速度降低到正常移动速度的100%以下，持续直到主动取消。",
+      "descriptionEn": "Increases your movement speed by 50%, but also damages you for 4% of your maximum health every 1 sec. Movement impairing effects may not reduce you below 100% of normal movement speed. Lasts until canceled.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71950,
@@ -249,7 +457,21 @@
       "icon": "spell_shadow_felarmour",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "灵魂榨取吸收伤害时，会将所受伤害的5%吸收并分散在5秒内。\n\n受到的伤害降低1.5%。",
+      "descriptionEn": "When Soul Leech absorbs damage, 5% of damage taken is absorbed and spread out over 5 sec.\n\nReduces damage taken by 1.5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71952,
@@ -264,7 +486,21 @@
       "icon": "spell_shadow_ragingscream",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的灵魂榨取的吸收效果会被动恢复，每1秒恢复最大生命值的0.2%，并且现在会额外吸收生命值上限的5%。\n\n你的护甲值提高45%。",
+      "descriptionEn": "Your Soul Leech absorption now passively recharges at a rate of 0.2% of maximum health every 1 sec, and may now absorb an additional 5% of maximum health.\n\nIncreases your armor by 45%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "被动",
+      "castTimeEn": "passive",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71954,
@@ -279,7 +515,21 @@
       "icon": "achievement_explore_argus",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使用恶魔法阵：传送或你的恶魔传送门会使你受到的所有伤害降低4%，持续10秒。",
+      "descriptionEn": "Using Demonic Circle: Teleport or your Demonic Gateway reduces all damage you take by 4% for 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71955,
@@ -294,7 +544,21 @@
       "icon": "spell_warlock_demonicportal_green",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在两个位置分别召唤一个恶魔传送门。使用者激活传送门后会立即被传送到另一个传送门。每名玩家每90秒只能使用一次恶魔传送门。",
+      "descriptionEn": "Creates a demonic gateway between two locations. Activating the gateway transports the user to the other gateway. Each player can use a Demonic Gateway only once per 90 sec.",
+      "costCn": "10% 法力值",
+      "costEn": "10% of base mana",
+      "rangeCn": "10 - 40 码范围",
+      "rangeEn": "10 - 40 yd range",
+      "castTimeCn": "2秒 施法时间",
+      "castTimeEn": "2 sec cast",
+      "cooldownCn": "10秒 冷却",
+      "cooldownEn": "10 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71956,
@@ -309,7 +573,21 @@
       "icon": "spell_shadow_demonictactics",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "不灭决心会使你受到的伤害额外降低15%。",
+      "descriptionEn": "Unending Resolve reduces damage taken by an additional 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 71957,
@@ -324,7 +602,63 @@
       "icon": "spell_warlock_soulburn",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "消耗一块灵魂碎片，解锁你法术中的隐藏能力。",
+      "descriptionEn": "Consumes a Soul Shard, unlocking the hidden power of your spells.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "6秒 冷却",
+      "cooldownEn": "6 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "恶魔法阵：传送",
+          "icon": "",
+          "description": "：使你的移动速度提高50%，并且使你免疫诱捕和定身效果，持续6秒。"
+        },
+        {
+          "name": "恶魔传送门",
+          "icon": "",
+          "description": "：变为瞬发。"
+        },
+        {
+          "name": "吸取生命",
+          "icon": "",
+          "description": "：获得与治疗量等量的吸收盾，持续30秒。护盾的吸收总量不超过你最大生命值的30%。"
+        },
+        {
+          "name": "治疗石",
+          "icon": "",
+          "description": "：使你的治疗石的治疗效果提高30%，使用治疗石还会使你的最大生命值提高20%，持续12秒。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Demonic Circle: Teleport",
+          "icon": "",
+          "description": ": Increases your movement speed by 50% and makes you immune to snares and roots for 6 sec."
+        },
+        {
+          "name": "Demonic Gateway",
+          "icon": "",
+          "description": ": Can be cast instantly."
+        },
+        {
+          "name": "Drain Life",
+          "icon": "",
+          "description": ": Gain an absorb shield equal to the amount of healing done for 30 sec. This shield cannot exceed 30% of your maximum health."
+        },
+        {
+          "name": "Healthstone",
+          "icon": "",
+          "description": ": Increases the healing of your Healthstone by 30% and increases your maximum health by 20% for 12 sec."
+        }
+      ]
     },
     {
       "nodeId": 100941,
@@ -339,7 +673,33 @@
       "icon": "spell_shadow_demoniccirclesummon",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤一道持续15分钟的恶魔法阵。施放恶魔法阵：传送可将你传送到恶魔法阵的位置，并移除所有减速效果。 [基尔罗格的狡诈: 如果你在控制一个基尔罗格之眼时施放恶魔法阵：传送，法阵将出现在基尔罗格之眼的位置。]\n\n你还学会了：",
+      "descriptionEn": "Summons a Demonic Circle for 15 min. Cast Demonic Circle: Teleport to teleport to its location and remove all movement slowing effects. [Kilrogg's Cunning: If you cast Demonic Circle: Summon while controlling an Eye of Kilrogg, the circle will appear where the eye is located]\n\nYou also learn:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "恶魔法阵：传送",
+          "icon": "",
+          "description": "将你传送到你的恶魔法阵并移除所有移动减速效果。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Demonic Circle: Teleport",
+          "icon": "",
+          "description": "Teleports you to your Demonic Circle and removes all movement slowing effects."
+        }
+      ]
     },
     {
       "nodeId": 109840,
@@ -354,7 +714,21 @@
       "icon": "ability_creature_cursed_02",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "施放疲劳诅咒、语言诅咒或虚弱诅咒现在会诅咒目标10码范围内的所有敌人。",
+      "descriptionEn": "Casting Curse of Exhaustion, Curse of Tongues, or Curse of Weakness now curses all enemies within 10 yds of the target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109842,
@@ -369,7 +743,21 @@
       "icon": "ability_warlock_soullink",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恶魔学识\n你所受伤害的5%会由你的恶魔宠物替你承担。\n\n 痛苦,  毁灭\n你所受伤害的5%会由你的恶魔宠物替你承担。\n\n当牺牲魔典激活时，你的耐力提高3%。",
+      "descriptionEn": "Demonology\n5% of all damage you take is taken by your demon pet instead. \n\n Affliction,  Destruction\n5% of all damage you take is taken by your demon pet instead. \n\nWhile Grimoire of Sacrifice is active, your Stamina is increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109843,
@@ -384,7 +772,21 @@
       "icon": "achievement_boss_argus_femaleeredar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的智力提高3%。",
+      "descriptionEn": "Increases your Intellect by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109845,
@@ -399,7 +801,21 @@
       "icon": "spell_warlock_harvestoflife",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "死亡缠绕的射程增加10码，并且死亡缠绕现在会额外治疗5%的最大生命值。",
+      "descriptionEn": "Increases the range of Mortal Coil by 10 yds and Mortal Coil now heals for an additional 5% of maximum health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109846,
@@ -414,7 +830,21 @@
       "icon": "spell_shadow_curseoftounges",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "强迫目标使用恶魔语，使其所有法术的施放时间延长30%，持续1分钟。\n\n诅咒：对于一个目标，每个术士只能施加一种诅咒。",
+      "descriptionEn": "Forces the target to speak in Demonic, increasing the casting time of all spells by 30% for 1 min.\n\nCurses: A warlock can only have one Curse active per target.",
+      "costCn": "1% 法力值",
+      "costEn": "1% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110071,
@@ -429,7 +859,21 @@
       "icon": "inv_misc_magtheridonshead",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的爆击几率提高2%。",
+      "descriptionEn": "Increases your critical strike chance by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110072,
@@ -444,7 +888,21 @@
       "icon": "spell_shadow_mindshear",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的急速提高2%。",
+      "descriptionEn": "Increases your haste by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110073,
@@ -459,7 +917,21 @@
       "icon": "ability_physical_taunt_purple",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的吸血提高2%。",
+      "descriptionEn": "Increases your Leech by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110074,
@@ -474,7 +946,21 @@
       "icon": "spell_warlock_demonsoul",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "灵魂榨取现在可以额外吸收你生命值上限的5%。",
+      "descriptionEn": "Soul Leech may now absorb an additional 5% of your maximum health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110075,
@@ -489,7 +975,21 @@
       "icon": "inv_raid_creepingcoagulum_blue",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗石为你恢复额外5%的生命值。",
+      "descriptionEn": "Healthstones heal you for an additional 5% additional health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109848,
@@ -504,7 +1004,21 @@
       "icon": "spell_shadow_curseoftongues_amplified",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "召唤一团阴暗的暗影迷雾笼罩目标及其10码内的所有敌人，使其所有法术的施法时间延长100%，持续12秒。\n\n诅咒：一名术士在每个目标身上只能同时激活一种诅咒或灾厄效果。",
+      "descriptionEn": "Call forth a cloud of cloying shadow mist that envelopes the target and all enemies within 10 yds, increasing their casting time of all spells by 100% for 12 sec.\n\nCurses: A warlock can only have one Curse or Blight active per target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94826,
@@ -519,7 +1033,43 @@
       "icon": "achievement_boss_argus_shivan",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恶魔学识\n混沌之母强化你的下一个暗影箭，使其变为狱火箭。",
+      "descriptionEn": "Destruction\nMother of Chaos empowers your next Incinerate to become Infernal Bolt.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "狱火箭",
+          "icon": "",
+          "description": "射出一支包裹在深渊狱火中的飞箭，对敌方目标造成([1347.35% of Spell Power])点火焰伤害，并产生3个灵魂碎片。"
+        },
+        {
+          "name": "狱火箭",
+          "icon": "spell_fel_firebolt",
+          "description": "射出一支包裹在深渊狱火中的飞箭，对敌方目标造成([1347.35% of Spell Power])点火焰伤害，并产生2个灵魂碎片。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Infernal Bolt",
+          "icon": "",
+          "description": "Hurl a bolt enveloped in the infernal flames of the abyss, dealing (1347.35% of Spell Power) Fire damage to your enemy target and generating 2 Soul Shards."
+        },
+        {
+          "name": "Infernal Bolt",
+          "icon": "spell_fel_firebolt",
+          "description": "Hurl a bolt enveloped in the infernal flames of the abyss, dealing (1347.35% of Spell Power) Fire damage to your enemy target and generating 3 Soul Shards."
+        }
+      ]
     },
     {
       "nodeId": 94830,
@@ -534,7 +1084,43 @@
       "icon": "ability_bossmannoroth_empoweredmannorothsgaze",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恶魔学识\n召唤深渊领主会使你的下一个古尔丹之手变为陨灭。",
+      "descriptionEn": "Destruction\nSummoning a Pit Lord causes your next Chaos Bolt to become Ruination.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "陨灭",
+          "icon": "",
+          "description": "从扭曲虚空的深处召唤一颗恶魔滋孽的流星，对目标周围8码内的所有敌人造成([2537.91% of Spell Power])点混乱伤害并召唤3个野生小鬼。\n\n目标超过8个时造成的伤害降低。"
+        },
+        {
+          "name": "陨灭",
+          "icon": "spell_fire_felflamestrike",
+          "description": "从扭曲虚空的深处召唤一颗恶魔滋孽的流星，对目标周围8码内的所有敌人造成([2537.91% of Spell Power])点混乱伤害并召唤1个敬魔小鬼。\n\n爆击几率可以提高伤害，目标超过8个时造成的伤害降低。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Ruination",
+          "icon": "",
+          "description": "Call down a demon-infested meteor from the depths of the Twisting Nether, dealing (2537.91% of Spell Power) Chaos damage on impact to all enemies within 8 yds of the target and summoning 1 Diabolic Imp.\n\nDamage is further increased by your critical strike chance and is reduced beyond 8 targets."
+        },
+        {
+          "name": "Ruination",
+          "icon": "spell_fire_felflamestrike",
+          "description": "Call down a demon-infested meteor from the depths of the Twisting Nether, dealing (2537.91% of Spell Power) Chaos damage on impact to all enemies within 8 yds of the target and summoning 3 Wild Imps.\n\nDamage is reduced beyond 8 targets."
+        }
+      ]
     },
     {
       "nodeId": 94831,
@@ -549,7 +1135,21 @@
       "icon": "70_inscription_vantus_rune_tomb",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "毁灭\n强化召唤地狱火，造成的伤害提高40%。当你的召唤地狱火结束时，它会分裂成两个较小的地狱火，产生50%的效果，持续10秒。\n\n 恶魔学识\n强化召唤恶魔暴君，造成的伤害提高70%，并且激活时使你的恶魔造成的伤害提高20%。",
+      "descriptionEn": "Demonology\nSummon Demonic Tyrant is empowered, dealing 70% increased damage and increasing the damage of your demons by 20% while active.\n\n Destruction\nSummon Infernal becomes empowered, dealing 40% increased damage. When your Summon Infernal ends, it fragments into two smaller Infernals at 50% effectiveness that lasts 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94833,
@@ -564,7 +1164,21 @@
       "icon": "ability_warlock_burningembers",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "火焰伤害提高4%，你的恶魔造成的伤害提高4%。",
+      "descriptionEn": "Fire damage increased by 4% and damage dealt by your demons is increased by 4%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94836,
@@ -579,7 +1193,21 @@
       "icon": "spell_shadow_demoniccircleteleport",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你在施放恶魔法阵：传送时始终获得灵魂燃烧的增益，使你的移动速度提高50%，并且免疫诱捕和定身效果，持续6秒。",
+      "descriptionEn": "You always gain the benefit of Soulburn when casting Demonic Circle: Teleport, increasing your movement speed by 50% and making you immune to snares and roots for 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94843,
@@ -594,7 +1222,21 @@
       "icon": "ability_rogue_envelopingshadows",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恶魔学识\n古尔丹之手每消耗一个灵魂碎片，造成的伤害提高15%。\n\n 毁灭\n被你的浩劫标记的敌人受到你的单目标法术伤害提高7%。",
+      "descriptionEn": "Destruction\nEnemies marked by your Havoc take 7% increased damage from your single target spells.\n\n Demonology\nHand of Gul'dan deals 15% increased damage for each Soul Shard spent.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94849,
@@ -609,7 +1251,21 @@
       "icon": "ability_creature_felfrenzy",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "主宰对敌人造成伤害时击溃他们的灵魂，使其受到你和你的宠物的伤害提高5%，持续15秒。",
+      "descriptionEn": "Enemies damaged by your Overlord have their souls cloven, increasing damage taken by you and your pets by 5% for 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94852,
@@ -624,7 +1280,21 @@
       "icon": "inv_fabric_felcloth_ebon",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "不灭决心在10秒内为你恢复最大生命值的30%。",
+      "descriptionEn": "Unending Resolve heals you for 30% of your maximum health over 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94855,
@@ -639,7 +1309,21 @@
       "icon": "ability_bossfelorcs_necromancer_purple",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恶魔学识\n伤害法术消耗一个灵魂碎片会触发敬魔仪式，持续20秒。敬魔仪式激活时，伤害法术每消耗一个灵魂碎片使其持续时间缩短1秒。\n\n敬魔仪式结束时，你获得恶魔法术，使你的下一个古尔丹之手召唤一个主宰、混沌之母或深渊领主，对敌人施展一次毁灭性攻击。\n\n 毁灭\n施放混乱之箭、火焰之雨或暗影灼烧会使你获得敬魔仪式，持续20秒。如果敬魔仪式已经激活，则使其持续时间减少1秒。\n\n敬魔仪式结束时，你获得恶魔法术，使你的下一个混乱之箭、火焰之雨或暗影灼烧召唤一个主宰、混沌之母或深渊领主，对敌人施展一次毁灭性攻击。",
+      "descriptionEn": "Destruction\nCasting Chaos Bolt, Rain of Fire, or Shadowburn grants Diabolic Ritual for 20 sec. If Diabolic Ritual is already active, its duration is reduced by 1 sec instead.\n\nWhen Diabolic Ritual expires you gain Demonic Art, causing your next Chaos Bolt, Rain of Fire, or Shadowburn to summon an Overlord, Mother of Chaos, or Pit Lord that unleashes a devastating attack against your enemies.\n\n Demonology\nSpending a Soul Shard on a damaging spell grants Diabolic Ritual for 20 sec. While Diabolic Ritual is active, each Soul Shard spent on a damaging spell reduces its duration by 1 sec.\n\nWhen Diabolic Ritual expires you gain Demonic Art, causing your next Hand of Gul'dan to summon an Overlord, Mother of Chaos, or Pit Lord that unleashes a devastating attack against your enemies.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94856,
@@ -654,7 +1338,21 @@
       "icon": "ability_bossfellord_felspike",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恶魔学识\n恶魔法术使你的下一个古尔丹之手伤害提高20%，施法时间缩短50%。\n\n\n\n 毁灭\n恶魔法术使你的下一个混乱之箭、火焰之雨或暗影灼烧伤害提高20%，施法时间缩短50%。\n\n施放混乱之箭会使敬魔仪式的持续时间额外减少1秒。",
+      "descriptionEn": "Destruction\nDemonic Art increases the damage of your next Chaos Bolt, Rain of Fire, or Shadowburn by 20% and reduces its cast time by 50%.\n\nCasting Chaos Bolt reduces the duration of Diabolic Ritual by 1 additional sec.\n\n Demonology\nDemonic Art increases the damage of your next Hand of Gul'dan by 20% and reduces its cast time by 50%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94848,
@@ -669,7 +1367,21 @@
       "icon": "inv_misc_supersoulash",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "毁灭\n你的地狱火激活时，消耗灵魂碎片的伤害性法术使敬魔仪式的持续时间额外缩短1秒。\n\n 恶魔学识\n你的恶魔暴君激活时，消耗灵魂碎片的伤害性法术使敬魔仪式的持续时间额外缩短1秒。",
+      "descriptionEn": "Demonology\nSpending Soul Shards on damaging spells while your Demonic Tyrant is active decreases the duration of Diabolic Ritual by 1 additional sec.\n\n Destruction\nSpending Soul Shards on damaging spells while your Infernal is active decreases the duration of Diabolic Ritual by 1 additional sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 99849,
@@ -684,7 +1396,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/59_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "与燃烧军团高阶恶魔达成契约，召唤霸王、折磨者和深渊恶魔降临，造成全场毁灭性打击。",
+      "descriptionEn": "Contracts with high-tier legion fiends, tearing open rifts to summon Overlords, Tormentors, and Pit Lords.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 101887,
@@ -699,7 +1415,21 @@
       "icon": "warlock_pvp_callfelhunter",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的恐惧猎犬的攻击有10%的几率触发一次额外的恐惧之咬。",
+      "descriptionEn": "Your Dreadstalkers' attacks have a 10% chance to trigger an additional Dreadbite.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101888,
@@ -714,7 +1444,21 @@
       "icon": "spell_shadow_summonvoidwalker",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你的恐惧猎犬冲进战场时，恐惧之咬造成的伤害提高10%，且会攻击8码内的所有目标。",
+      "descriptionEn": "When your Dreadstalkers charge into battle, their Dreadbite attack now hits all targets within 8 yards and deals 10% more damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101891,
@@ -729,7 +1473,21 @@
       "icon": "ability_warlock_handofguldan",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤一枚装满野生小鬼的恶魔流星，爆炸后攻击敌人。\n\n命中时对目标周围8码内的所有敌人造成最多[3 * ([50.1188% of Spell Power])]点暗影烈焰伤害 [末日之手: ，对其施放末日降临]，并召唤3个野生小鬼。",
+      "descriptionEn": "Calls down a demonic meteor full of Wild Imps which burst forth to attack the target.\n\nDeals up to [3 * (50.1188% of Spell Power)] Shadowflame damage on impact to all enemies within 8 yds of the target [Hand of Doom: applies Doom to each target] and summons 3 Wild Imps.",
+      "costCn": "3灵魂碎片",
+      "costEn": "3 Soul Shards",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "1.5秒 施法时间",
+      "castTimeEn": "1.5 sec cast",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101893,
@@ -744,7 +1502,21 @@
       "icon": "inv_implosion",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恶魔之力将你的6只野生小鬼吸引到目标周围，然后使其发生强烈的爆炸，对8码范围内的所有敌人造成([136.382% of Spell Power])点暗影烈焰伤害。",
+      "descriptionEn": "Demonic forces suck 6 of your Wild Imps toward the target, and then cause them to violently explode, dealing (136.382% of Spell Power) Shadowflame damage to all enemies within 8 yards.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "15秒 冷却",
+      "cooldownEn": "15 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101894,
@@ -759,7 +1531,21 @@
       "icon": "spell_warlock_calldreadstalkers",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤2只凶猛的恐惧猎犬攻击目标，持续12秒。",
+      "descriptionEn": "Summons 2 ferocious Dreadstalkers to attack the target for 12 sec.",
+      "costCn": "2灵魂碎片",
+      "costEn": "2 Soul Shards",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2秒 施法时间",
+      "castTimeEn": "2 sec cast",
+      "cooldownCn": "20秒 冷却",
+      "cooldownEn": "20 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101895,
@@ -774,7 +1560,33 @@
       "icon": "inv_felhound3_shadow_fire",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "你的召唤邪犬变为召唤灼焦恶犬，并习得以下技能：",
+      "descriptionEn": "Your Summon Vilefiend becomes Summon Charhound and learns the following ability:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "狱火气息",
+          "icon": "",
+          "description": "身披永燃不灭的深渊烈焰，每1秒对10码内的敌人造成([15.9865% of Spell Power])点火焰伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Infernal Presence",
+          "icon": "",
+          "description": "Cloaked in the ever-burning flames of the abyss, dealing (15.9865% of Spell Power) Fire damage to enemies within 10 yards every 1 sec."
+        }
+      ]
     },
     {
       "nodeId": 101903,
@@ -789,7 +1601,21 @@
       "icon": "inv_felstalker_pet",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤恐惧猎犬消耗的灵魂碎片减少1片，其施法时间缩短50%。",
+      "descriptionEn": "Call Dreadstalkers costs 1 less Soul Shard and its cast time is reduced by 50%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101905,
@@ -804,7 +1630,33 @@
       "icon": "inv_summondemonictyrant",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤一个恶魔暴君攻击目标，持续15秒。\n\n每存在一个野生小鬼和恐惧猎犬，恶魔暴君造成的伤害就提高10%。 [魂缚暴君:",
+      "descriptionEn": "Summon a Demonic Tyrant that damages your target for 15 sec. \n\nDamage dealt by Demonic Tyrant is increased by 10% for each Wild Imp and Dreadstalker active. [Soulbound Tyrant:",
+      "costCn": "2% 法力值",
+      "costEn": "2% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2秒 施法时间",
+      "castTimeEn": "2 sec cast",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "产生0个灵魂碎片。",
+          "icon": "",
+          "description": "]"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Generates 0 Soul Shards.",
+          "icon": "",
+          "description": "]"
+        }
+      ]
     },
     {
       "nodeId": 101908,
@@ -819,7 +1671,21 @@
       "icon": "spell_nature_removecurse",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "精通提高3%，召唤恶魔暴君和恶魔卫士的施法时间缩短0.5秒。",
+      "descriptionEn": "Increases Mastery by 3% and reduces the cast time of your Summon Demonic Tyrant and Summon Felguard by 0.5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101909,
@@ -834,7 +1700,21 @@
       "icon": "spell_shaman_firenova",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的恐惧猎犬攻击速度提高10%，爆击几率提高15%。",
+      "descriptionEn": "Increases the attack speed of your Dreadstalkers by 10% and their critical strike chance by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101914,
@@ -849,7 +1729,21 @@
       "icon": "spell_shadow_rune",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗影箭的施法时间降低10%，伤害提升15%。",
+      "descriptionEn": "Reduces the cast time of Shadow Bolt by 10% and increases its damage by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101920,
@@ -864,7 +1758,21 @@
       "icon": "ability_demonhunter_bladedance",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你与恶魔造成的伤害性爆击会造成230%的伤害，而非通常的200%。",
+      "descriptionEn": "Damaging critical strikes dealt by you and your demons deal 230% damage instead of the usual 200%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101923,
@@ -879,7 +1787,21 @@
       "icon": "spell_warlock_summonimpoutland",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "野生小鬼的恶魔火焰箭爆击几率提高15%。",
+      "descriptionEn": "Increases the critical strike chance of your Wild Imp's Fel Firebolt by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109241,
@@ -894,7 +1816,33 @@
       "icon": "inv_plate_helmet_eredarargus_d_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的恶魔暴君装备了在安托鲁斯锻造的护甲，使其护甲值提高10%。被召唤时，你的恶魔暴君现在会用强大的近战攻击打击敌人。",
+      "descriptionEn": "Your Demonic Tyrant is equipped with armor forged within Antorus, increasing their armor by 10%. While summoned, your Demonic Tyrant now assaults enemies with powerful melee attacks.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "炽燃顺劈",
+          "icon": "",
+          "description": "劈砍施法者面前区域的敌人，造成([96% of Spell Power])点暗影烈焰伤害。超过8个目标时伤害降低。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Burning Cleave",
+          "icon": "",
+          "description": "Cleaves the area in front of the caster, inflicting (96% of Spell Power) Shadowflame damage. Damage reduced beyond 8 targets."
+        }
+      ]
     },
     {
       "nodeId": 109244,
@@ -909,7 +1857,43 @@
       "icon": "inv_demonbolt",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "获得以下技能：",
+      "descriptionEn": "Grants access to the following abilities:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "恶魔之箭",
+          "icon": "",
+          "description": "向敌人发射死亡恶魔的燃烧之魂，造成([799.508% of Spell Power])点暗影烈焰伤害。 [ 恶魔学识: 产生2块灵魂碎片。]"
+        },
+        {
+          "name": "恶魔之核",
+          "icon": "warlock_spelldrain",
+          "description": "当你的野生小鬼消失或爆炸时，你有10%的几率吸收掉它们的生命精华，使你获得一层恶魔之核。\n\n当你召唤的恐惧猎犬消失时，你有100%的几率吸收它们的生命精华，使你获得一层恶魔之核。\n\n恶魔之核可以使恶魔之箭的施法时间降低100%，最多叠加4次。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Demonbolt",
+          "icon": "",
+          "description": "Send the fiery soul of a fallen demon at the enemy, causing (799.508% of Spell Power) Shadowflame damage. [ Demonology: Generates 2 Soul Shards.]"
+        },
+        {
+          "name": "Demonic Core",
+          "icon": "warlock_spelldrain",
+          "description": "When your Wild Imps fade or are imploded, you have a 10% chance to absorb their life essence, granting you a stack of Demonic Core. \n\nWhen your summoned Dreadstalkers fade away, you have a 100% chance to absorb their life essence, granting you a stack of Demonic Core.\n\nDemonic Core reduces the cast time of Demonbolt by 100%. Maximum 4 stacks."
+        }
+      ]
     },
     {
       "nodeId": 109248,
@@ -924,7 +1908,21 @@
       "icon": "ability_creature_poison_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的恐惧猎犬獠牙沾满腐蚀胆汁，使恐惧之咬造成50%的额外伤害，这些伤害被视为瘟疫伤害。",
+      "descriptionEn": "The fangs of your Dreadstalkers are coated in corrosive bile, causing Dreadbite to deal additional damage equal to 50% of damage dealt as Plague damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109250,
@@ -939,7 +1937,21 @@
       "icon": "ability_kaztik_dominatemind",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的智力提高2%。",
+      "descriptionEn": "Increases your Intellect by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109252,
@@ -954,7 +1966,21 @@
       "icon": "inv_argusfelstalkermount",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤恐惧猎犬也会召唤一只邪犬协助你作战，持续15秒。",
+      "descriptionEn": "Call Dreadstalkers also summons a Vilefiend that assists you in combat for 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109253,
@@ -969,7 +1995,21 @@
       "icon": "ability_warlock_empoweredimp",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "古尔丹之手现在会强化其召唤的1个野生小鬼，使其造成的伤害提高100%。",
+      "descriptionEn": "Hand of Gul'dan now empowers 1 of the Wild Imps it summons, increasing its damage dealt by 100%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109257,
@@ -984,7 +2024,21 @@
       "icon": "spell_shadow_summonfelguard",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤一个恶魔卫士为你作战，恶魔卫士是强大的近战斗士。",
+      "descriptionEn": "Summons a Felguard under your command as a powerful melee combatant.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "6秒 施法时间",
+      "castTimeEn": "6 sec cast",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109831,
@@ -999,7 +2053,21 @@
       "icon": "spell_holy_healingfocus",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的天魔邪眼观察战场并收集信息，在爆炸时将信息传递给你，每个天魔邪眼都会使你的智力提高2%，持续10秒。",
+      "descriptionEn": "Your Diabolic Oculi observe the battlefield and collect information that is imparted to you upon being exploded, each Diabolic Oculi increasing your Intellect by 2% for 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109832,
@@ -1014,7 +2082,33 @@
       "icon": "ability_bosskilrogg_deadeye",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的天魔邪眼激活时，现在会每1秒对你的主要恶魔的目标施放天魔凝视。",
+      "descriptionEn": "Your Diabolic Oculi now cast Diabolic Gaze at your primary demon's target every 1 sec while active.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "天魔凝视",
+          "icon": "",
+          "description": "向目标发射一道毁灭性的混乱魔法光束，造成([80% of Spell Power])点混乱伤害。\n\n每个激活的恶魔邪眼会使伤害提高100%。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Diabolic Gaze",
+          "icon": "",
+          "description": "Fire a beam of destructive chaos magic at the target, dealing (80% of Spell Power) Chaos damage.\n\nDamage is increased by 100% per Demonic Oculus active."
+        }
+      ]
     },
     {
       "nodeId": 109833,
@@ -1029,7 +2123,21 @@
       "icon": "inv_pet_inquisitoreye",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每当你的法术缩短敬魔仪式的持续时间时，你都会召唤一个恶魔邪眼，最多3个。\n\n恶魔邪眼在消耗恶魔法术时会爆炸，对目标10码范围内的所有敌人造成([234.62% of Spell Power])点火焰伤害。超过8个目标后伤害降低。",
+      "descriptionEn": "You summon a Diabolic Oculus, up to 3, each time the duration of Diabolic Ritual is reduced by one of your spells.\n\nDiabolic Oculi explode when consuming Demonic Art, dealing (234.62% of Spell Power) Fire damage to all enemies within 10 yds of the target. Damage reduced beyond 8 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109934,
@@ -1044,7 +2152,21 @@
       "icon": "spell_argus_withering_fire",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你的野生小鬼施放恶魔火焰箭时，有10%的几率立即额外施放一次效果为200%的恶魔火焰箭。",
+      "descriptionEn": "When your Wild Imps cast Fel Firebolt, they have 10% chance to instantly cast another Fel Firebolt at 200% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110191,
@@ -1059,7 +2181,21 @@
       "icon": "spell_warlock_demonwrath",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的恶魔暴君在激活期间还会强化你，使你的急速提高8%。",
+      "descriptionEn": "Your Demonic Tyrant also empowers you while active, increasing your haste by 8%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110194,
@@ -1074,7 +2210,21 @@
       "icon": "ability_warlock_eradication",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你每12秒自动召唤一个野生小鬼为你而战。",
+      "descriptionEn": "You passively summon a Wild Imp to fight for you every 12 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "passive",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110197,
@@ -1089,7 +2239,21 @@
       "icon": "inv_imp3_purple",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤一个小鬼领主协助你战斗，持续20秒，并在召唤时为你移除1个有害效果。\n\n在冷却期间转变为烧灼驱魔。",
+      "descriptionEn": "Summons an Imp Lord to assist you in combat for 20 sec and will remove 1 harmful effect from you when summoned. \n\nTransforms into Singe Magic while on cooldown.",
+      "costCn": "1灵魂碎片",
+      "costEn": "1 Soul Shard",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110198,
@@ -1104,7 +2268,21 @@
       "icon": "inv_helm_cloth_pvpwarlock_o_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你控制的每个恶魔都会使你的恶魔造成的伤害提高1.0%。",
+      "descriptionEn": "Your demons deal 1.0% increased damage for each demon you control.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110199,
@@ -1119,7 +2297,33 @@
       "icon": "ability_warlock_impoweredimp",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "能量虹吸和内爆每牺牲2个野生小鬼，便召唤出1个小鬼首领。以这种方式被召唤出的野生小鬼会获得动荡的灵魂。",
+      "descriptionEn": "Power Siphon and Implosion summon 1 Imp Gang Boss for every 2 Wild Imps sacrificed. Wild Imps summoned this way gain Unstable Soul.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "动荡的灵魂",
+          "icon": "",
+          "description": "造成的伤害提高50%，恶魔火焰箭现在会额外弹射至4个目标。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Unstable Soul",
+          "icon": "",
+          "description": "Increases damage done by 50% and Fel Firebolt now jumps to 4 additional targets."
+        }
+      ]
     },
     {
       "nodeId": 110201,
@@ -1134,7 +2338,21 @@
       "icon": "ability_warlock_demonicpower",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的恶魔暴君持续时间额外延长5秒，并在召唤时将你的恐惧猎犬的持续时间延长15秒。",
+      "descriptionEn": "Your Demonic Tyrant lasts an additional 5 sec and extends the duration of your Dreadstalkers by 15 sec when summoned.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110404,
@@ -1149,7 +2367,21 @@
       "icon": "inv12_apextalent_warlock_dominionofargus",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "当阿古斯支配激活时，古尔丹之手会返还1个灵魂碎片。\n\n由阿古斯支配召唤的恶魔持续时间额外延长4秒。",
+      "descriptionEn": "While Dominion of Argus is active, Hand of Gul'dan refunds 1 Soul Shard.\n\nDemons summoned by Dominion of Argus last an additional 4 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110404,
@@ -1164,7 +2396,21 @@
       "icon": "inv12_apextalent_warlock_dominionofargus",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "使阿古斯支配的持续时间延长5秒，并使古尔丹之手造成的伤害提高10%。",
+      "descriptionEn": "Increases the duration of Dominion of Argus by 5 sec and increases damage dealt by Hand of Gul'dan by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110404,
@@ -1179,7 +2425,21 @@
       "icon": "inv12_apextalent_warlock_dominionofargus",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤你的恶魔暴君会打开一个通往阿古斯的传送门，持续15秒，每施放2次古尔丹之手就会召唤一个被征服的恶魔为你战斗10秒。",
+      "descriptionEn": "Summoning your Demonic Tyrant leaves open a portal to Argus for 15 sec, causing every 2 casts of Hand of Gul'dan to summon a subjugated demon that serves you for 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     }
   ]
 }

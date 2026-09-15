@@ -39,7 +39,21 @@
       "icon": "spell_druid_wildcharge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "飞向附近一个盟友的位置。",
+      "descriptionEn": "Fly to a nearby ally's position.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "15秒 冷却",
+      "cooldownEn": "15 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82199,
@@ -54,7 +68,21 @@
       "icon": "ability_druid_disembowel",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "斜掠目标，造成([29.1% of Attack Power])点流血伤害，并在15秒内额外造成([147% of Attack Power])点流血伤害。 [感染伤口: 使目标的移动速度降低20%，持续12秒。]",
+      "descriptionEn": "Rake the target for (29.1% of Attack Power) Bleed damage and an additional (147% of Attack Power) Bleed damage over 15 sec. [Infected Wounds: Reduces the target's movement speed by 20% for 12 sec]",
+      "costCn": "35能量",
+      "costEn": "35 Energy",
+      "rangeCn": "近战范围",
+      "rangeEn": "Melee Range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82206,
@@ -69,7 +97,21 @@
       "icon": "ability_druid_naturalperfection",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你获得的治疗效果提高4%。",
+      "descriptionEn": "Healing you receive is increased by 4%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82209,
@@ -84,7 +126,21 @@
       "icon": "ability_druid_typhoon",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "用猛烈的台风冲击你前方15码内的目标，将其击退，并使其移动速度降低50%，持续6秒。在任何形态下都可以使用该技能。",
+      "descriptionEn": "Blasts targets within 15 yards in front of you with a violent Typhoon, knocking them back and reducing their movement speed by 50% for 6 sec. Usable in all shapeshift forms.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82214,
@@ -99,7 +155,21 @@
       "icon": "ability_druid_healinginstincts",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "法术伤害和治疗效果提高6%。",
+      "descriptionEn": "Magical damage and healing increased by 6%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82218,
@@ -114,7 +184,21 @@
       "icon": "ability_bullrush",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "狂暴回复和树皮术会使所有受到的治疗效果提高20%。",
+      "descriptionEn": "Frenzied Regeneration and Barkskin increase all healing received by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82219,
@@ -129,7 +213,21 @@
       "icon": "spell_nature_spiritarmor",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "耐力提高4%。\n\n在熊形态下耐力额外提高5%。",
+      "descriptionEn": "Stamina increased by 4%.\n\nStamina in Bear Form is increased by an additional 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82220,
@@ -144,7 +242,21 @@
       "icon": "ability_bullrush",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "守护\n在3秒内为你恢复24%的生命值。\n\n 平衡,  野性,  恢复\n在3秒内为你恢复24%的生命值。",
+      "descriptionEn": "Guardian\nHeals you for 24% health over 3 sec.\n\n Balance,  Feral,  Restoration\nHeals you for 24% health over 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "36秒 冷却",
+      "cooldownEn": "36 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82223,
@@ -159,7 +271,21 @@
       "icon": "inv_misc_monsterclaw_03",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "平衡,  守护,  恢复\n横扫附近的敌人，造成物理伤害。伤害由变形形态决定。\n\n 野性\n横扫附近的敌人，造成物理伤害。伤害由变形形态决定。",
+      "descriptionEn": "Balance,  Guardian,  Restoration\nSwipe nearby enemies, inflicting Physical damage. Damage varies by shapeshift form.\n\n Feral\nSwipe nearby enemies, inflicting Physical damage. Damage varies by shapeshift form.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82224,
@@ -174,7 +300,21 @@
       "icon": "ability_racial_cannibalize",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在猎豹形态下，当一个产生连击点数的攻击造成爆击时，你会额外获得一个连击点数。持续性伤害效果不会触发该效果。\n\n裂伤的爆击伤害提高20%。",
+      "descriptionEn": "While in Cat Form, when you critically strike with an attack that generates a combo point, you gain an additional combo point. Damage over time cannot trigger this effect.\n\nMangle critical strike damage increased by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82225,
@@ -189,7 +329,21 @@
       "icon": "ability_druid_predatoryinstincts",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "物理伤害和护甲提高6%。",
+      "descriptionEn": "Physical damage and Armor increased by 6%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82227,
@@ -204,7 +358,21 @@
       "icon": "ability_druid_ironfur",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "护甲提高(124 / 变形大师: 161 / 强化鬃毛: 139 * 敏捷 / 100)点，持续7秒。",
+      "descriptionEn": "Increases armor by (124 / Master Shapeshifter: 161 / Reinforced Fur: 139 * Agility / 100) for 7 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "0.5 秒 冷却",
+      "cooldownEn": "0.5 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82228,
@@ -219,7 +387,21 @@
       "icon": "inv_misc_pelt_bear_03",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到的所有伤害降低4%。",
+      "descriptionEn": "Reduces all damage taken by 4%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82229,
@@ -234,7 +416,21 @@
       "icon": "ability_hunter_beastsoothe",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "安抚目标，驱散所有激怒效果。",
+      "descriptionEn": "Soothes the target, dispelling all enrage effects.",
+      "costCn": "1.12% 法力值",
+      "costEn": "1.12% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "10秒 冷却",
+      "cooldownEn": "10 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82230,
@@ -249,7 +445,21 @@
       "icon": "spell_druid_stamedingroar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "狂奔怒吼的冷却时间缩短60秒。",
+      "descriptionEn": "Stampeding Roar's cooldown is reduced by 60 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82231,
@@ -261,10 +471,66 @@
       "nameEn": "Heart of the Wild",
       "nameCn": "野性之心",
       "spellId": 1261867,
-      "icon": "spell_holy_blessingofagility",
+      "icon": "inv12_ability_druid_flourish_empowered",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n根据你当前激活的变形形态施放强大的其他职责技能。\n\n 平衡,  野性\n根据你当前激活的变形形态施放强大的其他职责技能。",
+      "descriptionEn": "Restoration\nPerform a powerful off-role ability depending on your currently active shapeshift form.\n\n Balance,  Feral\nPerform a powerful off-role ability depending on your currently active shapeshift form.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "非变形形态：",
+          "icon": "",
+          "description": "强效野性成长，在7秒内治疗目标30码范围内最多5名受伤的盟友，恢复[([336.7% of Spell Power]) * 750 / 100]点生命值。"
+        },
+        {
+          "name": "非变形形态：",
+          "icon": "",
+          "description": "强效野性成长，在7秒内治疗目标30码范围内最多5名受伤的盟友，恢复[([336.7% of Spell Power]) * 750 / 100]点生命值。"
+        },
+        {
+          "name": "猎豹形态：",
+          "icon": "",
+          "description": "释放强效野性狂乱，用你的利爪向目标发动5次扫击，造成[5 * ([16.3% of Attack Power]) * 1000 / 100]点物理伤害，并在6秒内额外造成[5 * 1000 / 100 * ([32.67% of Attack Power]) * 6 / 2]点流血伤害。获得5个连击点数。"
+        },
+        {
+          "name": "枭兽形态：",
+          "icon": "",
+          "description": "召唤强效流星，轰击40码范围内的敌人，在8秒内造成[54 * ([27% of Spell Power])]点星辰伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Non-shapeshifted:",
+          "icon": "",
+          "description": "Empowered Wild Growth that heals up to 5 injured allies within 30 yards of the target for [(336.7% of Spell Power) * 750 / 100] over 7 sec."
+        },
+        {
+          "name": "Non-shapeshifted:",
+          "icon": "",
+          "description": "Empowered Wild Growth that heals up to 5 injured allies within 30 yards of the target for [(336.7% of Spell Power) * 750 / 100] over 7 sec."
+        },
+        {
+          "name": "Cat Form:",
+          "icon": "",
+          "description": "Unleash an empowered Feral Frenzy, clawing your target 5 times for [5 * (16.3% of Attack Power) * 1000 / 100] Physical damage and an additional [5 * 1000 / 100 * (32.67% of Attack Power) * 6 / 2] Bleed damage over 6 sec. Awards 5 combo points."
+        },
+        {
+          "name": "Moonkin Form:",
+          "icon": "",
+          "description": "Call down waves of empowered falling stars upon enemies within 40 yds, dealing [54 * (27% of Spell Power)] Astral damage over 8 sec."
+        }
+      ]
     },
     {
       "nodeId": 82233,
@@ -279,7 +545,21 @@
       "icon": "inv_trinket_ardenweald_02_green",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在每种形态下，你会分别获得3%的某种属性值：\n\n无形态：急速\n猎豹形态：爆击\n熊形态：全能\n枭兽形态：精通",
+      "descriptionEn": "You gain 3% of a stat while in each form:\n\nNo Form: Haste\nCat Form: Critical Strike\nBear Form: Versatility\nMoonkin Form: Mastery",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82234,
@@ -294,7 +574,21 @@
       "icon": "spell_druid_stampedingroar_cat",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "变为熊形态并发出一声野性咆哮，使15码范围内的所有友方玩家的移动速度提高60%，持续8秒。",
+      "descriptionEn": "Shift into Bear Form and let loose a wild roar, increasing the movement speed of all friendly players within 15 yards by 60% for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82235,
@@ -309,7 +603,21 @@
       "icon": "ability_druid_tigersroar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你的生命值低于40%时，你会施放狂暴回复，每120秒最多触发一次。",
+      "descriptionEn": "When you fall below 40% health, you cast Frenzied Regeneration, up to once every 120 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82236,
@@ -324,7 +632,21 @@
       "icon": "ability_druid_dash",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "移动速度提高15%。",
+      "descriptionEn": "Increases your movement speed by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82237,
@@ -339,7 +661,21 @@
       "icon": "ability_druid_demoralizingroar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "变为熊形态并召唤乌索尔之魂，发出震耳的咆哮，使10码范围内的所有敌人瘫痪3秒。伤害可能解除该效果。",
+      "descriptionEn": "Shift into Bear Form and invoke the spirit of Ursol to let loose a deafening roar, incapacitating all enemies within 10 yards for 3 sec. Damage may cancel the effect.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82239,
@@ -354,7 +690,21 @@
       "icon": "ability_xavius_tormentingswipe",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "斜掠、割裂和痛击的伤害提高10%。",
+      "descriptionEn": "Rake, Rip, and Thrash damage increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82241,
@@ -369,7 +719,21 @@
       "icon": "spell_holy_removecurse",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "抵消友方目标身上的腐蚀效果，移除所有诅咒和中毒效果。",
+      "descriptionEn": "Nullifies corrupting effects on the friendly target, removing all Curse and Poison effects.",
+      "costCn": "10% 法力值",
+      "costEn": "10% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "8秒 冷却",
+      "cooldownEn": "8 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82242,
@@ -384,7 +748,21 @@
       "icon": "inv_bone_skull_04",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你向目标冲锋，发动迎头痛击，打断其正在施放的法术并使其在5秒内无法施放该系法术。",
+      "descriptionEn": "You charge and bash the target's skull, interrupting spellcasting and preventing any spell in that school from being cast for 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "15秒 冷却",
+      "cooldownEn": "15 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 100175,
@@ -399,7 +777,21 @@
       "icon": "spell_nature_giftofthewild",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你对自己施放野性印记时，效果提高100%。",
+      "descriptionEn": "Mark of the Wild is 100% more effective on yourself.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 100176,
@@ -414,7 +806,21 @@
       "icon": "spell_nature_stoneclawtotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "生存本能和树皮术使受到的伤害额外降低10%。",
+      "descriptionEn": "Survival Instincts and Barkskin reduce damage taken by an additional 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 100177,
@@ -429,7 +835,21 @@
       "icon": "inv_misc_pelt_15",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你使用树皮术或生存本能时，获得吸收[1875 / 100 * 攻击强度 * (1 + 全能)]点伤害的护盾，持续15秒。",
+      "descriptionEn": "When you use Barkskin or Survival Instincts, absorb [1875 / 100 * Attack Power * (1 + Versatility)] damage for 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 104078,
@@ -444,7 +864,21 @@
       "icon": "ability_druid_disembowel",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n技能造成的物理伤害提高25%。\n\n 平衡,  野性,  守护\n技能造成的物理伤害提高5%。",
+      "descriptionEn": "Restoration\nPhysical damage dealt by your abilities increased by 25%.\n\n Balance,  Feral,  Guardian\nPhysical damage dealt by your abilities increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82232,
@@ -459,7 +893,21 @@
       "icon": "spell_nature_healingtouch",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当受到超过最大生命值12%的伤害时，立即恢复10%的生命值。\n\n此效果每30秒只能触发一次。",
+      "descriptionEn": "When a hit deals more than 12% of your maximum health, instantly heal for 10% of your health.\n\nThis effect cannot occur more than once every 30 seconds.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 104080,
@@ -474,7 +922,21 @@
       "icon": "spell_nature_starfall",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "月火术和阳炎术的伤害提高10%。",
+      "descriptionEn": "Moonfire and Sunfire damage increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 104082,
@@ -489,7 +951,21 @@
       "icon": "ability_druid_tigersroar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "精确本能最多每90秒可触发一次。",
+      "descriptionEn": "Well-Honed Instincts can trigger up to once every 90 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82207,
@@ -504,7 +980,21 @@
       "icon": "spell_druid_ursolsvortex",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "在目标位置制造一股持续10秒的旋风，使8码范围内的所有敌人移动速度降低50%。敌人首次尝试离开漩涡时，狂风会将其拉回漩涡中心。可在所有形态下使用。",
+      "descriptionEn": "Conjures a vortex of wind for 10 sec at the destination, reducing the movement speed of all enemies within 8 yards by 50%. The first time an enemy attempts to leave the vortex, winds will pull that enemy back to its center. Usable in all shapeshift forms.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 104085,
@@ -519,7 +1009,21 @@
       "icon": "spell_nature_stoneclawtotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "树皮术的持续时间延长4秒。",
+      "descriptionEn": "Barkskin's duration is increased by 4 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82126,
@@ -534,7 +1038,21 @@
       "icon": "spell_druid_bearhug",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "痛击，横扫，月火术或重殴有15%几率重置裂伤的冷却时间，并使它额外产生4点怒气。",
+      "descriptionEn": "Thrash, Swipe, Moonfire, and Maul have a 15% chance to reset the cooldown on Mangle, and to cause it to generate an additional 4 Rage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82127,
@@ -549,7 +1067,21 @@
       "icon": "ability_druid_maul",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "重殴目标，造成([212.5% of Attack Power])点物理伤害。",
+      "descriptionEn": "Maul the target for (212.5% of Attack Power) Physical damage.",
+      "costCn": "40怒气",
+      "costEn": "40 Rage",
+      "rangeCn": "近战范围",
+      "rangeEn": "Melee Range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82129,
@@ -564,7 +1096,21 @@
       "icon": "ability_druid_tigersroar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你受到的所有伤害降低50%，持续6秒。",
+      "descriptionEn": "Reduces all damage you take by 50% for 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3分钟 冷却",
+      "cooldownEn": "3 min cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82131,
@@ -579,7 +1125,21 @@
       "icon": "ability_druid_primalagression",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "重殴和摧折造成的伤害提高30%。",
+      "descriptionEn": "Maul and Raze deal 30% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82135,
@@ -594,7 +1154,43 @@
       "icon": "inv_ability_druid_convokethespirits",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "化身：乌索克的守护者：:\n\n万灵之召：:",
+      "descriptionEn": "Incarnation: Guardian of Ursoc：:\n\nConvoke the Spirits：:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "化身：乌索克的守护者",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "万灵之召",
+          "icon": "inv_ability_druid_convokethespirits",
+          "description": ":"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Incarnation: Guardian of Ursoc",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Convoke the Spirits",
+          "icon": "inv_ability_druid_convokethespirits",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 82136,
@@ -609,7 +1205,21 @@
       "icon": "spell_druid_incarnation",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "一种强化的熊形态，能够给予你狂暴效果，使裂伤最多可以击中3个目标，并且最大生命值提高30%。\n\n持续30秒。持续期间内，你可以在其他形态与强化的熊形态之间自由切换。",
+      "descriptionEn": "An improved Bear Form that grants the benefits of Berserk, causes Mangle to hit up to 3 targets, and increases maximum health by 30%.\n\nLasts 30 sec. You may freely shapeshift in and out of this improved Bear Form for its duration.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3分钟 冷却",
+      "cooldownEn": "3 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82138,
@@ -624,7 +1234,21 @@
       "icon": "ability_druid_cresentburn",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在熊形态下，你造成的奥术伤害提高10%。",
+      "descriptionEn": "While in Bear Form, you deal 10% increased Arcane damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82140,
@@ -639,7 +1263,21 @@
       "icon": "inv12_ability_druid_afterthewildfire",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你每消耗300点怒气，都会爆发出一股治疗能量，为20码内的最多5名盟友恢复([750% of Attack Power])点生命值。",
+      "descriptionEn": "Every 300 Rage you spend causes a burst of restorative energy, healing up to 5 allies within 20 yds for (750% of Attack Power).",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 92226,
@@ -654,7 +1292,21 @@
       "icon": "ability_druid_manatree",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "裂伤额外提高25%的伤害，并额外产生5点怒气值。",
+      "descriptionEn": "Mangle generates 5 more Rage and deals 25% more damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82142,
@@ -669,7 +1321,21 @@
       "icon": "ability_druid_primaltenacity",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "痛击每次造成伤害时还会使你产生3点怒气，最多5个目标。",
+      "descriptionEn": "Thrash also generates 3 Rage each time it deals damage, on up to 5 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82143,
@@ -684,7 +1350,21 @@
       "icon": "ability_druid_enrage",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的树皮术和生存本能的冷却时间缩短12%。",
+      "descriptionEn": "Reduces the cooldowns of Barkskin and Survival Instincts by 12%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82145,
@@ -699,7 +1379,43 @@
       "icon": "spell_frost_iceclaw",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的伤害有5%的几率在目标身上自动触发一次没有消耗的月火术。",
+      "descriptionEn": "Your damage has a 5% chance to trigger a free automatic Moonfire on that target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "月火术",
+          "icon": "",
+          "description": "："
+        },
+        {
+          "name": "赤红之月",
+          "icon": "sha_ability_mage_firestarter_nightmare",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Moonfire",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Red Moon",
+          "icon": "sha_ability_mage_firestarter_nightmare",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 82146,
@@ -714,7 +1430,21 @@
       "icon": "spell_fire_twilightfireward",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "月火术使目标对你造成的伤害降低1%。",
+      "descriptionEn": "Moonfire reduces damage dealt to you by 1%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82147,
@@ -729,7 +1459,21 @@
       "icon": "spell_nature_starfall",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "月火术造成的伤害提高8%，同时还会攻击目标周围15码内的另一个敌人。",
+      "descriptionEn": "Moonfire deals 8% increased damage and also hits another nearby enemy within 15 yds of the target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82149,
@@ -744,7 +1488,21 @@
       "icon": "ability_druid_berserk",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "进入狂暴状态，持续15秒，使裂伤、痛击和低吼的冷却时间缩短50%，狂暴回复的冷却时间缩短100%。",
+      "descriptionEn": "Go berserk for 15 sec, reducing the cooldowns of Mangle, Thrash, and Growl by 50% and the cooldown of Frenzied Regeneration by 100%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3分钟 冷却",
+      "cooldownEn": "3 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 92227,
@@ -759,7 +1517,21 @@
       "icon": "inv_1115_druid_bearstanding",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你从熊形态切换形态时，生命值和护甲加成效果会在8秒内缓慢衰减。",
+      "descriptionEn": "When you shapeshift out of Bear Form, its benefits to health and armor slowly decay over 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82152,
@@ -774,7 +1546,21 @@
       "icon": "ability_druid_swipe",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每一层痛击都会使目标对你造成的伤害降低3%，而你对目标造成的伤害提高2%。",
+      "descriptionEn": "Each stack of Thrash reduces the target's damage to you by 3% and increases your damage to them by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82154,
@@ -789,7 +1575,21 @@
       "icon": "spell_druid_thrash",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "痛击有10%的几率额外触发一次痛击。\n\n痛击可以额外叠加1次。",
+      "descriptionEn": "Thrash has a 10% chance to trigger an additional Thrash.\n\nThrash stacks 1 additional time.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82156,
@@ -804,7 +1604,21 @@
       "icon": "spell_lfieblood",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当狂暴回复造成过量治疗时，溢出治疗量的80%会转化为吸收护盾。",
+      "descriptionEn": "When Frenzied Regeneration would heal you above maximum health, 80% of its excess healing is instead converted to an absorb shield.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82159,
@@ -819,7 +1633,21 @@
       "icon": "achievement_emeraldnightmare_ursoc",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "痛击和重殴使你获得一个吸收护盾，吸收量相当于其造成伤害的35%，持续15秒。",
+      "descriptionEn": "Thrash and Maul grant you an absorb shield for 35% of the damage dealt for 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82160,
@@ -834,7 +1662,21 @@
       "icon": "spell_nature_healingway",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "狂暴回复的治疗效果会根据你损失的生命值提高，最多提高80%。\n\n狂暴回复额外获得1次使用次数。",
+      "descriptionEn": "Frenzied Regeneration's healing is increased by up to 80% based on your missing health.\n\nFrenzied Regeneration has 1 additional charge.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 82161,
@@ -849,7 +1691,21 @@
       "icon": "spell_nature_spiritarmor",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "铁鬃使护甲值额外提高15%，树皮术使受到的伤害额外降低10%。",
+      "descriptionEn": "Ironfur increases armor by an additional 15% and Barkskin reduces damage taken by an additional 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 92587,
@@ -864,7 +1720,21 @@
       "icon": "spell_nature_moonglow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在你的目标位置召唤一道月光，每秒对你的目标造成([40% of Attack Power])点奥术伤害，并对0码内最多5名其他敌人造成([40% of Attack Power])点伤害。\n\n明月普照还使你的精通提高(14 * $mas)%，并在8秒内为你恢复[([350% of Attack Power]) * 8]点生命值。",
+      "descriptionEn": "Summons a beam of lunar light at your target's location, dealing (40% of Attack Power) Arcane damage each second to your target and (40% of Attack Power) to up to 5 other enemies within 0 yd. \n\nLunar Beam also increases your mastery by (14 * $mas)%, and heals you for [(350% of Attack Power) * 8] over 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94585,
@@ -879,7 +1749,53 @@
       "icon": "ability_druid_dreamstate",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "平衡\n月火术的伤害有几率召唤艾露恩之怒追踪你的目标，持续3秒。",
+      "descriptionEn": "Balance\nMoonfire damage has a chance to call down a Fury of Elune to follow your target for 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "艾露恩之怒",
+          "icon": "",
+          "description": "召唤一道纯粹的天界能量追击敌人，在3秒内对区域内的敌人造成[3000 / 1000 * 2 * ([18.34% of Spell Power])]点星界伤害。"
+        },
+        {
+          "name": "在持续期间产生15点星界能量。",
+          "icon": "",
+          "description": "守护"
+        },
+        {
+          "name": "艾露恩之怒",
+          "icon": "ability_druid_dreamstate",
+          "description": "召唤一道纯粹的天界能量追击敌人，在3秒内对区域内的敌人造成[3000 / 1000 * 2 * ([18.34% of Spell Power])]点星界伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Fury of Elune",
+          "icon": "",
+          "description": "Calls down a beam of pure celestial energy, dealing [3000 / 1000 * 2 * (18.34% of Spell Power)] Astral damage over 3 sec within its area."
+        },
+        {
+          "name": "Generates 15 Astral Power over its duration.",
+          "icon": "",
+          "description": "Guardian"
+        },
+        {
+          "name": "Fury of Elune",
+          "icon": "ability_druid_dreamstate",
+          "description": "Calls down a beam of pure celestial energy, dealing [3000 / 1000 * 2 * (18.34% of Spell Power)] Astral damage over 3 sec within its area."
+        }
+      ]
     },
     {
       "nodeId": 94586,
@@ -894,7 +1810,21 @@
       "icon": "spell_nature_moonglow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "平衡\n你的奥术技能使艾露恩之怒的冷却时间缩短1.5秒，使新月、半月和满月的冷却时间缩短1.0秒。\n\n 守护\n明月普照的冷却时间缩短20秒。",
+      "descriptionEn": "Guardian\nLunar Beam's cooldown is reduced by 20 sec.\n\n Balance\nYour Arcane abilities reduce the cooldown of Fury of Elune by 1.5 sec and the cooldown of New Moon, Half Moon, and Full Moon by 1.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94587,
@@ -909,7 +1839,63 @@
       "icon": "artifactability_balancedruid_newmoon",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "平衡\n进一步强化天涯共银辉的效果。",
+      "descriptionEn": "Balance\nFurther increases the power of Boundless Moonlight.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "艾露恩之怒",
+          "icon": "",
+          "description": "闪现的能量现在会产生6点星界能量，伤害提高50%。"
+        },
+        {
+          "name": "满月",
+          "icon": "artifactability_balancedruid_fullmoon",
+          "description": "新月和半月现在还会降下1个微月。"
+        },
+        {
+          "name": "明月普照",
+          "icon": "spell_nature_moonglow",
+          "description": "明月普照会使精通额外提高(15 * $mas)%，伤害提高30%，持续时间增加3秒。"
+        },
+        {
+          "name": "艾露恩之怒",
+          "icon": "ability_druid_dreamstate",
+          "description": "闪现的能量现在会产生6点怒气，伤害提高50%。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Fury of Elune",
+          "icon": "",
+          "description": "The flash of energy now generates 6 Astral Power and its damage is increased by 50%."
+        },
+        {
+          "name": "Full Moon",
+          "icon": "artifactability_balancedruid_fullmoon",
+          "description": "New Moon and Half Moon now also call down 1 Minor Moon."
+        },
+        {
+          "name": "Lunar Beam",
+          "icon": "spell_nature_moonglow",
+          "description": "Lunar Beam increases Mastery by an additional (15 * $mas)%, deals 30% increased damage, and lasts 3 sec longer."
+        },
+        {
+          "name": "Fury of Elune",
+          "icon": "ability_druid_dreamstate",
+          "description": "The flash of energy now generates &nbsp;6 Rage and its damage is increased by 50%."
+        }
+      ]
     },
     {
       "nodeId": 94588,
@@ -924,7 +1910,21 @@
       "icon": "spell_nature_starfall",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "平衡\n月火术造成的伤害提高20%。\n\n 守护\n月火术造成的伤害提高8%。\n\n赤红之月造成的伤害提高30%。",
+      "descriptionEn": "Balance\nMoonfire deals 20% increased damage.\n\n Guardian\nMoonfire deals 8% increased damage.\n\nRed Moon deals 30% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94590,
@@ -939,7 +1939,21 @@
       "icon": "ability_druid_cresentburn",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "平衡\n星火术对主要目标造成的伤害提高120%。\n\n愤怒不再使你的日月之蚀状态转换为日蚀。\n\n 守护\n痛击现在造成奥术伤害，伤害提高12%。",
+      "descriptionEn": "Balance\nStarfire deals 120% increased damage to its primary target.\n\nWrath no longer changes your Eclipse ability's mode to Solar Eclipse.\n\n Guardian\nThrash now deals Arcane damage and its damage is increased by 12%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94596,
@@ -954,7 +1968,21 @@
       "icon": "artifactability_balancedruid_moonandstars",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "守护\n明月普照的伤害提高30%，艾露恩之怒的伤害提高15%。\n\n 平衡\n艾露恩之怒的伤害提高15%，满月的伤害提高25%。",
+      "descriptionEn": "Balance\nIncreases the damage of Fury of Elune by 15% and the damage of Full Moon by 25%.\n\n Guardian\nIncreases the damage of Lunar Beam by 30% and Fury of Elune by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94597,
@@ -969,7 +1997,21 @@
       "icon": "inv_enchant_dust",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到月火术影响的敌人减速20%。",
+      "descriptionEn": "Enemies affected by Moonfire are slowed by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94598,
@@ -984,7 +2026,21 @@
       "icon": "spell_nature_moonglow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "守护\n星河守护者自动触发的无消耗月火术产生5点怒气。\n\n 平衡\n月火术和星火术额外产生2点星界能量。",
+      "descriptionEn": "Guardian\nFree automatic Moonfires from Galactic Guardian generate 5 Rage.\n\n Balance\nMoonfire and Starfire generate 2 additional Astral Power.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94607,
@@ -999,7 +2055,21 @@
       "icon": "inv_cosmicvoid_nova",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "守护\n明月普照或艾露恩之怒使敌人受到来自你的伤害提高6%，持续6秒。\n\n 平衡\n满月或艾露恩之怒使敌人受到来自你的伤害提高6%，持续6秒。",
+      "descriptionEn": "Balance\nEnemies damaged by Full Moon or Fury of Elune take 6% increased damage from you for 6 sec.\n\n Guardian\nEnemies damaged by Lunar Beam or Fury of Elune take 6% increased damage from you for 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94608,
@@ -1014,7 +2084,63 @@
       "icon": "inv_ability_eluneschosendruid_boundlessmoonlight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "平衡",
+      "descriptionEn": "Balance",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "艾露恩之怒",
+          "icon": "",
+          "description": "艾露恩之怒结束时产生一道闪现的能量，轰击周围的敌人，造成([216.32% of Spell Power])点星界伤害。"
+        },
+        {
+          "name": "满月",
+          "icon": "artifactability_balancedruid_fullmoon",
+          "description": "满月召唤2个微月，各造成([188.5% of Spell Power])点星界伤害并产生3点星界能量。"
+        },
+        {
+          "name": "明月普照",
+          "icon": "spell_nature_moonglow",
+          "description": "明月普照现在使你能够吸取生命值，数值相当于光束内敌人受到所有伤害的12%。"
+        },
+        {
+          "name": "艾露恩之怒",
+          "icon": "ability_druid_dreamstate",
+          "description": "艾露恩之怒结束时产生一道闪现的能量，轰击周围的敌人，造成([216.32% of Spell Power])点星界伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Fury of Elune",
+          "icon": "",
+          "description": "Fury of Elune now ends with a flash of energy, blasting nearby enemies for (216.32% of Spell Power) Astral damage."
+        },
+        {
+          "name": "Full Moon",
+          "icon": "artifactability_balancedruid_fullmoon",
+          "description": "Full Moon calls down 2 Minor Moons that deal (188.5% of Spell Power) Astral damage and generate 3 Astral Power."
+        },
+        {
+          "name": "Lunar Beam",
+          "icon": "spell_nature_moonglow",
+          "description": "Lunar Beam now causes you to leech life equal to 12% of all damage dealt to enemies within the beam."
+        },
+        {
+          "name": "Fury of Elune",
+          "icon": "ability_druid_dreamstate",
+          "description": "Fury of Elune now ends with a flash of energy, blasting nearby enemies for (216.32% of Spell Power) Astral damage."
+        }
+      ]
     },
     {
       "nodeId": 94594,
@@ -1029,7 +2155,21 @@
       "icon": "ability_druid_ironfur",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "熊形态和枭兽形态使受到的奥术伤害降低6%，受到的其他所有魔法伤害降低3%。",
+      "descriptionEn": "Bear Form and Moonkin Form reduce Arcane damage taken by 6% and all other magic damage taken by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 99807,
@@ -1044,7 +2184,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/24_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "沐浴在月神的清澈银辉中，奥术法术与巨熊重殴将召唤艾露恩之怒与月火风暴撕裂敌人。",
+      "descriptionEn": "Bathed in the moon goddess's silvery light, empowering Arcane spells and guardian mauls with Fury of Elune and lunar storms.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 109377,
@@ -1059,7 +2203,21 @@
       "icon": "inv_relics_idolofhealth",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "铁鬃使你的精通提高5%。",
+      "descriptionEn": "Ironfur increases your Mastery by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109375,
@@ -1074,7 +2232,21 @@
       "icon": "ability_hunter_pet_bear",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的树皮术和铁鬃的持续时间延长2.0秒。",
+      "descriptionEn": "Increases the duration of Barkskin and Ironfur by 2.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109718,
@@ -1089,7 +2261,21 @@
       "icon": "spell_holy_elunesgrace",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "守护\n的伤害提高10%。明月普照对其主要目标造成的伤害提高30%。\n\n 平衡\n星涌术的伤害提高5%。\n星辰坠落的伤害提高10%。",
+      "descriptionEn": "Guardian\n damage increased by 10%. Lunar Beam's damage dealt to its primary target increased by 30%.\n\n Balance\nStarsurge damage increased by 5%. \nStarfall damage increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109719,
@@ -1104,7 +2290,21 @@
       "icon": "ability_druid_eclipse",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "守护\n\n明月普照激活期间，你造成的奥术伤害提高10%。\n\n 平衡\n月蚀使奥术伤害额外提高3%。",
+      "descriptionEn": "Guardian\n\nLunar Beam increases Arcane damage you deal by 10% while it is active.\n\n Balance\nLunar Eclipse increases Arcane damage by an additional 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109720,
@@ -1119,7 +2319,21 @@
       "icon": "spell_arcane_arcane03",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "平衡\n星火术产生星界能量时有30%的几率对目标施放星涌术，效果为原来的50%。\n\n 守护\n痛击有50%的几率对目标施放星涌术，效果为原来的120%。",
+      "descriptionEn": "Balance\nGaining Astral Power with Starfire has a 30% chance to launch a Starsurge at a victim at 50% effectiveness.\n\n Guardian\nThrash has a 50% chance to launch a Starsurge at a victim at 120% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 92585,
@@ -1134,7 +2348,21 @@
       "icon": "achievement_reputation_guardiansofcenarius",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "当你受到非周期性伤害时，有几率获得一层梦境向导。\n\n当你或附近盟友的生命值低于40%时，消耗一层梦境向导为其自动施放愈合。该愈合的治疗效果提高100%。",
+      "descriptionEn": "When you take non-periodic damage, you have a chance to gain a charge of Dream Guide. \n\nWhen you or a nearby ally drops below 40% health, you consume a charge of Dream Guide to automatically cast Regrowth on them. This Regrowth heals for an additional 100%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110431,
@@ -1149,7 +2377,33 @@
       "icon": "inv12_apextalent_druid_wildguardian",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "当一个灵魂被唤醒时，痛击和裂伤的冷却时间将被重置，并且在灵魂伴随你期间，它们造成的伤害提高30%。灵魂每次攻击时，你会额外产生8点怒气。\n\n施放 [化身：乌索克的守护者 / 狂暴]后，获得1层荒野守护者充能：",
+      "descriptionEn": "When a spirit is awakened, the cooldowns of Thrash and Mangle are reset, and they deal 30% increased damage while the spirit is with you. Each time a spirit attacks, you generate 8 additional Rage.\n\nAfter casting [Incarnation: Guardian of Ursoc / Berserk], gain 1 charge of Wild Guardian:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "荒野守护者",
+          "icon": "",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Wild Guardian",
+          "icon": "",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 110431,
@@ -1164,7 +2418,21 @@
       "icon": "inv12_apextalent_druid_wildguardian",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "裂伤、 [摧折 / 重殴]和毁灭在12秒内额外造成20%的自然伤害。你的精通提高3%。",
+      "descriptionEn": "Mangle, [Raze / Maul] and Ravage deal 20% additional Nature damage over 12 sec. Your Mastery is increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110431,
@@ -1179,7 +2447,21 @@
       "icon": "inv12_apextalent_druid_wildguardian",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "消耗怒气有10%的几率唤醒一个持续8秒的守护之魂，当你施放痛击或裂伤时，它会对附近的一个敌人造成([300% of Attack Power])点伤害。",
+      "descriptionEn": "Spending Rage has a 10% chance to awaken a guardian spirit for 8 sec, which attacks a nearby enemy for (300% of Attack Power) when you cast Thrash or Mangle.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     }
   ]
 }

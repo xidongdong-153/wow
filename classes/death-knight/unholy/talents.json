@@ -39,7 +39,21 @@
       "icon": "spell_frost_chillingblast",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "致盲你前方锥形区域的目标，使其迷惑地乱走，持续5秒。伤害会解除该效果。\n\n当致盲冰雨结束时，敌人会减速50%，持续6秒。",
+      "descriptionEn": "Targets in a cone in front of you are blinded, causing them to wander disoriented for 5 sec. Damage may cancel the effect.\n\nWhen Blinding Sleet ends, enemies are slowed by 50% for 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76045,
@@ -54,7 +68,21 @@
       "icon": "boss_odunrunes_blue",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "自动攻击有一定几率产生3点符文能量。",
+      "descriptionEn": "Auto attacks have a chance to generate 3 Runic Power.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76046,
@@ -69,7 +97,21 @@
       "icon": "spell_shadow_antimagicshell",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "反魔法护罩的冷却时间缩短20秒，持续时间和吸收量提高40%。",
+      "descriptionEn": "Reduces the cooldown of Anti-Magic Shell by 20 sec and increases its duration and amount absorbed by 40%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76051,
@@ -84,7 +126,21 @@
       "icon": "ability_racial_wardoftheloafrost",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的自动攻击使目标的自动攻击速度降低5%，持续30秒，最多叠加4次。",
+      "descriptionEn": "Your auto-attacks reduce the target's auto-attack speed by 5% for 30 sec, stacking up to 4 times.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76052,
@@ -99,7 +155,21 @@
       "icon": "ability_rogue_envelopingshadows",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的吸收效果提高15%。",
+      "descriptionEn": "Absorbs are 15% more effective on you.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76054,
@@ -114,7 +184,21 @@
       "icon": "achievement_boss_kelthuzad_01",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "生命值低于30%时，受到的伤害降低20%。",
+      "descriptionEn": "Damage taken below 30% Health is reduced by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76055,
@@ -129,7 +213,21 @@
       "icon": "ability_mage_shattershield",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你受到爆击的几率降低3%，你的护甲提高6%。",
+      "descriptionEn": "Your chance to be critically struck is reduced by 3% and your Armor is increased by 6%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76057,
@@ -144,7 +242,21 @@
       "icon": "ability_creature_disease_05",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "[亵渎 / 枯萎凋零]使其范围内的所有敌人移动速度降低90%，此效果每秒衰减10%。",
+      "descriptionEn": "[Defile / Death and Decay] reduces the movement speed of enemies within its area by 90%, decaying by 10% every sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76061,
@@ -159,7 +271,21 @@
       "icon": "ability_bosskilrogg_deaththroes",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的疾病效果有几率削弱你的敌人，使你对其造成的伤害提高6%，持续5秒。",
+      "descriptionEn": "Your diseases have a chance to weaken your enemy causing your attacks against them to deal 6% increased damage for 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76064,
@@ -174,7 +300,21 @@
       "icon": "ability_deathknight_asphixiate",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将敌方目标举到空中，用黑暗能量扼住他们的咽喉，使其昏迷5秒。",
+      "descriptionEn": "Lifts the enemy target off the ground, crushing their throat with dark energy and stunning them for 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76065,
@@ -189,7 +329,21 @@
       "icon": "spell_deathknight_antimagiczone",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "制造一个反魔法领域，持续6秒，使小队或团队成员受到的魔法伤害降低15%。",
+      "descriptionEn": "Places an Anti-Magic Zone for 6 sec, reducing the magic damage taken by party or raid members by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "4分钟 冷却",
+      "cooldownEn": "4 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76066,
@@ -204,7 +358,21 @@
       "icon": "achievement_zone_frostfire",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冰霜,  邪恶\n自动攻击伤害使你获得吸收护盾，吸收量相当于造成伤害的35%。",
+      "descriptionEn": "Frost,  Unholy\nYour auto attack damage grants you an absorb shield equal to 35% of the damage dealt.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76067,
@@ -219,7 +387,21 @@
       "icon": "spell_deathknight_butcher2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冰霜,  邪恶\n灵界打击的消耗减少10点，且治疗效果提高60%。\n\n 鲜血\n灵界打击的消耗减少5点，且治疗效果提高15%。",
+      "descriptionEn": "Frost,  Unholy\nDeath Strike's cost is reduced by 10, and its healing is increased by 60%.\n\n Blood\nDeath Strike's cost is reduced by 5, and its healing is increased by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76068,
@@ -234,7 +416,21 @@
       "icon": "spell_misc_warsongfocus",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冰霜,  邪恶\n耐力提高12%。\n\n\n 鲜血\n耐力提高20%。",
+      "descriptionEn": "Frost,  Unholy\nStamina increased by 12%.\n\n\n Blood\nStamina increased by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76069,
@@ -249,7 +445,21 @@
       "icon": "spell_necro_deathrift",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "急速提高2%。",
+      "descriptionEn": "Increases Haste by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76071,
@@ -264,7 +474,21 @@
       "icon": "spell_deathknight_butcher2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冰霜\n将黑暗的力量灌注到两把武器中，总计造成[([153.12% of Attack Power]) + ([29.835% of Attack Power])]点物理伤害，并为你恢复之前5秒内所受伤害的(20 / 饮血: 21 / 强化灵界打击: 32)%，至少恢复7.0%的最大生命值。\n\n 鲜血,  邪恶\n将黑暗的力量灌注到武器中，造成([153.12% of Attack Power])点物理伤害，并为你恢复之前5秒内所受伤害的(20 / 饮血: 21 / 强化灵界打击: 32)%，至少恢复7.0%的最大生命值。",
+      "descriptionEn": "Blood,  Unholy\nFocuses dark power into a strike that deals (153.12% of Attack Power) Physical damage and heals you for (20 / Voracious: 21 / Improved Death Strike: 32)% of all damage taken in the last 5 sec, minimum 7.0% of maximum health.\n\n Frost\nFocuses dark power into a strike with both weapons, that deals a total of [(153.12% of Attack Power) + (29.835% of Attack Power)] Physical damage and heals you for (20 / Voracious: 21 / Improved Death Strike: 32)% of all damage taken in the last 5 sec, minimum 7.0% of maximum health.",
+      "costCn": "45符文能量",
+      "costEn": "45 Runic Power",
+      "rangeCn": "近战范围",
+      "rangeEn": "Melee Range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76072,
@@ -279,7 +503,21 @@
       "icon": "inv_pet_ghoul",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤一个 [恶鬼雕文: 恶鬼 / 食尸鬼]为你作战。你一次最多只能召唤一个 [恶鬼雕文: 恶鬼 / 食尸鬼]。持续1分钟。",
+      "descriptionEn": "Raises a [Glyph of the Geist: geist / ghoul] to fight by your side. &nbsp;You can have a maximum of one [Glyph of the Geist: geist / ghoul] at a time. Lasts 1 min.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76073,
@@ -294,7 +532,21 @@
       "icon": "inv_1115_warrior_fastermeleeattacks",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冰霜\n冷酷严冬期间，冰霜之镰额外造成20%的伤害。\n\n 邪恶\n天灾打击和脓疮打击的伤害提高10%。\n\n 鲜血\n当你在枯萎凋零中时，心脏打击可击中最多3名额外的敌人。\n\n离开枯萎凋零后，其增益效果可持续4秒。",
+      "descriptionEn": "Frost\nFrostscythe deals 20% increased damage during Remorseless Winter.\n\n Blood\nHeart Strike hits up to 3 additional enemies while you remain in Death and Decay.\n\nWhen leaving your Death and Decay you retain its bonus effects for 4 sec.\n\n Unholy\nScourge Strike and Festering Strike deal 10% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76075,
@@ -309,7 +561,21 @@
       "icon": "spell_shadow_deathpact",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "制造死亡契约，为你恢复50%的最大生命值，但会吸收治疗效果，数值相当于最大生命值的30%，持续15秒。",
+      "descriptionEn": "Create a death pact that heals you for 50% of your maximum health, but absorbs incoming healing equal to 30% of your max health for 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76076,
@@ -324,7 +590,21 @@
       "icon": "inv_sword_1h_felfireraid_d_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的符文熔铸的效果提高20%。",
+      "descriptionEn": "Increases the effectiveness of your Runeforge effects by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76078,
@@ -339,7 +619,21 @@
       "icon": "ability_ironmaidens_bloodritual",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "吸血提高3%。",
+      "descriptionEn": "Increases Leech by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76079,
@@ -354,7 +648,21 @@
       "icon": "ability_deathknight_hungeringruneblade",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "消耗一枚符文有几率使你的力量提高3%，持续8秒。",
+      "descriptionEn": "Consuming a Rune has a chance to increase your Strength by 3% for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76081,
@@ -369,7 +677,21 @@
       "icon": "spell_deathknight_iceboundfortitude",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冻结自己的血液，对昏迷效果免疫，受到的所有伤害降低30%，持续8秒。",
+      "descriptionEn": "Your blood freezes, granting immunity to Stun effects and reducing all damage you take by 30% for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76083,
@@ -384,7 +706,21 @@
       "icon": "spell_deathknight_mindfreeze",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使用心灵冰冻成功打断敌人会产生10点符文能量，并使其冷却时间缩短3秒。",
+      "descriptionEn": "Successfully interrupting an enemy with Mind Freeze grants 10 Runic Power and reduces its cooldown by 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76084,
@@ -399,7 +735,21 @@
       "icon": "spell_deathknight_mindfreeze",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "以极寒的能量攻击目标的心智，打断目标施法，并且使该系法术在5秒内无法施放。",
+      "descriptionEn": "Smash the target's mind with cold, interrupting spellcasting and preventing any spell in that school from being cast for 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "15秒 冷却",
+      "cooldownEn": "15 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76085,
@@ -414,7 +764,21 @@
       "icon": "spell_deathknight_icytalons",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "消耗符文能量的技能会使你的近战攻击速度提高6%，持续10秒，最多叠加3次。",
+      "descriptionEn": "Your Runic Power spending abilities increase your melee attack speed by 6% for 10 sec, stacking up to 3 times.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76087,
@@ -429,7 +793,21 @@
       "icon": "ability_racial_forceshield",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到的范围攻击伤害降低3%。受到失控效果影响时，该加成额外提高6%，持续6秒。",
+      "descriptionEn": "Damage taken from area of effect attacks reduced by 3%. When suffering a loss of control effect, this bonus is increased by an additional 6% for 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102007,
@@ -444,7 +822,21 @@
       "icon": "inv_fabric_ebonweave",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "死神脚步，枯萎凋零和死亡之握额外获得1次充能。",
+      "descriptionEn": "Death's Advance, Death and Decay, and Death Grip have 1 additional charge.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102008,
@@ -459,7 +851,21 @@
       "icon": "spell_shadow_detectinvisibility",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冰霜,  邪恶\n受到的魔法伤害降低5%，你受到的有害魔法效果的持续时间缩短35%。\n\n 鲜血\n受到的魔法伤害降低8%，你受到的有害魔法效果的持续时间缩短35%。",
+      "descriptionEn": "Frost,  Unholy\nMagic damage taken is reduced by 5% and the duration of harmful Magic effects against you are reduced by 35%.\n\n Blood\nMagic damage taken is reduced by 8% and the duration of harmful Magic effects against you are reduced by 35%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110029,
@@ -474,7 +880,21 @@
       "icon": "ability_creature_poison_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的食尸鬼的攻击有几率施加衰弱效果，使敌人的移动速度降低30%，对你造成的伤害降低12%，持续6秒。",
+      "descriptionEn": "Your ghoul's attacks have a chance to apply Enfeeble, reducing the enemies movement speed by 30% and the damage they deal to you by 12% for 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110031,
@@ -489,7 +909,21 @@
       "icon": "spell_nature_shamanrage",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "死亡契约的冷却时间缩短30秒，在其治疗吸收效果持续期间，你获得的治疗效果提高50%。",
+      "descriptionEn": "The cooldown of Death Pact is reduced by 30 sec, and you receive 50% increased healing while its healing absorb is active.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76148,
@@ -504,7 +938,21 @@
       "icon": "ability_maldraxxus_mage",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "黑暗突变和亡者大军会召唤一名亡者魔导师，向你的敌人投射寒冰箭和暗影箭，持续15秒。",
+      "descriptionEn": "Dark Transformation and Army of the Dead summon a Magus of the Dead who hurls Frostbolts and Shadow Bolts at your foes for 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76149,
@@ -519,7 +967,21 @@
       "icon": "spell_shadow_fumble",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "黑暗突变强化你的 [黑暗仲裁者 / 石像鬼]、憎恶、亡者魔导师和次级食尸鬼，使其伤害提高25%，持续30秒。",
+      "descriptionEn": "Dark Transformation empowers your [Dark Arbiter / Gargoyle], Abomination, Magus and Lesser Ghouls for 30 sec, increasing their damage by 25%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76150,
@@ -534,7 +996,21 @@
       "icon": "ability_deathknight_decomposingaura",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "亡者魔导师使你获得1.0%急速，持续15秒。\n\n多次效果重叠时可叠加。",
+      "descriptionEn": "Magus of the Dead grants you 1.0% Haste for 15 sec.\n\nMultiple applications may overlap.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76155,
@@ -549,7 +1025,21 @@
       "icon": "ability_ironmaidens_whirlofblood",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "腐化使枯萎凋零的冷却时间缩短1.0秒。\n\n枯萎凋零每伤害一个敌人，就会使腐化的冷却时间缩短0.3秒，最多缩短3.0秒。",
+      "descriptionEn": "Putrefy reduces the cooldown of Death and Decay by 1.0 sec.\n\nDeath and Decay reduces the cooldown of Putrefy by 0.3 sec for each enemy it damages, up to 3.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76162,
@@ -564,7 +1054,21 @@
       "icon": "spell_holy_nullifydisease",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的疾病造成的伤害提高10%，并且爆击几率提高5%。",
+      "descriptionEn": "Your diseases deal 10% more damage and have a 5% increased chance to critically strike.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76176,
@@ -579,7 +1083,21 @@
       "icon": "achievement_boss_patchwerk",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "亡者大军现在会召唤一只持续30秒的憎恶，攻击敌人并释放瘟疫之云，每2秒对附近敌人造成([35% of Attack Power])点瘟疫伤害。",
+      "descriptionEn": "Army of the Dead now raises an Abomination for 30 sec to attack enemies while emitting a disease cloud, dealing (35% of Attack Power) Plague damage to nearby enemies every 2 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76178,
@@ -594,7 +1112,21 @@
       "icon": "inv_mawguardpet_black",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "末日突降的触发几率提高30%，最多可积累2次充能。\n\n以天灾打击召唤出一只次级食尸鬼时，腐化的冷却时间缩短2.5秒。",
+      "descriptionEn": "Sudden Doom triggers 30% more often and can accumulate up to 2 charges.\n\nSummoning a Lesser Ghoul with Scourge Strike reduces the cooldown of Putrefy by 2.5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76179,
@@ -609,7 +1141,21 @@
       "icon": "ability_deathknight_soulreaper",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "撕裂敌人的灵魂，造成([450% of Attack Power])点暗影冰霜伤害，并使该敌人受到你的疾病和仆从造成的伤害提高20%，持续8秒。\n\n只能对最大生命值低于35%的敌人使用。",
+      "descriptionEn": "Rupture the soul of your enemy, dealing (450% of Attack Power) Shadowfrost damage and causing the foe to take 20% increased damage from your diseases and minions for 8 sec.\n\nOnly usable on enemies below 35% maximum health.",
+      "costCn": "1个符文 / -10符文能量",
+      "costEn": "1 Rune / -10 Runic Power",
+      "rangeCn": "近战范围",
+      "rangeEn": "Melee Range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "15秒 冷却",
+      "cooldownEn": "15 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76182,
@@ -624,7 +1170,33 @@
       "icon": "spell_shadow_darksummoning",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每有一个次级食尸鬼，你的永久食尸鬼造成的伤害提高10%，黑暗突变还会将你的次级食尸鬼的爪击强化为横扫爪击。",
+      "descriptionEn": "Each Lesser Ghoul increases the damage of your permanent Ghoul by 10%, and Dark Transformation additionally empowers the Claw attacks of your Lesser Ghouls to Sweeping Claws.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "横扫爪击",
+          "icon": "",
+          "description": "使用畸形的利爪扫击一名敌人，对目标造成 [(攻击强度 * 0.2484) * (1 + 全能) * 2 * 1.144]点暗影伤害，并对附近敌人造成 [(攻击强度 * 0.17155125) * (1 + 全能) * 2 * 1.144]点暗影伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Sweeping Claws",
+          "icon": "",
+          "description": "Rakes an enemy with deformed claws, dealing &nbsp;[(Attack Power * 0.2484) * (1 + Versatility) * 2 * 1.144] Shadow damage to the target and &nbsp;[(Attack Power * 0.17155125) * (1 + Versatility) * 2 * 1.144] Shadow damage to nearby enemies."
+        }
+      ]
     },
     {
       "nodeId": 76184,
@@ -639,7 +1211,21 @@
       "icon": "ability_creature_cursed_03",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "腐化会使你的永久食尸鬼陷入邪恶狂乱，攻击速度和能量恢复速度提高25%，持续12秒。\n\n多次施加可以重叠生效。",
+      "descriptionEn": "Putrefy causes your permanent Ghoul to go on an unholy frenzy, increasing its attack speed and energy regeneration by 25% for 12 sec.\n\nMultiple applications may overlap.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76185,
@@ -654,7 +1240,21 @@
       "icon": "achievement_boss_festergutrotface",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "腐蚀你的食尸鬼，将其进化为畸兽，极大地强化其技能，持续15秒。\n\n凋零缠绕和扩散会使此效果的持续时间延长1.0秒。",
+      "descriptionEn": "Corrupt and evolve your Ghoul into a Monstrosity, greatly empowering its abilities for 15 sec.\n\nDeath Coil and Epidemic extends the duration of this effect by 1.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76189,
@@ -669,7 +1269,43 @@
       "icon": "spell_deathvortex",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使目标同时感染恐惧瘟疫和恶性病变。",
+      "descriptionEn": "Inflicts the target with Dread Plague and Virulent Plague.",
+      "costCn": "1个符文 / -10符文能量",
+      "costEn": "1 Rune / -10 Runic Power",
+      "rangeCn": "30 码范围",
+      "rangeEn": "30 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "恐惧瘟疫",
+          "icon": "",
+          "description": "一种恶性瘟疫，在24秒内造成([439.11% of Attack Power])点暗影伤害。宿主死亡时会爆炸，对附近敌人造成([184.5% of Attack Power])点暗影伤害，并感染其中一名敌人。一次只能施加于1个宿主。"
+        },
+        {
+          "name": "恶性病变",
+          "icon": "ability_creature_disease_02",
+          "description": "一种传染性瘟疫，会扩散到附近所有敌人身上，在24秒内造成([202.854% of Attack Power])点暗影伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Dread Plague",
+          "icon": "",
+          "description": "A malicious plague that deals (439.11% of Attack Power) Shadow damage over 24 sec. Explodes for (184.5% of Attack Power) Shadow damage to nearby enemies and infects one when the host dies. Can only be applied to 1 host at a time."
+        },
+        {
+          "name": "Virulent Plague",
+          "icon": "ability_creature_disease_02",
+          "description": "An infectious plague that spreads to all nearby enemies, dealing (202.854% of Attack Power) Shadow damage over 24 sec."
+        }
+      ]
     },
     {
       "nodeId": 76190,
@@ -684,7 +1320,21 @@
       "icon": "spell_deathknight_scourgestrike",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "一次邪恶的打击，造成([135% of Attack Power])点暗影伤害，并引爆目标身上的瘟疫，以35%效果额外爆发一次伤害。\n\n施放恶性瘟疫，或将其传播至附近的一名敌人。",
+      "descriptionEn": "An unholy strike that deals (135% of Attack Power) Shadow damage and causing your plagues on the target to erupt, dealing their damage an additional time at 35% effectiveness.\n\nApplies Virulent Plague or spreads it to a nearby enemy.",
+      "costCn": "1个符文 / -10符文能量",
+      "costEn": "1 Rune / -10 Runic Power",
+      "rangeCn": "30 码范围",
+      "rangeEn": "30 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76191,
@@ -699,7 +1349,21 @@
       "icon": "spell_shadow_painspike",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恐惧瘟疫有35%几率使你心智亢奋，使你的下一个凋零缠绕或扩散减少15点符文能量消耗，伤害提高35%。",
+      "descriptionEn": "Dread Plague has a 35% chance to exhilarate you, making your next Death Coil or Epidemic cost 15 less Runic Power and deal 35% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76193,
@@ -714,7 +1378,33 @@
       "icon": "inv_polearm_2h_mawnecromancerboss_d_01_darkblue",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "脓疮打击现在会紧接着施放一次不消耗符文的脓疮毒镰。",
+      "descriptionEn": "Festering Strike now follows up with a Festering Scythe that costs no Runes.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "脓疮毒镰",
+          "icon": "",
+          "description": "斩击前方14码内的所有敌人，造成([101.25% of Attack Power])点暗影伤害，并使目标身上所有疫病伤害生效速度加快35%，持续25秒。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Festering Scythe",
+          "icon": "",
+          "description": "Slashes through all enemies within 14 yds in front of you, dealing (101.25% of Attack Power) Shadow damage and hastening all of your plagues on targets hit to deal damage 35% faster for 25 sec."
+        }
+      ]
     },
     {
       "nodeId": 76194,
@@ -729,7 +1419,21 @@
       "icon": "ability_warlock_baneofhavoc",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "黑暗突变使你与你畸兽的攻击速度与伤害提高5%，持续15秒。",
+      "descriptionEn": "Dark Transformation increases the attack speed and damage of you and your Monstrosity by 5% for 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76196,
@@ -744,7 +1448,43 @@
       "icon": "spell_deathknight_armyofthedead",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤或强化次级食尸鬼，组成一支由8名成员组成的亡者大军，持续30秒。激活时，召唤次级食尸鬼会改为根据附近敌人执行命令。",
+      "descriptionEn": "Summon or empower Lesser Ghouls to form an unholy army of 8 for 30 sec. While active, summoning a Lesser Ghoul will instead execute Orders based on nearby enemies.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "死亡命令",
+          "icon": "",
+          "description": "次级食尸鬼与你一同攻击，对目标造成[0.30 * ([100% of Attack Power]) * (1 + $mas / 100)]点暗影伤害。"
+        },
+        {
+          "name": "疫病命令",
+          "icon": "spell_nature_nullifydisease",
+          "description": "次级食尸鬼爆裂出内脏，对附近敌人造成[15 / 100 * (0.21 * (([200% of Attack Power])) * (1 + 全能) * 1)]点暗影伤害。超过5个目标时造成的伤害降低。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Death Orders",
+          "icon": "",
+          "description": "Lesser Ghouls strike with you, dealing [0.30 * (100% of Attack Power) * (1 + $mas / 100)] Shadow damage to your target."
+        },
+        {
+          "name": "Epidemic Orders",
+          "icon": "spell_nature_nullifydisease",
+          "description": "Lesser Ghouls erupt in viscera, dealing [15 / 100 * (0.21 * ((200% of Attack Power)) * (1 + Versatility) * 1)] Shadow damage to nearby enemies. Deals reduced damage beyond 5 targets."
+        }
+      ]
     },
     {
       "nodeId": 76197,
@@ -759,7 +1499,21 @@
       "icon": "spell_shadow_creepingplague",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "疫病在持续时间的前75%内造成的伤害提高15%。",
+      "descriptionEn": "Plagues deal 15% more damage over time in 75% of their duration.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95041,
@@ -774,7 +1528,21 @@
       "icon": "inv_ability_rideroftheapocalypsedeathknight_apocalypsenow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "亡者大军和冰霜巨龙之怒会召唤全部4名天启骑士协助你作战，持续20秒。",
+      "descriptionEn": "Army of the Dead and Frostwyrm's Fury call upon all 4 Horsemen to aid you for 20 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95044,
@@ -789,7 +1557,21 @@
       "icon": "spell_shadow_fumble",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冰霜\n你的疫病技能和冰霜打击的伤害提高5%。\n\n 邪恶\n你的疫病技能和凋零缠绕的伤害提高5%。",
+      "descriptionEn": "Unholy\nThe damage of your diseases and Death Coil are increased by 5%.\n\n Frost\nThe damage of your diseases and Frost Strike are increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95047,
@@ -804,7 +1586,21 @@
       "icon": "spell_deathknight_necroticplague",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "邪恶\n对受到死灵影响的敌人造成伤害时，使其叠加1层，并感染附近的另一个敌人。\n\n 冰霜\n湮灭或冰霜之镰对受到死灵影响的敌人造成伤害时，使其叠加1层，并感染附近的另一个敌人。",
+      "descriptionEn": "Unholy\nWhen  damages an enemy affected by Undeath it gains 1 stack and infects another nearby enemy.\n\n Frost\nWhen Obliterate or Frostscythe damages an enemy affected by Undeath it gains 1 stack and infects another nearby enemy.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95054,
@@ -819,7 +1615,21 @@
       "icon": "inv_mawguardpet_black",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "邪恶\n%，[亵渎的冷却时间减少5]枯萎凋零的冷却时间减少5秒。\n\n 冰霜\n湮灭造成的伤害提高5%，[亵渎的冷却时间减少5]冷酷严冬的持续时间延长2秒。",
+      "descriptionEn": "Unholy\n% increased damage and the cooldown of your Death and Decay is reduced by 5 sec.\n\n Frost\nObliterate deals 5% increased damage and your Remorseless Winter lasts 2 sec longer.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95059,
@@ -834,7 +1644,21 @@
       "icon": "ability_maldraxxus_warriorplantbanner",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "如果有敌人在纳兹戈林激活期间死亡，天启征服的力量加成提高3%。\n\n另外，每消耗一个符文会使该效果提高1%。",
+      "descriptionEn": "If an enemy dies while Nazgrim is active, the strength of Apocalyptic Conquest is increased by 3%.\n\nAdditionally, each Rune you spend increase its value by 1%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95063,
@@ -849,7 +1673,21 @@
       "icon": "ability_warrior_shatteringthrow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "邪恶\n命中时击碎托尔贝恩的寒冰锁链，对周围的敌人造成([105.3% of Attack Power])点暗影冰霜伤害，并使其减速40%，持续4秒。目标超过8个时伤害降低。\n\n 冰霜\n湮灭和冰霜之镰命中时击碎托尔贝恩的寒冰锁链，对周围的敌人造成([105.3% of Attack Power])点暗影冰霜伤害，并使其减速40%，持续4秒。目标超过8个时伤害降低。",
+      "descriptionEn": "Unholy\n shatters Trollbane's Chains of Ice when hit, dealing (105.3% of Attack Power) Shadowfrost damage to nearby enemies, and slowing them by 40% for 4 sec. Deals reduced damage beyond 8 targets.\n\n Frost\nObliterate and Frostscythe shatter Trollbane's Chains of Ice when hit, dealing (105.3% of Attack Power) Shadowfrost damage to nearby enemies, and slowing them by 40% for 4 sec. Deals reduced damage beyond 8 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95066,
@@ -864,7 +1702,63 @@
       "icon": "achievement_zone_icecrown_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "消耗符文有几率召唤一名天启骑士协助你作战，持续10秒。",
+      "descriptionEn": "Spending Runes has a chance to call forth the aid of a Horsemen for 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "莫格莱尼",
+          "icon": "",
+          "description": "在他的位置施放枯萎凋零，效果区域会跟随他移动。每次造成伤害时，使你的疾病效果持续时间延长1.0秒。"
+        },
+        {
+          "name": "怀特迈恩",
+          "icon": "",
+          "description": "对你的目标施放死灵，每层每3秒造成([6.86532% of Attack Power])点暗影冰霜伤害，持续24秒。死灵造成伤害时叠加一层，无法被刷新。"
+        },
+        {
+          "name": "托尔贝恩",
+          "icon": "",
+          "description": "对目标施放寒冰锁链，使其移动速度降低40%，并使其从你受到的伤害提高5%，持续8秒。"
+        },
+        {
+          "name": "纳兹戈林",
+          "icon": "",
+          "description": "纳兹戈林激活时，你获得天启征服，使力量提高5%。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Mograine",
+          "icon": "",
+          "description": "Casts Death and Decay at his location that follows his position and extends the duration of your diseases by 1.0 sec whenever it deals damage."
+        },
+        {
+          "name": "Whitemane",
+          "icon": "",
+          "description": "Casts Undeath on your target dealing (6.86532% of Attack Power) Shadowfrost damage per stack every 3 sec, for 24 sec. Each time Undeath deals damage it gains a stack. Cannot be refreshed."
+        },
+        {
+          "name": "Trollbane",
+          "icon": "",
+          "description": "Casts Chains of Ice on your target slowing their movement speed by 40% and increasing the damage they take from you by 5% for 8 sec."
+        },
+        {
+          "name": "Nazgrim",
+          "icon": "",
+          "description": "While Nazgrim is active you gain Apocalyptic Conquest, increasing your Strength by 5%."
+        }
+      ]
     },
     {
       "nodeId": 95067,
@@ -879,7 +1773,21 @@
       "icon": "ability_warlock_improvedsoulleech",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冰霜\n你的伤害提高5%，并且位于莫格莱尼的枯萎凋零中时可以获得5%爆击几率。\n\n 邪恶\n你的伤害提高5%，并且位于莫格莱尼的枯萎凋零中时可以获得你的枯萎凋零增益。",
+      "descriptionEn": "Frost\nYour damage is increased by 5% and you gain 5% critical strike chance while inside Mograine's Death and Decay.\n\n Unholy\nYour damage is increased by 5% and you gain the benefits of your Death and Decay while inside Mograine's Death and Decay.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 99820,
@@ -894,7 +1802,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/32_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受死亡领主号令，召唤莫格莱尼、索拉斯、纳兹戈林和怀特迈恩四骑士冲锋陷阵，并获骑乘战斗能力。",
+      "descriptionEn": "Heeds the Deathlord's call, summoning Mograine, Trollbane, Nazgrim, and Whitemane to fight alongside you with mounted combat capabilities.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 95037,
@@ -909,7 +1821,21 @@
       "icon": "achievement_dungeon_nexus80_25man",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "当你受到伤害时，5%的伤害会转移给每个激活的天启骑士。",
+      "descriptionEn": "When you take damage, 5% of the damage is redirected to each active horsemen.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95042,
@@ -924,7 +1850,21 @@
       "icon": "inv_misc_supersoulash",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "邪恶\n有2名或更多天启骑士协助你时，你的凋零缠绕的伤害提高20%，扩散的伤害提高20%。\n\n 冰霜\n有8名或更多天启骑士协助你时，你的消耗符文能量的技能造成的伤害提高10%。",
+      "descriptionEn": "Unholy\nWhile you have 2 or more Horsemen aiding you, your Death Coil deals 20% and Epidemic deals 20% increased damage.\n\n Frost\nWhile you have 8 or more Horsemen aiding you, your Runic Power spending abilities deal 10% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95060,
@@ -939,7 +1879,21 @@
       "icon": "ability_mount_steelwarhorse",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "召唤你的死亡战马，解除移动限制效果。\n\n在10秒内骑乘死亡战马，使你的移动速度提高100%，不能被减速到正常速度的100%以下，并免疫强制移动和击退效果。",
+      "descriptionEn": "Call upon your Death Charger to break free of movement impairment effects.\n\nFor 10 sec, while upon your Death Charger your movement speed is increased by 100%, you cannot be slowed below 100% of normal speed, and you are immune to forced movement effects and knockbacks.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101882,
@@ -954,7 +1908,21 @@
       "icon": "ability_warlock_coil2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的亡者魔导师的暗影箭现在会朝附近至多8名敌人射出一阵暗影箭雨。\n\n你的亡者之主的寒冰箭现在会连锁至多3名额外敌人。",
+      "descriptionEn": "Your Magus of the Dead Shadow Bolt now fires a volley of Shadow Bolts at up to 8 nearby enemies.\n\nYour Lord of the Dead Frostbolts now chain to 3 additional enemies.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108130,
@@ -969,7 +1937,21 @@
       "icon": "ability_deathknight_shatteringbone",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "消耗末日突降会召唤一个次级食尸鬼来协助你，持续8秒。",
+      "descriptionEn": "Consuming Sudden Doom summons forth a Lesser Ghoul to assist you for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 76186,
@@ -984,7 +1966,21 @@
       "icon": "achievement_dungeon_plaguefall_stradamamargrave",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "你的仆从的爆击伤害提高15%。",
+      "descriptionEn": "Critical strike damage of your minions is increased by 15%",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108126,
@@ -999,7 +1995,21 @@
       "icon": "spell_shadow_unstableaffliction_3_purple",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "腐化的爆炸效果会使疫病的持续时间延长3.0秒，并立即造成其原定持续时间内35%的伤害。\n\n腐化现可将疫病施加于未受影响的目标。",
+      "descriptionEn": "The explosion effect of Putrefy extends the duration of your plagues by 3.0 sec and deals 35% of the damage they would deal over that time instantly.\n\nPutrefy now applies your plagues to unaffected targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109392,
@@ -1014,7 +2024,21 @@
       "icon": "ability_deathwing_bloodcorruption_death",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "天灾打击、脓疮打击和凋零缠绕对生命值低于35%的敌人额外造成30%的伤害。\n\n黑暗突变会重置灵魂收割的冷却时间，并允许对任何目标使用。",
+      "descriptionEn": "Scourge Strike, Festering Strike, and Death Coil deal 30% additional damage to enemies below 35% health.\n\nDark Transformation resets Soul Reaper's cooldown and allows it to be used on any target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108129,
@@ -1029,7 +2053,21 @@
       "icon": "inv12_ability_deathknight_putrefy",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤一个次级食尸鬼攻击敌人，造成([199.665% of Attack Power])点暗影伤害并使其爆炸，对附近的敌人造成([139.421% of Attack Power])点暗影伤害。",
+      "descriptionEn": "Summon a Lesser Ghoul to strike the enemy for (199.665% of Attack Power) Shadow damage and have them explode for (139.421% of Attack Power) Shadow damage to nearby enemies.",
+      "costCn": "-10符文能量 / 1个符文",
+      "costEn": "-10 Runic Power / 1 Rune",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108131,
@@ -1044,7 +2082,21 @@
       "icon": "warlock_curse_shadow",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "暗影指引你出击，使你的天灾打击伤害提高25%，并使其为你赋予暗影之爪，最多叠加4层。\n\n每层暗影之爪都会使天灾打击额外弹向一名敌人。后续的每次弹射伤害均降低10%。",
+      "descriptionEn": "Shadows guide your strikes, increasing the damage of your Scourge Strike by 25%, and causing it to grant you Clawing Shadows up to 4 times.\n\nFor each stack of Clawing Shadows, your Scourge Strike chains to an additional enemy. Each subsequent chain deals 10% reduced damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108151,
@@ -1059,7 +2111,21 @@
       "icon": "inv12_ability_deathknight_dreadplague",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "腐化的伤害提高20%，获得额外2次充能，并最多消耗2层可用充能。",
+      "descriptionEn": "Putrefy deals 20% increased damage, has 2 additional charges and consumes up to 2 available charges.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109458,
@@ -1074,7 +2140,21 @@
       "icon": "achievement_dungeon_thenecroticwake_nalthor",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "腐化次级食尸鬼时有100%几率将其复活为亡者魔导师，向敌人发射寒冰箭和暗影箭，持续15秒。\n\n当你控制3名亡者魔导师时，牺牲它们召唤亡者之主，持续15秒，发射在2个敌人间弹射的寒冰箭。剩余持续时间越长的魔导师赋予的力量越强。",
+      "descriptionEn": "Putrefying a Lesser Ghoul has a 100% chance to reanimate it as a Magus of the Dead who hurls Frostbolts and Shadow Bolts at your foes for 15 sec.\n\nWhen you control 3 Magus of the Dead, sacrifice them to summon their Lord of the Dead for 15 sec, casting Frostbolts that chain between 2 enemies. Magus with higher remaining duration grant increased power.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109739,
@@ -1089,7 +2169,21 @@
       "icon": "ability_deathknight_necroticstrike",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冰霜\n天启骑士施放的技能造成的伤害提高5%。\n\n 邪恶\n天启骑士施放的技能造成的伤害提高5%。\n\n你的食尸鬼和骷髅射手造成的伤害提高10%，次级食尸鬼造成的伤害提高20%。",
+      "descriptionEn": "Frost\nThe abilities that Horsemen cast deal 5% increased damage..\n\n Unholy\nThe abilities that Horsemen cast deal 5% increased damage.\n\nYour Ghoul and skeletal archer deals 10% and Lesser Ghouls deal 20% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109740,
@@ -1104,7 +2198,21 @@
       "icon": "spell_deathknight_plaguestrike",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "邪恶\n施放凋零缠绕或扩散会命令怀特迈恩与你一起以125%效果施放凋零缠绕或扩散。\n\n 冰霜\n施放湮灭或冰霜之镰会命令托尔贝恩与你一起以100%的效果施放湮灭或冰霜之镰。",
+      "descriptionEn": "Unholy\nCasting Death Coil or Epidemic orders Whitemane to cast her Death Coil or Epidemic alongside you at 125% effectiveness.\n\n Frost\nCasting Obliterate or Frostscythe orders Trollbane to cast his Obliterate or Frostscythe alongside you at 100% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109741,
@@ -1119,7 +2227,21 @@
       "icon": "achievement_boss_fourhorsemen",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冰霜\n冰霜之柱会召唤托尔贝恩，持续6秒。\n\n 邪恶\n黑暗突变会召唤怀特迈恩，持续6秒。",
+      "descriptionEn": "Unholy\nDark Transformation summons forth Whitemane for 6 sec.\n\n Frost\nPillar of Frost summons forth Trollbane for 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110260,
@@ -1134,7 +2256,21 @@
       "icon": "artifactability_unholydeathknight_deathsembrace",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你的次级食尸鬼消失时，他们的内脏会发生爆炸，对附近的敌人造成[0.21 * (([200% of Attack Power])) * (1 + 全能) * 1]点暗影伤害。",
+      "descriptionEn": "When your Lesser Ghouls expire, they explode in viscera, dealing [0.21 * ((200% of Attack Power)) * (1 + Versatility) * 1] Shadow damage to enemies nearby.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110354,
@@ -1149,7 +2285,21 @@
       "icon": "inv12_apextalent_deathknight_forbiddenknowledge",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "恐惧瘟疫有20%的几率唤醒死者，使一个次级食尸鬼掘地而出并跃向目标，以100%的效果将其腐化。",
+      "descriptionEn": "Dread Plague has a 20% chance to rouse the dead, causing a Lesser Ghoul to unearth and leap at the target to Putrefy at 100% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110354,
@@ -1164,7 +2314,21 @@
       "icon": "spell_shadow_fingerofdeath",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "腐化使你接下来的1次天灾打击各召唤一只次级食尸鬼，并使你获得3%精通，持续12秒。\n\n多次施加可以重叠生效。",
+      "descriptionEn": "Putrefy causes your next 1 Scourge Strike to summon a Lesser Ghoul, and grants you 3% Mastery for 12 sec.\n\nMultiple applications may overlap.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110354,
@@ -1179,7 +2343,43 @@
       "icon": "inv12_apextalent_deathknight_forbiddenknowledge",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "亡者大军汲取亡者之力，将你的凋零缠绕和扩散转化为死灵缠绕和灾殃坟茔，持续30秒。",
+      "descriptionEn": "Army of the Dead siphons the power of the fallen, transforming Death Coil and Epidemic into Necrotic Coil and Graveyard for 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "死灵缠绕",
+          "icon": "",
+          "description": "释放一道由亡骨与死灵能量构成的漩涡，对至多3名敌人造成([205.335% of Attack Power])点暗影打击伤害，并对所有被刺穿的敌人造成([64.584% of Attack Power])点暗影伤害。"
+        },
+        {
+          "name": "灾殃坟茔",
+          "icon": "spell_necro_deathall",
+          "description": "亡者在所有感染了恶性病变的敌人脚下破土而出，造成([111.983% of Attack Power])点暗影伤害，并对附近敌人造成([52.6989% of Attack Power])点暗影伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Necrotic Coil",
+          "icon": "",
+          "description": "Unleash a vortex of necrotic energy and bone, dealing (205.335% of Attack Power) Shadowstrike damage up to 3 foes and (64.584% of Attack Power) Shadow damage to all pierced enemies."
+        },
+        {
+          "name": "Graveyard",
+          "icon": "spell_necro_deathall",
+          "description": "The dead erupt beneath all foes with Virulent Plague, dealing (111.983% of Attack Power) Shadow damage and (52.6989% of Attack Power) Shadow damage to enemies nearby."
+        }
+      ]
     }
   ]
 }

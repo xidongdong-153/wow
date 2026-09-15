@@ -39,7 +39,21 @@
       "icon": "ability_rogue_imrovedrecuperate",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "清创生血能够移除所有的中毒和疾病效果。",
+      "descriptionEn": "Detox additionally removes all Poison and Disease effects.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101136,
@@ -54,7 +68,21 @@
       "icon": "spell_monk_ringofpeace",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在目标位置形成平心之环，持续5秒。进入环中的敌人将被推出环外。",
+      "descriptionEn": "Form a Ring of Peace at the target location for 5 sec. Enemies that enter will be ejected from the Ring.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101139,
@@ -69,7 +97,21 @@
       "icon": "ability_monk_dematerialize",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你受到的物理伤害降低10%，且每4秒额外降低10%，直到受到一次物理攻击，最多可叠加至4层。",
+      "descriptionEn": "Your physical damage taken is reduced by 10% and an additional 10% every 4 sec until you receive a physical attack, stacking up to 4.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101141,
@@ -84,7 +126,21 @@
       "icon": "ability_monk_deadlyreach",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "分筋错骨现在会移除目标的所有激怒效果。",
+      "descriptionEn": "Paralysis now removes all Enrage effects from its target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101142,
@@ -99,7 +155,21 @@
       "icon": "ability_monk_paralysis",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使目标瘫痪，持续1分钟。只能对一个目标使用。伤害可能取消该效果。",
+      "descriptionEn": "Incapacitates the target for 1 min. Limit 1. Damage may cancel the effect.",
+      "costCn": "20能量",
+      "costEn": "20 Energy",
+      "rangeCn": "20 码范围",
+      "rangeEn": "20 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101143,
@@ -114,7 +184,21 @@
       "icon": "ability_monk_soothingmists",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在8秒内为目标恢复([1680% of Spell Power])点生命值。引导时，可以在目标身上瞬发氤氲之雾 [升腾之雾: 、升腾之雾] [禅意波: 、禅意波]和活血术。",
+      "descriptionEn": "Heals the target for (1680% of Spell Power) over 8 sec. While channeling, Enveloping Mist [Surging Mist: Surging Mist] [Zen Pulse: Zen Pulse] and Vivify may be cast instantly on the target.",
+      "costCn": "0%的基础法力值, 额外0.4%每秒 / 每秒15点能量",
+      "costEn": "0% of base mana, plus 0.4% per second / 15 Energy per sec",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "8秒 施法时间",
+      "castTimeEn": "Channeled",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101144,
@@ -129,7 +213,21 @@
       "icon": "ability_monk_soothingmists",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "引导抚慰之雾时，你和目标受到的所有伤害降低6%。",
+      "descriptionEn": "Reduces all damage taken by you and your target while channeling Soothing Mists by 6%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "引导",
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101146,
@@ -144,7 +242,21 @@
       "icon": "monk_ability_cherrymanatea",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到的所有治疗效果提高6%。",
+      "descriptionEn": "Increases all healing taken by 6%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101147,
@@ -159,7 +271,21 @@
       "icon": "ability_monk_tigerslust",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使一名友方目标的移动速度提高70%，持续6秒，并解除所有定身和诱捕效果。",
+      "descriptionEn": "Increases a friendly target's movement speed by 70% for 6 sec and removes all roots and snares.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101153,
@@ -174,7 +300,21 @@
       "icon": "inv_misc_orb_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "踏风\n受到的所有伤害降低10%。\n\n 酒仙,  织雾\n受到的所有伤害降低3%。",
+      "descriptionEn": "Windwalker\nReduces all damage taken by 10%.\n\n Brewmaster,  Mistweaver\nReduces all damage taken by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101155,
@@ -189,7 +329,21 @@
       "icon": "ability_monk_standingkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "滚地翻每30秒可移除一个诱捕效果。",
+      "descriptionEn": "Roll removes a snare effect once every 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101157,
@@ -204,7 +358,21 @@
       "icon": "inv_weapon_hand_22",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "基于目标的当前生命值，你的治疗效果最多提高10%。生命值较低的目标会获得更多治疗。",
+      "descriptionEn": "Your healing is increased by up to 10%, based on the current health of your target. Lower health targets are healed for more.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101163,
@@ -219,7 +387,21 @@
       "icon": "inv_inscription_deck_redcrane",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "平心之环的冷却时间缩短5秒，赤精之歌的施法时间缩短0.5秒。",
+      "descriptionEn": "Reduces the cooldown of Ring of Peace by 5 sec and Song of Chi-Ji's cast time is reduced by 0.5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101165,
@@ -234,7 +416,21 @@
       "icon": "ability_monk_dragonkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "踏风\n激战时真气的流动令你变得坚毅，在战斗中每3秒获得一层魔法吸收护盾，吸收相当于最大生命值0.6%的伤害，最多叠加至6%。\n\n 酒仙,  织雾\n激战时真气的流动令你变得坚毅，在战斗中每3秒获得一层魔法吸收护盾，吸收相当于最大生命值1.0%的伤害，最多叠加至10%。",
+      "descriptionEn": "Windwalker\nFind resilience in the flow of chi in battle, gaining a magic absorb shield for 0.6% of your max health every 3 sec in combat, stacking up to 6%.\n\n Brewmaster,  Mistweaver\nFind resilience in the flow of chi in battle, gaining a magic absorb shield for 1.0% of your max health every 3 sec in combat, stacking up to 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101166,
@@ -249,7 +445,21 @@
       "icon": "ability_mount_pinktiger",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "造成的所有伤害提高2%。",
+      "descriptionEn": "Increases all damage dealt by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101167,
@@ -264,7 +474,21 @@
       "icon": "monk_ability_transcendence",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将你的肉体和灵魂分离，并将灵魂留在原地，持续15分钟。使用魂体双分：转移，让你的肉体和你的灵魂交换位置。",
+      "descriptionEn": "Split your body and spirit, leaving your spirit behind for 15 min. Use Transcendence: Transfer to swap locations with your spirit.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "10秒 冷却",
+      "cooldownEn": "10 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101168,
@@ -279,7 +503,21 @@
       "icon": "ability_monk_ridethewind",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "滚地翻令你身轻如羽，使你可以在5秒内施展一次二段跳，向前冲刺一小段距离，滚地翻的冷却时间提高2秒。",
+      "descriptionEn": "Roll causes you to become lighter than air, allowing you to double jump to dash forward a short distance once within 5 sec, but the cooldown of Roll is increased by 2 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101169,
@@ -294,7 +532,21 @@
       "icon": "ability_monk_chiswirl",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "造成的魔法伤害提高5%，造成的治疗效果提高5%。",
+      "descriptionEn": "Magical damage done increased by 5% and healing done increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101170,
@@ -309,7 +561,21 @@
       "icon": "ability_monk_healthsphere",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你会根据当前生命值获得一个额外效果。\n\n生命值高于90%：移动速度提高5%。该效果可与其他相似效果叠加。\n\n生命值在90%与35%之间：受到的伤害降低5%。\n\n生命值低于35%：受到的治疗效果提高10%。",
+      "descriptionEn": "You gain a bonus effect based on your current health.\n\nAbove 90% health: Movement speed increased by 5%. This bonus stacks with similar effects.\n\nBetween 90% and 35% health: Damage taken reduced by 5%.\n\nBelow 35% health: Healing received increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101173,
@@ -324,7 +590,21 @@
       "icon": "ability_monk_fortifyingale_new",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "酒仙\n让你的皮肤化为坚石，持续15秒[，并使醉拳的化解量提高20%]。\n\n 踏风,  织雾\n让你的皮肤化为坚石，持续15秒[，并使醉拳的化解量提高20%]。",
+      "descriptionEn": "Windwalker (Windwalker Monk)\nTurns your skin to stone for 15 sec[, and Staggering 20% of incoming damage].\n\n Brewmaster,  Mistweaver\n Windwalker (Windwalker Monk)\nTurns your skin to stone for 15 sec[, and Staggering 20% of incoming damage].\n\n Brewmaster,  Mistweaver\nTurns your skin to stone for 15 sec [Fortifying Brew: Determination: increasing the effectiveness of Stagger by 15%][, and Staggering 20% of incoming damage].",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "6分钟 冷却",
+      "cooldownEn": "6 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101174,
@@ -339,7 +619,21 @@
       "icon": "ability_monk_fortifyingale_new",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "壮胆酒的冷却时间缩短30秒。",
+      "descriptionEn": "Fortifying Brew cooldown reduced by 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101178,
@@ -354,7 +648,21 @@
       "icon": "ability_monk_touchofdeath",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "轮回之触的冷却时间缩短90秒。",
+      "descriptionEn": "Touch of Death's cooldown is reduced by 90 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101179,
@@ -369,7 +677,21 @@
       "icon": "ability_monk_palmstrike",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "酒仙,  织雾\n你造成的物理伤害提高5%，闪避提高2%。\n\n 踏风\n你造成的物理伤害提高5%，闪避提高3%。",
+      "descriptionEn": "Brewmaster,  Mistweaver\nIncreases your Physical damage done by 5% and Avoidance increased by 2%.\n\n Windwalker\nIncreases your Physical damage done by 5% and Avoidance increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101182,
@@ -384,7 +706,21 @@
       "icon": "ability_monk_legsweep",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使扫堂腿的范围提高4码。",
+      "descriptionEn": "Increases the range of Leg Sweep by 4 yds.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101183,
@@ -399,7 +735,21 @@
       "icon": "ability_monk_quipunch",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使滚地翻的冷却时间缩短5秒，使用次数上限提高1次。",
+      "descriptionEn": "Reduces the cooldown of Roll by 5 sec and increases its maximum number of charges by 1.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101184,
@@ -414,7 +764,21 @@
       "icon": "ability_monk_dpsstance",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使分筋错骨的冷却时间缩短15秒，扫堂腿的冷却时间缩短10秒。",
+      "descriptionEn": "Reduces the cooldown of Paralysis by 15 sec and the cooldown of Leg Sweep by 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101185,
@@ -429,7 +793,21 @@
       "icon": "ability_monk_risingsunkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "旭日东升踢的伤害提高70%，神鹤引项踢的伤害提高10%。",
+      "descriptionEn": "Rising Sun Kick deals 70% increased damage. Spinning Crane Kick deals 10% additional damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101186,
@@ -444,7 +822,21 @@
       "icon": "ability_monk_risingsunkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "踏风\n向上猛踢，造成[([143.8% of Attack Power]) * [(攻击强度 * 0.98)][((攻击强度 + [Offhand Attack Power]) * 2 / 3)] -- 2H, DW / 攻击强度]点物理伤害。\n\n 酒仙\n向上猛踢，造成([143.8% of Attack Power])点物理伤害。\n\n 织雾\n向上猛踢，造成([143.8% of Attack Power])点物理伤害。",
+      "descriptionEn": "Windwalker\nKick upwards, dealing [(143.8% of Attack Power) * [(Attack Power * 0.98)][((Attack Power + Offhand Attack Power) * 2 / 3)] -- 2H, DW / Attack Power] Physical damage.\n\n Brewmaster\nKick upwards, dealing (143.8% of Attack Power) Physical damage.\n\n Mistweaver\nKick upwards, dealing (143.8% of Attack Power) Physical damage.",
+      "costCn": "2点真气 / 2.5% 法力值",
+      "costEn": "2 Chi / 2.5% of base mana",
+      "rangeCn": "近战范围",
+      "rangeEn": "Melee Range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "10秒 冷却",
+      "cooldownEn": "10 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108540,
@@ -459,7 +851,21 @@
       "icon": "spell_monk_diffusemagic",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "激活壮胆酒会尽可能将你身上当前激活的所有有害魔法效果返还给施法者。",
+      "descriptionEn": "Activating Fortifying Brew transfers all currently active harmful magical effects on you back to their original caster if possible.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110019,
@@ -474,7 +880,21 @@
       "icon": "ability_monk_serenity",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "活血术和神龙之赐会在你自己身上触发一次迷雾之风。",
+      "descriptionEn": "Vivify and Sheilun's Gift trigger a Gust of Mist on yourself.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110026,
@@ -489,7 +909,21 @@
       "icon": "ability_monk_vivify",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n施放旭日东升踢后，你的下一次活血术变为瞬发。\n\n 踏风\n施放旭日东升踢后，你的下一次活血术变为瞬发。\n\n此效果还会使活血术的能量消耗降低75%。\n\n 酒仙\n施放醉酿投后，你的下一次活血术变为瞬发。\n\n此效果还会使活血术的能量消耗降低75%。",
+      "descriptionEn": "Brewmaster\nAfter casting Keg Smash, your next Vivify becomes instant cast.\n\nThis effect also reduces the energy cost of Vivify by 75%.\n\n Mistweaver\nAfter casting Rising Sun Kick, your next Vivify becomes instant cast.\n\n Windwalker\nAfter casting Rising Sun Kick, your next Vivify becomes instant cast.\n\nThis effect also reduces the energy cost of Vivify by 75%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110097,
@@ -504,7 +938,21 @@
       "icon": "inv_belt__inv_leather_raidmonkmythic_s_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你受到的所有魔法伤害的3%将转化为治疗。",
+      "descriptionEn": "You heal for 3% of all magical damage taken.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101095,
@@ -519,7 +967,21 @@
       "icon": "ability_monk_healthsphere",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "作茧缚命的吸收量提高80%。",
+      "descriptionEn": "The absorb amount of Life Cocoon is increased by 80%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101096,
@@ -534,7 +996,21 @@
       "icon": "ability_monk_chicocoon",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将目标包裹在真气形成的茧中，持续12秒，吸收[[Total Health] * 48 / 100 * (1 + 全能)]点伤害，并使其受到的所有持续治疗效果提高50%。",
+      "descriptionEn": "Encases the target in a cocoon of Chi energy for 12 sec, absorbing [Total Health * 48 / 100 * (1 + Versatility)] damage and increasing all healing over time received by 50%.",
+      "costCn": "2.4% 法力值",
+      "costEn": "2.4% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101097,
@@ -549,7 +1025,21 @@
       "icon": "ability_monk_mightyoxkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "旭日东升踢还会踢出迷雾之风，为40码内的2名盟友恢复([0.1% of Spell Power])点生命值。\n\n神鹤引项踢和幻灭踢有几率踢出迷雾之风，为40码内的1名盟友恢复([0.1% of Spell Power])点生命值。",
+      "descriptionEn": "Rising Sun Kick now kicks up a Gust of Mist to heal 2 allies within 40 yds for (0.1% of Spell Power). \n\nSpinning Crane Kick and Blackout Kick have a chance to kick up a Gust of Mist to heal 1 ally within 40 yds for (0.1% of Spell Power).",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101098,
@@ -564,7 +1054,21 @@
       "icon": "ability_monk_domeofmist",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "作茧缚命的冷却时间缩短45秒。",
+      "descriptionEn": "Reduces the cooldown of Life Cocoon by 45 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101099,
@@ -579,7 +1083,21 @@
       "icon": "inv_shoulder__inv_leather_raidmonkmythic_s_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "作茧缚命现在会对目标施放复苏之雾和氤氲之雾。",
+      "descriptionEn": "Life Cocoon applies Renewing Mist and Enveloping Mist to the target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101101,
@@ -594,7 +1112,53 @@
       "icon": "inv_drink_25_honeytea",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "雷光聚神茶现在会进一步强化氤氲之雾和旭日东升踢。",
+      "descriptionEn": "Thunder Focus Tea now empowers Enveloping Mist and Rising Sun Kick further.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "引导",
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "氤氲之雾",
+          "icon": "",
+          "description": "："
+        },
+        {
+          "name": "旭日东升踢",
+          "icon": "ability_monk_risingsunkick",
+          "description": "："
+        },
+        {
+          "name": "碧火踏",
+          "icon": "inv_ability_monk_jadefirestomp",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Enveloping Mist",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Rising Sun Kick",
+          "icon": "ability_monk_risingsunkick",
+          "description": ":"
+        },
+        {
+          "name": "Jadefire Stomp",
+          "icon": "inv_ability_monk_jadefirestomp",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 101102,
@@ -609,7 +1173,21 @@
       "icon": "inv_misc_book_07",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "谆谆古训会额外将320%的伤害转化为治疗。\n\n你的耐力提高8%。",
+      "descriptionEn": "Ancient Teachings transfers an additional 320% damage to healing.\n\nYour Stamina is increased by 8%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101106,
@@ -624,7 +1202,21 @@
       "icon": "ability_monk_cranekick_new",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的法术和技能有几率使你的下一个神鹤引项踢额外造成400%的伤害。",
+      "descriptionEn": "Your spells and abilities have a chance to make your next Spinning Crane Kick deal an additional 400% damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101107,
@@ -639,7 +1231,21 @@
       "icon": "inv_ability_monk_renewingmists_active",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "复苏之雾的治疗效果会根据其覆盖你自身和盟友的比例，最多提高300%。",
+      "descriptionEn": "Renewing Mist healing is increased by up to 300% in proportion to its coverage on yourself and your allies.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101109,
@@ -654,7 +1260,21 @@
       "icon": "ability_monk_jasmineforcetea",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "生命值降至40%时或获得过量金创药时消耗一瓶金创药，立即为你恢复15%的最大生命值。\n\n你每30秒获得1瓶金创药，最多叠加2次。",
+      "descriptionEn": "You consume a healing elixir when you drop below 40% health or generate excess healing elixirs, instantly healing you for 15% of your maximum health.\n\nYou generate 1 healing elixir every 30 sec, stacking up to 2 times.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101110,
@@ -669,7 +1289,21 @@
       "icon": "ability_monk_vivify",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "活血术为所有带有你的复苏之雾效果的盟友恢复([323.18% of Spell Power])点生命值。\n\n神龙之赐对其主要目标的治疗效果提高500%。",
+      "descriptionEn": "Vivify heals all allies with your Renewing Mist active for (323.18% of Spell Power).\n\nSheilun's Gift's healing is increased by 500% on its primary target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101111,
@@ -684,7 +1318,21 @@
       "icon": "ability_monk_chiswirl",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "旭日东升踢和氤氲之雾会为40码范围内的一名盟友施加复苏之雾，持续6秒。",
+      "descriptionEn": "Rising Sun Kick and Enveloping Mist apply Renewing Mist for 6 seconds to an ally within 40 yds.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101113,
@@ -699,7 +1347,21 @@
       "icon": "inv_pet_jadeserpentpet",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "使 [朱鹤下凡 / 青龙下凡]的冷却时间缩短1分钟，但也会使持续时间缩短至12秒。",
+      "descriptionEn": "Reduces the cooldown of [Invoke Chi-Ji, the Red Crane / Invoke Yul'on, the Jade Serpent] by 1 min, but decreases its duration to 12 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101115,
@@ -714,7 +1376,21 @@
       "icon": "spell_monk_nimblebrew",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "雷光聚神茶现在会强化你的下2个法术。",
+      "descriptionEn": "Thunder Focus Tea now empowers your next 2 spells.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101120,
@@ -729,7 +1405,21 @@
       "icon": "inv12_ability_monk_sheilunsgift",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "汇聚附近的云雾，为友方目标以及最多2名附近的盟友恢复([416.96% of Spell Power])点生命值，每吸收一片云雾，额外恢复[([416.96% of Spell Power]) * 5 / 100]点生命值。\n\n在战斗中每8秒产生一片云雾。",
+      "descriptionEn": "Draws in all nearby clouds of mist, healing the friendly target and up to 2 nearby allies for (416.96% of Spell Power) and an additional [(416.96% of Spell Power) * 5 / 100] per cloud absorbed.\n\nA cloud of mist is generated every 8 sec while in combat.",
+      "costCn": "3% 法力值",
+      "costEn": "3% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2秒 施法时间",
+      "castTimeEn": "2 sec cast",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101121,
@@ -744,7 +1434,21 @@
       "icon": "inv_misc_herb_chamlotus",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "具有复苏之雾的盟友受到你的治疗效果提高6%，并且复苏之雾的持续时间提高2秒。",
+      "descriptionEn": "Allies with Renewing Mist receive 6% more healing from you and Renewing Mist's duration is increased by 2 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101124,
@@ -759,7 +1463,53 @@
       "icon": "ability_monk_chibrew",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使用雷光聚神茶后，你的下一个法术会使一项属性提高4%。同一时间内只能激活一种属性提升：",
+      "descriptionEn": "After using Thunder Focus Tea, your next spell gives 4% of a stat. Only one stat increase may be active at once:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "氤氲之雾",
+          "icon": "",
+          "description": "：爆击"
+        },
+        {
+          "name": "复苏之雾",
+          "icon": "",
+          "description": "：急速"
+        },
+        {
+          "name": "旭日东升踢",
+          "icon": "",
+          "description": "：全能"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Enveloping Mist",
+          "icon": "",
+          "description": ": Critical strike"
+        },
+        {
+          "name": "Renewing Mist",
+          "icon": "",
+          "description": ": Haste"
+        },
+        {
+          "name": "Rising Sun Kick",
+          "icon": "",
+          "description": ": Versatility"
+        }
+      ]
     },
     {
       "nodeId": 101125,
@@ -774,7 +1524,21 @@
       "icon": "expansionicon_mistsofpandaria",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "旭日东升踢的伤害会随你的精通等级提高，并且雷光聚神茶会重置其冷却时间。",
+      "descriptionEn": "Rising Sun Kick's damage is increased by your Mastery rating and Thunder Focus Tea resets its cooldown.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101128,
@@ -789,7 +1553,21 @@
       "icon": "ability_monk_jadeserpentbreath",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "激活后，玉珑和赤精会对40码内的5名目标施加真气之茧效果，吸收[[Total Health] * 24 / 100 * (1 + 全能)]点伤害，持续10秒。\n\n赤精在召唤时获得4层禅院教诲。\n\n玉珑会降低氤氲之雾30%的施法速度。",
+      "descriptionEn": "When activated, Yu'lon and Chi-Ji apply Chi Cocoons to 5 targets within 40 yds, absorbing [Total Health * 24 / 100 * (1 + Versatility)] damage for 10 sec.\n\nChi-Ji grants 4 stacks of Teachings of the Monastery when invoked.\n\nYu'lon reduces the cast speed of Enveloping Mist by 30%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101129,
@@ -804,7 +1582,21 @@
       "icon": "inv_pet_cranegod",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "召唤赤精雕像，持续25秒，你使用幻灭踢、旭日东升踢或神鹤引项踢时会踢出3道迷雾之风，为最多2名盟友恢复[([0.1% of Spell Power]) * 50 / 100]点生命值。\n\n赤精的气息会让你免疫移动限制效果，使氤氲之雾成为瞬发，并使氤氲之雾的法力值消耗降低20%。",
+      "descriptionEn": "Summon an effigy of Chi-Ji for 25 sec that kicks up 3 Gust of Mists when you Blackout Kick, Rising Sun Kick, or Spinning Crane Kick, healing up to 2 allies for [(0.1% of Spell Power) * 50 / 100].\n\nChi-Ji's presence makes you immune to movement impairing effects, makes Enveloping Mist instant cast, and reduces the mana cost of Enveloping Mist by 20%.",
+      "costCn": "5% 法力值",
+      "costEn": "5% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101130,
@@ -819,7 +1611,21 @@
       "icon": "ui_profession_herbalism",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "法力茶的引导速度加快50%，恢复的法力值提高20%。",
+      "descriptionEn": "Mana Tea now channels 50% faster and generates 20% more Mana.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "引导",
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101131,
@@ -834,7 +1640,21 @@
       "icon": "spell_monk_revival",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "为40码范围内所有小队或团队成员恢复([5988.28% of Spell Power])点生命值，并为其移除3个有害的魔法效果，以及所有中毒和疾病效果。\n\n目标超过5个时治疗量降低。",
+      "descriptionEn": "Heals all party and raid members within 40 yds for (5988.28% of Spell Power) and clears them of 3 harmful Magic, all Poison, and all Disease effects.\n\nHealing reduced beyond 5 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3分钟 冷却",
+      "cooldownEn": "3 min cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101132,
@@ -849,7 +1669,33 @@
       "icon": "monk_ability_cherrymanatea",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每消耗0点法力值，你将获得一层法力茶效果。除此之外，你还有一定几率额外获得一层法力茶效果，该几率相当于你的爆击几率。",
+      "descriptionEn": "For every 0 Mana you spend, you gain 1 stack of Mana Tea, with a chance equal to your critical strike chance to generate 1 extra stack.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "引导",
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "法力茶",
+          "icon": "",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Mana Tea",
+          "icon": "",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 101133,
@@ -864,7 +1710,73 @@
       "icon": "ability_monk_thunderfocustea",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "获得一股能量，使你接下来施放的一个法术得到增强：",
+      "descriptionEn": "Receive a jolt of energy, empowering your next spell cast:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [
+        {
+          "name": "氤氲之雾",
+          "icon": "",
+          "description": "：变为瞬发并立即恢复([748.8% of Spell Power])点生命值。"
+        },
+        {
+          "name": "复苏之雾",
+          "icon": "",
+          "description": "：持续时间延长10秒。"
+        },
+        {
+          "name": "旭日东升踢",
+          "icon": "",
+          "description": "：冷却时间缩短9秒。"
+        },
+        {
+          "name": "碎玉闪电",
+          "icon": "",
+          "description": "：立即击退目标。"
+        },
+        {
+          "name": "滚地翻",
+          "icon": "",
+          "description": "：恢复一层充能并为你恢复([240% of Attack Power])点生命值。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Enveloping Mist",
+          "icon": "",
+          "description": ": Immediately heals for (748.8% of Spell Power) and is instant cast."
+        },
+        {
+          "name": "Renewing Mist",
+          "icon": "",
+          "description": ": Duration increased by 10 sec."
+        },
+        {
+          "name": "Rising Sun Kick",
+          "icon": "",
+          "description": ": Cooldown reduced by 9 sec."
+        },
+        {
+          "name": "Crackling Jade Lightning",
+          "icon": "",
+          "description": ": Knockback applied immediately."
+        },
+        {
+          "name": "Roll",
+          "icon": "",
+          "description": ": Refund a charge and heal yourself for (240% of Attack Power)"
+        }
+      ]
     },
     {
       "nodeId": 101134,
@@ -879,7 +1791,21 @@
       "icon": "spell_monk_envelopingmist",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "用治疗迷雾包裹目标，在6秒 / 缭绕之雾: 7秒 / 青龙下凡: 10秒 / 朱鹤下凡: 10秒内为其恢复([748.8% of Spell Power])点生命值，并使目标从你的其他法术获得的治疗效果提高10%。",
+      "descriptionEn": "Wraps the target in healing mists, healing for (748.8% of Spell Power) over 6 sec / Mist Wrap: 7 sec / Invoke Yu'lon, the Jade Serpent: 10 sec / Invoke Chi-Ji, the Red Crane: 10 sec, and increasing healing received from your other spells by 10%.",
+      "costCn": "3.6% 法力值",
+      "costEn": "3.6% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2秒 施法时间",
+      "castTimeEn": "2 sec cast",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101231,
@@ -894,7 +1820,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/47_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "直接导引青龙、白虎、玄牛、朱雀四大天神之力，使天神下凡释放全队强力增益与心能风暴。",
+      "descriptionEn": "Channels the August Celestials directly, unleashing Heart of the Jade Serpent and roaring celestial unity across the battlefield.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 101233,
@@ -909,7 +1839,21 @@
       "icon": "inv_jewelcrafting_jadeserpent",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "旭日东升踢的伤害提高15%。",
+      "descriptionEn": "Rising Sun Kick damage increased by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101234,
@@ -924,7 +1868,21 @@
       "icon": "ability_monk_chiswirl",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "天神御身仅击中一个目标时，治疗和伤害提高100%。\n\n每多击中一个目标，该加成降低20%。",
+      "descriptionEn": "Celestial Conduit's healing and damage is increased by 100% when striking a single target.\n\nEach addtional target reduces this bonus by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101235,
@@ -939,7 +1897,63 @@
       "icon": "inv_10_dungeonjewelry_explorer_trinket_1compass_color2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每8秒，你会在几种谐调间切换，使对应的次要属性提高2%。",
+      "descriptionEn": "You switch between alignments every 8 sec, increasing a corresponding secondary stat by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "朱鹤式",
+          "icon": "",
+          "description": "："
+        },
+        {
+          "name": "白虎式",
+          "icon": "",
+          "description": "："
+        },
+        {
+          "name": "玄牛式",
+          "icon": "",
+          "description": "："
+        },
+        {
+          "name": "青龙式",
+          "icon": "",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Crane Stance",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Tiger Stance",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Ox Stance",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Serpent Stance",
+          "icon": "",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 101236,
@@ -954,7 +1968,21 @@
       "icon": "ability_monk_dpsstance",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "消耗禅院教诲时有15%几率恢复一层充能。\n\n猛虎掌的伤害提高10%。",
+      "descriptionEn": "Teachings of the Monastery has a 15% chance to refund a charge when consumed. \n\nThe damage of Tiger Palm is increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101237,
@@ -969,7 +1997,21 @@
       "icon": "inv_shoulder_leather_raidmonkemerald_d_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在天神御身期间，你的移动速度提高75%，在任意天神协助后的3秒内，你的移动速度提高15%。",
+      "descriptionEn": "Your movement speed is increased by 75% during Celestial Conduit and by 15% for 3 sec after being assisted by any Celestial.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101238,
@@ -984,7 +2026,21 @@
       "icon": "ability_monk_jadeserpentbreath",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "当你激活天神御身时，立即恢复10%的最大生命值，同时在此期间受到的伤害降低15%。\n\n天神御身结束后此效果还会额外保留8秒。",
+      "descriptionEn": "You heal for 10% of your maximum health instantly when you activate Celestial Conduit and receive 15% less damage for its duration. \n\nThis effect lingers for an additional 8 sec after Celestial Conduit ends.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101239,
@@ -999,7 +2055,21 @@
       "icon": "ability_monk_prideofthetiger",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "天神御身可以在持续期间再施放一次，召唤所有至尊天神协助你，产生200%的效果。\n\n如果在天神御身效果结束时未施放，则会在结束时自动施放众神聚心。",
+      "descriptionEn": "Celestial Conduit can be recast once during its duration to call upon all of the August Celestials to assist you at 200% effectiveness.\n\nUnity Within is automatically cast when Celestial Conduit ends if not used before expiration.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101240,
@@ -1014,7 +2084,21 @@
       "icon": "monk_ability_summonoxstatue",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "玄牛之力的效果对你的主要目标提高400%。",
+      "descriptionEn": "Strength of the Black Ox's effect is 400% more effective on your primary target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101242,
@@ -1029,7 +2113,21 @@
       "icon": "ability_monk_summontigerstatue",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n猛虎掌、活血术和神龙之赐有一定几率使雪怒爪击附近的一名敌人，造成([337.5% of Attack Power])点物理伤害，并为附近的一位盟友恢复伤害量的100%的生命值。\n\n使用青龙下凡或朱鹤下凡后，下次施放必定激活此效果。\n\n 踏风\n猛虎掌有一定几率使雪怒爪击你的目标，造成([337.5% of Attack Power])点物理伤害，并为附近的一位盟友恢复伤害量的25%的生命值。\n\n使用白虎下凡后，下次施放必定激活此效果。",
+      "descriptionEn": "Windwalker\nTiger Palm has a chance to cause Xuen to claw your target for (337.5% of Attack Power) Physical damage, healing a nearby ally for 25% of the damage done.\n\nInvoke Xuen, the White Tiger guarantees your next cast activates this effect.\n\n Mistweaver\nTiger Palm, Vivify, and Sheilun's Gift have a chance to cause Xuen to claw a nearby enemy for (337.5% of Attack Power) Physical damage, healing a nearby ally for 100% of the damage done.\n\nInvoke Yu'lon, the Jade Serpent or Invoke Chi-Ji, the Red Crane guarantees your next cast activates this effect.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101127,
@@ -1044,7 +2142,21 @@
       "icon": "achievement_zone_sholazar_10",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "复苏之雾现在可以使用3次，并使旭日东升踢的剩余冷却时间缩短1.0秒。\n\n旭日东升踢现在使复苏之雾的剩余冷却时间缩短1.0秒。",
+      "descriptionEn": "Renewing Mist now has 3 charges and reduces the remaining cooldown of Rising Sun Kick by 1.0 sec.\n\nRising Sun Kick now reduces the remaining cooldown of Renewing Mist by 1.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101104,
@@ -1059,7 +2171,21 @@
       "icon": "monk_stance_redcrane",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "猛虎掌可以攻击两次，幻灭踢会以20%的效果额外攻击2个目标，神鹤引项踢会为附近的1个盟友恢复生命值，治疗量相当于造成伤害的280%。",
+      "descriptionEn": "Tiger Palms strike twice, Blackout Kicks strike an additional 2 targets at 20% effectiveness, and Spinning Crane Kick heals 1 nearby allies for 280% of the damage done.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109516,
@@ -1074,7 +2200,21 @@
       "icon": "inv12_apextalent_monk_spiritfont",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "旭日东升踢和活血术有几率激活灵泉，使你的下一次氤氲之雾的施法时间缩短50%，并为你向最多5名盟友引导抚慰之雾，效果为20%，持续8秒。\n\n如果灵泉的抚慰之雾治疗了一个生命值全满的目标，则会跳跃到另一个受伤的盟友身上，或者将其治疗量分摊到剩余的抚慰之雾中。",
+      "descriptionEn": "Rising Sun Kick and Vivify have a chance to activate Spiritfont, causing your next Enveloping Mist's cast time to be reduced by 50% and channel Soothing Mist from you onto up to 5 allies at 20% effectiveness for 8 sec.\n\nIf Spiritfont's Soothing Mists heal a full health target, they will jump to another injured ally or split its healing into your remaining Soothing Mists.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "引导",
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109700,
@@ -1089,7 +2229,21 @@
       "icon": "ability_monk_flyingdragonkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "青龙之心激活时，你的急速提高10%。",
+      "descriptionEn": "Heart of the Jade Serpent increases your haste by 10% while active.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109701,
@@ -1104,7 +2258,21 @@
       "icon": "ability_monk_dragonkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n雷光聚神茶会召唤玉珑，让复苏之雾、旭日东升踢、作茧缚命和雷光聚神茶的冷却回复速度加快75%，持续8秒。\n\n 踏风\n风领主之击和升龙霸会召唤玉珑，让怒雷破、风领主之击、旭日东升踢和升龙霸的冷却回复速度加快75%，持续8秒。\n\n玉珑激活时怒雷破的引导时间缩短50%。",
+      "descriptionEn": "Windwalker\nStrike of the Windlord and Whirling Dragon Punch call upon Yu'lon to increase the cooldown recovery rate of Fists of Fury, Strike of the Windlord, Rising Sun Kick, and Whirling Dragon Punch by 75% for 8 sec. \n\nThe channel time of Fists of Fury is reduced by 50% while Yu'lon is active.\n\n Mistweaver\nThunder Focus Tea calls upon Yu'lon to increase the cooldown recovery rate of Renewing Mist, Rising Sun Kick, Life Cocoon, and Thunder Focus Tea by 75% for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "引导",
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110067,
@@ -1119,7 +2287,21 @@
       "icon": "inv_ability_conduitofthecelestialsmonk_celestialconduit",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n至尊天神赋予你力量，使你能够在4秒内为20码范围内最多5名受伤盟友恢复[([1100% of Spell Power]) * 5]点生命值，并对敌人造成[([165% of Attack Power]) * 5]点自然伤害，超过5个目标后效果降低。\n\n引导期间，你可以移动，但施放其他治疗或伤害法术会取消该效果。\n\n 酒仙,  踏风\n至尊天神赋予你力量，使你能够在4秒内对15码范围内的敌人造成[([165% of Attack Power]) * 5]点自然伤害，并为最多5名受伤的盟友恢复[([1100% of Spell Power]) * 5]点生命值，超过5个目标后效果降低。\n\n引导期间，你可以移动，但施放其他治疗或伤害法术会取消该效果。",
+      "descriptionEn": "Brewmaster,  Windwalker\nThe August Celestials empower you, causing you to radiate [(165% of Attack Power) * 5] Nature damage onto enemies and [(1100% of Spell Power) * 5] healing onto up to 5 injured allies within 15 yds over 4 sec, reduced beyond 5 targets.\n\nYou may move while channeling, but casting other healing or damaging spells cancels this effect.\n\n Mistweaver\nThe August Celestials empower you, causing you to radiate [(1100% of Spell Power) * 5] healing onto up to 5 injured allies and [(165% of Attack Power) * 5] Nature damage onto enemies within 20 yds over 4 sec, reduced beyond 5 targets.\n\nYou may move while channeling, but casting other healing or damaging spells cancels this effect.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "4秒 施法时间",
+      "castTimeEn": "Channeled",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110211,
@@ -1134,7 +2316,21 @@
       "icon": "ability_monk_chargingoxwave",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "踏风\n雪怒协助你之后，你的下一次幻灭踢会返还2层禅院教诲，并使砮皂践踏目标区域，对附近的敌人造成([200% of Attack Power])点伤害，目标超过5个时伤害降低。\n\n 织雾\n雪怒协助你之后，你的下一次氤氲之雾的施放时间缩短50%，并使砮皂为附近5个盟友生成吸收0点伤害的护盾。",
+      "descriptionEn": "Windwalker\nAfter Xuen assists you, your next Blackout Kick refunds 2 stacks of Teachings of the Monastery and causes Niuzao to stomp at your target's location, dealing (200% of Attack Power) damage to nearby enemies, reduced beyond 5 targets.\n\n Mistweaver\nAfter Xuen assists you, your next Enveloping Mist's cast time is reduced by 50% and causes Niuzao to grant an absorb shield to 5 nearby allies for 0.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110218,
@@ -1149,7 +2345,21 @@
       "icon": "inv_celestialserpentmount_jade",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n活血术和神龙之赐有几率以100%的效果触发青龙之心，持续4秒。\n\n 踏风\n青龙之心还会在你施放乾元之巅后，以100%的效果额外触发4秒。",
+      "descriptionEn": "Windwalker\nHeart of the Jade Serpent additionally triggers for 4 sec at 100% effectiveness after you cast Zenith.\n\n Mistweaver\nVivify and Sheilun's Gift have a chance to trigger Heart of the Jade Serpent for 4 sec at 100% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109516,
@@ -1164,7 +2374,21 @@
       "icon": "inv12_apextalent_monk_spiritfont",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "雷光聚神茶会激活灵泉，并且灵泉会以30%的效果对目标盟友施加真气之茧。",
+      "descriptionEn": "Thunder Focus Tea activates Spiritfont and Spiritfont applies Chi Cocoons at 30% effectiveness to allies targeted.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109516,
@@ -1179,7 +2403,21 @@
       "icon": "inv12_apextalent_monk_spiritfont",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "旭日东升踢的伤害提高10%，氤氲之雾的治疗效果提高10%。灵泉激活时，这些加成提高50%。",
+      "descriptionEn": "Rising Sun Kick damage increased by 10% and Enveloping Mist healing increased by 10%. These bonuses are increased by 50% while Spiritfont is active.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101112,
@@ -1194,7 +2432,21 @@
       "icon": "ability_monk_soothingmists",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "抚慰之雾的治疗效果提高300%，但法力值消耗提高200%。",
+      "descriptionEn": "Soothing Mist healing increased by 300%, but its mana cost is increased by 200%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     }
   ]
 }

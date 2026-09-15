@@ -39,7 +39,21 @@
       "icon": "ability_shaman_cleansespirit",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "净化灵魂会额外移除所有诅咒效果。",
+      "descriptionEn": "Purify Spirit additionally removes all Curse effects.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103579,
@@ -54,7 +68,21 @@
       "icon": "spell_nature_brilliance",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在目标位置召唤一个图腾，从周围的空气中聚集电能，在2秒之后爆炸，使周围8码内的敌人昏迷3秒。",
+      "descriptionEn": "Summons a totem at the target location that gathers electrical energy from the surrounding air and explodes after 2 sec, stunning all enemies within 8 yards for 3 sec.",
+      "costCn": "2% 法力值",
+      "costEn": "2% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103581,
@@ -69,7 +97,21 @@
       "icon": "ability_hunter_longevity",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "幽魂之狼会移除诱捕效果，且在前3秒内，你的移动速度额外提高25%。每20秒只能触发一次。",
+      "descriptionEn": "Ghost Wolf removes snares and increases your movement speed by an additional 25% for the first 3 sec. May only occur once every 20 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103582,
@@ -84,7 +126,21 @@
       "icon": "inv_jewelry_talisman_06",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "耐力提高8%。\n\n当你的生命值全满时，复生的冷却速度提高50%。",
+      "descriptionEn": "Stamina increased by 8%.\n\nWhile you are at full health, Reincarnation cools down 50% faster.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103583,
@@ -99,7 +155,21 @@
       "icon": "spell_nature_chainlightning",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "向敌人投掷一发闪电箭，造成([116.4% of Spell Power])点自然伤害，然后跃向附近的其他敌人。总共影响3个目标。",
+      "descriptionEn": "Hurls a lightning bolt at the enemy, dealing (116.4% of Spell Power) Nature damage and then jumping to additional nearby enemies. Affects 3 total targets",
+      "costCn": "0.2% 法力值",
+      "costEn": "0.2% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2秒 施法时间",
+      "castTimeEn": "2 sec cast",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103584,
@@ -114,7 +184,21 @@
       "icon": "spell_shaman_spiritwalkersgrace",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤灵魂保护你，持续15秒。可以在施放萨满法术的过程中移动。此法术可以在施放其它法术时施放。",
+      "descriptionEn": "Calls upon the guidance of the spirits for 15 sec, permitting movement while casting Shaman spells. Castable while casting.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103586,
@@ -129,7 +213,21 @@
       "icon": "inv_10_elementalcombinedfoozles_primordial",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到的所有魔法伤害降低8%。",
+      "descriptionEn": "Reduces all magic damage taken by 8%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103588,
@@ -144,7 +242,21 @@
       "icon": "inv_1115_shaman_chainheal",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "为友方目标恢复([231% of Spell Power])点生命值，然后跳跃到最多20码范围内受伤最重的3名盟友进行治疗。治疗效果每跳一次就会降低30%。",
+      "descriptionEn": "Heals the friendly target for (231% of Spell Power), then jumps up to 20 yards to heal the 3 most injured nearby allies. Healing is reduced by 30% with each jump.",
+      "costCn": "15% 法力值",
+      "costEn": "15% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2秒 施法时间",
+      "castTimeEn": "2 sec cast",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103590,
@@ -159,7 +271,43 @@
       "icon": "inv_spear_04",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在你的脚下召唤一个图腾，持续15秒。每2秒为40码范围内 [涌动之泉: 两名受伤的小队或团队成员 / 一名受伤的小队或团队成员]恢复([67.68% of Spell Power])点生命值。\n\n如果你已经习得了",
+      "descriptionEn": "Summons a totem at your feet for 15 sec that heals [Rushing Streams: two injured party or raid members / an injured party or raid member] within 40 yards for (67.68% of Spell Power) every 2 sec.\n\nIf you already know",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "治疗之泉图腾",
+          "icon": "",
+          "description": "，则"
+        },
+        {
+          "name": "治疗之泉图腾",
+          "icon": "",
+          "description": "会获得1次额外的使用次数。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Healing Stream Totem",
+          "icon": "",
+          "description": ", instead gain 1 additional charge of"
+        },
+        {
+          "name": "Healing Stream Totem",
+          "icon": "",
+          "description": "."
+        }
+      ]
     },
     {
       "nodeId": 103591,
@@ -174,7 +322,21 @@
       "icon": "inv_misc_volatileair",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "一股强风吹动你向前。",
+      "descriptionEn": "A gust of wind hurls you forward.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "20秒 冷却",
+      "cooldownEn": "20 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103593,
@@ -189,7 +351,21 @@
       "icon": "shaman_pvp_rockshield",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "元素,  增强\n大地之盾不再消耗充能，且拥有 115%的效能。\n\n 恢复\n大地之盾和水之护盾不再消耗充能，且拥有 115%的效能。",
+      "descriptionEn": "Restoration\nEarth Shield and Water Shield no longer lose charges and are 115% effective.\n\n Elemental,  Enhancement\nEarth Shield no longer loses charges and is 115% effective.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103594,
@@ -204,7 +380,21 @@
       "icon": "ability_shaman_fortifyingwaters",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "增强\n你对自己施放治疗之涌时，效果提高25%。\n\n 元素\n你对自己施放治疗之涌时，效果提高30%。\n\n 恢复\n你对自己施放治疗波时，效果提高25%。",
+      "descriptionEn": "Enhancement\nYour Healing Surge is 25% more effective on yourself.\n\n Elemental\nYour Healing Surge is 30% more effective on yourself.\n\n Restoration\nYour Healing Wave is 25% more effective on yourself.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103596,
@@ -219,7 +409,21 @@
       "icon": "spell_nature_skinofearth",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "用大地之盾保护目标，使你对其造成的治疗效果提高20%，在其受到伤害时为其恢复[([73% of Spell Power]) * (1.2)]点生命值。这个治疗效果每3秒只能触发一次。最多拥有9层充能。\n\n [元素环绕: 同一时间只能在萨满祭司以及另一个目标身上施放大地之盾。萨满祭司最多可激活两种元素护盾。 / 同一时间只能在一个目标身上施放大地之盾。萨满祭司在同一时间只能激活一种元素护盾。]",
+      "descriptionEn": "Protects the target with an earthen shield, increasing your healing on them by 20% and healing them for [(73% of Spell Power) * (1.2)] when they take damage. This heal can only occur once every 3 sec. Maximum 9 charges.\n\n [Elemental Orbit: Earth Shield can only be placed on the Shaman and one other target at a time. The Shaman can have up to two Elemental Shields active on them / Earth Shield can only be placed on one target at a time. Only one Elemental Shield can be active on the Shaman.]",
+      "costCn": "5% 法力值",
+      "costEn": "5% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103598,
@@ -234,7 +438,21 @@
       "icon": "spell_shaman_lavaburst",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "向目标投掷炽热的岩浆，造成([181% of Spell Power])点火焰伤害。如果目标受到烈焰震击的影响，熔岩爆裂将必定爆击，其伤害随你的爆击几率提高。",
+      "descriptionEn": "Hurls molten lava at the target, dealing (181% of Spell Power) Fire damage. Lava Burst will always critically strike if the target is affected by Flame Shock and its damage is increased by your critical strike chance.",
+      "costCn": "0.5% 法力值",
+      "costEn": "0.5% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2秒 施法时间",
+      "castTimeEn": "2 sec cast",
+      "cooldownCn": "8秒 冷却",
+      "cooldownEn": "8 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103601,
@@ -249,7 +467,21 @@
       "icon": "spell_fireresistancetotem_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗之泉图腾的治疗使受到的火焰、冰霜和自然伤害降低6%，持续3秒。",
+      "descriptionEn": "Healing from Healing Stream Totem reduces Fire, Frost, and Nature damage taken by 6% for 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103602,
@@ -264,7 +496,21 @@
       "icon": "ability_mage_shattershield",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你身上可激活的元素护盾种类提高1种。\n\n你可以在自己和一名盟友身上同时拥有大地之盾。",
+      "descriptionEn": "Increases the number of Elemental Shields you can have active on yourself by 1.\n\nYou can have Earth Shield on yourself and one ally at the same time.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103606,
@@ -279,7 +525,21 @@
       "icon": "spell_nature_rockbiter",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n你的武器和盾牌灌魔效果提高20%。\n\n 元素\n你的武器和盾牌灌魔效果提高30%。\n\n 增强\n你的武器灌魔效果提高15%。",
+      "descriptionEn": "Restoration\nThe effects of your weapon and shield imbues are increased by 20%.\n\n Elemental\nThe effects of your weapon and shield imbues are increased by 30%.\n\n Enhancement\nThe effects of your weapon imbues are increased by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103607,
@@ -294,7 +554,21 @@
       "icon": "achievement_raidprimalist_windelemental",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "狂风图腾的冷却时间缩短30秒，移动速度加成效果额外持续2秒。",
+      "descriptionEn": "Wind Rush Totem's cooldown is reduced by 30 sec and its movement speed effect lasts an additional 2 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103611,
@@ -309,7 +583,21 @@
       "icon": "spell_shaman_astralshift",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "星界转移的冷却时间缩短30秒。",
+      "descriptionEn": "Reduces the cooldown of Astral Shift by 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103613,
@@ -324,7 +612,21 @@
       "icon": "spell_nature_natureguardian",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你的生命值降低到35%以下时，立即为你恢复40%的最大生命值。每45秒最多触发一次。",
+      "descriptionEn": "When your health is brought below 35%, you instantly heal for 40% of your maximum health. Cannot occur more than once every 45 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103615,
@@ -339,7 +641,21 @@
       "icon": "spell_nature_cyclone",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "元素,  增强,  恢复\n以强风冲击干扰目标的专注，打断施法并使其在4秒内无法施放该系的法术。",
+      "descriptionEn": "Elemental,  Enhancement,  Restoration\nDisrupts the target's concentration with a burst of wind, interrupting spellcasting and preventing any spell in that school from being cast for 4 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "12秒 冷却",
+      "cooldownEn": "12 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103616,
@@ -354,7 +670,21 @@
       "icon": "ability_shaman_astralshift",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将部分身体移入元素位面，使受到的伤害降低40%，持续12秒。",
+      "descriptionEn": "Shift partially into the elemental planes, taking 40% less damage for 12 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103617,
@@ -369,7 +699,21 @@
       "icon": "spell_nature_spiritarmor",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的自然法术和技能的爆击几率提高2%。",
+      "descriptionEn": "Increases the critical strike chance of your Nature spells and abilities by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103620,
@@ -384,7 +728,21 @@
       "icon": "spell_nature_ravenform",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的下一个治疗或伤害性自然法术变为瞬发，且不消耗法力值。",
+      "descriptionEn": "Your next healing or damaging Nature spell is instant cast and costs no mana.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1分钟 冷却",
+      "cooldownEn": "1 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103624,
@@ -399,7 +757,21 @@
       "icon": "spell_nature_purge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "净化敌方目标，移除1个有益魔法效果。[成功净化一个目标后会获得一层漩涡武器。]",
+      "descriptionEn": "Purges the enemy target, removing 1 beneficial Magic effect.[Successfully purging a target grants a stack of Maelstrom Weapon.]",
+      "costCn": "14% 法力值",
+      "costEn": "14% of base mana",
+      "rangeCn": "30 码范围",
+      "rangeEn": "30 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103625,
@@ -414,7 +786,21 @@
       "icon": "inv_relics_totemofrebirth",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n你的图腾的有效范围提高15%。\n\n你的地缚图腾和陷地图腾的持续时间延长10秒。\n\n你的治疗之泉、战栗、清毒、先祖护佑、大地之墙和狂风图腾的持续时间延长3.0秒。\n\n 元素,  增强\n你的图腾的有效范围提高15%。\n\n你的地缚图腾和陷地图腾的持续时间延长10秒。\n\n你的治疗之泉、战栗、清毒、和狂风图腾的持续时间延长3.0秒。",
+      "descriptionEn": "Restoration\nIncreases the radius of your totem effects by 15%.\n\nIncreases the duration of your Earthbind and Earthgrab Totems by 10 sec.\n\nIncreases the duration of your Healing Stream, Tremor, Poison Cleansing, Ancestral Protection, Earthen Wall, and Wind Rush Totems by 3.0 sec.\n\n Elemental,  Enhancement\nIncreases the radius of your totem effects by 15%.\n\nIncreases the duration of your Earthbind and Earthgrab Totems by 10 sec.\n\nIncreases the duration of your Healing Stream, Tremor, Poison Cleansing, and Wind Rush Totems by 3.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103626,
@@ -429,7 +815,21 @@
       "icon": "spell_shaman_spectraltransformation",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使灵魂行者的恩赐的冷却时间缩短30秒，激活时使你的移动速度提高20%。",
+      "descriptionEn": "Reduces the cooldown of Spiritwalker's Grace by 30 sec and increases your movement speed by 20% while it is active.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103627,
@@ -444,7 +844,21 @@
       "icon": "ability_shaman_windwalktotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在目标位置召唤一个图腾，持续15秒，使经过图腾附近10码范围内的盟友移动速度提高40%，持续5秒。",
+      "descriptionEn": "Summons a totem at the target location for 15 sec, continually granting all allies who pass within 10 yards 40% increased movement speed for 5 sec.",
+      "costCn": "1% 法力值",
+      "costEn": "1% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109386,
@@ -459,7 +873,21 @@
       "icon": "ability_shaman_totemrelocation",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将你所放置的图腾迁移到指定位置。",
+      "descriptionEn": "Relocates your active totems to the specified location.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "10秒 冷却",
+      "cooldownEn": "10 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109387,
@@ -474,7 +902,21 @@
       "icon": "ability_shaman_ascendance",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n水之护盾使你的智力提高3%。\n\n施放水之护盾现在会施加你的武器灌注。如果你拥有元素环绕天赋，还会施加大地之盾。\n\n 增强\n闪电之盾使你的敏捷提高3%。\n\n施放闪电之盾现在会施加你的武器灌注。如果你拥有元素环绕天赋，还会施加大地之盾。\n\n 元素\n闪电之盾使你的智力提高3%。\n\n施放闪电之盾现在会施加你的武器灌注。如果你拥有元素环绕天赋，还会施加大地之盾。",
+      "descriptionEn": "Enhancement\nLightning Shield increases your Agility by 3%.\n\nCasting Lightning Shield now applies your weapon imbuements. Earth Shield is also applied if you have the Elemental Orbit talent.\n\n Elemental\nLightning Shield increases your Intellect by 3%.\n\nCasting Lightning Shield now applies your weapon imbuements. Earth Shield is also applied if you have the Elemental Orbit talent.\n\n Restoration\nWater Shield increases your Intellect by 3%.\n\nCasting Water Shield now applies your weapon imbuements. Earth Shield is also applied if you have the Elemental Orbit talent.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109388,
@@ -489,7 +931,21 @@
       "icon": "spell_nature_agitatingtotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "大部分图腾的冷却时间缩短5秒。",
+      "descriptionEn": "Reduces the cooldown of most totems by 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103599,
@@ -504,7 +960,21 @@
       "icon": "spell_nature_poisoncleansingtotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "在你脚下召唤一个图腾，持续6秒。每1.5秒为附近30码范围内的一名小队或团队成员移除所有中毒效果。",
+      "descriptionEn": "Summons a totem at your feet that removes all Poison effects from a nearby party or raid member within 30 yards every 1.5 sec for 6 sec.",
+      "costCn": "0.5% 法力值",
+      "costEn": "0.5% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110085,
@@ -519,7 +989,21 @@
       "icon": "spell_shaman_blessingoftheeternals",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "精通提高3%。",
+      "descriptionEn": "Mastery increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 80976,
@@ -534,7 +1018,21 @@
       "icon": "ability_shaman_repulsiontotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每施放4次激流，你的激流就会施加给初始激流目标附近的另一个友方目标。",
+      "descriptionEn": "Every 4 casts of Riptide also applies Riptide to another friendly target near your Riptide target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81018,
@@ -549,7 +1047,21 @@
       "icon": "spell_nature_natureresistancetotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗之泉图腾的治疗效果提高100%，并会在持续期间衰减。",
+      "descriptionEn": "Healing Stream Totem heals for 100% more, decaying over its duration.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81021,
@@ -564,7 +1076,21 @@
       "icon": "ability_shaman_totemcooldownrefund",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗之泉图腾的冷却时间缩短5秒。",
+      "descriptionEn": "Reduces the cooldown of Healing Stream Totem by 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81022,
@@ -579,7 +1105,43 @@
       "icon": "inv_spear_04",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在你的脚下召唤一个图腾，持续15秒。每2秒为40码范围内 [涌动之泉: 两名受伤的小队或团队成员 / 一名受伤的小队或团队成员]恢复([67.68% of Spell Power])点生命值。\n\n如果你已经习得了",
+      "descriptionEn": "Summons a totem at your feet for 15 sec that heals [Rushing Streams: two injured party or raid members / an injured party or raid member] within 40 yards for (67.68% of Spell Power) every 2 sec.\n\nIf you already know",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "治疗之泉图腾",
+          "icon": "",
+          "description": "，则"
+        },
+        {
+          "name": "治疗之泉图腾",
+          "icon": "",
+          "description": "会获得1次额外的使用次数。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Healing Stream Totem",
+          "icon": "",
+          "description": ", instead gain 1 additional charge of"
+        },
+        {
+          "name": "Healing Stream Totem",
+          "icon": "",
+          "description": "."
+        }
+      ]
     },
     {
       "nodeId": 81024,
@@ -594,7 +1156,21 @@
       "icon": "ability_shaman_watershield",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的直接治疗法术所造成的爆击会为你恢复一定比例的最大法力值：治疗波恢复0.80%，激流恢复0.48%，治疗链恢复0.20%。",
+      "descriptionEn": "Your direct heal criticals refund a percentage of your maximum mana: 0.80% from Healing Wave, 0.48% from Riptide, and 0.20% from Chain Heal.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81027,
@@ -609,7 +1185,21 @@
       "icon": "spell_nature_riptide",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复之水洗刷一名友方目标，为其恢复([600% of Spell Power])点生命值，并在18秒内额外恢复([478.2% of Spell Power])点生命值。",
+      "descriptionEn": "Restorative waters wash over a friendly target, healing them for (600% of Spell Power) and an additional (478.2% of Spell Power) over 18 sec.",
+      "costCn": "1.52% 法力值",
+      "costEn": "1.52% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "6秒 冷却",
+      "cooldownEn": "6 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81031,
@@ -624,7 +1214,21 @@
       "icon": "inv_1115_shaman_chainheal",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗链额外跳跃一次，并且治疗量提高8%。",
+      "descriptionEn": "Chain Heal bounces an additional time and its healing is increased by 8%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81033,
@@ -639,7 +1243,21 @@
       "icon": "spell_shaman_astralshift",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n升腾和治疗之潮图腾的冷却时间缩短60秒。\n\n 元素\n升腾的冷却时间缩短60秒。",
+      "descriptionEn": "Restoration\nThe cooldown of Ascendance and Healing Tide Totem is reduced by 60 sec.\n\n Elemental\nThe cooldown of Ascendance is reduced by 60 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81037,
@@ -654,7 +1272,21 @@
       "icon": "ability_shawaterelemental_reform",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗波和治疗链对受到你的治疗之雨或激流影响的目标产生额外的15%的治疗效果。",
+      "descriptionEn": "Healing Wave and Chain Heal heal for an additional 15% on targets affected by your Healing Rain or Riptide.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81038,
@@ -669,7 +1301,21 @@
       "icon": "inv_misc_volatilewater",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使治疗波的法力消耗降低15%，治疗链的法力消耗降低15%。",
+      "descriptionEn": "Reduces the mana cost of Healing Wave by 15% and the mana cost of Chain Heal by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81039,
@@ -684,7 +1330,21 @@
       "icon": "spell_nature_acid_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每2秒，对你的治疗之雨中最多5个敌人造成[([100% of Spell Power])]点自然伤害。",
+      "descriptionEn": "Deal [(100% of Spell Power)] Nature damage every 2 sec to up to 5 enemies inside of your Healing Rain.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81040,
@@ -699,7 +1359,21 @@
       "icon": "spell_nature_giftofthewaterspirit",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "用治疗之雨覆盖目标区域，为最多6个盟友恢复[([108% of Spell Power]) * 6 * 2 / 5.19999981]点生命值，持续18秒。\n\n你一次只能激活一个治疗之雨。",
+      "descriptionEn": "Blanket the target area in healing rains, restoring [(108% of Spell Power) * 6 * 2 / 5.19999981] health to up to 6 allies over 18 sec.\n\nYou can only have one Healing Rain active at a time.",
+      "costCn": "4.32% 法力值",
+      "costEn": "4.32% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "2秒 施法时间",
+      "castTimeEn": "2 sec cast",
+      "cooldownCn": "12秒 冷却",
+      "cooldownEn": "12 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81041,
@@ -714,7 +1388,21 @@
       "icon": "spell_shaman_spiritlink",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在目标位置召唤一个图腾，持续6秒，使10码范围内的所有小队或团队成员受到的伤害降低10%。受到影响的所有玩家的生命值会立即平均分配，此后每隔1秒也会重新平均分配一次生命值。",
+      "descriptionEn": "Summons a totem at the target location for 6 sec, which reduces damage taken by all party and raid members within 10 yards by 10%. Immediately and every 1 sec, the health of all affected players is redistributed evenly.",
+      "costCn": "2.2% 法力值",
+      "costEn": "2.2% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3分钟 冷却",
+      "cooldownEn": "3 min cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81042,
@@ -729,7 +1417,21 @@
       "icon": "inv_helm_mail_raidshamanmythic_s_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗波和治疗链会使下一个激流的初始治疗效果提高30%，最多叠加2次。",
+      "descriptionEn": "Healing Wave and Chain Heal increase the initial healing of your next Riptide by 30%, stacking up to 2 times.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81043,
@@ -744,7 +1446,21 @@
       "icon": "spell_shaman_ancestralawakening",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你的治疗波或激流产生治疗时，有30%的几率召唤一个先祖之魂出现并帮助你，立即为周围半径40码范围内一个受伤的友方小队或团队成员治疗，该次治疗量相当于触发效果的法术的15%。爆击使该几率提高至60%。",
+      "descriptionEn": "When you heal with your Healing Wave or Riptide you have a 30% chance to summon an Ancestral spirit to aid you, instantly healing an injured friendly party or raid target within 40 yards for 15% of the amount healed. Critical strikes increase this chance to 60%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81044,
@@ -759,7 +1475,21 @@
       "icon": "spell_shaman_tidalwaves",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "施放激流会获得1层潮汐奔涌。潮汐奔涌使你的下一个治疗波或治疗链的施法时间缩短20%。\n\n最多可积攒2层。",
+      "descriptionEn": "Casting Riptide grants 1 stack of Tidal Waves. Tidal Waves reduces the cast time of your next Healing Wave or Chain Heal by 20%.\n\nCan accumulate up to 2 stacks.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81047,
@@ -774,7 +1504,21 @@
       "icon": "ability_shawaterelemental_swirl",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的爆击治疗效果并非通常的200%，而是215%。",
+      "descriptionEn": "Your critical heals have 215% effectiveness instead of the usual 200%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81048,
@@ -789,7 +1533,21 @@
       "icon": "inv_spear_04",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗之泉图腾的治疗频率提高15%。",
+      "descriptionEn": "Healing Stream Totem heals 15% more often.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81049,
@@ -804,7 +1562,21 @@
       "icon": "spell_shaman_giftearthmother",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "为你的武器注入大地元素的能量，持续1小时。使你的激流、治疗波和治疗链的治疗效果有20%的几率在目标身上触发大地生命效果，在6秒内恢复([138.915% of Spell Power])点生命值。",
+      "descriptionEn": "Imbue your weapon with the element of Earth for 1 hour. Your Riptide, Healing Wave, and Chain Heal healing has a 20% chance to trigger Earthliving on the target, healing for (138.915% of Spell Power) over 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81051,
@@ -819,7 +1591,43 @@
       "icon": "inv_misc_herb_liferoot_stem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n施放激流有7%的几率激活升腾，持续6.0秒。",
+      "descriptionEn": "Restoration\nCasting Riptide has a 7% chance to activate Ascendance for 6.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "升腾",
+          "icon": "",
+          "description": "立即为20码内的盟友恢复总计([1287.72% of Spell Power])点生命值，由受影响的盟友分摊，并转化成流水升腾者形态，持续15秒。\n\n升腾状态下，治疗链可以额外跳向3个目标，且所有跳跃的治疗效果降低10%；治疗波必定产生暴击，且会额外治疗1个目标，效果为初始目标的50%；此外，治疗链和治疗波的法力消耗降低25%。"
+        },
+        {
+          "name": "升腾",
+          "icon": "8026696",
+          "description": "转化成空气升腾者形态，持续15秒，施放毁灭之风。风暴打击的冷却时间和消耗降低60%，并将自动攻击和风暴打击变成风切，无视护甲，攻击距离为30码。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Ascendance",
+          "icon": "",
+          "description": "Immediately heals for (1287.72% of Spell Power) split between allies within 20 yds and transforms into a Water Ascendant for 15 sec.\n\nWhile ascended, Chain Heal jumps to 3 additional allies with 10% healing reduced for all jumps, Healing Wave always critical heals and heals 1 additional ally at 50% effectiveness, and the mana cost of Chain Heal and Healing Wave is reduced by 25%."
+        },
+        {
+          "name": "Ascendance",
+          "icon": "8026696",
+          "description": "Transform into an Air Ascendant for 15 sec and unleash Doom Winds, reducing the cooldown and cost of Stormstrike by 60%, and transforming your auto attack and Stormstrike into Wind attacks which bypass armor and have a 30 yd range."
+        }
+      ]
     },
     {
       "nodeId": 81055,
@@ -834,7 +1642,21 @@
       "icon": "ability_shaman_echooftheelements",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n激流和熔岩爆裂可多使用一次。\n\n 元素\n熔岩爆裂可多使用一次。",
+      "descriptionEn": "Elemental\nLava Burst has an additional charge.\n\n Restoration\nRiptide and Lava Burst have an additional charge.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94859,
@@ -849,7 +1671,21 @@
       "icon": "ability_shaman_totemrelocation",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "图腾的体型和范围扩大15%，图腾的生命值提高30%。",
+      "descriptionEn": "Increases the size and radius of your totems by 15%, and the health of your totems by 30%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94871,
@@ -864,7 +1700,21 @@
       "icon": "spell_shaman_unleashweapon_wind",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n你的大地生命效果的持续时间延长3秒。\n\n 增强\n风怒武器的触发几率提高5%，伤害提高8%。\n\n当风怒武器攻击触发火舌武器效果时，有几率在目标周围聚集一股火焰漩涡，以300%的效果对所有附近敌人造成伤害。",
+      "descriptionEn": "Enhancement\nIncreases the chance for Windfury Weapon to trigger by 5% and increases its damage by 8%.\n\nWhen Flametongue Weapon triggers from Windfury Weapon attacks, it has a chance to gather a whirl of flame around the target, dealing 300% of its damage to all nearby enemies.\n\n Restoration\nIncreases the duration of your Earthliving effect by 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94872,
@@ -879,7 +1729,21 @@
       "icon": "ability_rhyolith_lavapool",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n你的治疗之泉图腾还会治疗第二名盟友，产生30%的效果。\n\n治疗之潮图腾的治疗量提高25%。\n\n 增强\n灼热之手激活时，熔岩猛击会使大地碎裂，以80%效果施放裂地术。",
+      "descriptionEn": "Enhancement\nWhile Hot Hand is active Lava Lash shatters the earth, causing a Sundering at 80% effectiveness.\n\n Restoration\nYour Healing Stream Totems heals an additional ally at 30% effectiveness.\n\nHealing Tide Totem healing increased by 25%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94874,
@@ -894,7 +1758,21 @@
       "icon": "ability_evoker_essenceburststacks",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "涌动图腾激活时，你造成的伤害和治疗提高3%。",
+      "descriptionEn": "While Surging Totem is active, your damage and healing done is increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94877,
@@ -909,7 +1787,27 @@
       "icon": "inv_ability_totemicshaman_surgingtotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n在目标位置召唤一个图腾，持续产生治疗之雨，效果提高10%。持续25秒。",
+      "descriptionEn": "Enhancement\nSummons a totem at the target location that creates a Tremor immediately and every 6 sec for (122.382% of Attack Power) Flamestrike damage. Damage reduced beyond 5 targets. Lasts 25 sec.\n\n Restoration\nSummons a totem at the target location that maintains Healing Rain with 10% increased effectiveness for 25 sec.",
+      "costCn": "6.5% 法力值",
+      "costEn": "6.5% of base mana",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "25秒 冷却",
+      "cooldownEn": "25 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "代替治疗之雨。",
+          "icon": "",
+          "description": "增强"
+        }
+      ],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94879,
@@ -924,7 +1822,83 @@
       "icon": "inv_10_enchanting2_elementalswirl_color1",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n元素微粒在你的涌动图腾周围飞旋，你的技能会消耗微粒并增强效果。",
+      "descriptionEn": "Enhancement\nElemental motes orbit around your Surging Totem. Your abilities consume the motes for enhanced effects.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "流水：",
+          "icon": "",
+          "description": "你的下一次治疗波还会治疗你的治疗之雨中的一个盟友，产生50%的效果。"
+        },
+        {
+          "name": "空气：",
+          "icon": "",
+          "description": "[ 增强: 你的下一个闪电箭、闪电链或元素冲击会在你的涌动图腾处释放3道涌动飞箭。 / \n\n 元素,  恢复\n你的下一个治疗法术的施法时间减少40%。]"
+        },
+        {
+          "name": "大地：",
+          "icon": "",
+          "description": "[ 增强: 你的下一个裂地术的伤害提高100%，并召唤一个灼热图腾。 / \n\n 元素,  恢复\n你的下一个治疗链以150%的效果对所有命中的目标施加大地生命。]"
+        },
+        {
+          "name": "空气：",
+          "icon": "",
+          "description": "[ 增强: 你的下一个闪电箭、闪电链或元素冲击会在你的涌动图腾处释放3道涌动飞箭。 / \n\n 元素,  恢复\n你的下一个治疗法术的施法时间减少40%。]"
+        },
+        {
+          "name": "大地：",
+          "icon": "",
+          "description": "[ 增强: 你的下一个裂地术的伤害提高100%，并召唤一个灼热图腾。 / \n\n 元素,  恢复\n你的下一个治疗链以150%的效果对所有命中的目标施加大地生命。]"
+        },
+        {
+          "name": "火焰：",
+          "icon": "",
+          "description": "你的下一个熔岩猛击使你获得灼热之手，持续8秒。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Air:",
+          "icon": "",
+          "description": "[ Enhancement: Your next Lightning Bolt, Chain Lightning or Elemental Blast unleashes 3 Surging Bolts at your Surging Totem / \n\n Elemental,  Restoration\nThe cast time of your next healing spell is reduced by 40%]"
+        },
+        {
+          "name": "Earth:",
+          "icon": "",
+          "description": "[ Enhancement: Your next Sundering deals 100% increased damage and summons a Searing Totem / \n\n Elemental,  Restoration\nYour next Chain Heal applies Earthliving at 150% effectiveness to all targets hit]"
+        },
+        {
+          "name": "Fire:",
+          "icon": "",
+          "description": "Your next Lava Lash grants you Hot Hand for 8 sec."
+        },
+        {
+          "name": "Water:",
+          "icon": "",
+          "description": "Your next Healing Wave also heals an ally inside of your Healing Rain at 50% effectiveness."
+        },
+        {
+          "name": "Air:",
+          "icon": "",
+          "description": "[ Enhancement: Your next Lightning Bolt, Chain Lightning or Elemental Blast unleashes 3 Surging Bolts at your Surging Totem / \n\n Elemental,  Restoration\nThe cast time of your next healing spell is reduced by 40%]"
+        },
+        {
+          "name": "Earth:",
+          "icon": "",
+          "description": "[ Enhancement: Your next Sundering deals 100% increased damage and summons a Searing Totem / \n\n Elemental,  Restoration\nYour next Chain Heal applies Earthliving at 150% effectiveness to all targets hit]"
+        }
+      ]
     },
     {
       "nodeId": 94882,
@@ -939,7 +1913,21 @@
       "icon": "spell_fire_searingtotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n你的治疗之潮图腾、治疗之泉图腾或灵魂链接图腾在召唤时会施放一次无消耗且瞬发的治疗链，产生100%的效果。\n\n 增强\n熔岩猛击有几率召唤一个灼热图腾，对附近的一名敌人造成([65.205% of Spell Power])点火焰伤害，持续8秒。\n\n熔岩猛击和流电炽焰使你的灼热图腾向周围最多5名敌人施放一次灼烧齐射，造成([92.736% of Spell Power])点火焰伤害。",
+      "descriptionEn": "Enhancement\nLava Lash has a chance to summon a Searing Totem to hurl Searing Bolts that deal (65.205% of Spell Power) Fire damage to a nearby enemy. Lasts 8 sec.\n\nLava Lash and Voltaic Blaze cause your Searing Totems to shoot a Searing Volley at up to 5 nearby enemies for (92.736% of Spell Power) Fire damage.\n\n Restoration\nWhen you summon a Healing Tide Totem, Healing Stream Totem, or Spirit Link Totem you cast a free instant Chain Heal at 100% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94890,
@@ -954,7 +1942,21 @@
       "icon": "ability_vehicle_electrocharge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n治疗链弹射到最后一个目标后会跃向20码内的一个图腾，使图腾对30码内的一名受伤的盟友施放治疗链，恢复([220.5% of Spell Power])点生命值。可跳转到20码内的2名目标。\n\n 增强\n闪电箭、闪电链和元素冲击有几率向你的涌动图腾射出一支涌动飞箭，使图腾的伤害提高10%，随后跃向你的目标，造成([161% of Attack Power])点自然伤害。伤害加成效果可以叠加。",
+      "descriptionEn": "Restoration\nChain Heal now jumps to a nearby totem within 20 yards once it reaches its last target, causing the totem to cast Chain Heal on an injured ally within 30 yards for (220.5% of Spell Power). Jumps to 2 nearby targets within 20 yards.\n\n Enhancement\nLightning Bolt, Chain Lightning and Elemental Blast has a chance to unleash a Surging Bolt at your Surging Totem, increasing the totem's damage by 10%, and then redirecting the bolt to your target for (161% of Attack Power) Nature damage. The damage bonus effect can stack.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94891,
@@ -969,7 +1971,21 @@
       "icon": "spell_nature_eyeofthestorm",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "有图腾激活时，图腾每30秒使你获得一个护盾，吸收([Total Health] * 6 / 100)点伤害，持续30秒。",
+      "descriptionEn": "If you have a totem active, your totem grants you a shield absorbing (Total Health * 6 / 100) damage for 30 sec every 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 99846,
@@ -984,7 +2000,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/54_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "将萨满图腾工艺发挥至极致，召唤充能浪涌图腾为周围提供持续的元素灌注与冲击波。",
+      "descriptionEn": "Elevates totemic mastery to legendary heights, deploying Surging Totems that emanate continuous elemental pulses.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 94881,
@@ -999,7 +2019,21 @@
       "icon": "inv_elementalearth2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "恢复\n受到你的大地生命效果影响的盟友，从你这里获得的治疗效果提高15%。\n\n 增强\n在涌动图腾周围40码内施放裂地术会使其在目标区域引发一次效果为125%的震颤。",
+      "descriptionEn": "Restoration\nAllies affected by your Earthliving effect receive 15% increased healing from you.\n\n Enhancement\nCasting Sundering within 40 yards of your Surging Totem causes it to create a Tremor at 125% effectiveness at the target area.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94866,
@@ -1014,7 +2048,33 @@
       "icon": "ability_shaman_fortifyingwaters",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "恢复\n习得一种新的武器灌魔：唤潮者的护卫",
+      "descriptionEn": "Enhancement\nIncreases the critical strike chance of Flametongue Weapon by 25%, and its critical strike damage by 100%.\n\n Restoration\nLearn a new weapon imbue, Tidecaller's Guard.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "唤潮者的护卫",
+          "icon": "",
+          "description": "为你的盾牌注入水元素之力，持续1小时。你造成的治疗效果提高2.0%，你的治疗之泉图腾的持续时间延长3.0秒。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Tidecaller's Guard",
+          "icon": "",
+          "description": "Imbue your shield with the element of Water for 1 hour. Your healing done is increased by 2.0% and the duration of your Healing Stream Totem is increased by 3.0 sec."
+        }
+      ]
     },
     {
       "nodeId": 103428,
@@ -1029,7 +2089,21 @@
       "icon": "spell_shadow_soulleech_2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗之雨的治疗效果提高10%，施法时间缩短0.5秒。",
+      "descriptionEn": "Increases the healing done by Healing Rain by 10% and reduces its cast time by 0.5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103429,
@@ -1044,7 +2118,21 @@
       "icon": "spell_shaman_blessingoftheeternals",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到你的治疗波、治疗链或激流的初始治疗而恢复生命值的目标，其生命值提高5%，持续10秒。",
+      "descriptionEn": "Targets you heal with Healing Wave, Chain Heal, or Riptide's initial heal gain 5% increased health for 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103430,
@@ -1059,7 +2147,21 @@
       "icon": "spell_shaman_improvedearthshield",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "大地之盾使目标受到的伤害降低3%，并根据目标损失的生命值，其治疗效果最多提高150%。生命值低于50%时达到最大效果。",
+      "descriptionEn": "Earth Shield reduces damage taken by 3% and its healing is increased by up to 150% as its target's health decreases. Maximum benefit is reached below 50% health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 103432,
@@ -1074,7 +2176,21 @@
       "icon": "spell_nature_riptide",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "激流的初始治疗量提高20%，爆击几率提高10%。",
+      "descriptionEn": "Riptide's initial heal is increased 20% and has a 10% increased critical strike chance.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 81032,
@@ -1089,7 +2205,21 @@
       "icon": "ability_shaman_healingtide",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "在你的脚下召唤一个图腾，持续10秒。该图腾每2秒作用一次，为40码范围内的所有小队或团队成员恢复([514.5% of Spell Power])点生命值。\n\n目标超过5个时治疗量降低。",
+      "descriptionEn": "Summons a totem at your feet for 10 sec, which pulses every 2 sec, healing all party or raid members within 40 yards for (514.5% of Spell Power).\n\nHealing reduced beyond 5 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3分钟 冷却",
+      "cooldownEn": "3 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109301,
@@ -1104,7 +2234,21 @@
       "icon": "spell_frost_summonwaterelemental",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "激流的冷却时间缩短1.0秒。",
+      "descriptionEn": "Reduces the cooldown of Riptide by 1.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109724,
@@ -1119,7 +2263,21 @@
       "icon": "misc_legionfall_shaman",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "增强\n施放涌动图腾后，你的下一次熔岩猛击会以150%的效果再次施放。\n\n 恢复\n治疗之泉图腾和治疗之潮图腾的治疗效果有8%的几率对受到治疗的盟友施加大地生命。",
+      "descriptionEn": "Enhancement\nAfter casting Surging Totem, your next Lava Lash casts again at 150% effectiveness.\n\n Restoration\nHealing Stream Totem and Healing Tide Totem healing has a 8% chance to apply Earthliving to allies it heals.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109725,
@@ -1134,7 +2292,21 @@
       "icon": "inv_10_elementalcombinedfoozles_primordial",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "精通提高2%。",
+      "descriptionEn": "Mastery increased by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109726,
@@ -1149,7 +2321,21 @@
       "icon": "spell_frost_fireresistancetotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "恢复\n治疗之泉图腾的冷却时间缩短3秒。\n\n 增强\n熔岩猛击的伤害提高10%。\n\n每消耗一层漩涡武器，使正在生效的灼热之手的持续时间延长0.20秒。",
+      "descriptionEn": "Enhancement\nLava Lash damage increased by 10%.\n\nEach stack of Maelstrom Weapon consumed increases the duration of an active Hot Hand by 0.20 sec.\n\n Restoration\nReduces the cooldown of Healing Stream Totem by 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110403,
@@ -1164,7 +2350,21 @@
       "icon": "inv12_apextalent_shaman_stormstreamtotem",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "施放 [先祖迅捷: 先祖 / 自然]迅捷使你能够施放一次风暴涌流图腾，且风暴涌流图腾不再消耗一层治疗之泉图腾充能。",
+      "descriptionEn": "Casting [Ancestral Swiftness: Ancestral / Nature's] Swiftness grants a use of Stormstream Totem and Stormstream Totem no longer consumes a charge of Healing Stream Totem when used.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110403,
@@ -1179,7 +2379,21 @@
       "icon": "inv12_apextalent_shaman_stormstreamtotem",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "治疗之泉和风暴涌流图腾的治疗效果提高30%。",
+      "descriptionEn": "Healing Stream and Stormstream Totem healing increased by 30%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110403,
@@ -1194,7 +2408,21 @@
       "icon": "inv12_apextalent_shaman_stormstreamtotem",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "激流有6%的几率将你的下一个治疗之泉图腾升级为风暴涌流图腾，使其治疗量提高10%，额外治疗1名盟友，效果为100%，并在使用时为2名受伤的盟友恢复([1323% of Spell Power])点生命值。",
+      "descriptionEn": "Riptide has a 6% chance to upgrade your next Healing Stream Totem to Stormstream Totem which heals for 10% more, heals 1 additional ally at 100% effectiveness, and heals 2 injured allies for (1323% of Spell Power) healing when used.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 113376,
@@ -1209,7 +2437,21 @@
       "icon": "ability_shaman_manatidetotem",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "治疗之泉图腾会将你已激活的激流的持续时间延长3.0秒。",
+      "descriptionEn": "Healing Stream Totem extends the duration of your active Riptides by 3.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     }
   ]
 }

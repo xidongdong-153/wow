@@ -39,7 +39,21 @@
       "icon": "ability_warrior_offensivestance",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "平衡的战斗姿态，使你的技能爆击几率提高3%，并使移动限制效果的时间缩短10%。\n\n效果将一直持续直到取消。",
+      "descriptionEn": "A balanced combat state that increases the critical strike chance of your abilities by 3% and reduces the duration of movement impairing effects by 10%. \n\nLasts until canceled.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3秒 冷却",
+      "cooldownEn": "3 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90324,
@@ -54,7 +68,21 @@
       "icon": "inv_sword_20",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "装备单手武器时，你的伤害提高3%，吸血提高2%。",
+      "descriptionEn": "While wielding one-handed weapons your damage is increased by 3% and Leech increased by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90326,
@@ -69,7 +97,21 @@
       "icon": "spell_impending_victory",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "立即攻击目标，造成([59% of Attack Power])点伤害，并为你恢复30%的最大生命值。\n\n杀死一个可为你提供经验值或荣誉值的敌人，将重置胜利在望的冷却时间并使其不消耗怒气。",
+      "descriptionEn": "Instantly attack the target, causing (59% of Attack Power) damage and healing you for 30% of your maximum health.\n\nKilling an enemy that yields experience or honor resets the cooldown of Impending Victory and makes it cost no Rage.",
+      "costCn": "10怒气",
+      "costEn": "10 Rage",
+      "rangeCn": "近战范围",
+      "rangeEn": "Melee Range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "25秒 冷却",
+      "cooldownEn": "25 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90328,
@@ -84,7 +126,21 @@
       "icon": "ability_hunter_rapidkilling",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "武器\n你的自动攻击会额外产生1050%的怒气。\n\n消灭一名敌人会立即产生5点怒气，并使你的移动速度提高30%，持续8秒。\n\n 狂怒,  防护\n你的自动攻击会额外产生50%的怒气。\n\n消灭一名敌人会立即产生5点怒气，并使你的移动速度提高30%，持续8秒。",
+      "descriptionEn": "Arms\nYour auto-attacks generate 1050% more Rage.\n\nKilling an enemy instantly generates 5 Rage and increases your movement speed by 30% for 8 sec.\n\n Fury,  Protection\nYour auto-attacks generate 50% more Rage.\n\nKilling an enemy instantly generates 5 Rage and increases your movement speed by 30% for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90330,
@@ -99,7 +155,21 @@
       "icon": "ability_warrior_defensivestance",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "防护\n防御性的战斗姿态，使你受到的所有伤害降低15%。\n\n效果一直持续直到主动取消。\n\n 武器,  狂怒\n防御性的战斗姿态，使你受到的所有伤害降低15%，造成的所有伤害降低10%。\n\n效果一直持续直到主动取消。",
+      "descriptionEn": "Arms,  Fury\nA defensive combat state that reduces all damage you take by 15% and all damage you deal by 10%.\n\nLasts until canceled.\n\n Protection\nA defensive combat state that reduces all damage you take by 15%.\n\nLasts until canceled.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3秒 冷却",
+      "cooldownEn": "3 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90331,
@@ -114,7 +184,21 @@
       "icon": "ability_warrior_rallyingcry",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "释放集结呐喊，使40码范围内的所有小队或团队成员的当前生命值和最大生命值提高10%，持续10秒。\n\n不在团队中时，获得的生命值提高50%。",
+      "descriptionEn": "Lets loose a rallying cry, granting all party or raid members within 40 yards 10% temporary and maximum health for 10 sec.\n\nHealth granted increased by 50% when not in a raid.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3分钟 冷却",
+      "cooldownEn": "3 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90337,
@@ -129,7 +213,21 @@
       "icon": "warrior_talent_icon_stormbolt",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将你的武器掷向一名敌人，造成([28.5% of Attack Power])点物理伤害并使其昏迷4秒。 [风暴众锤: 额外击中附近的2名敌人，使其昏迷2秒。]",
+      "descriptionEn": "Hurls your weapon at an enemy, causing (28.5% of Attack Power) Physical damage and stunning for 4 sec. [Storm Bolts: Also hits 2 additional nearby targets, stunning for 2 sec]",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90343,
@@ -144,7 +242,33 @@
       "icon": "spell_nature_thunderclap",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "震击8码范围内的所有敌人，造成([235.68% of Attack Power])点物理伤害 [雷霆打击: ，使其定身4秒，]并使其移动速度降低20%，持续10秒。目标超过5 / 鲁莽: 8 / 崩解闪电: 85个时伤害降低。\n[",
+      "descriptionEn": "Blasts all enemies within 8 yards for (235.68% of Attack Power) Physical damage [Thunderstruck: roots them for 4 sec] and reduces their movement speed by 20% for 10 sec. Deals reduced damage beyond 5 / Recklessness: 8 / Crashing Thunder: 85 targets.\n[",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "6秒 冷却",
+      "cooldownEn": "6 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "产生0点怒气。",
+          "icon": "",
+          "description": "]"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Generates 0 Rage.",
+          "icon": "",
+          "description": "]"
+        }
+      ]
     },
     {
       "nodeId": 90346,
@@ -159,7 +283,21 @@
       "icon": "ability_heroicleap",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "武器,  狂怒\n朝目标区域腾空跃起，同时以毁灭性的力量重击地面，对8码范围内的所有敌人造成([23.5% of Attack Power])点物理伤害。\n\n 防护\n朝目标区域腾空跃起，同时以毁灭性的力量重击地面，对8码范围内的所有敌人造成([23.5% of Attack Power])点物理伤害并重置嘲讽的剩余冷却时间。",
+      "descriptionEn": "Protection\nLeap through the air toward a target location, slamming down with destructive force to deal (23.5% of Attack Power) Physical damage to all enemies within 8 yards and resetting the remaining cooldown on Taunt.\n\n Arms,  Fury\nLeap through the air toward a target location, slamming down with destructive force to deal (23.5% of Attack Power) Physical damage to all enemies within 8 yards.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90351,
@@ -174,7 +312,21 @@
       "icon": "warrior_talent_icon_mastercleaver",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "向敌人投掷你的武器，造成([600% of Attack Power])点物理伤害，无视护甲。最多对吸收护盾造成额外500%的伤害。",
+      "descriptionEn": "Hurl your weapon at the enemy, causing (600% of Attack Power) Physical damage, ignoring armor. Deals up to 500% increased damage to absorb shields.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90353,
@@ -189,7 +341,21 @@
       "icon": "spell_holy_painsupression",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你受到任何伤害时，恢复2.0%的最大生命值。\n\n该效果每10秒只能触发一次。",
+      "descriptionEn": "When you take any damage, heal for 2.0% of your maximum health. \n\nThis can only occur once every 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90355,
@@ -204,7 +370,21 @@
       "icon": "ability_heroicleap",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "英勇飞跃的冷却时间缩短15秒，并且在落地之后还会使你的移动速度提高70%，持续3秒。",
+      "descriptionEn": "Reduces the cooldown of Heroic Leap by 15 sec and Heroic Leap also increases your movement speed by 70% for 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90360,
@@ -219,7 +399,21 @@
       "icon": "ability_rogue_sprint",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "急速提高1%。你的自动攻击爆击会使你的自动攻击速度提高10%，持续10秒。",
+      "descriptionEn": "Haste increased by 1% and your auto-attack critical strikes increase your auto-attack speed by 10% for 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90366,
@@ -234,7 +428,21 @@
       "icon": "inv_shoulder_22",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "防护\n获得等同于护甲值2%的力量。\n\n 武器,  狂怒\n获得等同于护甲值5%的力量。",
+      "descriptionEn": "Protection\nGain Strength equal to 2% of your Armor.\n\n Arms,  Fury\nGain Strength equal to 5% of your Armor.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90368,
@@ -249,7 +457,21 @@
       "icon": "inv_chest_plate04",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "耐力提高5%。护甲提高5%。",
+      "descriptionEn": "Stamina increased by 5% and Armor increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90371,
@@ -264,7 +486,21 @@
       "icon": "inv_artifact_bloodoftheassassinated",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "吸血提高3%。",
+      "descriptionEn": "Leech increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90374,
@@ -279,7 +515,21 @@
       "icon": "spell_shaman_earthquake",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "震荡波的范围提高6码，击中至少3个目标时冷却时间缩短15秒。",
+      "descriptionEn": "Shockwave's range increased by 6 yards and when it strikes at least 3 targets its cooldown is reduced by 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90375,
@@ -294,7 +544,21 @@
       "icon": "ability_warrior_shockwave",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "向前方锥形区域释放一道能量波，造成([20% of Attack Power])点伤害，并使10码范围内的所有敌人昏迷，持续2秒。",
+      "descriptionEn": "Sends a wave of force in a frontal cone, causing (20% of Attack Power) damage and stunning all enemies within 10 yards for 2 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "40秒 冷却",
+      "cooldownEn": "40 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90381,
@@ -309,7 +573,21 @@
       "icon": "ability_criticalstrike",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "爆击几率提高1%。斩杀的爆击伤害提高5%。",
+      "descriptionEn": "Critical strike chance increased by 1% and critical strike damage of Execute increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90382,
@@ -324,7 +602,21 @@
       "icon": "inv_misc_horn_04",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "冲锋可以额外使用1次，冷却时间缩短3秒。",
+      "descriptionEn": "Charge gains 1 additional charge and its cooldown is reduced by 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90385,
@@ -339,7 +631,21 @@
       "icon": "ability_warrior_shieldreflection",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "武器,  狂怒\n举起你的武器，反射第一个对你施放的法术，同时使你受到的魔法伤害降低20%，持续5秒。\n\n 防护\n举起你的盾牌，反射第一个对你施放的法术，同时使你受到的魔法伤害降低20%，持续5秒。",
+      "descriptionEn": "Protection\nRaise your shield, reflecting the first spell cast on you and reducing magic damage you take by 20% for 5 sec.\n\n Arms,  Fury\nRaise your weapon, reflecting the first spell cast on you and reducing magic damage you take by 20% for 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "25秒 冷却",
+      "cooldownEn": "25 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95956,
@@ -354,7 +660,21 @@
       "icon": "spell_holy_borrowedtime",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "武器\n剑在人在、援护、截拦掩护、法术反射、风暴之锤和拳击的冷却时间缩短10%。\n\n成功打断敌人会使你对该敌人造成的伤害提高5%，持续10秒。\n\n 狂怒\n狂怒回复、援护、截拦掩护、法术反射、风暴之锤和拳击的冷却时间缩短10%。\n\n成功打断敌人会使你对该敌人造成的伤害提高5%，持续10秒。\n\n 防护\n盾墙、援护、法术反射、风暴之锤和拳击的冷却时间缩短10%。\n\n成功打断敌人会使你对该敌人造成的伤害提高5%，持续10秒。",
+      "descriptionEn": "Arms\nCooldown of Die By the Sword, Intervene, Interpose, Spell Reflection, Storm Bolt, and Pummel reduced by 10%.\n\nSuccessfully interrupting an enemy increases the damage you deal to them by 5% for 10 sec.\n\n Fury\nCooldown of Enraged Regeneration, Intervene, Interpose, Spell Reflection, Storm Bolt, and Pummel reduced by 10%.\n\nSuccessfully interrupting an enemy increases the damage you deal to them by 5% for 10 sec.\n\n Protection\nCooldown of Shield Wall, Intervene, Spell Reflection, Storm Bolt, and Pummel reduced by 10%.\n\nSuccessfully interrupting an enemy increases the damage you deal to them by 5% for 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 95959,
@@ -369,7 +689,21 @@
       "icon": "ability_thunderking_overcharge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "雷霆一击的范围扩大50%，并且使受影响目标的移动速度额外降低20%。",
+      "descriptionEn": "Thunder Clap's radius is increased by 50% and it reduces affected target's movement speed by an additional 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108542,
@@ -384,7 +718,63 @@
       "icon": "crest_warrior",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "狂怒\n你的姿态会获得额外效果。",
+      "descriptionEn": "Fury\nYour stances have additional effects.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "狂暴姿态",
+          "icon": "",
+          "description": "使你的自动攻击速度提高3%。"
+        },
+        {
+          "name": "防御姿态",
+          "icon": "ability_warrior_defensivestance",
+          "description": "当一次攻击造成的伤害达到你最大生命值的20%或以上时，该次伤害会降低15%。"
+        },
+        {
+          "name": "战斗姿态",
+          "icon": "ability_warrior_offensivestance",
+          "description": "使你的技能造成的爆击伤害提高3%。"
+        },
+        {
+          "name": "防御姿态",
+          "icon": "ability_warrior_defensivestance",
+          "description": "当一次攻击造成的伤害达到你最大生命值的20%或以上时，该次伤害会降低15%。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Berserker Stance",
+          "icon": "",
+          "description": "Increases your auto-attack speed by 3%."
+        },
+        {
+          "name": "Defensive Stance",
+          "icon": "ability_warrior_defensivestance",
+          "description": "When an attack deals 20% or more of your maximum health in damage, that damage is reduced by 15%."
+        },
+        {
+          "name": "Battle Stance",
+          "icon": "ability_warrior_offensivestance",
+          "description": "Increases the critical strike damage of your abilities by 3%."
+        },
+        {
+          "name": "Defensive Stance",
+          "icon": "ability_warrior_defensivestance",
+          "description": "When an attack deals 20% or more of your maximum health in damage, that damage is reduced by 15%."
+        }
+      ]
     },
     {
       "nodeId": 108543,
@@ -399,7 +789,21 @@
       "icon": "warrior_talent_icon_angermanagement",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "武器\n每消耗20点怒气用于攻击，就会使天神下凡和巨人打击的剩余冷却时间缩短1秒。\n\n 狂怒\n每消耗20点怒气用于攻击，就会使天神下凡和鲁莽的剩余冷却时间缩短1秒。\n\n 防护\n每消耗20点怒气，就会使天神下凡和盾墙的剩余冷却时间缩短1秒。",
+      "descriptionEn": "Arms\nEvery 20 Rage you spend on attacks reduces the remaining cooldown on Avatar and Colossus Smash by 1 sec.\n\n Fury\nEvery 20 Rage you spend on attacks reduces the remaining cooldown on Avatar and Recklessness by 1 sec.\n\n Protection\nEvery 20 Rage you spend reduces the remaining cooldown on Avatar and Shield Wall by 1 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108544,
@@ -414,7 +818,73 @@
       "icon": "ability_warrior_commandingshout",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的怒吼技能获得额外效果。",
+      "descriptionEn": "Your Shout abilities have additional effects.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "战斗怒吼",
+          "icon": "",
+          "description": "："
+        },
+        {
+          "name": "集结呐喊",
+          "icon": "ability_warrior_rallyingcry",
+          "description": "："
+        },
+        {
+          "name": "刺耳怒吼",
+          "icon": "spell_shadow_deathscream",
+          "description": "："
+        },
+        {
+          "name": "狂暴之吼",
+          "icon": "spell_nature_ancestralguardian",
+          "description": "："
+        },
+        {
+          "name": "破胆怒吼",
+          "icon": "ability_golemthunderclap",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Battle Shout",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Rallying Cry",
+          "icon": "ability_warrior_rallyingcry",
+          "description": ":"
+        },
+        {
+          "name": "Piercing Howl",
+          "icon": "spell_shadow_deathscream",
+          "description": ":"
+        },
+        {
+          "name": "Berserker Shout",
+          "icon": "spell_nature_ancestralguardian",
+          "description": ":"
+        },
+        {
+          "name": "Intimidating Shout",
+          "icon": "ability_golemthunderclap",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 108686,
@@ -429,7 +899,21 @@
       "icon": "spell_shadow_unholystrength",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "狂怒\n嗜血伤害提高5%，爆击伤害提高5%。\n\n 防护\n盾牌猛击伤害提高5%，爆击伤害提高5%。\n\n 武器\n致死打击伤害提高5%，爆击伤害提高5%。",
+      "descriptionEn": "Fury\nBloodthirst deals an additional 5% damage and deals 5% increased critical strike damage.\n\n Arms\nMortal Strike deals an additional 5% damage and deals 5% increased critical strike damage.\n\n Protection\nShield Slam deals an additional 5% damage and deals 5% increased critical strike damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110118,
@@ -444,7 +928,21 @@
       "icon": "8026700",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的投掷技能的范围扩大5码。\n\n勇士之矛、碎裂投掷和破裂投掷的伤害提高20%。\n\n碎裂投掷和破裂投掷会使非玩家目标沉默3秒。",
+      "descriptionEn": "Range of your thrown abilities is increased by 5 yards.\n\nDamage dealt by Champion's Spear, Shattering Throw, and Wrecking Throw increased by 20%.\n\nShattering Throw and Wrecking Throw silence non-players for 3 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110119,
@@ -459,7 +957,21 @@
       "icon": "inv_misc_bandage_08",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到的治疗效果提高3%，所有自我治疗效果额外提高10%。",
+      "descriptionEn": "Healing received increased by 3% and all self-healing increased by an additional 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 108705,
@@ -474,7 +986,21 @@
       "icon": "spell_shadow_deathscream",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "诱捕12码范围内的所有敌人，使其移动速度降低70%，持续8秒。\n\n鼓舞6码范围内的所有盟友，使其移动速度提高30%，持续4秒。",
+      "descriptionEn": "Snares all enemies within 12 yards, reducing their movement speed by 70% for 8 sec.\n\nSpurs all allies within 6 yards, increasing their movement speed by 30% for 4 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110653,
@@ -489,7 +1015,21 @@
       "icon": "warrior_talent_icon_bloodandthunder",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "雷霆一击会对所有击中的目标施加撕裂，使其流血并在15秒内造成([190.465% of Attack Power])点伤害。",
+      "descriptionEn": "Thunder Clap affects all targets with Rend, causing them to Bleed for (190.465% of Attack Power) damage over 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90265,
@@ -504,7 +1044,21 @@
       "icon": "ability_warrior_furiousresolve",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "每消耗250点怒气会触发一次怒意迸发，使你的下一次盾牌猛击的伤害提高200%，产生的怒气提高50%，并获得一次无视苦痛。",
+      "descriptionEn": "Every 250 rage you spend triggers a Violent Outburst, causing your next Shield Slam to deal 200% increased damage, generate 50% more Rage and grant Ignore Pain.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90295,
@@ -519,7 +1073,21 @@
       "icon": "ability_warrior_renewedvigor",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "武器,  狂怒\n在痛苦中继续战斗，无视接下来受到伤害中的50%，直到防止[0 * (1 + 全能)]点伤害。\n\n 防护\n在痛苦中继续战斗，无视接下来受到伤害中的50%，直到防止[0 * (1 + 全能)]点伤害。\n\n多次使用无视苦痛可以累积，最多可以防止([Total Health] * 30 / 100)点伤害。",
+      "descriptionEn": "Arms,  Fury\nFight through the pain, ignoring 50% of damage taken until [0 * (1 + Versatility)] damage has been prevented.\n\n Protection\nFight through the pain, ignoring 50% of damage taken until [0 * (1 + Versatility)] damage has been prevented.\n\nRepeated uses of Ignore Pain accumulate, up to (Total Health * 30 / 100) total damage prevented.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1秒 冷却",
+      "cooldownEn": "1 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90297,
@@ -534,7 +1102,21 @@
       "icon": "inv_sword_11",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的自动攻击额外造成([131.4% of Attack Power])点物理伤害，并有25%的几率重置盾牌猛击的剩余冷却时间。",
+      "descriptionEn": "Your auto-attacks deal an additional (131.4% of Attack Power) Physical damage and have a 25% chance to reset the remaining cooldown on Shield Slam.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90298,
@@ -549,7 +1131,21 @@
       "icon": "ability_warrior_revenge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "横扫一个宽阔的弧面，对你面前的所有敌人造成([281.664% of Attack Power])点物理伤害。目标数量超过5个时造成的伤害降低。\n\n你成功进行躲闪、招架或自动攻击时，有几率使你的下一次复仇不消耗怒气。",
+      "descriptionEn": "Swing in a wide arc, dealing (281.664% of Attack Power) Physical damage to all enemies in front of you. Deals reduced damage beyond 5 targets.\n\nYour successful dodges, parries, and auto-attacks have a chance to make your next Revenge cost no Rage.",
+      "costCn": "20怒气",
+      "costEn": "20 Rage",
+      "rangeCn": "近战范围",
+      "rangeEn": "Melee Range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90300,
@@ -564,7 +1160,21 @@
       "icon": "ability_warrior_bloodsurge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "撕裂造成的伤害有几率产生5点怒气。",
+      "descriptionEn": "Damage from Rend has a chance to generate 5 Rage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90301,
@@ -579,7 +1189,21 @@
       "icon": "ability_rogue_dismantle",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "毁灭打击的伤害提高20%并产生2点怒气。\n\n灭绝者的伤害提高10%并产生2点怒气。",
+      "descriptionEn": "Devastate deals 20% increased damage and generates 2 Rage.\n\nDevastator deals 10% increased damage and generates 2 Rage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90302,
@@ -594,7 +1218,21 @@
       "icon": "ability_warrior_shieldwall",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你受到的所有伤害降低40%，持续8秒。",
+      "descriptionEn": "Reduces all damage you take by 40% for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "3分钟 冷却",
+      "cooldownEn": "3 min cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90303,
@@ -609,7 +1247,21 @@
       "icon": "inv_shield_05",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "毁灭打击、雷霆一击、复仇和斩杀有25%的几率重置盾牌猛击的剩余冷却时间。",
+      "descriptionEn": "Devastate, Thunder Clap, Revenge, and Execute have a 25% chance to reset the remaining cooldown on Shield Slam.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90304,
@@ -624,7 +1276,21 @@
       "icon": "ability_warrior_shieldguard",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使用盾牌猛击会使盾牌猛击的伤害提高10%，并且使你的盾牌格挡值提高5%，持续16秒。最多可叠加3次。",
+      "descriptionEn": "Using Shield Slam increases the damage of Shield Slam by 10% and the block value of your shield by 5% for 16 sec. Stacking up to 3 times.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90305,
@@ -639,7 +1305,33 @@
       "icon": "ability_warrior_warcry",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "[士气重挫: 使10码内的所有敌人士气下降，造成的伤害降低20%，持续8秒。 / 使10码内的所有敌人士气下降，对你造成的伤害降低25%，持续8秒。] [震耳嗓音:",
+      "descriptionEn": "[Morale Killer: Demoralizes all enemies within 10 yards, reducing the damage they do by 25% for 8 sec / Demoralizes all enemies within 10 yards, reducing the damage they deal to you by 20% for 8 sec.] [Booming Voice:",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "产生0点怒气。",
+          "icon": "",
+          "description": "]"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Generates 0 Rage.",
+          "icon": "",
+          "description": "]"
+        }
+      ]
     },
     {
       "nodeId": 90306,
@@ -654,7 +1346,21 @@
       "icon": "inv_chest_plate05",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "护甲值提高6%。",
+      "descriptionEn": "Armor increased by 6%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90308,
@@ -669,7 +1375,21 @@
       "icon": "ability_vehicle_electrocharge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "挫志怒吼的范围提高5码。\n\n雷霆一击每击中一个敌人，都会使挫志怒吼的剩余冷却时间缩短1.5秒，最多缩短4.5秒。",
+      "descriptionEn": "Increases the radius of Demoralizing Shout by 5 yards.\n\nEach enemy hit by Thunder Clap reduces the remaining cooldown on Demoralizing Shout by 1.5 sec, up to 4.5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90309,
@@ -684,7 +1404,21 @@
       "icon": "ability_warrior_revenge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的躲闪、招架和自动攻击使你的复仇不消耗怒气的几率提高20%，并使不消耗怒气的复仇造成的伤害提高15%。\n\n复仇使你下一次雷霆一击的伤害提高8%。",
+      "descriptionEn": "Your dodges, parries, and auto-attacks make your Revenge cost no Rage 20% more frequently and increase the damage your free Revenges deal by 15%. \n\nRevenge increases the damage of your next Thunder Clap by 8%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90311,
@@ -699,7 +1433,21 @@
       "icon": "ability_defend",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "盾牌格挡的持续时间延长1秒。",
+      "descriptionEn": "Shield Block lasts 1 sec longer.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90314,
@@ -714,7 +1462,21 @@
       "icon": "ability_warrior_commandingshout",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "挫志怒吼同时产生20点怒气，并使你对受到影响的目标造成的伤害提高20%。",
+      "descriptionEn": "Demoralizing Shout also generates 20 Rage and increases damage you deal to affected targets by 20%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90315,
@@ -729,7 +1491,21 @@
       "icon": "inv_shield_76",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使你的格挡几率提高8%，格挡值提高16%。",
+      "descriptionEn": "Increases Block chance by 8% and your Block value by 16%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90317,
@@ -744,7 +1520,21 @@
       "icon": "ability_warrior_shieldcharge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "举起盾牌冲向一个敌人，获得盾牌格挡并对其造成([840% of Attack Power])点物理伤害，并对10码范围内的所有敌人造成([268.4% of Attack Power])点物理伤害。\n\n还会使主要目标昏迷4秒。",
+      "descriptionEn": "Charge to an enemy with your shield, granting you Shield Block and dealing (840% of Attack Power) Physical damage to it and (268.4% of Attack Power) Physical damage to all enemies within 10 yards.\n\nAlso stuns the primary target for 4 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90318,
@@ -759,7 +1549,21 @@
       "icon": "ability_warrior_stalwartprotector",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "盾墙可以额外使用1次，冷却时间缩短60秒。",
+      "descriptionEn": "Shield Wall gains 1 additional charge and its cooldown is reduced by 60 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90319,
@@ -774,7 +1578,21 @@
       "icon": "ability_demonhunter_bloodlet",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "防护\n撕裂和重伤为你恢复生命值，相当于造成的流血伤害的125%。\n\n 武器\n撕裂和重伤为你恢复生命值，相当于造成的流血伤害的85%。",
+      "descriptionEn": "Protection\nYou are healed for 125% of the Bleed damage dealt by Rend and Deep Wounds.\n\n Arms\nYou are healed for 85% of the Bleed damage dealt by Rend and Deep Wounds.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90320,
@@ -789,7 +1607,21 @@
       "icon": "inv_titanium_shield_spike",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "格挡一次攻击会对攻击者造成([120% of Attack Power])点物理伤害。精确格挡会造成双倍伤害。\n\n产生大量威胁值。",
+      "descriptionEn": "Blocking an attack deals (120% of Attack Power) Physical damage to the attacker. Critical blocks deal double damage.\n\nGenerates high threat.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90432,
@@ -804,7 +1636,21 @@
       "icon": "warrior_talent_icon_ravager",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的攻击有几率对附近的一名敌人使用破坏者，持续4秒。",
+      "descriptionEn": "Your attacks have a chance to target a nearby enemy with Ravager for 4 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90433,
@@ -819,7 +1665,21 @@
       "icon": "warrior_talent_icon_avatar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "防护\n化身为巨人，使你造成的所有伤害提高20%，受到的所有伤害降低3%持续20秒。\n\n 武器\n化身为巨人，使你造成的所有伤害提高20%，受到的范围攻击伤害降低5%持续20秒。\n\n 狂怒\n化身为巨人，使你造成的所有伤害提高20%，移动速度提高5%持续20秒。",
+      "descriptionEn": "Fury\nTransform into a colossus, increasing all damage you deal by 20% and increasing your movement speed by 5% for 20 sec.\n\n Protection\nTransform into a colossus, increasing all damage you deal by 20% and reducing all damage you take by 3% for 20 sec.\n\n Arms\nTransform into a colossus, increasing all damage you deal by 20% and reducing damage you take from area of effect attacks by 5% for 20 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90434,
@@ -834,7 +1694,21 @@
       "icon": "ability_warrior_intensifyrage",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的最大生命值提高10%，并且你每使用15点怒气值都能为你恢复1%的最大生命值。",
+      "descriptionEn": "Your maximum health is increased by 10% and every 15 Rage you spend heals you for 1% of your maximum health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90435,
@@ -849,7 +1723,21 @@
       "icon": "ability_warrior_endlessrage",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你的生命值降低到30%以下时，你受到的伤害降低80%，持续8秒，并且你受到的治疗效果提高100%。\n\n此效果每3分钟最多触发一次。",
+      "descriptionEn": "When your health is brought below 30%, you take 80% less damage for 8 sec and healing you receive is increased by 100%.\n\nCannot occur more than once every 3 min.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90448,
@@ -864,7 +1752,21 @@
       "icon": "ability_deathknight_sanguinfortitude",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "盾牌猛击造成的伤害提高15%，并使敌人对你造成的伤害降低3%，持续9秒。多重惩罚可以叠加。",
+      "descriptionEn": "Shield Slam deals 15% increased damage and reduces enemies' damage against you by 3% for 9 sec. Multiple punishments may overlap.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90449,
@@ -879,7 +1781,21 @@
       "icon": "ability_warrior_defensivestance",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "防御姿态会使你受到的伤害额外降低6%。",
+      "descriptionEn": "Defensive Stance reduces damage taken by an additional 6%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 90451,
@@ -894,7 +1810,21 @@
       "icon": "ability_warrior_renewedvigor",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你造成伤害的10%会添加至你当前的无视苦痛或下一个无视苦痛中。\n\n你的下一个无视苦痛的吸收量最多可提高[[Total Health] * (0.3) * (0.5)]点。",
+      "descriptionEn": "10% of damage you deal adds to your active Ignore Pain or the next Ignore Pain you activate.\n\nYour next Ignore Pain can be increased by up to [Total Health * (0.3) * (0.5)].",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94785,
@@ -909,7 +1839,33 @@
       "icon": "warrior_talent_icon_bloodandthunder",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "盾牌猛击和嗜血有35%的几率使你获得雷霆轰击，最多可叠加2层。",
+      "descriptionEn": "Shield Slam and Bloodthirst have a 35% chance to grant you Thunder Blast, stacking up to 2 charges.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "雷霆轰击",
+          "icon": "",
+          "description": "你的下一个雷霆一击变为雷霆轰击，造成([234.295% of Attack Power])点风暴打击伤害并生成2点怒气。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Thunder Blast",
+          "icon": "",
+          "description": "Your next Thunder Clap becomes a Thunder Blast that deals (234.295% of Attack Power) Stormstrike damage and generates 2 Rage."
+        }
+      ]
     },
     {
       "nodeId": 94797,
@@ -924,7 +1880,21 @@
       "icon": "spell_lightning_lightningbolt01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "雷霆轰击会对击中的一名敌人降下闪电打击。",
+      "descriptionEn": "Thunder Blast calls down a Lightning Strike on an enemy it hits.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94798,
@@ -939,7 +1909,21 @@
       "icon": "ability_thunderking_overcharge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到的物理伤害降低2%。\n\n雷霆轰击使你受到的伤害降低8%，持续5秒。",
+      "descriptionEn": "Physical damage taken reduced by 2%.\n\nThunder Blast reduces damage you take by 8% for 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94800,
@@ -954,7 +1938,21 @@
       "icon": "warrior_talent_icon_thunderstruck",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "闪电打击还会对目标周围的敌人造成([111.787% of Attack Power])点自然伤害。目标超过5个时伤害降低。",
+      "descriptionEn": "Lightning Strikes also deal (111.787% of Attack Power) Nature damage to enemies near their target. Damage reduced beyond 5 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94803,
@@ -969,7 +1967,21 @@
       "icon": "ability_vehicle_electrocharge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "防护\n雷霆一击、复仇或斩杀对敌人造成伤害时有25%的几率使一道闪电劈向目标，造成([155.1% of Attack Power])点自然伤害。\n\n闪电打击在天神下凡期间的触发频率提高30%。\n\n 狂怒\n雷霆一击、怒击或斩杀对敌人造成伤害时有25%的几率使一道闪电劈向目标，造成([155.1% of Attack Power])点自然伤害。\n\n闪电打击在天神下凡期间的触发频率提高30%。",
+      "descriptionEn": "Fury\nDamaging enemies with Thunder Clap, Raging Blow, or Execute has a 25% chance to also strike one with a lightning bolt, dealing (155.1% of Attack Power) Nature damage.\n\nLightning Strikes occur 30% more often during Avatar.\n\n Protection\nDamaging enemies with Thunder Clap, Revenge, or Execute has a 25% chance to also strike one with a lightning bolt, dealing (155.1% of Attack Power) Nature damage.\n\nLightning Strikes occur 30% more often during Avatar.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94805,
@@ -984,7 +1996,33 @@
       "icon": "achievement_dungeon_blackrockcaverns_ascendantlordobsidius",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "施放天神下凡使你获得2层雷霆轰击，并会重置雷霆一击的冷却时间。\n\n未激活天神下凡时，闪电打击有10%的几率使你获得天神下凡，持续4秒。",
+      "descriptionEn": "Casting Avatar grants you 2 charges of Thunder Blast and resets the cooldown of Thunder Clap.\n\nWhile Avatar is not active, Lightning Strikes have a 10% chance to grant you Avatar for 4 secs.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "雷霆轰击",
+          "icon": "",
+          "description": "你的下一个雷霆一击变为雷霆轰击，造成风暴打击伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Thunder Blast",
+          "icon": "",
+          "description": "Your next Thunder Clap becomes a Thunder Blast that deals Stormstrike damage."
+        }
+      ]
     },
     {
       "nodeId": 94807,
@@ -999,7 +2037,21 @@
       "icon": "shaman_pvp_thundercharge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "狂怒\n闪电打击有15%的几率使你的下2个嗜血没有冷却时间，造成的伤害提高35%，并额外产生2点怒气。\n\n 防护\n闪电打击有15%的几率使你的下2个盾牌猛击没有冷却时间。",
+      "descriptionEn": "Fury\nLightning Strikes have a 15% chance to make your next 2 Bloodthirsts have no cooldown, deal 35% increased damage, and generate 2 additional Rage.\n\n Protection\nLightning Strikes have a 15% chance to make your next 2 Shield Slams have no cooldown.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94808,
@@ -1014,7 +2066,21 @@
       "icon": "ability_warrior_titansgrip",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "狂怒\n盾牌猛击的伤害提高15%。\n\n嗜血和暴怒的伤害提高25%。\n\n 防护\n盾牌猛击的伤害提高15%。\n\n挫志怒吼使敌人对你造成的伤害额外降低5%。",
+      "descriptionEn": "Fury\nShield Slam damage increased by 15%.\n\nBloodthirst and Rampage damage increased by 25%.\n\n Protection\nShield Slam damage increased by 15%.\n\nDemoralizing Shout reduces damage enemies deal to you by an additional 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94816,
@@ -1029,7 +2095,21 @@
       "icon": "spell_nature_thunderclap",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "防护\n你的技能造成的风暴打击或自然伤害提高5%。风暴打击伤害无视护甲。\n\n雷霆一击的伤害提高10%。\n\n 狂怒\n你的技能造成的风暴打击或自然伤害提高5%。风暴打击伤害无视护甲。\n\n雷霆一击的伤害提高10%，不再消耗怒气，现在产生8点怒气。\n\n强化旋风斩、血肉顺劈、血怒风暴和野蛮训练除了影响旋风斩外，也会影响雷霆一击。",
+      "descriptionEn": "Fury\nStormstrike or Nature damage your abilities deal is increased by 5%. Stormstrike damage ignores Armor.\n\nThunder Clap damage increased by 10%, no longer costs Rage, and now generates 8 Rage.\n\nImproved Whirlwind, Meat Cleaver, Storm of Blood, and Barbaric Training affect Thunder Clap in addition to Whirlwind.\n\n Protection\nStormstrike or Nature damage your abilities deal is increased by 5%. Stormstrike damage ignores Armor.\n\nThunder Clap damage increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94817,
@@ -1044,7 +2124,21 @@
       "icon": "warrior_talent_icon_stormbolt",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "风暴之锤还会击中附近的2个额外目标，使其昏迷2秒，但该技能的冷却时间增加10秒。",
+      "descriptionEn": "Storm Bolt also hits 2 additional nearby targets, stunning them for 2 sec, but its cooldown is increased by 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 94792,
@@ -1059,7 +2153,21 @@
       "icon": "inv_ability_mountainthanewarrior_thorimsmight",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "防护\n闪电打击产生3点怒气。\n\n复仇和斩杀的伤害提高25%。\n\n 狂怒\n闪电打击产生3点怒气。\n\n怒击和斩杀的伤害提高25%。",
+      "descriptionEn": "Fury\nLightning Strikes generate 3 Rage.\n\nRaging Blow and Execute damage increased by 25%.\n\n Protection\nLightning Strikes generate 3 Rage.\n\nRevenge and Execute damage increased by 25%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 99851,
@@ -1074,7 +2182,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/61_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "唤引雷霆与风暴之怒，使雷霆一击与天神下凡召唤闪电打击，无情贯穿前线敌群。",
+      "descriptionEn": "Channels the fury of thunder and storms, causing Thunder Clap and Avatar to summon Lightning Strikes that pierce through enemy ranks.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 90312,
@@ -1089,7 +2201,21 @@
       "icon": "ability_warrior_bloodfrenzy",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "10码内每有一个敌人或盟友，你将获得2%急速，最多可达到8%急速。",
+      "descriptionEn": "You gain 2% Haste for each enemy or ally within 10 yards, up to 8% Haste.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 107579,
@@ -1104,7 +2230,21 @@
       "icon": "ability_bullrush",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "嘲讽14码范围内的所有敌人，使其攻击你，持续6秒。打断14码范围内的所有施法，并使其在6秒内不能施放该系法术。使你对目标造成的威胁值提高800%。",
+      "descriptionEn": "Taunts all enemies within 14 yds to attack you for 6 sec, interrupts all spellcasting within 14 yds and prevents any spell in that school from being cast for 6 sec. Increases the threat you generate against the target by 800%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109809,
@@ -1119,7 +2259,21 @@
       "icon": "spell_nature_purge",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在天神下凡期间，雷霆轰击会使天神下凡的持续时间延长2.0秒。",
+      "descriptionEn": "During Avatar, Thunder Blast extends Avatar's duration by 2.0 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109810,
@@ -1134,7 +2288,21 @@
       "icon": "spell_shaman_thunderstorm",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "闪电打击伤害提高10%，爆击伤害提高10%。",
+      "descriptionEn": "Lightning Strike damage increased by 10% and critical strike damage increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109811,
@@ -1149,7 +2317,21 @@
       "icon": "ability_racial_avatar",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "天神下凡使雷霆一击的伤害提高50%，冷却时间缩短50%。",
+      "descriptionEn": "Avatar increases the damage of Thunder Clap by 50% and reduces its cooldown by 50%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110411,
@@ -1164,7 +2346,21 @@
       "icon": "inv12_apextalent_warrior_phalanx",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "在盾牌格挡激活期间，盾牌猛击造成的伤害额外提高10%，且爆击几率提高20%。\n\n受到英武方阵冲击波伤害的敌人对你造成的伤害降低8.0%，持续8秒。",
+      "descriptionEn": "While Shield Block is active, Shield Slam deals 10% additional damage and has a 20% increased chance to critically strike.\n\nEnemies damaged by Phalanx's wave of force deal 8.0% reduced damage to you for 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110411,
@@ -1179,7 +2375,21 @@
       "icon": "inv12_apextalent_warrior_phalanx",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "雷霆一击和英武方阵的冲击波造成的伤害提高10%。",
+      "descriptionEn": "Damage dealt by Thunder Clap and Phalanx's wave of force is increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110411,
@@ -1194,7 +2404,21 @@
       "icon": "inv12_apextalent_warrior_phalanx",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "雷霆一击使你的下一次盾牌猛击额外造成10%的伤害，并释放出一道冲击波，对你面前的所有敌人造成([198% of Attack Power])点物理伤害。",
+      "descriptionEn": "Thunder Clap causes your next Shield Slam to deal 10% additional damage and unleash a wave of force, dealing (198% of Attack Power) Physical damage to all enemies in front of you.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     }
   ]
 }

@@ -39,7 +39,21 @@
       "icon": "ability_rogue_imrovedrecuperate",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "移除目标身上所有的中毒和疾病效果。",
+      "descriptionEn": "Removes all Poison and Disease effects from the target.",
+      "costCn": "10能量",
+      "costEn": "10 Energy",
+      "rangeCn": "40 码范围",
+      "rangeEn": "40 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "8秒 冷却",
+      "cooldownEn": "8 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101135,
@@ -54,7 +68,21 @@
       "icon": "ability_monk_healthsphere",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "移花接木的治疗效果会根据你损失的生命值提高，最多提高100%。",
+      "descriptionEn": "Expel Harm's healing is increased by up to 100%, based on your missing health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101136,
@@ -69,7 +97,21 @@
       "icon": "spell_monk_ringofpeace",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在目标位置形成平心之环，持续5秒。进入环中的敌人将被推出环外。",
+      "descriptionEn": "Form a Ring of Peace at the target location for 5 sec. Enemies that enter will be ejected from the Ring.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101140,
@@ -84,7 +126,21 @@
       "icon": "ability_monk_touchofdeath",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "现在轮回之触可以对剩余生命值低于15%的目标使用，造成相当于你最大生命值35%的伤害。",
+      "descriptionEn": "Touch of Death can now be used on targets with less than 15% health remaining, dealing 35% of your maximum health in damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101141,
@@ -99,7 +155,21 @@
       "icon": "ability_monk_deadlyreach",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "分筋错骨现在会移除目标的所有激怒效果。",
+      "descriptionEn": "Paralysis now removes all Enrage effects from its target.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101142,
@@ -114,7 +184,21 @@
       "icon": "ability_monk_paralysis",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使目标瘫痪，持续1分钟。只能对一个目标使用。伤害可能取消该效果。",
+      "descriptionEn": "Incapacitates the target for 1 min. Limit 1. Damage may cancel the effect.",
+      "costCn": "20能量",
+      "costEn": "20 Energy",
+      "rangeCn": "20 码范围",
+      "rangeEn": "20 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "45秒 冷却",
+      "cooldownEn": "45 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101145,
@@ -129,7 +213,21 @@
       "icon": "ability_monk_vivify",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n施放旭日东升踢后，你的下一次活血术变为瞬发。\n\n 踏风\n施放旭日东升踢后，你的下一次活血术变为瞬发。\n\n此效果还会使活血术的能量消耗降低75%。\n\n 酒仙\n施放醉酿投后，你的下一次活血术变为瞬发。\n\n此效果还会使活血术的能量消耗降低75%。",
+      "descriptionEn": "Brewmaster\nAfter casting Keg Smash, your next Vivify becomes instant cast.\n\nThis effect also reduces the energy cost of Vivify by 75%.\n\n Mistweaver\nAfter casting Rising Sun Kick, your next Vivify becomes instant cast.\n\n Windwalker\nAfter casting Rising Sun Kick, your next Vivify becomes instant cast.\n\nThis effect also reduces the energy cost of Vivify by 75%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101146,
@@ -144,7 +242,21 @@
       "icon": "monk_ability_cherrymanatea",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "受到的所有治疗效果提高6%。",
+      "descriptionEn": "Increases all healing taken by 6%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101147,
@@ -159,7 +271,21 @@
       "icon": "ability_monk_tigerslust",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使一名友方目标的移动速度提高70%，持续6秒，并解除所有定身和诱捕效果。",
+      "descriptionEn": "Increases a friendly target's movement speed by 70% for 6 sec and removes all roots and snares.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101152,
@@ -174,7 +300,21 @@
       "icon": "ability_monk_spearhand",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "猛击目标的咽喉，打断其施法，并阻止其施放任何同系的法术，持续5秒。",
+      "descriptionEn": "Jabs the target in the throat, interrupting spellcasting and preventing any spell from that school of magic from being cast for 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": "近战范围",
+      "rangeEn": "Melee Range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "15秒 冷却",
+      "cooldownEn": "15 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101153,
@@ -189,7 +329,21 @@
       "icon": "inv_misc_orb_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "踏风\n受到的所有伤害降低10%。\n\n 酒仙,  织雾\n受到的所有伤害降低3%。",
+      "descriptionEn": "Windwalker\nReduces all damage taken by 10%.\n\n Brewmaster,  Mistweaver\nReduces all damage taken by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101156,
@@ -204,7 +358,21 @@
       "icon": "ability_monk_expelharm",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "移花接木的治疗效果提高6%，爆击几率提高15%。",
+      "descriptionEn": "Expel Harm's healing increased by 6% and critical strike chance increased by 15%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101158,
@@ -219,7 +387,21 @@
       "icon": "ability_monk_provoke",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "激怒的目标向你移动，并且移动速度提高50%。",
+      "descriptionEn": "Provoked targets move towards you at 50% increased speed.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101163,
@@ -234,7 +416,21 @@
       "icon": "inv_inscription_deck_redcrane",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "平心之环的冷却时间缩短5秒，赤精之歌的施法时间缩短0.5秒。",
+      "descriptionEn": "Reduces the cooldown of Ring of Peace by 5 sec and Song of Chi-Ji's cast time is reduced by 0.5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101165,
@@ -249,7 +445,21 @@
       "icon": "ability_monk_dragonkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "踏风\n激战时真气的流动令你变得坚毅，在战斗中每3秒获得一层魔法吸收护盾，吸收相当于最大生命值0.6%的伤害，最多叠加至6%。\n\n 酒仙,  织雾\n激战时真气的流动令你变得坚毅，在战斗中每3秒获得一层魔法吸收护盾，吸收相当于最大生命值1.0%的伤害，最多叠加至10%。",
+      "descriptionEn": "Windwalker\nFind resilience in the flow of chi in battle, gaining a magic absorb shield for 0.6% of your max health every 3 sec in combat, stacking up to 6%.\n\n Brewmaster,  Mistweaver\nFind resilience in the flow of chi in battle, gaining a magic absorb shield for 1.0% of your max health every 3 sec in combat, stacking up to 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101166,
@@ -264,7 +474,21 @@
       "icon": "ability_mount_pinktiger",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "造成的所有伤害提高2%。",
+      "descriptionEn": "Increases all damage dealt by 2%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101167,
@@ -279,7 +503,21 @@
       "icon": "monk_ability_transcendence",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "将你的肉体和灵魂分离，并将灵魂留在原地，持续15分钟。使用魂体双分：转移，让你的肉体和你的灵魂交换位置。",
+      "descriptionEn": "Split your body and spirit, leaving your spirit behind for 15 min. Use Transcendence: Transfer to swap locations with your spirit.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "10秒 冷却",
+      "cooldownEn": "10 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101168,
@@ -294,7 +532,21 @@
       "icon": "ability_monk_ridethewind",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "滚地翻令你身轻如羽，使你可以在5秒内施展一次二段跳，向前冲刺一小段距离，滚地翻的冷却时间提高2秒。",
+      "descriptionEn": "Roll causes you to become lighter than air, allowing you to double jump to dash forward a short distance once within 5 sec, but the cooldown of Roll is increased by 2 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101169,
@@ -309,7 +561,21 @@
       "icon": "ability_monk_chiswirl",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "造成的魔法伤害提高5%，造成的治疗效果提高5%。",
+      "descriptionEn": "Magical damage done increased by 5% and healing done increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101170,
@@ -324,7 +590,21 @@
       "icon": "ability_monk_healthsphere",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你会根据当前生命值获得一个额外效果。\n\n生命值高于90%：移动速度提高5%。该效果可与其他相似效果叠加。\n\n生命值在90%与35%之间：受到的伤害降低5%。\n\n生命值低于35%：受到的治疗效果提高10%。",
+      "descriptionEn": "You gain a bonus effect based on your current health.\n\nAbove 90% health: Movement speed increased by 5%. This bonus stacks with similar effects.\n\nBetween 90% and 35% health: Damage taken reduced by 5%.\n\nBelow 35% health: Healing received increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101173,
@@ -339,7 +619,21 @@
       "icon": "ability_monk_fortifyingale_new",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "酒仙\n让你的皮肤化为坚石，持续15秒[，并使醉拳的化解量提高20%]。\n\n 踏风,  织雾\n让你的皮肤化为坚石，持续15秒[，并使醉拳的化解量提高20%]。",
+      "descriptionEn": "Windwalker (Windwalker Monk)\nTurns your skin to stone for 15 sec[, and Staggering 20% of incoming damage].\n\n Brewmaster,  Mistweaver\n Windwalker (Windwalker Monk)\nTurns your skin to stone for 15 sec[, and Staggering 20% of incoming damage].\n\n Brewmaster,  Mistweaver\nTurns your skin to stone for 15 sec [Fortifying Brew: Determination: increasing the effectiveness of Stagger by 15%][, and Staggering 20% of incoming damage].",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "6分钟 冷却",
+      "cooldownEn": "6 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101174,
@@ -354,7 +648,21 @@
       "icon": "ability_monk_fortifyingale_new",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "壮胆酒的冷却时间缩短30秒。",
+      "descriptionEn": "Fortifying Brew cooldown reduced by 30 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101175,
@@ -369,7 +677,21 @@
       "icon": "monk_stance_whitetiger",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你和10码内的盟友的移动速度提高10%。可与其他类似效果叠加。",
+      "descriptionEn": "You and your allies within 10 yards have 10% increased movement speed. Stacks with other similar effects.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101177,
@@ -384,7 +706,21 @@
       "icon": "ability_monk_zenmeditation",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "轮回之触现在会治疗你该技能造成伤害的60%。",
+      "descriptionEn": "Touch of Death now heals you for 60% of its damage done.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101178,
@@ -399,7 +735,21 @@
       "icon": "ability_monk_touchofdeath",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "轮回之触的冷却时间缩短90秒。",
+      "descriptionEn": "Touch of Death's cooldown is reduced by 90 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101179,
@@ -414,7 +764,21 @@
       "icon": "ability_monk_palmstrike",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "酒仙,  织雾\n你造成的物理伤害提高5%，闪避提高2%。\n\n 踏风\n你造成的物理伤害提高5%，闪避提高3%。",
+      "descriptionEn": "Brewmaster,  Mistweaver\nIncreases your Physical damage done by 5% and Avoidance increased by 2%.\n\n Windwalker\nIncreases your Physical damage done by 5% and Avoidance increased by 3%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101181,
@@ -429,7 +793,21 @@
       "icon": "ability_monk_dematerialize",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的躲闪几率提高5%。",
+      "descriptionEn": "Your dodge chance is increased by 5%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101183,
@@ -444,7 +822,21 @@
       "icon": "ability_monk_quipunch",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使滚地翻的冷却时间缩短5秒，使用次数上限提高1次。",
+      "descriptionEn": "Reduces the cooldown of Roll by 5 sec and increases its maximum number of charges by 1.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101184,
@@ -459,7 +851,21 @@
       "icon": "ability_monk_dpsstance",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使分筋错骨的冷却时间缩短15秒，扫堂腿的冷却时间缩短10秒。",
+      "descriptionEn": "Reduces the cooldown of Paralysis by 15 sec and the cooldown of Leg Sweep by 10 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102433,
@@ -474,7 +880,21 @@
       "icon": "spell_arcane_arcanetorrent",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "踏风,  织雾\n向前丢出真气能量漩涡，最远40码，对其路径上的所有敌人造成([280% of Attack Power])点自然伤害，并为武僧和所有盟友恢复([220% of Attack Power])点生命值。目标数量超过5个后造成的治疗量和伤害降低。\n\n\n 酒仙\n向前丢出真气能量漩涡，最远40码，对其路径上的所有敌人造成([280% of Attack Power])点自然伤害，并为武僧和所有盟友恢复([220% of Attack Power])点生命值。目标数量超过5个后造成的治疗量和伤害降低。\n\n\n施放真气爆裂时依然可以躲闪攻击。",
+      "descriptionEn": "Windwalker,  Mistweaver\nHurls a torrent of Chi energy up to 40 yds forward, dealing (280% of Attack Power) Nature damage to all enemies, and (220% of Attack Power) healing to the Monk and all allies in its path. Healing and damage reduced beyond 5 targets.\n\n\n Brewmaster\nHurls a torrent of Chi energy up to 40 yds forward, dealing (280% of Attack Power) Nature damage to all enemies, and (220% of Attack Power) healing to the Monk and all allies in its path. Healing and damage reduced beyond 5 targets.\n\n\nCasting Chi Burst does not prevent avoiding attacks.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "1秒 施法时间",
+      "castTimeEn": "1 sec cast",
+      "cooldownCn": "30秒 冷却",
+      "cooldownEn": "30 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109826,
@@ -489,7 +909,21 @@
       "icon": "ability_monk_mightyoxkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "幻灭踢的伤害提高20%，神鹤引项踢的伤害提高10%。",
+      "descriptionEn": "Blackout Kick deals 20% increased damage. Spinning Crane Kick deals 10% additional damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109827,
@@ -504,7 +938,21 @@
       "icon": "monk_stance_drunkenox",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "灵活地应对敌人的攻击，化解部分受到的物理伤害，改为在10秒内承受，化解的比例由你的敏捷决定。对魔法攻击有58%的化解效果。 [砮皂的试炼: 根据你当前的醉拳等级，获得最多15%的精通加成。]",
+      "descriptionEn": "You shrug off attacks, delaying a portion of Physical damage based on your Agility, instead taking it over 10 sec. Affects magical attacks at 58% effectiveness. [Training of Niuzao: Gain up to 15% Mastery based on your current level of Stagger.]",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101064,
@@ -519,7 +967,33 @@
       "icon": "inv_misc_beer_06",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "清除",
+      "descriptionEn": "Clears 50% of your",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "20秒 充能",
+      "cooldownEn": "20 sec recharge",
+      "chargesCn": "2 充能",
+      "chargesEn": "2 Charges",
+      "subSpellsCn": [
+        {
+          "name": "醉拳",
+          "icon": "",
+          "description": "50%的延缓伤害，或至少相当于你最大生命值8%的伤害。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Staggered",
+          "icon": "",
+          "description": "damage, or a minimum of 8% of your maximum health."
+        }
+      ]
     },
     {
       "nodeId": 101069,
@@ -534,7 +1008,21 @@
       "icon": "ability_monk_breathoffire",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "向你面前的目标喷吐火焰，造成([100% of Attack Power])点火焰伤害。对次要目标造成的伤害降低。\n\n受到醉酿投影响的目标将被点燃，在12秒内受到([66% of Attack Power])点火焰伤害，且对你造成的伤害降低5%。",
+      "descriptionEn": "Breathe fire on targets in front of you, causing (100% of Attack Power) Fire damage. Deals reduced damage to secondary targets.\n\nTargets affected by Keg Smash will also burn, taking (66% of Attack Power) Fire damage and dealing 5% reduced damage to you for 12 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "15秒 冷却",
+      "cooldownEn": "15 sec cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101071,
@@ -549,7 +1037,33 @@
       "icon": "ability_druid_giftoftheearthmother",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你承受伤害时，有几率召唤一个只有你能看到的疗伤珠。",
+      "descriptionEn": "When you take damage, you have a chance to summon a Healing Sphere.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "疗伤珠",
+          "icon": "",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Healing Sphere",
+          "icon": "",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 101072,
@@ -564,7 +1078,21 @@
       "icon": "ability_monk_roundhousekick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "幻灭踢造成的伤害提高20%。",
+      "descriptionEn": "Blackout Kick deals 20% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101075,
@@ -579,7 +1107,21 @@
       "icon": "spell_monk_brewmaster_spec",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "召唤玄牛砮皂的幻身，持续25秒。砮皂会攻击你的主要目标，并在你施放幻灭踢时施放践踏，对附近所有敌人造成伤害。\n\n激活时，醉拳化解伤害的40%会由砮皂代为化解，清除醉拳伤害的100%会治疗砮皂。",
+      "descriptionEn": "Summons an effigy of Niuzao, the Black Ox for 25 sec that attacks your primary target and Stomps when you cast Blackout Kick, damaging all nearby enemies.\n\nWhile active, 40% of damage delayed by Stagger is instead Staggered by Niuzao, and Niuzao is healed for 100% of your purified Stagger.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101077,
@@ -594,7 +1136,21 @@
       "icon": "spell_monk_zenpilgrimage",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你的醉拳化解效果会根据你损失的生命值提高，最多提高15%。",
+      "descriptionEn": "The effectiveness of your Stagger is increased by up to 15%, based on your missing health.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101078,
@@ -609,7 +1165,21 @@
       "icon": "ability_monk_roundhousekick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "幻灭踢的伤害提高20%并且能够额外攻击2个目标。",
+      "descriptionEn": "Blackout Kick's damage increased by 20% and it strikes an additional 2 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101079,
@@ -624,7 +1194,21 @@
       "icon": "ability_monk_palmstrike",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你每次躲闪或未被敌人命中时，下一个猛虎掌或神鹤引项踢造成的伤害提高100%。",
+      "descriptionEn": "Each time you dodge or an enemy misses you, your next Tiger Palm or Spinning Crane Kick deals 100% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101080,
@@ -639,7 +1223,21 @@
       "icon": "ability_monk_tigerpalm",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "猛虎掌的伤害提高100%，并使你的酒类技能剩余的冷却时间额外缩短0.5秒。",
+      "descriptionEn": "Tiger Palm's damage is increased by 100% and reduces the remaining cooldown of your Brews by 0.5 additional sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101081,
@@ -654,7 +1252,21 @@
       "icon": "ability_monk_elusiveale",
       "rank": 2,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "你每次躲闪或未被敌人命中时，你的酒类技能剩余的冷却时间就缩短0.5秒。每增加一个最近的攻击者，效果就减少50%，最多5个。",
+      "descriptionEn": "Each time you dodge or an enemy misses you, the remaining cooldown on your Brews is reduced by 0.5 sec. Effect reduced by 50% for each additional recent attacker, up to 5.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101082,
@@ -669,7 +1281,21 @@
       "icon": "monk_stance_drunkenox",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "根据你当前的醉拳等级，获得最多15%的精通加成。",
+      "descriptionEn": "Gain up to 15% Mastery based on your current level of Stagger.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 102004,
@@ -681,10 +1307,36 @@
       "nameEn": "Gai Plin's Imperial Brew",
       "nameCn": "盖平的御酒",
       "spellId": 383700,
-      "icon": "inv_misc_beer_06",
+      "icon": "inv_misc_beer_05",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "活血酒立即为你恢复生命，相当于",
+      "descriptionEn": "Purifying Brew instantly heals you for 25% of the",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": "instant",
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "醉拳",
+          "icon": "",
+          "description": "所化解伤害的25%。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Staggered",
+          "icon": "",
+          "description": "damage it clears."
+        }
+      ]
     },
     {
       "nodeId": 101085,
@@ -699,7 +1351,21 @@
       "icon": "monk_ability_cherrymanatea",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "当你的生命值降低至40%时，你获得一个护盾，吸收量相当于最近净化伤害的30%，至少为你的最大生命值的8%。每15秒只能触发一次。",
+      "descriptionEn": "When you fall below 40% health, you gain an absorb for 30% of your recently Purified damage, or a minimum of 8% of your maximum health. Cannot occur more than once every 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101086,
@@ -714,7 +1380,33 @@
       "icon": "ability_titankeeper_cleansingorb",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "幻灭踢有一定几率生成一颗疗伤珠。",
+      "descriptionEn": "Blackout Kick has a chance to summon a Healing Sphere.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "疗伤珠",
+          "icon": "",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Healing Sphere",
+          "icon": "",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 101087,
@@ -729,7 +1421,43 @@
       "icon": "ability_monk_shuffle",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "砮皂的引导让你可以在战斗中触发酒醒入定，",
+      "descriptionEn": "Niuzao's teachings allow you to shuffle during combat, increasing the effectiveness of your",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "引导",
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "醉拳",
+          "icon": "",
+          "description": "的效果提高100%。"
+        },
+        {
+          "name": "醉拳",
+          "icon": "monk_stance_drunkenox",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Stagger",
+          "icon": "",
+          "description": "by 100%."
+        },
+        {
+          "name": "Stagger",
+          "icon": "monk_stance_drunkenox",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 101088,
@@ -744,7 +1472,21 @@
       "icon": "achievement_brewery_2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "向目标投掷一桶酒，对主要目标造成[([190% of Attack Power]) * (1.5)]点物理伤害，对8码范围内的所有其他敌人造成([190% of Attack Power])点物理伤害，并使其移动速度降低20%，持续15秒。超过5个目标后，造成的伤害降低。",
+      "descriptionEn": "Smash a keg of brew, dealing [(190% of Attack Power) * (1.5)] Physical damage to your primary target and (190% of Attack Power) Physical damage to all other enemies within 8 yds, and reducing their movement speed by 20% for 15 sec. Deals reduced damage beyond 5 targets.",
+      "costCn": "40能量",
+      "costEn": "40 Energy",
+      "rangeCn": "15 码范围",
+      "rangeEn": "15 yd range",
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "8秒 冷却",
+      "cooldownEn": "8 sec cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101187,
@@ -759,7 +1501,21 @@
       "icon": "spell_fire_burnout",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "火焰之息造成的伤害提高100%，并且在使用火焰之息后，你会额外喷火2次，每次造成([20% of Attack Power])点火焰伤害。",
+      "descriptionEn": "Breath of Fire deals 100% increased damage, and after using Breath of Fire, you breathe fire 2 additional times, each dealing (20% of Attack Power) Fire damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101188,
@@ -774,7 +1530,21 @@
       "icon": "ability_warrior_unrelentingassault",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "使用醉酿投会重置火焰之息的剩余冷却时间。",
+      "descriptionEn": "When you use Keg Smash, the remaining cooldown on Breath of Fire is reset.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101189,
@@ -789,7 +1559,33 @@
       "icon": "monk_ability_avertharm",
       "rank": 1,
       "maxRanks": 2,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "醉拳化解伤害的效果提高5%。\n\n活血酒在",
+      "descriptionEn": "Stagger is 5% more effective at delaying damage.\n\nPurifying Brew refunds 4.0 sec of its cooldown if cast at",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "强化醉拳",
+          "icon": "",
+          "description": "时施放，可以返还4.0秒冷却时间。"
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Elevated Stagger",
+          "icon": "",
+          "description": "."
+        }
+      ]
     },
     {
       "nodeId": 101190,
@@ -804,7 +1600,21 @@
       "icon": "ability_monk_chibrew",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "饮下玄牛酒，立即回满你的能量、活血酒层数，并获得一层天神酒或天神灌注的充能。",
+      "descriptionEn": "Chug some Black Ox Brew, which instantly refills your Energy, Purifying Brew charges, and grants one charge of Celestial Brew or Celestial Infusion.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "2分钟 冷却",
+      "cooldownEn": "2 min cooldown",
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101193,
@@ -819,7 +1629,21 @@
       "icon": "ability_monk_blackoutkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "幻灭踢还将强化你的下一个技能：\n\n猛虎掌：伤害提高100%。\n\n醉酿投：你所有酒类技能的剩余冷却时间额外缩短2秒。",
+      "descriptionEn": "Blackout Kick also empowers your next ability:\n\n Tiger Palm: Damage increased by 100%.\n\n Keg Smash: Reduces the remaining cooldown on your Brews by 2 additional sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101195,
@@ -834,7 +1658,21 @@
       "icon": "achievement_brewery_2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "醉酿投对其主要目标造成的伤害额外提高50%，获得额外1次使用次数，且射程增加10码。",
+      "descriptionEn": "Keg Smash deals 50% additional damage to its primary target, has 1 additional charge, and its range is increased by 10 yards.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101201,
@@ -849,7 +1687,21 @@
       "icon": "inv_misc_archaeology_vrykuldrinkinghorn",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使用酒类技能时，你获得10%躲闪，持续5秒。",
+      "descriptionEn": "Drinking a Brew grants you 10% dodge for 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101202,
@@ -864,7 +1716,21 @@
       "icon": "achievement_brewery_2",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使用所有酒类技能时，有100%的几率将一个酒桶掷向空中，3秒后在附近落下，对周围8码范围内的所有敌人造成([100% of Attack Power])点物理伤害，并使其移动速度降低50%，持续15秒。",
+      "descriptionEn": "Drinking from your Brews has a 100% chance to toss a keg high into the air that lands nearby after 3 sec, dealing (100% of Attack Power) Physical damage to all enemies within 8 yards and reducing their movement speed by 50% for 15 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101219,
@@ -879,7 +1745,11 @@
       "icon": "https://assets.rpglogs.com/img/warcraft/talents/hero/46_full.png",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "在体内储蓄阴阳两极的能量流动，净化自身受到的伤害并将其转化为净化之力的汹涌爆发。",
+      "descriptionEn": "Balances the flow of physical and spiritual energies, storing vitality to release cleansing tidal bursts of chi.",
+      "talentTypeCn": "英雄天赋",
+      "talentTypeEn": "Hero Talent"
     },
     {
       "nodeId": 101220,
@@ -894,7 +1764,21 @@
       "icon": "ability_titankeeper_piercingcorruption",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "酒仙\n幻灭踢和猛虎掌对你前方直线范围内的敌人造成15%的额外伤害。目标超过5个时造成的伤害降低。\n\n 织雾\n旭日东升踢、幻灭踢和猛虎掌对你前方直线范围内的敌人造成15%的额外伤害。目标超过5个时造成的伤害降低。",
+      "descriptionEn": "Brewmaster\nBlackout Kick and Tiger Palm deal 15% additional damage to enemies in a line in front of you. Damage reduced above 5 targets.\n\n Mistweaver\nRising Sun Kick, Blackout Kick and Tiger Palm deal 15% additional damage to enemies in a line in front of you. Damage reduced above 5 targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101221,
@@ -909,7 +1793,21 @@
       "icon": "monk_stance_whitetiger",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "施放迅如猛虎使滚地翻的剩余冷却时间缩短5秒。",
+      "descriptionEn": "Casting Tiger's Lust reduces the remaining cooldown on Roll by 5 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101222,
@@ -924,7 +1822,21 @@
       "icon": "inv_shoulder_inv_leather_raidmonk_s_01",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n真气波的伤害和治疗效果提高50%。\n\n 酒仙\n真气爆裂和真气波的伤害和治疗效果提高50%。",
+      "descriptionEn": "Brewmaster\nChi Burst and Chi Wave deal 50% increased damage and healing.\n\n Mistweaver\nChi Wave deals 50% increased damage and healing.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101223,
@@ -939,7 +1851,21 @@
       "icon": "inv_ability_masterofharmonymonk_aspectofharmony",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n造成伤害的10%和治疗的30%存储为活力。来自过量治疗储存的活力减少。\n\n施放雷光聚神茶后的10秒内，你的法术和技能会消耗存储的活力，造成40%的额外治疗，持续8秒。\n\n 酒仙\n造成伤害的12%和有效治疗的6%存储为活力。\n\n施放天神酒或天神灌注后的10秒内，你的法术和技能会消耗存储的活力，造成40%的额外伤害，持续8秒。",
+      "descriptionEn": "Mistweaver\nStore vitality from 10% of your damage dealt and 30% of your healing. Vitality stored from overhealing is reduced.\n\nFor 10 sec after casting Thunder Focus Tea your spells and abilities draw upon the stored vitality to deal 40% additional healing over 8 sec.\n\n Brewmaster\nStore vitality from 12% of your damage dealt and 6% of your effective healing.\n\nFor 10 sec after casting Celestial Brew or Celestial Infusion your spells and abilities draw upon the stored vitality to deal 40% additional damage over 8 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101224,
@@ -954,7 +1880,21 @@
       "icon": "ability_monk_explodingjadeblossom",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "酒仙\n和谐化身结束时，释放剩余的活力，在8秒内造成伤害，由周围的目标均摊。\n\n 织雾\n和谐化身结束时，释放剩余的活力，在8秒内造成治疗，由周围的目标均摊。",
+      "descriptionEn": "Brewmaster\nWhen Aspect of Harmony ends, any remaining vitality is expelled as damage over 8 sec, split among nearby targets.\n\n Mistweaver\nWhen Aspect of Harmony ends, any remaining vitality is expelled as healing over 8 sec, split among nearby targets.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101225,
@@ -969,7 +1909,21 @@
       "icon": "inv_drink_25_honeytea",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "酒仙\n天神酒和天神灌注额外拥有1次充能。\n\n 织雾\n雷光聚神茶额外拥有1次充能。",
+      "descriptionEn": "Brewmaster\nCelestial Brew and Celestial Infusion have 1 additional charge.\n\n Mistweaver\nThunder Focus Tea has 1 additional charge.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101226,
@@ -984,7 +1938,21 @@
       "icon": "ability_monk_mightyoxkick",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "酒仙\n幻灭踢和猛虎掌额外产生30%的活力。\n\n 织雾\n旭日东升踢、幻灭踢和猛虎掌额外产生30%的活力。",
+      "descriptionEn": "Brewmaster\nBlackout Kick and Tiger Palm contribute 30% additional vitality.\n\n Mistweaver\nRising Sun Kick, Blackout Kick and Tiger Palm contribute 30% additional vitality.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101227,
@@ -999,7 +1967,21 @@
       "icon": "ability_monk_effuse",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n当和谐化身产生治疗时，有一定几率传播给附近的一个盟友。当你直接治疗一个受影响的目标时，有几率增强效果，抽取更多活力，将效果最多提高20%。\n\n活血术不再产生活力。当和谐化身未激活时，活血术改为汲取现有的活力，额外造成100%的治疗，持续8秒。\n\n其他技能储存的活力提高50%。\n\n 酒仙\n当和谐化身造成伤害时，有一定几率传播给附近的一个敌人。当你直接攻击一个受影响的目标时，有几率增强效果，抽取更多活力，将效果最多提高20%。\n\n醉酿投不再产生活力。当和谐化身未激活时，醉酿投改为汲取现有的活力，额外造成100%的伤害，持续8秒。\n\n其他技能储存的活力提高50%。",
+      "descriptionEn": "Brewmaster\nWhen Aspect of Harmony deals damage, it has a chance to spread to a nearby enemy. When you directly attack an affected target, it has a chance to intensify, withdrawing additional vitality to increase its effect by up to 20%.\n\nKeg Smash no longer contributes vitality. While Aspect of Harmony is not active, Keg Smash instead draws on available vitality to deal an additional 100% damage over 8 sec.\n\nVitality stored by other abilities is increased by 50%.\n\n Mistweaver\nWhen Aspect of Harmony heals, it has a chance to spread to a nearby ally. When you directly heal an affected target, it has a chance to intensify, withdrawing additional vitality to increase its effect by up to 20%.\n\nVivify no longer contributes vitality. While Aspect of Harmony is not active, Vivify instead draws on available vitality to deal an additional 100% healing over 8 sec.\n\nVitality stored by other abilities is increased by 50%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101228,
@@ -1014,7 +1996,21 @@
       "icon": "ability_titankeeper_cleanse",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n施放氤氲之雾会额外储存[(法术强度 * 300 / 100) * (1 + 全能)]点活力。\n\n 酒仙\n施放活血酒会额外储存[(法术强度 * 300 / 100) * (1 + 全能)]点活力。",
+      "descriptionEn": "Mistweaver\nCasting Enveloping Mist stores [(Spell Power * 300 / 100) * (1 + Versatility)] additional vitality.\n\n Brewmaster\nCasting Purifying Brew stores [(Spell Power * 300 / 100) * (1 + Versatility)] additional vitality.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101229,
@@ -1029,7 +2025,21 @@
       "icon": "ability_monk_domeofmist",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n对自己施放时，你的单目标治疗法术的治疗效果提高10%，并且在6秒内额外恢复([150% of Spell Power])点生命值。\n\n 酒仙\n活血酒化解的醉拳伤害提高10%，并使你吸收接下来受到[(攻击强度 * 100 / 100) * (1 + 全能)]点醉拳伤害。",
+      "descriptionEn": "Brewmaster\nPurifying Brew removes 10% additional Stagger and causes you to absorb up to [(Attack Power * 100 / 100) * (1 + Versatility)] incoming Stagger.\n\n Mistweaver\nWhen cast on yourself, your single-target healing spells heal for 10% more and restore an additional (150% of Spell Power) health over 6 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101230,
@@ -1044,7 +2054,21 @@
       "icon": "ability_monk_sphereharmonydiscord",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "施放一个物理法术或技能会使你的下一个火焰或自然法术与技能的伤害和治疗效果提高3%，反之亦然。最多叠加5次。",
+      "descriptionEn": "Casting a Physical spell or ability increases the damage and healing of your next Fire or Nature spell or ability by 3%, and vice versa. Stacks up to 5.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109694,
@@ -1059,7 +2083,43 @@
       "icon": "ability_socererking_forcenova",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n施放雷光聚神茶会使你获得2层潜在能量。你施放的下一次猛虎掌或活血术会消耗所有潜在能量层数，造成和谐涌动。",
+      "descriptionEn": "Mistweaver\nCasting Thunder Focus Tea grants 2 charges of Potential Energy. Your next cast of Tiger Palm or Vivify consumes all charges of Potential Energy to cause a Harmonic Surge.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "和谐涌动",
+          "icon": "",
+          "description": "："
+        },
+        {
+          "name": "和谐涌动",
+          "icon": "ability_socererking_forcenova",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Harmonic Surge",
+          "icon": "",
+          "description": ":"
+        },
+        {
+          "name": "Harmonic Surge",
+          "icon": "ability_socererking_forcenova",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 109695,
@@ -1074,7 +2134,21 @@
       "icon": "spell_magic_managain",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "织雾\n施放旭日东升踢或疾风呼啸踢会使你获得一层潜在能量。\n\n 酒仙\n施放醉酿投会使你获得一层潜在能量。",
+      "descriptionEn": "Brewmaster\nCasting Keg Smash grants a charge of Potential Energy.\n\n Mistweaver\nCasting Rising Sun Kick or Rushing Wind Kick grants a charge of Potential Energy.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109696,
@@ -1089,7 +2163,21 @@
       "icon": "inv_misc_herb_mountainsilversage",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "幻灭连击：\n使猛虎掌的伤害额外提高50%，醉酿投使你的酒类技能冷却时间额外缩短1.0秒。\n\n顺水推舟：\n你的主手普通攻击造成的自然伤害提高100%，并使你的酒类技能冷却时间额外缩短0.25秒。",
+      "descriptionEn": "Blackout Combo:\nIncreases Tiger Palm damage by an additional 50% and Keg Smash reduces the cooldown on your Brews by an additional 1.0 sec.\n\n &nbsp;Press the Advantage:\nNature damage dealt by your main hand auto-attacks is increased by 100% and they now reduce the cooldown on your Brews by an additional 0.25 sec.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109882,
@@ -1104,7 +2192,21 @@
       "icon": "ability_monk_shuffle",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "幻灭踢额外造成5%伤害。幻灭踢爆击时额外获得1层醉拳大师效果。",
+      "descriptionEn": "Blackout Kick deals an additional 5% damage. Blackout Kick critical hits grant an additional 1 stack of Elusive Brawler.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101067,
@@ -1119,7 +2221,21 @@
       "icon": "ability_monk_tigereyebrandy",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "灌下一口强劲的草药酒，凝结散逸至体外的真气，使其化为天神守卫，吸收所受伤害量的30%，最多可吸收0点伤害。",
+      "descriptionEn": "A strong herbal brew that coalesces purified chi escaping your body into a celestial guard, absorbing 30% of incoming damage, up to 0 total.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": "瞬发",
+      "castTimeEn": "Instant",
+      "cooldownCn": "1.5分钟 冷却",
+      "cooldownEn": "1.5 min cooldown",
+      "chargesCn": "1 次充能",
+      "chargesEn": "1 Charge",
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101065,
@@ -1134,7 +2250,21 @@
       "icon": "achievement_faction_brewmaster",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "你每获得3秒的酒醒入定效果，就会化解5%的醉拳伤害。",
+      "descriptionEn": "Purify 5% of your Staggered damage each time you gain 3 sec of Shuffle duration.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 101196,
@@ -1149,7 +2279,21 @@
       "icon": "achievement_faction_shadopan",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "你法术和技能造成的所有火焰或自然伤害的50%会为你恢复生命值。",
+      "descriptionEn": "Heal for 50% of all Fire or Nature damage dealt by your spells and abilities.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 109910,
@@ -1164,7 +2308,21 @@
       "icon": "inv_muskox_white",
       "rank": 1,
       "maxRanks": 1,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "精通提高5%。玄牛下凡激活时，此效果翻倍。",
+      "descriptionEn": "Mastery increased by 5%. Double this effect while Invoke Niuzao, the Black Ox is active.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110435,
@@ -1179,7 +2337,33 @@
       "icon": "inv12_apextalent_monk_bringmeanother",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 2
+      "choiceIndex": 2,
+      "descriptionCn": "当你施放壮胆酒或 [天神灌注 / 天神酒]时，你会敲开一个新桶，为你自己和2名附近的盟友提供一杯提神饮料，并留下一个空酒桶。\n\n空酒桶造成的伤害提高100%。",
+      "descriptionEn": "When you cast Fortifying Brew or [Celestial Infusion / Celestial Brew] you tap a fresh keg, granting yourself and 2 nearby allies a refreshing drink, and leaving you with an Empty Barrel.\n\nEmpty Barrels deal 100% increased damage.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [
+        {
+          "name": "提神饮料",
+          "icon": "",
+          "description": "："
+        }
+      ],
+      "subSpellsEn": [
+        {
+          "name": "Refreshing Drink",
+          "icon": "",
+          "description": ":"
+        }
+      ]
     },
     {
       "nodeId": 110435,
@@ -1194,7 +2378,21 @@
       "icon": "inv12_apextalent_monk_bringmeanother",
       "rank": 2,
       "maxRanks": 4,
-      "choiceIndex": 1
+      "choiceIndex": 1,
+      "descriptionCn": "获得一个空酒桶会重置醉酿投的冷却时间，并使其下次施放消耗的能量降低0%。\n\n造成的物理伤害提高10%。",
+      "descriptionEn": "Gaining an Empty Barrel resets the cooldown of Keg Smash and makes its next cast cost 0% less energy. \n\nPhysical damage dealt increased by 10%.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     },
     {
       "nodeId": 110435,
@@ -1209,7 +2407,21 @@
       "icon": "inv12_apextalent_monk_bringmeanother",
       "rank": 1,
       "maxRanks": 4,
-      "choiceIndex": 0
+      "choiceIndex": 0,
+      "descriptionCn": "使用酒类技能时，有20%的几率留下一个空酒桶，你的下一次醉酿投会投掷空桶，对目标造成([300% of Attack Power])点物理伤害。最多以80%的效果弹射4次。",
+      "descriptionEn": "Drinking a Brew has a 20% chance to leave you with an Empty Barrel, which is tossed along with your next Keg Smash to deal (300% of Attack Power) Physical damage to your target. Ricochets up to 4 times at 80% effectiveness.",
+      "costCn": null,
+      "costEn": null,
+      "rangeCn": null,
+      "rangeEn": null,
+      "castTimeCn": null,
+      "castTimeEn": null,
+      "cooldownCn": null,
+      "cooldownEn": null,
+      "chargesCn": null,
+      "chargesEn": null,
+      "subSpellsCn": [],
+      "subSpellsEn": []
     }
   ]
 }
