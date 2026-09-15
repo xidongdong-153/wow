@@ -13,6 +13,7 @@
 - `rankings/{mythic-plus|raid}/`：每日职业强度排行榜，按日期 `YYYY-MM-DD.md` 独立归档，记录专精梯队与版本生态。
 - `news/YYYY-MM/`：每日资讯与社区热点，按月份分目录、按日期 `YYYY-MM-DD.md` 独立归档。
 - `patches/{version}/`：暴雪补丁、在线热修日志与职业平衡深度量化分析，按大版本号分目录。
+- `assets/`：魔兽世界全量静态资源与图标库。包含八大实体分类子目录（`classes/`、`specs/`、`roles/`、`spells/`、`talents/`、`items/`、`avatars/`、`ui/`）与三向索引清单（`manifests/icons.json`），为 Web 与 App 提供离线 WebP 资产。
 - `automation/`：AI Agent 自动化采集工具库。
   - `sources.md`：全生态网站直达路由速查表（供 Agent 快速拼接 URL，杜绝从首页逐级点击浪费 Token）。
   - `runbook-wcl-fetch.md`：操作 `ego-browser` 抓取 WCL / Archon 的 SOP 运行指南。
@@ -37,6 +38,10 @@
 - **同步全量官方天赋简中权威译名**：
   ```bash
   node automation/scripts/sync-spell-translations.mjs
+  ```
+- **同步全量魔兽官方静态图标库**：
+  ```bash
+  node automation/scripts/sync-icons.mjs
   ```
 - **版本与蓝贴时效状态自检**：
   ```bash

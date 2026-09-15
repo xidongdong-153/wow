@@ -19,11 +19,15 @@
 - `rankings/`：每日职业强度排行榜（大秘境与团本分榜，包含分级、样本量与关键改动影响）。
 - `news/`：每日官方资讯、社区热点与活动速报（按月归档）。
 - `patches/`：暴雪补丁日志、职业平衡调整与加强削弱深度量化分析。
+- `assets/`：全量静态资源与魔兽世界图标库（含全职业、专精、职责、全量法术与天赋节点 WebP 图标及三向索引清单）。
 - `automation/`：AI Agent 自动化操作手册（Runbook）、资讯数据源速查表（Sources）与采集脚本。
 
 ## 快速导航
 
 - 资讯与数据源直达表（Agent 省 Token 速查）：`automation/sources.md`
+- 静态资源与图标索引指南：`assets/README.md`
+- 图标三向索引字典（JSON）：`assets/manifests/icons.json`
+- 全量图标离线同步脚本：`automation/scripts/sync-icons.mjs`
 - Agent 抓取操作手册（SOP）：`automation/runbook-wcl-fetch.md`
 - 国服官方术语检索与赛季核验 SOP：`automation/runbook-localization.md`
 - 全职业 13 职业 39 专精天梯天赋总览：`classes/README.md`
